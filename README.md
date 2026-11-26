@@ -58,7 +58,7 @@ Vše je v souboru **`nastaveni.toml`** (upravíte přímo na GitHubu tužkou ✏
   (číslo na začátku spisové značky). Omezení se posílá přímo do vyhledávání NS, takže rozhodnutí
   ostatních senátů se vůbec nestahují. Prázdný seznam `[]` = všechny senáty.
 - `[nejvyssi_soud] vyloucit.oblasti` – oblasti, které vás nezajímají, i když je řeší vámi zvolené
-  senáty. Výchozí `["pracovni", "dedicke", "restituce"]`. Pozná se z předmětu řízení v záhlaví
+  senáty. Výchozí `["pracovni", "dedicke", "restituce"]`, dále lze přidat `"rodinne"` a `"sjm"`. Pozná se z předmětu řízení v záhlaví
   rozhodnutí a z metadat NS (heslo, dotčené předpisy), ještě **před** odesláním Claudovi – nic to nestojí.
   Seznam vyřazených rozhodnutí je na konci každého přehledu, abyste mohl filtr zkontrolovat.
   Další výrazy lze doplnit do `vyloucit.vlastni_vzory`.

@@ -395,3 +395,57 @@ def test_us_jen_nalezy_a_vyrazene_v_prehledu(izolovane, monkeypatch):
     assert stav[f"NS:{UNID1}"]["stav"] == "ok"
     prehled = next((tmp / "prehledy").rglob("2*.md")).read_text()
     assert "Vyřazeno filtrem oblastí (1)" in prehled and "33 Cdo 2092/2026" in prehled
+
+
+@pytest.mark.parametrize("nazev, klic", [
+    ("rodinne veci", "rodinne"), ("Rodinné právo", "rodinne"), ("pracovněprávní spory", "pracovni"),
+    ("dědictví", "dedicke"), ("restituce", "restituce"), ("SJM", "sjm"), ("pracovni", "pracovni"),
+])
+def test_aliasy_oblasti(nazev, klic):
+    assert filtry.normalizuj_oblast(nazev) == klic
+
+
+@pytest.mark.parametrize("zahlavi, ocekavano", [
+    ("ve věci péče o nezletilou A. B. a výživného", "rodinné právo"),
+    ("ve věci žalobkyně o rozvod manželství", "rodinné právo"),
+    ("ve věci žalobce o popření otcovství", "rodinné právo"),
+    ("ve věci žalobkyně o vypořádání společného jmění manželů", "společné jmění manželů"),
+])
+def test_filtr_rodinne(zahlavi, ocekavano):
+    assert filtry.vyrazujici_oblast(_r(zahlavi), ["rodinne veci", "sjm"]) == ocekavano
+
+
+def test_rodinne_nevyradi_obecny_spor():
+    assert filtry.vyrazujici_oblast(_r("ve věci žalobce o zaplacení kupní ceny 80 000 Kč"), ["rodinne"]) is None
+
+
+def test_popis_chyby_davky():
+    from judikaty.davky import popis_chyby
+    r = NS_(type="errored", error=NS_(type="error", error=NS_(type="invalid_request_error",
+                                                              message="Your credit balance is too low")))
+    assert popis_chyby(r) == "invalid_request_error: Your credit balance is too low"
+    assert popis_chyby(NS_(type="expired", error=None)) == "dávka nedoběhla do 24 hodin"
+
+
+VASE = ["pracovni", "dedicke", "restituce", "rodinne veci", "soudni uschovy", "nekala soutez",
+        "arbitraze", "dusevni vlastnictvi"]
+
+
+@pytest.mark.parametrize("zahlavi, ocekavano", [
+    ("ve věci navrhovatele o vydání předmětu soudní úschovy", "soudní úschovy"),
+    ("ve věci žalobce o zdržení se jednání nekalé soutěže", "nekalá soutěž"),
+    ("ve věci žalobkyně o zrušení rozhodčího nálezu", "rozhodčí řízení"),
+    ("ve věci žalobce o ochranu práva k ochranné známce", "duševní vlastnictví"),
+    ("ve věci žalobce o zaplacení autorské odměny", "duševní vlastnictví"),
+])
+def test_vase_nove_oblasti(zahlavi, ocekavano):
+    assert filtry.vyrazujici_oblast(_r(zahlavi), VASE) == ocekavano
+
+
+@pytest.mark.parametrize("zahlavi", [
+    "ve věci žalobce proti žalované o zaplacení 300 000 Kč z kupní smlouvy",
+    "ve věci žalobkyně o určení neplatnosti smlouvy o převodu obchodního podílu",
+    "ve věci žalobce o náhradu škody způsobené jednatelem společnosti",
+])
+def test_vase_oblasti_nevyradi_obchodni_spory(zahlavi):
+    assert filtry.vyrazujici_oblast(_r(zahlavi), VASE) is None

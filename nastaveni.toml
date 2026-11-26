@@ -37,8 +37,18 @@ senaty = [21, 22, 23, 24, 26, 27, 28, 29]
 # Rozhodnutí z těchto oblastí se vyřadí (bez ohledu na senát) ještě před AI rozborem, takže nic nestojí.
 # Pozná se podle metadat NS (heslo, dotčené předpisy) a záhlaví rozhodnutí (předmět řízení).
 # Seznam vyřazených je na konci každého týdenního přehledu, abyste mohl filtr zkontrolovat.
-# Možnosti: "pracovni", "dedicke", "restituce". Prázdný seznam [] = nic nevyřazovat.
-vyloucit.oblasti = ["pracovni", "dedicke", "restituce", "rodinne veci", "soudni uschovy", "nekala soutez", "arbitraze", "dusevni vlastnictvi"]
+# Možnosti:
+#   "pracovni"            pracovní právo (výpovědi, mzdy, pracovní úrazy, zákoník práce)
+#   "dedicke"             dědické právo (pozůstalost, závěť, povinný díl)
+#   "restituce"           restituce a rehabilitace (zák. 229/1991, 87/1991, 428/2012 …)
+#   "rodinne"             rodinné právo (rozvod, výživné, péče o děti, otcovství, osvojení)
+#   "sjm"                 společné jmění manželů
+#   "soudni_uschovy"      soudní úschovy
+#   "nekala_soutez"       nekalá soutěž (§ 2976 a násl. o. z., klamavá reklama, záměna)
+#   "arbitraze"           rozhodčí řízení (rozhodčí nálezy a doložky, zák. 216/1994)
+#   "dusevni_vlastnictvi" duševní vlastnictví (autorské právo, ochranné známky, patenty, vzory)
+# Lze psát i volněji („rodinné věci“, „dědictví“). Prázdný seznam [] = nic nevyřazovat.
+vyloucit.oblasti = ["pracovni", "dedicke", "restituce", "rodinne", "soudni_uschovy", "nekala_soutez", "arbitraze", "dusevni_vlastnictvi"]
 # Vlastní vyřazovací výrazy (regulární výrazy, hledají se v záhlaví a metadatech), např. ["insolvenční"]
 vyloucit.vlastni_vzory = []
 

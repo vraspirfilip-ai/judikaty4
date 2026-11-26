@@ -70,6 +70,8 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
              if not (v.get("stav") in OPAKOVAT and v.get("pokusy", 0) < MAX_POKUSU)}
 
     if soud == "NS":
+        # chybu v nastavení oblastí ohlásit hned, ne až u prvního rozhodnutí
+        filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
         kandidati = ns.seznam_novych(cfg, zname, limit)
     else:
         kandidati = us.seznam_novych(cfg, zname, limit)
@@ -268,6 +270,12 @@ def main(argv: list[str] | None = None) -> int:
         cena = "poloviční (Batch API)" if davkove else "plná"
         souhrn.append(f"- Tokeny: vstup {u['input_tokens']:,}, výstup {u['output_tokens']:,}".replace(",", " ")
                       + f" – cena {cena}")
+    if not args.jen_vystupy:
+        chyby = [(k, v) for k, v in nacti_stav()["zname"].items()
+                 if v.get("stav") == "chyba" and v.get("datum") == date.today().isoformat()]
+        if chyby:
+            souhrn += ["", "### Chyby v tomto běhu", ""]
+            souhrn += [f"- {v.get('spzn') or k}: {v.get('chyba', '')}" for k, v in chyby[:10]]
     if prehled:
         souhrn += ["", prehled.read_text(encoding="utf-8")]
     if gh := os.environ.get("GITHUB_STEP_SUMMARY"):

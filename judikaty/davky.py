@@ -31,6 +31,19 @@ def custom_id(rid: str) -> str:
     return re.sub(r"[^A-Za-z0-9_-]", "_", rid)[:64]
 
 
+def popis_chyby(result) -> str:
+    """Vytáhne čitelnou zprávu z výsledku dávky typu errored/expired/canceled."""
+    err = getattr(result, "error", None)
+    vnitrni = getattr(err, "error", None) or err
+    zprava = getattr(vnitrni, "message", None)
+    druh = getattr(vnitrni, "type", None)
+    if zprava or druh:
+        return f"{druh or ''}: {zprava or ''}".strip(": ")
+    if getattr(result, "type", "") == "expired":
+        return "dávka nedoběhla do 24 hodin"
+    return str(err) if err else "bez podrobností"
+
+
 class Davka:
     def __init__(self, analyzator, stav: dict):
         self.a = analyzator
@@ -83,7 +96,7 @@ def vyzvedni(analyzator, stav: dict, oznac, uloz_stav, max_pokusu: int) -> tuple
             typ = vysledek.result.type
             try:
                 if typ != "succeeded":
-                    raise RuntimeError(f"výsledek dávky: {typ}")
+                    raise RuntimeError(f"výsledek dávky: {typ} – {popis_chyby(vysledek.result)}")
                 zprava = vysledek.result.message
                 analyzator.zapocti(zprava)
                 zaznam["rozbor"] = vytahni_rozbor(zprava)
@@ -96,7 +109,8 @@ def vyzvedni(analyzator, stav: dict, oznac, uloz_stav, max_pokusu: int) -> tuple
                 chyb += 1
                 pokusy = stav["zname"].get(rid, {}).get("pokusy", 0) + 1
                 log.warning("Rozbor %s selhal (%s/%s): %s", zaznam.get("spisova_znacka"), pokusy, max_pokusu, e)
-                oznac(stav, rid, "chyba", pokusy=pokusy, chyba=str(e)[:300])
+                oznac(stav, rid, "chyba", pokusy=pokusy, chyba=str(e)[:300],
+                      spzn=zaznam.get("spisova_znacka", ""))
             soubor.unlink(missing_ok=True)
 
         # co v dávce chybělo (nemělo by nastat), vrátíme k opakování
