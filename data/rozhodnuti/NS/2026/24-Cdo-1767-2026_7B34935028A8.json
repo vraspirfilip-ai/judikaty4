@@ -1,0 +1,66 @@
+{
+  "id": "NS:7B34935028A8565EC1258EB90052BFBB",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B34935028A8565EC1258EB90052BFBB?openDocument",
+  "spisova_znacka": "24 Cdo 1767/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.1767.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-21",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Vklad do katastru nemovitostí",
+    "dotcene_predpisy": "§ 17 odst. 1 písm. b) předpisu č. 256/2013 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 34157,
+  "rozbor": {
+    "shrnuti": "Žalobci se domáhali nahrazení rozhodnutí katastrálního úřadu a povolení vkladu vlastnického práva na základě kupní smlouvy, v níž byla kupní cena stanovena odkazem na samostatnou dohodu o ceně. Tu katastrálnímu úřadu předložili až po podání návrhu na vklad, a jen částečně. Nejvyšší soud dospěl k závěru, že kupní smlouva s „utajenou“ cenou určenou v samostatné listině nepředložené spolu s návrhem není způsobilou vkladovou listinou. Výjimka podle § 2085 odst. 2 o. z. se neuplatní, protože strany nemínily uzavřít smlouvu bez určení ceny. K dodatečně předložené listině obsahující podstatnou náležitost smlouvy se podle něj per analogiem § 15 odst. 2 katastrálního zákona nepřihlíží, protože právní účinky vkladu nastávají ke dni podání návrhu. Dovolání proto zamítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je kupní smlouva o převodu nemovitosti způsobilou vkladovou listinou, jestliže kupní cena (způsob jejího určení) není uvedena v jejím textu, ale je ujednána v samostatné listině, která nebyla katastrálnímu úřadu předložena, a strany přitom nemínily uzavřít smlouvu bez určení ceny?",
+        "odpoved": "Ne, taková smlouva neobsahuje podstatnou náležitost (určení ceny nebo způsobu jejího určení) a výjimka podle § 2085 odst. 2 o. z. se neuplatní; obsah listiny proto neodůvodňuje vklad podle § 17 odst. 1 písm. b) katastrálního zákona."
+      },
+      {
+        "otazka": "Přihlíží se v katastrálním řízení a v řízení podle části páté o. s. ř. k samostatné listině obsahující podstatnou náležitost vkladové listiny (kupní cenu), která byla katastrálnímu úřadu předložena až po podání návrhu na vklad?",
+        "odpoved": "Ne, k takové dodatečně předložené listině se per analogiem § 15 odst. 2 katastrálního zákona nepřihlíží, neboť účinky vkladu nastávají ke dni podání návrhu (§ 10) a skutečnosti se zkoumají podle stavu k tomuto okamžiku (§ 17 odst. 5)."
+      },
+      {
+        "otazka": "V jakém rozsahu zkoumá katastrální úřad a soud v řízení podle části páté o. s. ř. obsah soukromé vkladové listiny, zejm. zda ověřuje obligatorní náležitosti daného typu smlouvy včetně určitosti kupní ceny?",
+        "odpoved": "Zkoumají jen některé atributy platnosti (formu, určitost a srozumitelnost, smluvní volnost, oprávnění nakládat) a naplnění obligatorních náležitostí typu smlouvy podle § 17 odst. 1 písm. a) až g) katastrálního zákona, k nimž u kupní smlouvy zpravidla patří i určení kupní ceny."
+      }
+    ],
+    "pravni_vety": [
+      "Kupní smlouva obsahující ujednání o „utajené“ kupní ceně, která má být stanovena na samostatné listině nepředložené katastrálnímu úřadu, není způsobilou vkladovou listinou.",
+      "K listině obsahující některou z podstatných náležitostí (essentialia negotii) vkladové listiny, která byla katastrálnímu úřadu předložena dodatečně po podání návrhu na vklad, se per analogiem § 15 odst. 2 katastrálního zákona v katastrálním řízení ani v řízení podle části páté o. s. ř. nepřihlíží.",
+      "Ustanovení § 2085 odst. 2 o. z. je výjimkou z pravidla, že sjednání kupní ceny je podstatnou náležitostí kupní smlouvy, a uplatní se jen tehdy, mají-li strany vůli uzavřít kupní smlouvu bez určení kupní ceny."
+    ],
+    "vysledek": "dovolání žalobců zamítnuto; žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 17 odst. 1 písm. b) katastrálního zákona",
+      "§ 15 odst. 2 katastrálního zákona",
+      "§ 17 odst. 5 katastrálního zákona",
+      "§ 10 katastrálního zákona",
+      "§ 2079 o. z.",
+      "§ 2080 o. z.",
+      "§ 2085 odst. 2 o. z.",
+      "§ 250b o. s. ř.",
+      "§ 243d písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "vkladové řízení",
+      "katastr nemovitostí",
+      "kupní cena",
+      "vkladová listina",
+      "essentialia negotii",
+      "utajená kupní cena",
+      "řízení podle části páté o. s. ř."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud nevyřešené otázky způsobilosti kupní smlouvy s cenou určenou v samostatné listině jako vkladové listiny a dodatečného předložení listiny s podstatnou náležitostí smlouvy, avšak bez sjednocení judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

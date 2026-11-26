@@ -1,0 +1,58 @@
+{
+  "id": "NS:4EAC77148BA75679C1258E2E004D1A07",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4EAC77148BA75679C1258E2E004D1A07?openDocument",
+  "spisova_znacka": "23 Cdo 955/2026",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.955.2026.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-06-24",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Poplatky soudní",
+    "dotcene_predpisy": "§ 4 odst. 1 písm. b) předpisu č. 549/1991 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 23982,
+  "rozbor": {
+    "shrnuti": "Soud prvního stupně po nepřiznání osvobození od soudního poplatku opětovně vyzval odvolatele k zaplacení poplatku za odvolání v „nové lhůtě“ 5 dnů bez odůvodnění zkrácení a před jejím uplynutím, resp. před uplynutím 15 dnů, odvolací řízení zastavil. Odvolací soud toto zastavení potvrdil. Nejvyšší soud řešil, zda se minimální 15denní lhůta a povinnost odůvodnit její zkrácení uplatní i u opakované výzvy po nepřiznání osvobození. Dospěl k závěru, že ano, protože s marným uplynutím nové lhůty jsou spojeny stejné přísné následky jako u první výzvy podle § 9 odst. 1 zákona o soudních poplatcích. Neodůvodněné zkrácení lhůty proto nemůže založit zastavení řízení, a Nejvyšší soud obě rozhodnutí zrušil a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Musí být zachována minimální 15denní lhůta, resp. odůvodněno její výjimečné zkrácení, i při opakované výzvě k zaplacení soudního poplatku za odvolání, kterou soud učiní poté, co nebylo vyhověno včasné žádosti poplatníka o osvobození od soudních poplatků?",
+        "odpoved": "Ano, i „nová lhůta“ musí mít alespoň 15 dnů a její zkrácení musí být odůvodněno ve výzvě; jinak nezaplacení poplatku v kratší lhůtě nemůže být důvodem zastavení řízení podle § 9 odst. 1 (2) zákona o soudních poplatcích, neboť marné uplynutí nové lhůty má stejné přísné následky jako u první výzvy."
+      },
+      {
+        "otazka": "Může být důvodem výjimečného zkrácení lhůty k zaplacení soudního poplatku skutečnost, že jde o opakovanou výzvu po nepřiznání osvobození od soudních poplatků, a jak krátká lhůta smí být?",
+        "odpoved": "Ano, tato skutečnost může být důvodem zkrácení, pokud je uvedena ve výzvě; lhůta však musí být přiměřená, tedy poskytnout poplatníku reálný časový prostor k úhradě s ohledem na okolnosti věci."
+      }
+    ],
+    "pravni_vety": [
+      "Při stanovení „nové lhůty“ k zaplacení soudního poplatku kratší než minimální 15denní lhůta po nepřiznání osvobození od soudních poplatků na základě včasné žádosti je nezaplacení poplatku v takto určené lhůtě důvodem pro zastavení řízení podle § 9 odst. 1 (odst. 2) zákona o soudních poplatcích jen tehdy, byly-li naplněny důvody výjimečného zkrácení, jimiž bylo zkrácení lhůty při jejím stanovení odůvodněno.",
+      "I při opakované výzvě k zaplacení soudního poplatku po nepřiznání osvobození od soudních poplatků může být důvodem výjimečného zkrácení lhůty okolnost, že poplatník již byl na povinnost a její výši upozorněn; lhůta musí být i tak přiměřená a poskytnout reálný čas k úhradě."
+    ],
+    "vysledek": "Usnesení odvolacího soudu i soudu prvního stupně o zastavení odvolacího řízení zrušena a věc vrácena soudu prvního stupně k dalšímu řízení.",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 4 odst. 1 písm. b) zákona o soudních poplatcích",
+      "§ 7 odst. 1 zákona o soudních poplatcích",
+      "§ 9 odst. 1 zákona o soudních poplatcích",
+      "§ 9 odst. 2 zákona o soudních poplatcích",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "soudní poplatek",
+      "zastavení řízení",
+      "lhůta k zaplacení poplatku",
+      "zkrácení lhůty",
+      "osvobození od soudních poplatků",
+      "opakovaná výzva",
+      "odvolání"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil otázku nutnosti zachování 15denní lhůty a odůvodnění jejího zkrácení při opakované výzvě po nepřiznání osvobození od soudních poplatků a rozvinul tak dosavadní judikaturu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

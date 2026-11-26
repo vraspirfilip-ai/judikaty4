@@ -1,0 +1,62 @@
+{
+  "id": "NS:F12EA468DBEFCE31C1258E48004D259F",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F12EA468DBEFCE31C1258E48004D259F?openDocument",
+  "spisova_znacka": "24 Cdo 780/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.780.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-23",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]",
+    "dotcene_predpisy": "§ 59 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 45371,
+  "rozbor": {
+    "shrnuti": "Posuzovaný byl původně omezen ve svéprávnosti na tři roky (nemohl vykonávat advokacii) a soud zahájil řízení o prodloužení doby omezení. Jednoletá lhůta podle § 59 odst. 2 o. z. uplynula za odvolacího řízení, aniž bylo pravomocně rozhodnuto, takže posuzovaný ex lege nabyl plné svéprávnosti. Odvolací soud přesto změnil rozsudek tak, že posuzovaného znovu omezil na pět let. Nejvyšší soud uvedl, že odvolací soud nemůže v řízení zahájeném jako řízení o prodloužení změnit jeho předmět na řízení o omezení svéprávnosti (§ 216 odst. 2 o. s. ř.) ani rozhodnout o novém omezení bez usnesení o zahájení řízení. Odpadl důvod řízení, proto měl odvolací soud řízení zastavit a rozsudek soudu prvního stupně zrušit. Nejvyšší soud sám změnil rozhodnutí, zrušil rozsudek soudu prvního stupně a řízení o prodloužení i o opatrovnictví zastavil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může odvolací soud v řízení o prodloužení doby omezení svéprávnosti zahájeném usnesením soudu a pokračujícím po uplynutí jednoleté lhůty dle § 59 odst. 2 o. z., kdy posuzovaný ex lege nabyl plné svéprávnosti, rozhodnout o novém omezení svéprávnosti, nebo musí řízení zastavit?",
+        "odpoved": "Nemůže; změna předmětu řízení z prodloužení na omezení svéprávnosti je v odvolacím řízení vyloučena (§ 216 odst. 2 o. s. ř.) a nové omezení vyžaduje samostatné zahájení řízení usnesením soudu prvního stupně. Odpadl důvod řízení, proto odvolací soud musí řízení zastavit a rozsudek soudu prvního stupně zrušit (§ 16 z. ř. s., § 211 o. s. ř., § 222a odst. 1 o. s. ř. per analogiam)."
+      },
+      {
+        "otazka": "Lze v řízení o prodloužení doby omezení svéprávnosti rozhodnout o omezení svéprávnosti jako o novém předmětu řízení bez usnesení o zahájení řízení o omezení svéprávnosti?",
+        "odpoved": "Soud v řízení o prodloužení není zcela vyloučen rozhodnout o omezení svéprávnosti, ale jen poté, co takové řízení vlastním usnesením zahájí (§ 13 odst. 2 z. ř. s.), a předmět řízení musí být stanoven před meritorním rozhodnutím. Postup je zcela vyloučen v odvolacím řízení, neboť by byl dotčen v právu na soudní ochranu (čl. 36 Listiny)."
+      }
+    ],
+    "pravni_vety": [
+      "Uplyne-li v průběhu odvolacího řízení o prodloužení doby omezení svéprávnosti jednoletá lhůta podle § 59 odst. 2 o. z., aniž bylo pravomocně rozhodnuto o prodloužení, nabývá posuzovaný ex lege plné svéprávnosti, odpadá důvod řízení a odvolací soud řízení zastaví za současného zrušení rozsudku soudu prvního stupně.",
+      "Odvolací soud v řízení o prodloužení doby omezení svéprávnosti zahájeném usnesením soudu nemůže změnit jeho předmět na řízení o omezení svéprávnosti a v něm rozhodnout; nové omezení svéprávnosti lze řešit jen v novém řízení zahájeném soudem prvního stupně."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu změněn: rozsudek soudu prvního stupně ve výroku o prodloužení omezení svéprávnosti i ve výroku o nejmenování opatrovníka zrušen a řízení zastaveno; žádný nemá právo na náhradu nákladů.",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 59 odst. 2 o. z.",
+      "§ 55 o. z.",
+      "§ 16 z. ř. s.",
+      "§ 13 z. ř. s.",
+      "§ 26 z. ř. s.",
+      "§ 216 odst. 2 o. s. ř.",
+      "§ 211 o. s. ř.",
+      "§ 222a odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. b) o. s. ř.",
+      "čl. 36 Listiny"
+    ],
+    "klicova_slova": [
+      "omezení svéprávnosti",
+      "prodloužení doby omezení",
+      "§ 59 odst. 2 o. z.",
+      "zastavení řízení",
+      "změna předmětu řízení",
+      "odvolací řízení",
+      "advokacie"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí kategorie A řeší dosud nevyřešenou otázku procesních důsledků uplynutí jednoleté lhůty dle § 59 odst. 2 o. z. v odvolacím řízení o prodloužení omezení svéprávnosti a rozvíjí rozsudek publikovaný pod č. 87/2024 Sb. rozh. obč.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

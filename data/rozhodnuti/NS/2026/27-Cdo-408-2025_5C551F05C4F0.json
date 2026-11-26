@@ -1,0 +1,56 @@
+{
+  "id": "NS:5C551F05C4F0C823C1258E3D004D2608",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C551F05C4F0C823C1258E3D004D2608?openDocument",
+  "spisova_znacka": "27 Cdo 408/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.408.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-06-29",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Poplatky soudní",
+    "dotcene_predpisy": "§ 6a odst. 5 předpisu č. 549/1991 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 17249,
+  "rozbor": {
+    "shrnuti": "Odvolací soud zastavil řízení o druhém odvolání žalobkyně pro nezaplacení soudního poplatku. Žalobkyně namítala, že podle § 6a odst. 5 zákona o soudních poplatcích nemusí poplatek platit, protože poplatek za první odvolání jí byl uložen až rozhodnutím ve věci samé a dosud ho neuhradila. Nejvyšší soud dovolání zamítl. Ustanovení § 6a odst. 5 vyjadřuje zásadu, že poplatek za opravný prostředek se platí jen jednou, a předpokládá, že poplatník poplatek za dřívější opravný prostředek již zaplatil. Pouhé uložení povinnosti k zaplacení podle § 9 odst. 6, která dosud nebyla splněna, k jeho použití nestačí. Soud prvního stupně navíc nebyl vázán usnesením o zrušení výzvy, protože jde o usnesení upravující vedení řízení (§ 170 odst. 2 o. s. ř.).",
+    "klicove_otazky": [
+      {
+        "otazka": "Použije se § 6a odst. 5 zákona o soudních poplatcích, podle něhož poplatník, který již jednou poplatek zaplatil, neplatí poplatek při opakovaném opravném prostředku, jestliže mu byla povinnost zaplatit poplatek za první opravný prostředek uložena podle § 9 odst. 6 rozhodnutím končícím řízení, ale dosud ji nesplnil?",
+        "odpoved": "Ne, § 6a odst. 5 se nepoužije, protože předpokládá, že poplatník poplatek za dřívější opravný prostředek skutečně zaplatil. Jeho smyslem je zabránit placení poplatku vícekrát za týž opravný prostředek, což není případ nesplněné povinnosti."
+      },
+      {
+        "otazka": "Je soud vázán usnesením, kterým předseda senátu změnil usnesení asistenta soudce vyzývající k zaplacení soudního poplatku tak, že se toto usnesení nevydává?",
+        "odpoved": "Ne, výzva k zaplacení poplatku a rozhodnutí o jejím zrušení jsou usnesení, kterými se upravuje vedení řízení, a soud jimi podle § 170 odst. 2 o. s. ř. vázán není. Otázka poplatkové povinnosti se znovu posuzuje v usnesení o zastavení řízení podle § 9 odst. 7 zákona o soudních poplatcích."
+      }
+    ],
+    "pravni_vety": [
+      "Ustanovení § 6a odst. 5 zákona o soudních poplatcích se nepoužije, byla-li účastníku v souvislosti s podáním prvního opravného prostředku proti rozhodnutí o věci samé podle § 9 odst. 6 zákona o soudních poplatcích uložena povinnost zaplatit soudní poplatek, ale tato povinnost dosud nebyla splněna."
+    ],
+    "vysledek": "dovolání zamítnuto; žalobkyně je povinna nahradit žalovaným náklady dovolacího řízení",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 6a odst. 5 zákona o soudních poplatcích",
+      "§ 9 odst. 1, 6, 7 zákona o soudních poplatcích",
+      "§ 170 odst. 2 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "soudní poplatek",
+      "odvolání",
+      "zastavení řízení",
+      "§ 6a odst. 5 zákona o soudních poplatcích",
+      "opakovaný opravný prostředek",
+      "vázanost soudu usnesením",
+      "výzva k zaplacení poplatku"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí poprvé řeší výklad § 6a odst. 5 zákona o soudních poplatcích v situaci, kdy poplatek za první odvolání byl uložen, ale nezaplacen, a vychází z doslovného i teleologického výkladu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

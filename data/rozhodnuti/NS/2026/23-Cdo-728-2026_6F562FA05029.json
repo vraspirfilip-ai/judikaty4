@@ -1,0 +1,60 @@
+{
+  "id": "NS:6F562FA050293E4CC1258EAA0052B187",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F562FA050293E4CC1258EAA0052B187?openDocument",
+  "spisova_znacka": "23 Cdo 728/2026",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.728.2026.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Odstoupení od smlouvy",
+    "dotcene_predpisy": "§ 1922 odst. 1 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 29342,
+  "rozbor": {
+    "shrnuti": "Kupující (nabyvatel) po dodání a montáži dvou vadných čerpadel vytkl vady a zároveň odstoupil od smlouvy s požadavkem na vrácení peněz, ale čerpadla pak dopravci k odvozu nepředal. Odvolací soud žalobu zamítl, protože nabyvatel porušil povinnost podle § 1922 odst. 1 o. z. umožnit přezkoumání vady, a proto podle něj nemohly nastat účinky odstoupení. Nejvyšší soud dospěl k opačnému závěru: povinnost podle § 1922 odst. 1 o. z. je povinností následnou a není podmínkou účinnosti odstoupení, které nastává doručením projevu druhé straně (§ 570 odst. 1 o. z.). Porušením této povinnosti se nabyvatel dostává do prodlení jako věřitel, což má dopad na odpovědnost zcizitele za jeho prodlení a na důkazní pozici nabyvatele, nikoli na účinky odstoupení. Rozsudek odvolacího soudu proto zrušil a věc vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Brání nesplnění povinnosti nabyvatele podle § 1922 odst. 1 o. z. (předat věc zciziteli nebo s ní naložit podle jeho pokynů, aby mohla být přezkoumána vada) účinkům odstoupení od smlouvy, které nabyvatel učinil pro podstatnou vadu současně s jejím vytknutím?",
+        "odpoved": "Ne; povinnost podle § 1922 odst. 1 o. z. je následná a není podmínkou účinnosti odstoupení, které nastává doručením zciziteli (§ 570 odst. 1 o. z.) a předpokládá jen existenci kvalifikované vady a její řádné vytknutí. Nesplněním povinnosti se nabyvatel dostává do prodlení jako věřitel, což má význam jen pro odpovědnost zcizitele za prodlení (§ 1968 věta druhá o. z.), pro důkazní pozici nabyvatele a pro riziko škody či nákladů."
+      },
+      {
+        "otazka": "Liší se důsledky nesplnění povinnosti podle § 1922 odst. 1 o. z. podle toho, zda právo odstoupit závisí na předchozím prodlení zcizitele s odstraněním vady, nebo vzniká přímo z existence kvalifikované vady?",
+        "odpoved": "Ano; pokud nabyvatel nejprve uplatnil právo na odstranění vady, ale věc nevydal a pak odstoupil pro neodstranění vady včas, je v prodlení on a zcizitel se do prodlení nedostal. U odstoupení přímo z existence kvalifikované vady na prodlení zcizitele nezáleží, a prodlení nabyvatele proto účinnost odstoupení neovlivní."
+      }
+    ],
+    "pravni_vety": [
+      "Odstoupí-li nabyvatel od smlouvy pro takovou vadu předmětu plnění, pro kterou byl oprávněn od smlouvy bez dalšího odstoupit, a vadu zciziteli řádně vytkl, nabývá odstoupení účinků okamžikem, kdy dojde zciziteli; předpokladem jeho účinnosti je toliko existence takové vady a její řádné vytknutí, nikoliv následné splnění povinnosti nabyvatele podle § 1922 odst. 1 o. z.",
+      "Nesplní-li nabyvatel po odstoupení od smlouvy povinnost podle § 1922 odst. 1 o. z., dostává se do prodlení jako věřitel, což má význam pro odpovědnost zcizitele za jeho prodlení s povinnostmi na tuto součinnost navázanými (§ 1968 věta druhá o. z.), nezpůsobuje však neúčinnost ani suspendaci účinků platně nastalého odstoupení od smlouvy."
+    ],
+    "vysledek": "dovolání důvodné; rozsudek odvolacího soudu zrušen a věc mu vrácena k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 1922 odst. 1 o. z.",
+      "§ 570 odst. 1 o. z.",
+      "§ 1968 o. z.",
+      "§ 1975 o. z.",
+      "§ 2106 o. z.",
+      "§ 2107 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "vadné plnění",
+      "odstoupení od smlouvy",
+      "povinnost součinnosti nabyvatele",
+      "§ 1922 o. z.",
+      "prodlení věřitele",
+      "účinky odstoupení",
+      "vytknutí vady"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil dosud nezodpovězenou otázku, zda porušení povinnosti nabyvatele podle § 1922 odst. 1 o. z. brání účinkům již učiněného odstoupení od smlouvy.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

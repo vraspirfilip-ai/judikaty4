@@ -1,0 +1,55 @@
+{
+  "id": "NS:EF3FF8605AFE1DC0C1258E1200160637",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF3FF8605AFE1DC0C1258E1200160637?openDocument",
+  "spisova_znacka": "29 Cdo 2290/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.2290.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení (účinky, zahájení)",
+    "dotcene_predpisy": "§ 109 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 34854,
+  "rozbor": {
+    "shrnuti": "Žalobce, zajištěný věřitel, se po insolvenčním správci dlužníka domáhal náhrady škody, protože správce uzavřel s poddlužníkem dohodu o narovnání a zastavenou pohledávku tím znehodnotil. Po dvou zrušujících rozsudcích NS šlo už jen o to, zda žalobce mohl po skončení insolvenčního řízení uspokojit zajištěnou pohledávku z poddlužníka, tedy zda se zastavená pohledávka nepromlčela. Odvolací soud dovodil, že promlčení zastavené pohledávky bylo po celou dobu insolvenčního řízení stavěno, a žalobu zamítl. Nejvyšší soud tento závěr odmítl. Ochrana před promlčením podle § 109 odst. 3 IZ (a § 173a IZ) trvá jen do přihlášení zajištěné pohledávky do insolvenčního řízení, protože od přihlášky nastupují účinky § 173 odst. 4 IZ. Proto rozsudek zrušil a věc vrátil odvolacímu soudu.",
+    "klicove_otazky": [
+      {
+        "otazka": "Trvá stavění promlčecí doby podle § 109 odst. 3 insolvenčního zákona u pohledávky dlužníka za poddlužníkem, která je zastavena ve prospěch zajištěného věřitele, i po přihlášení zajištěné pohledávky do insolvenčního řízení, nebo jen do doby tohoto přihlášení?",
+        "odpoved": "Ochrana před promlčením zastavené pohledávky podle § 109 odst. 3 IZ (a po novele podle § 173a IZ) platí jen do přihlášení zajištěné pohledávky do insolvenčního řízení; od přihlášky nastupují účinky § 173 odst. 4 IZ a promlčecí doba zastavené pohledávky dále běží (např. od uznání dluhu poddlužníkem)."
+      }
+    ],
+    "pravni_vety": [
+      "Ochrana před promlčením pohledávky dlužníka za jeho dlužníkem, která je zastavena k zajištění pohledávky věřitele, vyplývající z § 109 odst. 3 insolvenčního zákona (a od 1. 1. 2014 i z § 173a insolvenčního zákona), trvá jen do doby, než zajištěný věřitel přihlásí zajištěnou pohledávku do insolvenčního řízení; poté promlčecí doba zastavené pohledávky běží dále."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 109 odst. 3 IZ",
+      "§ 173 odst. 4 IZ",
+      "§ 173a IZ",
+      "§ 246 odst. 1 IZ",
+      "§ 405 odst. 2 obch. zák.",
+      "§ 407 odst. 1 obch. zák.",
+      "§ 408 odst. 1 obch. zák.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "insolvenční správce",
+      "zastavená pohledávka",
+      "promlčení",
+      "stavení promlčecí doby",
+      "zajištěný věřitel",
+      "odpovědnost za škodu",
+      "přihláška pohledávky"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí upřesňuje a rozvíjí dosavadní judikaturu (R 70/2012, R 72/2019) o rozsahu ochrany zastavené pohledávky před promlčením v insolvenčním řízení, tedy otázku dosud dovolacím soudem neřešenou.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

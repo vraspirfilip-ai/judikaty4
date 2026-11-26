@@ -1,0 +1,62 @@
+{
+  "id": "NS:FF7BCDB18F5BD166C1258E0D004D47D2",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF7BCDB18F5BD166C1258E0D004D47D2?openDocument",
+  "spisova_znacka": "27 Cdo 3437/2024",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.3437.2024.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-06-03",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Společnost s ručením omezeným",
+    "dotcene_predpisy": "§ 580 odst. 2 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 17038,
+  "rozbor": {
+    "shrnuti": "Zakladatelka s. r. o. a třetí osoba uzavřely v době mezi založením a vznikem společnosti smlouvu o převodu části budoucího podílu. Rejstříkové soudy zamítly návrh na zápis nabyvatelky jako společnice, protože smlouvu považovaly za absolutně neplatnou pro počáteční nemožnost plnění, neboť podíl ještě neexistoval. Nejvyšší soud se s tím neztotožnil: předmětem smlouvy mohou být i věci, které teprve vzniknou, a podíl je nehmotná movitá věc. Smlouva proto není neplatná jen proto, že podíl v době jejího uzavření neexistuje. Nabyvatel se vlastníkem podílu stává zápisem společnosti do rejstříku a vůči společnosti nastávají účinky převodu doručením smlouvy. Nejvyšší soud proto zrušil rozhodnutí obou soudů a věc vrátil rejstříkovému soudu.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je smlouva o převodu podílu v s. r. o. uzavřená v době mezi založením a vznikem společnosti, kdy podíl ještě neexistuje jako věc v právním smyslu, absolutně neplatná pro počáteční nemožnost plnění?",
+        "odpoved": "Ne, předmětem smlouvy mohou být i věci, které teprve vzniknou, takže neexistence podílu v době uzavření smlouvy sama o sobě nečiní plnění nemožným ve smyslu § 580 odst. 2 o. z."
+      },
+      {
+        "otazka": "Kdy nabyvatel podílu, převedeného jediným zakladatelem ještě před vznikem s. r. o., nabývá vlastnické právo k podílu a kdy nastávají účinky převodu vůči společnosti?",
+        "odpoved": "Vlastníkem se stává zápisem společnosti do obchodního rejstříku, není-li ujednána pozdější doba. Vůči společnosti nastávají účinky doručením účinné písemné smlouvy s úředně ověřenými podpisy (§ 209 odst. 2 z. o. k.). Je-li převodce prvním jednatelem, nastává účinnost vůči společnosti dnem vzniku společnosti."
+      }
+    ],
+    "pravni_vety": [
+      "Smlouva o převodu podílu ve společnosti s ručením omezeným uzavřená v době mezi založením a vznikem společnosti není neplatná pro počáteční nemožnost plnění podle § 580 odst. 2 o. z. jen proto, že podíl v době uzavření smlouvy dosud jako věc v právním smyslu neexistuje a zakladatel dosud není společníkem a vlastníkem podílu.",
+      "Nabyvatel podílu převedeného před vznikem společnosti s ručením omezeným se stává jeho vlastníkem zápisem společnosti do obchodního rejstříku, není-li ve smlouvě ujednána pozdější doba nabytí vlastnického práva."
+    ],
+    "vysledek": "dovolání vyhověno, usnesení odvolacího soudu i rejstříkového soudu zrušena a věc vrácena rejstříkovému soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 580 odst. 2 o. z.",
+      "§ 588 o. z.",
+      "§ 489 o. z.",
+      "§ 496 odst. 2 o. z.",
+      "§ 498 o. z.",
+      "§ 126 odst. 1 o. z.",
+      "§ 31 z. o. k.",
+      "§ 209 odst. 2 z. o. k.",
+      "§ 6 odst. 1 z. o. k.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "převod podílu",
+      "s. r. o.",
+      "předběžná právnická osoba",
+      "počáteční nemožnost plnění",
+      "budoucí věc",
+      "vznik společnosti",
+      "obchodní rejstřík"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil sporný a dosud neřešený problém platnosti smlouvy o převodu podílu uzavřené před vznikem společnosti, který ovlivňuje praxi zakládání s. r. o. a rejstříkových soudů.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

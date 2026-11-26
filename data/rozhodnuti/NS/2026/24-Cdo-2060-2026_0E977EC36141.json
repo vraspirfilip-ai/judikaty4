@@ -1,0 +1,66 @@
+{
+  "id": "NS:0E977EC3614140AFC1258EBA0052BFDE",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E977EC3614140AFC1258EBA0052BFDE?openDocument",
+  "spisova_znacka": "24 Cdo 2060/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.2060.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-21",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Vklad do katastru nemovitostí",
+    "dotcene_predpisy": "§ 17 předpisu č. 256/2013 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 29300,
+  "rozbor": {
+    "shrnuti": "Obdarovaná se domáhala vkladu vlastnického práva podle darovací smlouvy k třetině nemovitých věcí poté, co dárkyně zemřela před provedením vkladu a obdarovaná s dalším dědicem nabyla tyto věci z pozůstalosti. Pozůstalostní soud nezařadil závazek z darování mezi pasiva, protože byl mezi dědici sporný (§ 173 z. ř. s.). Odvolací soud žalobu zamítl, protože o tom, kdo převzal závazek, lze rozhodnout jen v pozůstalostním řízení a obdarovaná se mohla domáhat práv žalobou podle § 189 z. ř. s. Nejvyšší soud to označil za nesprávné: obdarovaný není účastníkem pozůstalostního řízení, výsledek objasnění pasiv ho proto nezavazuje a žalobu podle § 189 z. ř. s. podat nemůže. Závazek odevzdat darovanou věc je spojen s jejím vlastnictvím a má ho ten dědic, který věc z pozůstalosti nabyl. Rozsudek odvolacího soudu proto zrušil a věc vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Přechází na dědice, který nabyl darovanou nemovitou věc z pozůstalosti, závazek zůstavitele odevzdat ji obdarovanému, jestliže za života dárce nebyl proveden vklad a závazek nebyl v pozůstalostním řízení zařazen do pasiv pro jeho spornost mezi dědici?",
+        "odpoved": "Ano, závazek odevzdat darovanou věc je imanentně spojen s jejím vlastnictvím a má ho vždy ten dědic, který věc z pozůstalosti nabyl, a to bez ohledu na to, zda byl zařazen do pasiv pozůstalosti (§ 173, § 185 z. ř. s.)."
+      },
+      {
+        "otazka": "Jsou pro obdarovaného, který není dědicem a nebyl účastníkem pozůstalostního řízení, závazné závěry pozůstalostního soudu o rozsahu pasiv pozůstalosti, a může se obdarovaný domáhat nesplněného závazku z darovací smlouvy žalobou podle § 189 odst. 1 z. ř. s.?",
+        "odpoved": "Ne, výsledek objasnění pasiv není pro obdarovaného závazný a žalobu podle § 189 odst. 1 z. ř. s. může podat jen dědic, který byl účastníkem pozůstalostního řízení, takže obdarovaný k ní není legitimován."
+      },
+      {
+        "otazka": "Jsou splněny předpoklady § 17 odst. 1 písm. b) a g) katastrálního zákona pro povolení vkladu vlastnického práva podle darovací smlouvy, jestliže dárce zemřel před vkladem a návrh byl podán po skončení pozůstalostního řízení, v němž nebyl závazek z darování zařazen do pasiv?",
+        "odpoved": "Ano, tyto požadavky jsou z hlediska závazku splněny už tím, že pravomocným rozhodnutím o dědictví podle § 185 z. ř. s. bylo dědicům potvrzeno nabytí vlastnictví k darované věci."
+      }
+    ],
+    "pravni_vety": [
+      "Zemře-li dárce, aniž obdarovaný s účinky před jeho smrtí nabyl vkladem vlastnické právo k darované nemovité věci, má místo zůstavitele dluh (závazek) odevzdat darovanou věc obdarovanému vždy ten z dědiců, který tuto věc nabyl z pozůstalosti; to platí i tehdy, když byl tento závazek v pozůstalostním řízení pro spornost mezi dědici vyloučen z pasiv podle § 173 z. ř. s.",
+      "Při rozhodování o návrhu na vklad vlastnického práva ve prospěch obdarovaného, podaném po skončení pozůstalostního řízení, jsou požadavky § 17 odst. 1 písm. b) a g) katastrálního zákona z hlediska závazku z darovací smlouvy splněny již pravomocným usnesením o dědictví, jímž bylo dědicům potvrzeno nabytí vlastnictví k darované věci.",
+      "Výsledek objasnění pasiv pozůstalosti v pozůstalostním řízení není závazný pro obdarovaného, který není dědicem, a ten není legitimován k žalobě podle § 189 odst. 1 z. ř. s."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena Vrchnímu soudu v Praze k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 17 odst. 1 písm. b) a g) katastrálního zákona",
+      "§ 171 z. ř. s.",
+      "§ 173 z. ř. s.",
+      "§ 185 z. ř. s.",
+      "§ 189 odst. 1 z. ř. s.",
+      "§ 1701 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "darovací smlouva",
+      "vklad vlastnického práva",
+      "dědické řízení",
+      "pasiva pozůstalosti",
+      "sporné pasivum",
+      "obdarovaný",
+      "katastr nemovitostí",
+      "přechod závazků na dědice"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil dosud neřešenou otázku postavení obdarovaného a přechodu závazku z darovací smlouvy na dědice při sporném pasivu pozůstalosti a ve vkladovém řízení a rozhodnutí je zařazeno do kategorie B.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

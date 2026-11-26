@@ -1,0 +1,64 @@
+{
+  "id": "NS:651B0B0F48A0A016C1258E25004D2E7C",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/651B0B0F48A0A016C1258E25004D2E7C?openDocument",
+  "spisova_znacka": "29 NSČR 73/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.NSCR.73.2024.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-06-12",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení",
+    "dotcene_predpisy": "§ 334 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 34634,
+  "rozbor": {
+    "shrnuti": "Insolvenční soud schválil reorganizační plán dlužníka přijatý všemi skupinami věřitelů a odvolací soud toto rozhodnutí potvrdil. Nesouhlasný věřitel v dovolání namítal, že plán neobsahuje náležitosti podle § 340 odst. 2 IZ, nedostatečně vymezuje sporné pohledávky za majetkovou podstatou a že ustanovení o splnění plánu po úhradě dvou třetin pohledávek ukazuje nepoctivý záměr. Nejvyšší soud uvedl, že u sporné pohledávky za majetkovou podstatou se neuplatní § 348 odst. 1 písm. e/ IZ přímo, ale analogicky § 340 odst. 2 IZ: plán musí uvést, jak je splnění zajištěno, a dlužník musí vytvořit dostatečnou rezervu. Zajištění financování prohlášením věřitele o poskytnutí zápůjčky v plánu postačilo. Podmínky splnění plánu uvedené předkladatelem soud neviní, protože o splnění rozhoduje insolvenční soud podle § 364 odst. 3 IZ. Dovolání proto zamítl jako nedůvodné.",
+    "klicove_otazky": [
+      {
+        "otazka": "Jak se v reorganizačním plánu postupuje u sporné pohledávky za majetkovou podstatou, kterou dlužník neuznává, a postačuje k zajištění jejího splnění prohlášení věřitele o ochotě financovat plán zápůjčkou?",
+        "odpoved": "Na sporné pohledávky za majetkovou podstatou se § 348 odst. 1 písm. e/ IZ nepoužije bez dalšího, ale analogicky § 340 odst. 2 IZ: plán musí uvést, jak je splnění zajištěno, a dlužník musí vytvořit dostatečnou rezervu; prohlášení o poskytnutí zápůjčky až do výše 20 mil. Kč podle § 342 písm. b/ IZ bylo dostatečným zajištěním."
+      },
+      {
+        "otazka": "Je důvodem pro zamítnutí reorganizačního plánu pro nepoctivý záměr dlužníka, že pohledávku, o níž probíhá incidenční spor, formálně nezařadil mezi nezjištěné pohledávky podle § 340 odst. 2 IZ, ale počítal s ní jako se zjištěnou?",
+        "odpoved": "Ne, dlužník tím nesledoval nepoctivý záměr, neboť dotčený věřitel byl uspokojen stejně jako ostatní nezajištění věřitelé, a kontrola náležitostí plánu se prolíná s posuzováním poctivosti a nemá být samoúčelná (§ 340 odst. 2, 3, § 348 odst. 1 písm. b/ IZ)."
+      },
+      {
+        "otazka": "Může předkladatel reorganizačního plánu závazně stanovit podmínky, při jejichž splnění se plán nebo jeho podstatné části považují za splněné, a je jejich uvedení projevem nepoctivého záměru?",
+        "odpoved": "Předkladatel si takové podmínky nemůže závazně vymiňovat, protože splnění plánu posuzuje samostatně insolvenční soud podle § 364 odst. 3 IZ; uvedení takových podmínek však samo o sobě nepoctivý záměr nezakládá, neboť povinnost plán provést trvá."
+      }
+    ],
+    "pravni_vety": [
+      "U pohledávky za majetkovou podstatou nebo pohledávky jí na roveň postavené, kterou dlužník v reorganizaci zpochybňuje, se neuplatní požadavek úhrady podle § 348 odst. 1 písm. e/ insolvenčního zákona, nýbrž se analogicky použije § 340 odst. 2 insolvenčního zákona; dlužník musí v reorganizačním plánu uvést, jak je zajištěno splnění takové pohledávky, a vytvořit dostatečnou finanční rezervu.",
+      "Předkladatel reorganizačního plánu si nemůže závazně vymiňovat podmínky, za nichž dojde ke splnění reorganizačního plánu nebo jeho podstatných částí; o tom rozhoduje samostatně insolvenční soud podle § 364 odst. 3 insolvenčního zákona."
+    ],
+    "vysledek": "dovolání zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 334 IZ",
+      "§ 340 odst. 2 IZ",
+      "§ 348 odst. 1 písm. b/ a e/ IZ",
+      "§ 364 odst. 3 IZ",
+      "§ 203 IZ",
+      "§ 342 písm. b/ IZ",
+      "§ 237 o. s. ř.",
+      "§ 243d písm. a/ o. s. ř."
+    ],
+    "klicova_slova": [
+      "reorganizační plán",
+      "pohledávky za majetkovou podstatou",
+      "sporné pohledávky",
+      "nepoctivý záměr",
+      "splnění reorganizačního plánu",
+      "incidenční spor",
+      "finanční rezerva"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí vyplňuje dosud neřešenou mezeru ohledně sporných pohledávek za majetkovou podstatou v reorganizaci a role insolvenčního soudu při posuzování splnění plánu, nejde však o sjednocení judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

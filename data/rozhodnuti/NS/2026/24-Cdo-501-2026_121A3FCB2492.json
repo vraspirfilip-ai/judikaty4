@@ -1,0 +1,60 @@
+{
+  "id": "NS:121A3FCB249238A3C1258E1A004D5827",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/121A3FCB249238A3C1258E1A004D5827?openDocument",
+  "spisova_znacka": "24 Cdo 501/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.501.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-20",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Vydědění",
+    "dotcene_predpisy": "§ 1649 odst. 1 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 29391,
+  "rozbor": {
+    "shrnuti": "Žalobkyně se domáhala zaplacení povinného dílu s tvrzením, že ji zůstavitel vydědil v roce 2004 pro trvalý nezájem, ale vztah se po roce 2010 obnovil a důvod vydědění odpadl. Zůstavitel zemřel v roce 2020 a vydědění nezrušil. Odvolací soud žalobu zamítl, protože vydědění nebylo zrušeno předepsaným způsobem. Nejvyšší soud dovolání zamítl: zrušení vydědění vyžaduje formální projev vůle zůstavitele (odvolání, zničení listiny apod.) podle obč. zák. i podle o. z. Pozdější odpadnutí důvodu vydědění, obnovení vztahu ani případné odpuštění vydědění samy nezrušují.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze usuzovat na zrušení listiny o vydědění potomka pro trvalý nedostatek opravdového zájmu, pořízené za účinnosti obč. zák. při smrti zůstavitele po 1. 1. 2014, z toho, že důvod vydědění později odpadl (obnovení vztahu, odpuštění zůstavitelem), nebo je nutné formální zrušení vydědění?",
+        "odpoved": "Ne, vydědění zaniká jen zákonem vymezeným způsobem (výslovné odvolání v předepsané formě, zničení či vydání listiny, pozdější závěť ve prospěch vyděděného), a to podle § 469a odst. 3 a § 480 obč. zák. i podle § 1649 a § 1575 an. o. z.; pozdější odpadnutí důvodu ani odpuštění vydědění nezruší."
+      }
+    ],
+    "pravni_vety": [
+      "Vydědění potomka lze zrušit jen zákonem vymezeným způsobem, tj. odvoláním v předepsané formě, zničením či vydáním listiny o vydědění nebo pořízením pozdější závěti ve prospěch vyděděného; ke zrušení vydědění nevede pozdější odpadnutí důvodu vydědění, obnovení vztahu mezi zůstavitelem a vyděděným potomkem ani odpuštění zůstavitelem.",
+      "Tento závěr platí podle obč. zák. i podle o. z., takže se uplatní i tehdy, když byla listina o vydědění pořízena za účinnosti obč. zák. a zůstavitel zemřel po 1. 1. 2014."
+    ],
+    "vysledek": "dovolání žalobkyně zamítnuto, žalobkyně je povinna nahradit žalované náklady dovolacího řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 469a obč. zák.",
+      "§ 480 obč. zák.",
+      "§ 476 obč. zák.",
+      "§ 1649 o. z.",
+      "§ 1575 o. z.",
+      "§ 1577 o. z.",
+      "§ 1578 o. z.",
+      "§ 1579 o. z.",
+      "§ 3028 o. z.",
+      "§ 3069 o. z.",
+      "§ 3072 o. z.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "vydědění",
+      "povinný díl",
+      "zrušení vydědění",
+      "odpadnutí důvodu vydědění",
+      "přechodná ustanovení",
+      "závěť",
+      "nepominutelný dědic"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil dosud neřešenou otázku, zda odpadnutí důvodu vydědění či odpuštění ruší vydědění, a to pro obč. zák. i o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

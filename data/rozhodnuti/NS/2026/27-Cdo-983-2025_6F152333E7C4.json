@@ -1,0 +1,66 @@
+{
+  "id": "NS:6F152333E7C4138CC1258E90004D6B28",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F152333E7C4138CC1258E90004D6B28?openDocument",
+  "spisova_znacka": "27 Cdo 983/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.983.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-09-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Spolek (o. z.) [ Korporace (o. z.) ]",
+    "dotcene_predpisy": "§ 239 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 21059,
+  "rozbor": {
+    "shrnuti": "Spolek vyloučil člena z důvodu opakovaného porušování členských povinností a soudy nižších stupňů určily vyloučení za neplatné, protože rozhodnutí spolku neoznačují vytýkaná jednání dostatečně určitě a neobsahují zdůvodnění, proč nebyla učiněna výzva k nápravě. Nejvyšší soud dovolání spolku shledal důvodným. Rozhodnutí o vyloučení je právním jednáním, u něhož zákon nestanoví zvláštní obsahové náležitosti, a postačí proto, aby z něj bylo patrné, kdo je učinil, koho se týká a pro jaké jednání je člen vyloučen. Zdůvodnění nezaslání výzvy se nevyžaduje, otázku, zda výzva byla nutná, má soud zkoumat věcně. Odvolací soud závěr o nedostatečné specifikaci učinil bez výkladu rozhodnutí podle § 555 a násl. o. z. a nezabýval se výjimkami z povinnosti zaslat výzvu, proto bylo rozhodnutí zrušeno a věc vrácena soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Jaké obsahové náležitosti musí mít rozhodnutí spolku o vyloučení člena podle § 239 a § 240 o. z., zejména musí v něm být jednání člena specifikováno do všech podrobností včetně času a místa a musí obsahovat zdůvodnění, proč nebyla učiněna předchozí výzva k nápravě?",
+        "odpoved": "Zákon zvláštní náležitosti nestanoví, proto postačí (nestanoví-li stanovy více), aby z rozhodnutí bylo patrné, který orgán je učinil, kterého člena se týká a pro jaké jednání je vyloučen; uvádění všech jednotlivostí jednání ani zdůvodnění nezaslání výzvy se nevyžaduje (§ 545, § 553 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Lze učinit závěr o neurčitosti či nepřezkoumatelnosti rozhodnutí spolku o vyloučení člena, aniž byl jeho skutečný obsah zjištěn výkladem právního jednání podle § 555 a násl. o. z.?",
+        "odpoved": "Ne, závěru o nedostatečné specifikaci vytýkaných jednání musí předcházet zjištění skutečného obsahu rozhodnutí výkladem podle § 555 a násl. o. z., neboť každé právní jednání podléhá výkladu."
+      },
+      {
+        "otazka": "Kdy musí soud v řízení o neplatnost vyloučení člena ze spolku zkoumat, zda výzva ke zjednání nápravy nebyla potřebná, protože porušení povinnosti nešlo odčinit nebo způsobilo spolku zvlášť závažnou újmu?",
+        "odpoved": "Tuto právní otázku má soud zkoumat při posouzení důvodnosti opravného prostředku podle § 241 o. z., popřípadě v soudním řízení podle § 242 o. z., nikoli jako obsahovou náležitost rozhodnutí o vyloučení (§ 239 odst. 1 věta druhá o. z.)."
+      }
+    ],
+    "pravni_vety": [
+      "Rozhodnutí o vyloučení člena ze spolku je právním jednáním; neobsahují-li stanovy další požadavky, postačí, aby z něj bylo patrné, který orgán spolku je učinil, kterého člena se týká a pro jaké jednání je člen vyloučen.",
+      "K dostatečné konkretizaci důvodu vyloučení člena ze spolku není v rozhodnutí o vyloučení nezbytné uvádět veškeré jednotlivosti závadného jednání, zejména časové údaje, místo či dílčí projevy, je-li po provedeném výkladu rozhodnutí zřejmé, pro jaké jednání je člen vyloučen.",
+      "Rozhodnutí o vyloučení člena ze spolku nemusí obsahovat zdůvodnění, proč nebyla učiněna předchozí výzva ke zjednání nápravy; zda výzva byla zapotřebí, je právní otázka zkoumaná až při přezkumu vyloučení."
+    ],
+    "vysledek": "Usnesení odvolacího soudu i soudu prvního stupně zrušena a věc vrácena soudu prvního stupně k dalšímu řízení.",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 237 o. z.",
+      "§ 239 odst. 1 o. z.",
+      "§ 240 o. z.",
+      "§ 242 o. z.",
+      "§ 545 o. z.",
+      "§ 553 odst. 1 o. z.",
+      "§ 555 o. z.",
+      "§ 556 o. z.",
+      "§ 243e odst. 1, 2 o. s. ř."
+    ],
+    "klicova_slova": [
+      "spolek",
+      "vyloučení člena",
+      "výzva k nápravě",
+      "určitost právního jednání",
+      "výklad právního jednání",
+      "neplatnost rozhodnutí spolku",
+      "obsahové náležitosti rozhodnutí"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výslovně řeší obsahové náležitosti rozhodnutí spolku o vyloučení člena a vymezuje, že není třeba uvádět všechny podrobnosti jednání ani zdůvodňovat nezaslání výzvy.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

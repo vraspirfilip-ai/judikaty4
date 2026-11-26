@@ -1,0 +1,71 @@
+{
+  "id": "NS:8798C02343C2679FC1258E42004D3D6E",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8798C02343C2679FC1258E42004D3D6E?openDocument",
+  "spisova_znacka": "29 ICdo 28/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.28.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neplatnost právního úkonu",
+    "dotcene_predpisy": "§ 225 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 109113,
+  "rozbor": {
+    "shrnuti": "Šlo o vylučovací žalobu kupujícího, který od dlužníka (jím ovládané společnosti) koupil nemovitosti a kupní cenu uhradil zápočtem proti svým pohledávkám z půjček; insolvenční správce nemovitosti sepsal do majetkové podstaty pro neplatnost kupní smlouvy. Nejvyšší soud řešil, za jakých podmínek je právní úkon dlužníka a osoby, která jej ovládá, absolutně neplatný pro společný úmysl zkrátit věřitele. Dovodil, že jde o oboustranné jednání in fraudem legis, které je neplatné podle § 39 obč. zák., aniž by bylo třeba prokazovat úpadek dlužníka nebo skutečné zkrácení některého věřitele. Úmysl může být i nepřímý a nevylučuje jej ani sanační cíl transakce. Odvolací soud se sice mýlil v závěru o neplatnosti zástavních smluv a v alternativním závěru o rozporu s dobrými mravy, ale neplatnost kupní smlouvy je správná, a dovolání proto bylo zamítnuto (ohledně výroků o nákladech odmítnuto).",
+    "klicove_otazky": [
+      {
+        "otazka": "Je kupní smlouva mezi dlužníkem a osobou, která jej ovládá, absolutně neplatná podle § 39 obč. zák., jestliže ji obě strany uzavřely ve společném úmyslu zkrátit věřitele dlužníka, a to i bez prokázání úpadku dlužníka, skutečného zkrácení některého věřitele či toho, že majetek dlužníka přestal převyšovat jeho závazky?",
+        "odpoved": "Ano, jde o oboustranné jednání in fraudem legis, které svým účelem odporuje zákonu (§ 39 obč. zák.); neplatnost se pojí se společným zkracujícím úmyslem, nikoli s úpadkem dlužníka nebo vznikem následku."
+      },
+      {
+        "otazka": "Lze u dlužníka a jeho ovládající osoby dovodit alespoň nepřímý úmysl zkrátit věřitele uzavřením kupní smlouvy, jejíž cena je spotřebována zápočtem proti pohledávkám ovládající osoby po předchozím zkrácení jejich splatnosti, jestliže jejich deklarovaným cílem byla sanace dlužníka?",
+        "odpoved": "Ano, nepřímý úmysl je dán, jestliže jednající věděli, že mohou věřitele zkrátit, a byli s tím srozuměni (nepočítali s okolností, jež by tomu bránila); sanační cíl úmysl zkrátit věřitele nevylučuje."
+      },
+      {
+        "otazka": "Je právní úkon, který svým účelem odporuje zákonu (§ 39 obč. zák.), současně neplatný pro rozpor s dobrými mravy?",
+        "odpoved": "Ne, právní úkon odporující zákonu nemůže být na stejném základě i úkonem v rozporu s dobrými mravy; odvolací soud proto v tomto alternativním závěru pochybil."
+      },
+      {
+        "otazka": "Je zástavní smlouva k zajištění již existující půjčky absolutně neplatná pro zkracující úmysl bez dalšího zkoumání úmyslu u každého jednotlivého úkonu, a lze za přiměřenou protihodnotu považovat prolongaci splatnosti?",
+        "odpoved": "Závěr o neplatnosti všech navazujících úkonů bez samostatného zjištění úmyslu u každého z nich neobstojí; prolongace splatnosti není přiměřenou protihodnotou za zajištění pohledávky zástavním právem."
+      }
+    ],
+    "pravni_vety": [
+      "Koná-li v úmyslu zkrátit věřitele právním úkonem nejen dlužník, ale i osoba, v jejíž prospěch byl úkon učiněn nebo která z něj měla prospěch (zejména osoba ovládající), jde o oboustranné jednání in fraudem legis a o právní úkon absolutně neplatný podle § 39 obč. zák.",
+      "Pro závěr o absolutní neplatnosti právního úkonu pro společný úmysl zkrátit věřitele dlužníka není významné, zda byl dlužník v době úkonu v úpadku, zda úkon vedl k jeho úpadku ani zda skutečně došlo ke zkrácení některého věřitele.",
+      "Úmysl zkrátit věřitele může být dán i ve formě nepřímého úmyslu a nevylučuje jej to, že primárním cílem jednajících bylo zlepšit ekonomickou situaci dlužníka."
+    ],
+    "vysledek": "dovolání proti výrokům o nákladech řízení odmítnuto, dovolání proti výroku o věci samé (zamítnutí vylučovací žaloby) zamítnuto; žalobce nahradí žalovanému náklady dovolacího řízení 7.344,70 Kč",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 39 obč. zák.",
+      "§ 225 IZ",
+      "§ 235 a násl. IZ",
+      "§ 241 a § 242 IZ",
+      "§ 66a obch. zák.",
+      "§ 196a obch. zák.",
+      "§ 222 a § 223 tr. zák.",
+      "§ 3028 o. z.",
+      "§ 243c a § 243d o. s. ř."
+    ],
+    "klicova_slova": [
+      "vylučovací žaloba",
+      "absolutní neplatnost",
+      "zkrácení věřitelů",
+      "in fraudem legis",
+      "nepřímý úmysl",
+      "ovládající osoba",
+      "zápočet kupní ceny",
+      "dobré mravy"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí kategorie B sjednocuje a rozvíjí judikaturu k absolutní neplatnosti úkonů ovládané a ovládající osoby pro společný zkracující úmysl bez nutnosti úpadku či skutečného zkrácení a vysvětluje vztah k dobrým mravům.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

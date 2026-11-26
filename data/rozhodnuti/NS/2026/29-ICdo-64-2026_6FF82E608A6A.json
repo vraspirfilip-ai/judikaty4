@@ -1,0 +1,66 @@
+{
+  "id": "NS:6FF82E608A6A6F55C1258EA4001B84B3",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FF82E608A6A6F55C1258EA4001B84B3?openDocument",
+  "spisova_znacka": "29 ICdo 64/2026",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.64.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Incidenční spory (žaloba odpůrčí)",
+    "dotcene_predpisy": "§ 237 odst. 1 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 44884,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce se odpůrčí žalobou domáhal určení neúčinnosti platby 200.000 Kč, kterou žalovanému investorovi poukázala z bankovního účtu jím ovládané společnosti dlužník, jenž byl jejím jediným společníkem a jednatelem. Odvolací soud žalobu zamítl s tím, že platba z účtu samostatné společnosti není právním jednáním dlužníka. Nejvyšší soud s odkazem na R 64/2022 a R 57/2025 uvedl, že odvolací soud nezkoumal, jaký právní vztah vznikl mezi dlužníkem a společností ohledně plateb klientů na její účet. Ovládaná osoba nemůže mít jinou vůli než osoba ovládající, takže společnost mohla splácet svůj dluh dlužníku a zároveň jako „jiná osoba“ plnit dluh dlužníka. Skutkový stav byl pro takový závěr mezerovitý, proto Nejvyšší soud rozsudek zrušil a vrátil věc odvolacímu soudu, který má případně poučit žalobce podle § 118a o. s. ř.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je platba věřiteli dlužníka provedená z bankovního účtu společnosti, kterou dlužník jako jediný společník a jednatel ovládá a na jejíž účet klienti dlužníka zasílali investované prostředky, právním jednáním dlužníka ve smyslu § 241 insolvenčního zákona?",
+        "odpoved": "Může jím být; odvolací soud nemohl bez posouzení právního vztahu dlužníka a společnosti k prostředkům od klientů uzavřít, že nejde o jednání dlužníka. Ovládaná společnost mohla platbou splnit svůj dluh vůči dlužníku a zároveň jako „jiná osoba“ pomáhat plnit jeho dluh vůči věřiteli (§ 1908 odst. 1 a § 1935 o. z.)."
+      },
+      {
+        "otazka": "Může být vůle ovládané společnosti odlišná od vůle ovládající osoby, která je jejím jediným společníkem a jednatelem, při posouzení, zda společnost plnila na pokyn dlužníka?",
+        "odpoved": "Ne, vůle ovládající osoby projevená vůči ovládané osobě je i vůlí osoby ovládané (§ 73, § 74 z. o. k.), proto mezi nimi nemůže jít o bezdůvodné obohacení plněním bez právního důvodu, ale o určitou shodu, jak jsou přijaté částky spravovány."
+      },
+      {
+        "otazka": "Jak se při plnění na bankovní účet třetí osoby jako sjednané platební místo posuzuje vztah mezi plátcem, věřitelem a držitelem účtu?",
+        "odpoved": "Plněním na účet třetí osoby určený ve smlouvě splní dlužník svůj dluh věřiteli (§ 1908 odst. 1, § 1954, § 1957 o. z.); neexistuje-li právní důvod mezi držitelem účtu a věřitelem, vzniká pohledávka věřitele z bezdůvodného obohacení vůči držiteli účtu (§ 2991 odst. 2 o. z.)."
+      }
+    ],
+    "pravni_vety": [],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 241 IZ",
+      "§ 237 odst. 1 IZ",
+      "§ 111 IZ",
+      "§ 1908 o. z.",
+      "§ 1935 o. z.",
+      "§ 1936 o. z.",
+      "§ 1954 o. z.",
+      "§ 1957 o. z.",
+      "§ 2991 odst. 2 o. z.",
+      "§ 73 a § 74 ZOK",
+      "§ 118a o. s. ř.",
+      "§ 213b o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "zvýhodňující právní jednání",
+      "platba z účtu ovládané společnosti",
+      "přičitatelnost jednání dlužníku",
+      "ovládající osoba",
+      "bezdůvodné obohacení",
+      "insolvenční správce"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí rozvíjí závěry R 64/2022 a R 57/2025 na platby z účtu společnosti ovládané dlužníkem, ale vrací věc k doplnění skutkového a právního posouzení bez konečného závěru.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

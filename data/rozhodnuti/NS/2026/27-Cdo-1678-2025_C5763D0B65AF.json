@@ -1,0 +1,66 @@
+{
+  "id": "NS:C5763D0B65AFAE72C1258E8700374A39",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5763D0B65AFAE72C1258E8700374A39?openDocument",
+  "spisova_znacka": "27 Cdo 1678/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.1678.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-08-31",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Přiměřenost protiplnění",
+    "dotcene_predpisy": "§ 390 odst. 3 předpisu č. 90/2012 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 37180,
+  "rozbor": {
+    "shrnuti": "Bývalí minoritní akcionáři se po squeeze-outu domáhali dorovnání přiměřeného protiplnění; soudy vyšly z revizního znaleckého posudku, který při ocenění výnosovou metodou DCF použil velikostní přirážku v diskontní míře. Nejvyšší soud uzavřel, že velikostní přirážka je přirážkou na úrovni podniku (nikoli akcionáře), nesouvisí s likviditou ani minoritou, a proto ji zpravidla lze při určení přiměřeného protiplnění podle § 390 z. o. k. použít, je-li postup znalce odůvodněn a vychází z běžně používaných oceňovacích praktik. Dále potvrdil, že přiznání dorovnání z prostředků složených do soudní úschovy nezakládá nerovnost mezi akcionáři, neboť do složení lze plnění vymáhat přímo a úschova slouží rovnosti všech vytěsněných akcionářů. Dovolání proto zamítl; náklady uložil hlavnímu akcionáři podle § 390 odst. 3 z. o. k.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze při určení přiměřeného protiplnění podle § 390 z. o. k. vycházet z hodnoty závodu stanovené výnosovou metodou, při níž znalec v rámci diskontní míry použil velikostní přirážku zohledňující vyšší riziko menších společností?",
+        "odpoved": "Ano, zpravidla ano, pokud tomu nebrání zvláštní okolnosti případu a postup znalce je řádně odůvodněn a opírá se o běžně používané oceňovací metody; velikostní přirážka je přirážkou na úrovni podniku, nikoli akcionáře, a není nijak spjata s diskonty za likviditu či minoritu, které jsou vyloučeny (§ 390 z. o. k.)."
+      },
+      {
+        "otazka": "Zakládá nerovnost mezi vytěsněnými akcionáři a porušuje jejich právo na spravedlivý proces, že soud žalujícímu minoritnímu akcionáři přizná dorovnání k vyplacení z prostředků, které hlavní akcionář povinně složí do soudní úschovy podle § 390 odst. 4 z. o. k., místo přímého plnění hlavním akcionářem?",
+        "odpoved": "Ne; rozhodnutí podle § 390 odst. 3 z. o. k. je přímým exekučním titulem a žalobce může plnění vymáhat přímo do doby, než hlavní akcionář složí dorovnání do úschovy s solučními účinky, přičemž úschova zajišťuje rovnost všech bývalých minoritních akcionářů."
+      },
+      {
+        "otazka": "Má vytěsněný akcionář, který se domáhal dorovnání, právo na náhradu nákladů dovolacího řízení vůči hlavnímu akcionáři i v případě neúspěchu a vůči společnosti?",
+        "odpoved": "Podle § 390 odst. 3 z. o. k. mají žalující akcionáři zásadně právo na náhradu účelně vynaložených nákladů vůči hlavnímu akcionáři bez ohledu na úspěch, a to i v dovolacím řízení řešícím dosud nevyřešenou právní otázku; vůči společnosti se náhrada nepřiznává."
+      }
+    ],
+    "pravni_vety": [
+      "Vychází-li soud při určení přiměřeného protiplnění podle § 390 z. o. k. z hodnoty závodu společnosti určené výnosovou metodou, může být zpravidla při stanovení hodnoty závodu v rámci diskontní míry aplikována tzv. velikostní přirážka, pokud tomu nebrání zvláštní okolnosti konkrétního případu.",
+      "Rozhodnutí o žalobě bývalých minoritních akcionářů na dorovnání podle § 390 odst. 3 z. o. k. je přímým exekučním titulem; plnění dorovnání do povinné soudní úschovy podle § 390 odst. 4 z. o. k. nezakládá nerovnost mezi akcionáři a po jeho složení vůči všem oprávněným povinnost hlavního akcionáře zaniká."
+    ],
+    "vysledek": "dovolání zamítnuto; hlavní akcionář je povinen nahradit každému z žalobců náklady dovolacího řízení, ve vztahu k druhé žalované nemá nikdo právo na náhradu nákladů",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 390 z. o. k.",
+      "§ 375 z. o. k.",
+      "§ 183i obch. zák.",
+      "§ 237 o. s. ř.",
+      "§ 241a odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř.",
+      "§ 132 o. s. ř.",
+      "§ 3 odst. 2 písm. e) z. ř. s.",
+      "§ 298 z. ř. s."
+    ],
+    "klicova_slova": [
+      "squeeze-out",
+      "přiměřené protiplnění",
+      "velikostní přirážka",
+      "diskontní míra",
+      "znalecký posudek",
+      "dorovnání",
+      "soudní úschova",
+      "hlavní akcionář"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší otázku přípustnosti velikostní přirážky při určení přiměřeného protiplnění a způsob plnění dorovnání ze soudní úschovy podle § 390 z. o. k.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

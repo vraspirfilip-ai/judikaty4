@@ -1,0 +1,64 @@
+{
+  "id": "NS:A8E55A0DAC88588DC1258EA00052B984",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8E55A0DAC88588DC1258EA00052B984?openDocument",
+  "spisova_znacka": "23 Cdo 2825/2025",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.2825.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Smlouva o dílo",
+    "dotcene_predpisy": "§ 2593 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 32156,
+  "rozbor": {
+    "shrnuti": "Zhotovitel prováděl montáž oken, která podle znalce nebyla v souladu s nezávaznou normou ČSN; objednatelé od smlouvy odstoupili podle § 2593 o. z. a odvolací soud odstoupení uznal jen na základě závěrů znalce. Nejvyšší soud vyložil, že § 2593 o. z. je zvláštním případem odstoupení podle § 2002 odst. 2 o. z. použitelným již při provádění díla před jeho předáním. Závěr, že postup zhotovitele povede k vadnému plnění, musí soud odůvodnit srovnáním sjednaného plnění s plněním hypoteticky hrozícím, přičemž technické normy nejsou obecně závazné a jejich dodržení je třeba zkoumat výkladem smlouvy. Podstatnost porušení se posuzuje podle § 2002 odst. 1 o. z. a nepochybnost se váže k pravděpodobnosti vzniku porušení. Odvolací soud se těmito otázkami nezabýval, proto Nejvyšší soud rozsudky obou soudů zrušil a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Za jakých podmínek lze považovat postup zhotovitele při provádění díla, který by vedl k vadnému plnění, za postup nepochybně vedoucí k podstatnému porušení smlouvy opravňující objednatele k odstoupení podle § 2593 o. z.?",
+        "odpoved": "Soud musí konkrétně odůvodnit, v čem by budoucí vady spočívaly, srovnáním sjednaného plnění s plněním hypoteticky obdrženým, a posoudit podstatnost porušení podle § 2002 odst. 1 o. z. a nepochybnost jako vysokou pravděpodobnost skutečného nastoupení porušení, vyplývající z chování zhotovitele."
+      },
+      {
+        "otazka": "Je nesoulad provedení díla s technickou normou ČSN, která není obecně závazná ani nebyla ve smlouvě výslovně sjednána, sám o sobě vadou díla?",
+        "odpoved": "Ne automaticky; normy se nestávají součástí předmětu díla samy od sebe, a proto je nutné výkladem projevu vůle stran (§ 555 a násl., § 1914 odst. 1, § 2615 odst. 1 o. z.) zjistit, zda byly sjednány nebo vyplývají z obvyklých vlastností a účelu díla."
+      },
+      {
+        "otazka": "Může objednatel uplatnit právo odstoupit podle § 2593 o. z. již v průběhu provádění díla před jeho převzetím, nezávisle na právech z vad díla?",
+        "odpoved": "Ano, právo podle § 2593 o. z. náleží objednateli ve fázi provádění díla a je samostatné vůči právům z vad vznikajícím až po převzetí díla; jde o zvláštní případ odstoupení podle § 2002 odst. 2 o. z."
+      }
+    ],
+    "pravni_vety": [
+      "Právo objednatele odstoupit od smlouvy o dílo podle § 2593 o. z. náleží objednateli již ve fázi provádění díla a je samostatné vůči právům z vad díla; jde o zvláštní případ odstoupení pro nepochybně hrozící podstatné porušení smlouvy podle § 2002 odst. 2 o. z.",
+      "Závěr, že postup zhotovitele by vedl k vadnému plnění, musí soud odůvodnit konkrétní úvahou založenou na srovnání sjednaného plnění s plněním, které by objednatel hypoteticky obdržel, kdyby neodstoupil, s využitím pravidel posuzování vadnosti díla a výkladu projevu vůle stran; technické normy nejsou obecně závazné a stávají se součástí předmětu díla jen na základě smlouvy, obvyklých vlastností či známého účelu.",
+      "Podstatnost porušení smlouvy podle § 2593 o. z. se posuzuje podle kritérií § 2002 odst. 1 o. z. a požadavek nepochybnosti se váže k pravděpodobnosti skutečného vzniku takového porušení, nikoli k pravděpodobnosti, že by objednatel smlouvu neuzavřel."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu v dotčené části a rozsudek soudu prvního stupně zrušeny, věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 2593 o. z.",
+      "§ 2002 o. z.",
+      "§ 2615 odst. 1 o. z.",
+      "§ 1914 odst. 1 o. z.",
+      "§ 555 o. z.",
+      "§ 2999 o. z.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "smlouva o dílo",
+      "odstoupení od smlouvy",
+      "podstatné porušení smlouvy",
+      "technická norma ČSN",
+      "vada díla",
+      "kontrola provádění díla",
+      "výklad projevu vůle"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výkladově řeší předpoklady odstoupení podle § 2593 o. z., jeho vztah k § 2002 o. z. a význam technických norem pro vadnost díla.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

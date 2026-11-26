@@ -1,0 +1,65 @@
+{
+  "id": "NS:53CBCE038691ED6EC1258EAA0052B1B2",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53CBCE038691ED6EC1258EAA0052B1B2?openDocument",
+  "spisova_znacka": "27 Cdo 122/2024",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.122.2024.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-07",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Prodlení dlužníka",
+    "dotcene_predpisy": "čl. 6 odst. 4 bod d Nařízení (EU) č. 593/2008"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 39245,
+  "rozbor": {
+    "shrnuti": "Spotřebitelka se domáhala po zahraničním obchodníkovi s cennými papíry náhrady škody (ušlého zisku) z obchodování s rozdílovými smlouvami (CFD), když obchodník provedl příkaz za horší kurz. Nejvyšší soud s odkazem na rozsudek SDEU ve věci C-346/25 uzavřel, že výjimka ze spotřebitelské ochrany podle čl. 6 odst. 4 písm. d) nařízení Řím I se nevztahuje na ustanovení rámcové smlouvy umožňující obchodníkovi příkaz neprovést nebo provést za jiných podmínek; rozhodným právem je proto právo českého bydliště spotřebitelky a doložka o volbě kyperského práva je neplatná. Dále vyložil, že lhůta k plnění bez zbytečného odkladu podle § 1958 odst. 2 o. z. je lhůtou ve smyslu § 605 a násl. o. z., a proto se na její konec zásadně uplatní § 607 o. z. Odvolací soud tuto otázku neposoudil, proto Nejvyšší soud zrušil výrok o úroku z prodlení a věc vrátil; ve zbytku dovolání zamítl a v části směřující proti výroku v prospěch dovolatelky je odmítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Patří mezi práva a povinnosti, které představují finanční nástroj ve smyslu čl. 6 odst. 4 písm. d) nařízení Řím I, ustanovení rámcové smlouvy o CFD mezi obchodníkem a spotřebitelem, jež obchodníkovi umožňují při technických potížích neprovést příkaz spotřebitele nebo jej provést za jinou než akceptovanou cenu?",
+        "odpoved": "Ne; takové ustanovení upravuje poskytování finanční služby, a proto se výjimka ze spotřebitelské ochrany neuplatní a rozhodným právem je podle čl. 6 odst. 1 a 2 nařízení Řím I právo obvyklého bydliště spotřebitele (podle výkladu SDEU ve věci C-346/25)."
+      },
+      {
+        "otazka": "Je lhůta k plnění „bez zbytečného odkladu“ podle § 1958 odst. 2 o. z. lhůtou ve smyslu § 605 a násl. o. z., takže při jejím konci na sobotu, neděli nebo svátek se uplatní § 607 o. z.?",
+        "odpoved": "Ano, jde o lhůtu, neboť na jednání dlužníka závisí vznik následku (prodlení); § 607 o. z. se zásadně uplatní, ledaže z ujednání stran nebo z povahy závazku plyne, že dlužník mohl a měl plnit i v den pracovního klidu."
+      },
+      {
+        "otazka": "Jaké okolnosti je třeba zohlednit při určení délky lhůty „bez zbytečného odkladu“ k plnění peněžitého dluhu z náhrady škody podle § 1958 odst. 2 o. z.?",
+        "odpoved": "Délka (zásadně dny, maximálně týdny) závisí na okolnostech případu, zejména na době objektivně potřebné k přípravě a realizaci řádného plnění, povaze plnění, možnostech dlužníka a překážkách, které mu bránily."
+      }
+    ],
+    "pravni_vety": [
+      "Ustanovení rámcové smlouvy o CFD uzavřené mezi obchodníkem a spotřebitelem, která obchodníkovi umožňují neprovést příkaz spotřebitele nebo jej provést za jiných podmínek, než spotřebitel určil, nepředstavují práva a povinnosti, které představují finanční nástroj ve smyslu čl. 6 odst. 4 písm. d) nařízení Řím I.",
+      "Lhůta k plnění bez zbytečného odkladu podle § 1958 odst. 2 o. z. je lhůtou ve smyslu § 605 a násl. o. z.; připadne-li její konec na sobotu, neděli nebo svátek, je posledním dnem lhůty zásadně nejbližší následující pracovní den (§ 607 o. z.), ledaže z ujednání stran nebo z povahy závazku plyne, že dlužník mohl a měl plnit i v den pracovního klidu."
+    ],
+    "vysledek": "Dovolání proti prvnímu výroku odmítnuto; rozsudek odvolacího soudu zrušen v části o úroku z prodlení od 14. 2. 2016 a v nákladových výrocích a věc vrácena odvolacímu soudu; ve zbytku dovolání zamítnuto.",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "čl. 6 odst. 1, 2 a 4 písm. d) nařízení Řím I",
+      "čl. 3 odst. 1 nařízení Řím I",
+      "§ 607 o. z.",
+      "§ 605 o. z.",
+      "§ 1958 odst. 2 o. z.",
+      "§ 1968 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "CFD",
+      "rozhodné právo",
+      "spotřebitelská smlouva",
+      "nařízení Řím I",
+      "lhůta bez zbytečného odkladu",
+      "§ 607 o. z.",
+      "prodlení",
+      "finanční nástroj"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí poprvé řeší aplikaci výjimky z čl. 6 odst. 4 písm. d) nařízení Řím I na CFD po odpovědi SDEU a sjednocuje výklad vztahu § 1958 odst. 2 a § 607 o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

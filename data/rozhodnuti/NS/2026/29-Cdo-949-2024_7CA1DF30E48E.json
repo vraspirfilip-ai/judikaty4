@@ -1,0 +1,63 @@
+{
+  "id": "NS:7CA1DF30E48EF242C1258E4A004D3E41",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CA1DF30E48EF242C1258E4A004D3E41?openDocument",
+  "spisova_znacka": "29 Cdo 949/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.949.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Náhrada škody způsobená státem",
+    "dotcene_predpisy": "§ 25 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 38191,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce, určený opatřením předsedy insolvenčního soudu (původně jako předběžný správce), se domáhal náhrady škody (ušlého zisku) poté, co bylo usnesení o úpadku a jeho ustanovení zrušeno a v novém rozhodnutí o úpadku byl na základě nově vyžádaného opatření ustanoven jiný správce. Odvolací soud žalobu zamítl, protože po zrušení usnesení o úpadku se řízení vrátilo na počátek a původní opatření zaniklo. Nejvyšší soud dospěl k závěru, že opatření o určení správce zásadně platí pro celé insolvenční řízení a zrušení rozhodnutí o úpadku jeho platnost samo o sobě neruší. Nový správce lze určit jen při důvodech, pro které by byl původní správce odvolán či zproštěn funkce. Postup insolvenčního soudu proto může být nesprávným úředním postupem podle zák. č. 82/1998 Sb. Rozhodnutí odvolacího soudu zrušil a věc vrátil k dalšímu řízení; odpovědnost za nezákonné rozhodnutí naopak neshledal.",
+    "klicove_otazky": [
+      {
+        "otazka": "Platí opatření předsedy insolvenčního soudu o určení osoby insolvenčního správce pro celé insolvenční řízení, i když je zrušeno usnesení o úpadku obsahující výrok o ustanovení správce, a lze v novém rozhodnutí o úpadku ustanovit jinou osobu na základě nově vyžádaného opatření?",
+        "odpoved": "Opatření zásadně platí pro celé řízení a zrušení usnesení o úpadku jeho platnost samo o sobě neruší; jinou osobu lze ustanovit jen z důvodů, pro které by byl správce odvolán či zproštěn funkce (§ 25, § 27 odst. 2, § 31 IZ), a tyto důvody mají být z nového rozhodnutí seznatelné."
+      },
+      {
+        "otazka": "Je nesprávným úředním postupem podle zák. č. 82/1998 Sb. vyžádání nového opatření a ustanovení jiného insolvenčního správce po zrušení rozhodnutí o úpadku, aniž jsou dány důvody k odvolání původně určeného správce?",
+        "odpoved": "Ano, takový postup může naplňovat znaky nesprávného úředního postupu podle § 5 písm. b) a § 13 zák. č. 82/1998 Sb., neboť odporuje účelu insolvenčního řízení, zásadě hospodárnosti a rotačnímu systému ustanovování správců."
+      },
+      {
+        "otazka": "Odpovídá stát za škodu neustanoveného insolvenčního správce z titulu nezákonného rozhodnutí, jestliže rozhodnutí o úpadku s ustanovením jiného správce nebylo zrušeno a neustanovený správce proti němu nemohl podat odvolání?",
+        "odpoved": "Ne, odpovědnostní titul nezákonného rozhodnutí není dán, protože rozhodnutí nebylo pro nezákonnost zrušeno ani změněno; škoda může vzniknout jen z nesprávného úředního postupu (§ 5 zák. č. 82/1998 Sb.)."
+      }
+    ],
+    "pravni_vety": [
+      "Opatření předsedy insolvenčního soudu o určení osoby insolvenčního správce zásadně platí pro celé insolvenční řízení; zrušení usnesení o úpadku, jehož součástí je výrok o ustanovení správce, samo o sobě důvodem pro vydání nového opatření a ustanovení jiné osoby není.",
+      "Jinou osobu než dříve určenou lze v novém rozhodnutí o úpadku ustanovit insolvenčním správcem zpravidla jen z důvodů, pro které by původní správce mohl být odvolán či zproštěn funkce, a tyto důvody mají být z rozhodnutí seznatelné; jinak může jít o nesprávný úřední postup podle zák. č. 82/1998 Sb."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 25 IZ",
+      "§ 27 odst. 2 IZ",
+      "§ 31 odst. 4 IZ",
+      "§ 5 písm. b) zák. č. 82/1998 Sb.",
+      "§ 13 zák. č. 82/1998 Sb.",
+      "§ 4 vyhlášky č. 311/2007 Sb.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "insolvenční správce",
+      "opatření předsedy soudu",
+      "nesprávný úřední postup",
+      "odpovědnost státu",
+      "rotační systém",
+      "zrušení rozhodnutí o úpadku",
+      "ušlý zisk"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší, zda opatření o určení insolvenčního správce platí pro celé řízení i po zrušení rozhodnutí o úpadku, a rozvíjí judikaturu o odpovědnosti státu v této souvislosti.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "NS:8C3B9EB6F85924F6C1258EAC0052C8CE",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C3B9EB6F85924F6C1258EAC0052C8CE?openDocument",
+  "spisova_znacka": "29 NSČR 13/2026",
+  "ecli": "ECLI:CZ:NS:2026:29.NSCR.13.2026.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-10-27",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení",
+    "dotcene_predpisy": "§ 32 odst. 1 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 27030,
+  "rozbor": {
+    "shrnuti": "Dlužník se domáhal zproštění insolvenčního správce funkce a odvolání zástupce věřitelů z funkce. Nejvyšší soud dovolání zamítl jako nedůvodné. Rozhodnutí správce nevymáhat sporně tvrzenou pohledávku dlužníka není porušením odborné péče, pokud je podloží odborně obhajitelnými důvody a dlužník může ve sporu pokračovat sám. Činnost správce mimo výkon funkce bez vazby na konkrétní insolvenční řízení sama o sobě důvodem ke zproštění není. Vstup zástupce věřitelů do cizího sporu jako vedlejšího účastníka není bez dalšího důvodem k jeho odvolání, pokud nezneužil funkční postavení ani neohrozil společný zájem věřitelů.",
+    "klicove_otazky": [
+      {
+        "otazka": "Porušuje insolvenční správce povinnost odborné péče podle § 36 odst. 1 IZ, jestliže odmítne vymáhat tvrzenou pohledávku dlužníka nebo pokračovat v řízení o ní a své rozhodnutí odůvodní právním posouzením pohledávky, přičemž dlužník může ve sporu pokračovat sám?",
+        "odpoved": "Ne, pokud správce své rozhodnutí opřel o skutkové a právní důvody odborně obhajitelné podle podkladů, které měl či mohl mít, a nebylo svévolné. Ani tvrzená pohledávka sporná povahy správce nezbavuje povinnosti opatřit si podklady, ale jeho rozhodnutí nevymáhat ji není porušením § 36 odst. 1 IZ."
+      },
+      {
+        "otazka": "Je důvodem ke zproštění insolvenčního správce funkce podle § 32 odst. 1 IZ jeho činnost mimo výkon funkce (např. poskytování půjček), která nemá konkrétní souvislost s plněním jeho povinností v daném insolvenčním řízení?",
+        "odpoved": "Ne, zproštění slouží k zajištění řádného výkonu funkce v konkrétním insolvenčním řízení; bezúhonnost a splnění předpokladů činnosti posuzuje v rámci veřejnoprávního dohledu Ministerstvo spravedlnosti podle zákona o insolvenčních správcích."
+      },
+      {
+        "otazka": "Je důležitým důvodem pro odvolání zástupce věřitelů podle § 63 odst. 3 IZ, že vlastním jménem vstoupil jako vedlejší účastník na straně žalované do sporu, v němž dlužník uplatňuje pohledávku, kterou správce nepovažoval za důvodnou ani nesepsal do majetkové podstaty?",
+        "odpoved": "Ne bez dalšího; vlastní procesní právo je důvodem k odvolání jen tehdy, pokud současně znamená porušení povinností funkce, např. zneužití funkčního postavení či informací, maření vymáhání pohledávky patřící do podstaty nebo ohrožení podstaty. Takové okolnosti zjištěny nebyly."
+      }
+    ],
+    "pravni_vety": [
+      "Rozhodnutí insolvenčního správce nevymáhat tvrzenou pohledávku dlužníka nebo nepokračovat v řízení o ní není porušením povinnosti postupovat s odbornou péčí (§ 36 odst. 1 insolvenčního zákona), jestliže vychází z odborně obhajitelného posouzení právního a skutkového základu pohledávky, nákladů, rizik a pravděpodobnosti úspěchu podle podkladů dostupných v době rozhodování.",
+      "Činnost insolvenčního správce mimo výkon funkce bez konkrétního vztahu k poměrům posuzovaného insolvenčního řízení sama o sobě nezakládá důvod pro jeho zproštění funkce podle § 32 odst. 1 insolvenčního zákona.",
+      "Výkon vlastního procesního práva členem věřitelského orgánu je důležitým důvodem pro jeho odvolání podle § 63 odst. 3 insolvenčního zákona jen tehdy, jestliže podle konkrétních okolností současně znamená porušování nebo zanedbávání povinností při výkonu funkce; samotný vstup zástupce věřitelů do sporu dlužníka jako vedlejšího účastníka takovým důvodem není."
+    ],
+    "vysledek": "dovolání zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 32 odst. 1 IZ",
+      "§ 36 odst. 1 IZ",
+      "§ 60 odst. 1 IZ",
+      "§ 63 odst. 3 IZ",
+      "§ 31 IZ",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř.",
+      "§ 157 odst. 2 o. s. ř."
+    ],
+    "klicova_slova": [
+      "insolvenční správce",
+      "zproštění funkce",
+      "zástupce věřitelů",
+      "odvolání z funkce",
+      "odborná péče",
+      "vymáhání pohledávky dlužníka",
+      "vedlejší účastenství",
+      "činnost mimo výkon funkce"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Soud poprvé v dané souvislosti řešil kritéria pro rozhodnutí správce nevymáhat pohledávku dlužníka, relevanci činnosti správce mimo funkci a vstup zástupce věřitelů do cizího sporu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "NS:C773F74016D50C15C1258EB10052A7FA",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C773F74016D50C15C1258EB10052A7FA?openDocument",
+  "spisova_znacka": "29 ICdo 200/2026",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.200.2026.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-10-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Přerušení řízení",
+    "dotcene_predpisy": "§ 109 odst. 2 písm. c) o. s. ř."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 17487,
+  "rozbor": {
+    "shrnuti": "V incidenčním sporu o určení pravosti pohledávky, vyvolaném popěrným úkonem přihlášeného věřitele, insolvenční soud řízení přerušil, protože výsledek jiného incidenčního sporu, v němž je popřena pohledávka žalobce, může ovlivnit jeho postavení přihlášeného věřitele. Odvolací soud usnesení změnil a řízení nepřerušil. Nejvyšší soud dovolání zamítl. Ztráta postavení popírajícího věřitele není otázkou významnou pro rozhodnutí podle § 109 odst. 2 písm. c) o. s. ř., protože ji předvídá § 161 odst. 2 insolvenčního zákona, který stanoví postup pro pokračování sporu na návrh insolvenčního správce. Přerušení by navíc nebylo účelné, neboť by vedlo k řetězení přerušených řízení a k prodloužení insolvenčního řízení. Námitky zmatečnostní vady (porušení kontradiktornosti) shledal nedůvodnými.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je důvodem pro přerušení incidenčního sporu vyvolaného popěrným úkonem věřitele podle § 109 odst. 2 písm. c) o. s. ř. to, že výsledek jiného incidenčního sporu, v němž je popřena pohledávka popírajícího věřitele, může vést ke ztrátě jeho postavení přihlášeného věřitele a tím jeho aktivní legitimace?",
+        "odpoved": "Ne, protože insolvenční zákon takovou ztrátu postavení předvídá a v § 161 odst. 2 upravuje procesní mechanismus pokračování sporu na návrh insolvenčního správce, takže nejde o otázku významnou pro rozhodnutí; přerušení by navíc nebylo hospodárné, je-li i druhé řízení přerušeno."
+      },
+      {
+        "otazka": "Zakládá zmatečnostní vadu podle § 229 odst. 3 o. s. ř. v incidenčním sporu skutečnost, že soud nedoručil účastníku písemnosti jiných účastníků zvláštním způsobem, když byly zveřejněny v insolvenčním rejstříku?",
+        "odpoved": "Ne, protože se podle § 71 odst. 1 insolvenčního zákona písemnosti doručují zásadně zveřejněním v insolvenčním rejstříku, a účastník se tak mohl vyjádřit; navíc nelze namítat vady týkající se jiných osob, např. insolvenčního správce."
+      }
+    ],
+    "pravni_vety": [],
+    "vysledek": "dovolání zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 109 odst. 2 písm. c) o. s. ř.",
+      "§ 161 odst. 2 IZ",
+      "§ 7 IZ",
+      "§ 71 odst. 1 IZ",
+      "§ 229 odst. 3 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "přerušení řízení",
+      "incidenční spor",
+      "popěrný úkon",
+      "aktivní legitimace",
+      "insolvenční správce",
+      "hospodárnost řízení",
+      "doručování v insolvenčním řízení"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řešil, zda ztráta postavení popírajícího věřitele odůvodňuje přerušení incidenčního sporu podle § 109 odst. 2 písm. c) o. s. ř., aniž však šlo o změnu judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

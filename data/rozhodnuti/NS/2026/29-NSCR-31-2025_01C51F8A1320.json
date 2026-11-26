@@ -1,0 +1,59 @@
+{
+  "id": "NS:01C51F8A1320E8E2C1258E14004D2405",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01C51F8A1320E8E2C1258E14004D2405?openDocument",
+  "spisova_znacka": "29 NSČR 31/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.NSCR.31.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Insolvenční řízení (zásady)",
+    "dotcene_predpisy": "§ 2 o. s. ř."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 29153,
+  "rozbor": {
+    "shrnuti": "V insolvenčním řízení vedeném konkursem insolvenční soud odsouhlasil vydání výtěžku zpeněžení zajištěnému věřiteli, jehož pohledávka byla zjištěna na přezkumném jednání. Dlužník namítal, že přihláška byla podána opožděně, a tudíž se k ní nemá přihlížet. Nejvyšší soud dovolání proti výroku, jímž bylo odmítnuto odvolání, odmítl jako objektivně nepřípustné. Dovolání proti potvrzujícímu výroku zamítl. Po zjištění pohledávky již insolvenční soud nemůže přihlášku odmítnout jako opožděnou. Plnění lze výjimečně odepřít jen tehdy, jestliže nové skutečnosti zakládají kolizi se základními zásadami insolvenčního řízení a vedou ke zjevné nespravedlnosti. Doba přihlášení pohledávky není skutečností, která by po zjištění pohledávky nově nastala nebo vyšla najevo.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může insolvenční soud po zjištění přihlášené pohledávky podle § 201 odst. 1 písm. a) IZ odmítnout její přihlášku jako opožděnou podle § 173 odst. 1 IZ a odepřít věřiteli plnění z výtěžku zpeněžení zajištění podle § 298 IZ?",
+        "odpoved": "Ne; uzavřením přezkumu zjištěním pohledávky nelze znovu otevřít zkoumání včasnosti přihlášky a plnění lze odepřít jen výjimečně, jestliže nové skutečnosti zakládají kolizi se zásadami insolvenčního řízení (§ 5 IZ) a zjevnou nespravedlnost."
+      },
+      {
+        "otazka": "Je doba podání přihlášky pohledávky, z níž plyne její opožděnost, skutečností, která po zjištění pohledávky na přezkumném jednání nově nastala nebo nově vyšla najevo, a může tak odůvodnit výjimečné prolomení vázanosti výsledkem přezkumu?",
+        "odpoved": "Ne; doba přihlášení byla známa již v době přezkumu, a nejde proto o novou skutečnost, a samotné zjištění opožděně podané pohledávky není porušením § 5 písm. a) IZ."
+      }
+    ],
+    "pravni_vety": [
+      "Poté, co přihlášená pohledávka byla zjištěna podle § 201 odst. 1 písm. a) insolvenčního zákona, insolvenční soud již nemůže přihlášku této pohledávky odmítnout jako podanou opožděně.",
+      "Plnění na zjištěnou pohledávku lze věřiteli odepřít z důvodu, že šlo o pohledávku přihlášenou opožděně, jen jestliže nově nastalé nebo nově vyšlé najevo skutečnosti zakládají kolizi se základními zásadami insolvenčního řízení (§ 5 insolvenčního zákona) a vedou k popření základních principů právního státu a ke zcela zjevné nespravedlnosti."
+    ],
+    "vysledek": "dovolání proti prvnímu výroku odmítnuto jako nepřípustné, dovolání proti druhému výroku zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 173 odst. 1 IZ",
+      "§ 201 odst. 1 písm. a) IZ",
+      "§ 298 IZ",
+      "§ 5 písm. a) IZ",
+      "§ 189 odst. 1 IZ",
+      "§ 238 odst. 1 písm. e) o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "opožděná přihláška pohledávky",
+      "zjištění pohledávky",
+      "přezkumné jednání",
+      "zajištěný věřitel",
+      "výtěžek zpeněžení",
+      "vázanost výsledkem přezkumu",
+      "základní zásady insolvenčního řízení"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí rozvíjí judikaturu o vázanosti výsledkem přezkumu a výslovně řeší, že po zjištění pohledávky již nelze uplatnit následky opožděné přihlášky, ale má kategorii A a navazuje na R 23/2024.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

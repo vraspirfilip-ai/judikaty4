@@ -1,0 +1,61 @@
+{
+  "id": "NS:76E080C6B8787847C1258E3B004D3D67",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/76E080C6B8787847C1258E3B004D3D67?openDocument",
+  "spisova_znacka": "27 Cdo 1076/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.1076.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-24",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]",
+    "dotcene_predpisy": "§ 556 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 33126,
+  "rozbor": {
+    "shrnuti": "Žalobce se domáhal vrácení kupní ceny za hromadnou akcii (jako bezdůvodného obohacení po odstoupení od akcionářské smlouvy, na níž měla být závislá smlouva o koupi akcií), případně zaplacení kupní ceny a smluvních pokut z opční smlouvy. Odvolací soud zamítl žalobu s tím, že smlouva o koupi akcií byla splněním „zkonzumována“, takže od ní nelze odstoupit, a že valná hromada neudělila souhlas s převodem akcie, takže nastaly účinky odstoupení podle § 271 z. o. k. Nejvyšší soud rozhodnutí zrušil. Splnění hlavního závazku z jedné ze závislých smluv samo o sobě nebrání použití poslední věty § 1727 o. z. a odvolací soud se musel zabývat tím, zda šlo o smlouvy závislé. Odvolací soud také neprovedl řádný výklad stanov ani smluv podle § 555 a 556 o. z. a nevypořádal námitky dovolatele.",
+    "klicove_otazky": [
+      {
+        "otazka": "Brání použití pravidla poslední věty § 1727 o. z. o zrušení závislých smluv při zániku závazku z jedné z nich skutečnost, že hlavní závazek z jiné ze závislých smluv byl již splněn („zkonzumován“)?",
+        "odpoved": "Ne, splnění hlavního závazku z jedné ze závislých smluv bez dalšího nevylučuje, aby se odstoupení od jiné závislé smlouvy projevilo i ve vztahu k ní; opačný závěr nemá oporu v jazykovém výkladu ani ve smyslu § 1727 o. z. Soud se proto musí zabývat tím, zda šlo o smlouvy závislé."
+      },
+      {
+        "otazka": "Musí soud při posouzení účinků odstoupení od jedné smlouvy na další smlouvy zkoumat, zda jde o závislé smlouvy ve smyslu § 1727 o. z.?",
+        "odpoved": "Ano, závislost vyplývá z povahy smluv nebo z účelu známého stranám při uzavření a rozhoduje zejména to, zda by strany měly zájem na uzavření jen některé ze smluv. Právní posouzení bez tohoto zkoumání je v rozporu s ustálenou judikaturou."
+      },
+      {
+        "otazka": "Lze omezení převoditelnosti akcií stanovami a následky neudělení souhlasu podle § 271 z. o. k. posoudit bez řádného výkladu stanov a smluv podle § 555 a 556 o. z.?",
+        "odpoved": "Ne, soud musí vyložit smlouvy podle § 556 o. z. (primárně skutečná vůle stran) a stanovy jako zakladatelské jednání zásadně objektivně podle § 556 odst. 1 věty druhé o. z. a vypořádat se s námitkami, že omezení na převod nedopadá nebo že smlouva určila jiný následek podle § 271 odst. 2 z. o. k."
+      }
+    ],
+    "pravni_vety": [
+      "Splnění hlavního závazku z jedné ze závislých smluv („konzumace“ smlouvy) samo o sobě nevylučuje, aby se odstoupení od jiné závislé smlouvy projevilo s obdobnými účinky i ve vztahu k ní podle poslední věty § 1727 o. z."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 1727 o. z.",
+      "§ 555 o. z.",
+      "§ 556 o. z.",
+      "§ 271 z. o. k.",
+      "§ 272 z. o. k.",
+      "§ 243e odst. 1 o. s. ř."
+    ],
+    "klicova_slova": [
+      "závislé smlouvy",
+      "odstoupení od smlouvy",
+      "opční smlouva",
+      "převod akcií",
+      "omezení převoditelnosti akcií",
+      "výklad právního jednání",
+      "výklad stanov"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí upřesňuje, že splnění závazku z jedné závislé smlouvy nebrání uplatnění § 1727 věty třetí o. z., a shrnuje judikaturu k závislým smlouvám a výkladu právních jednání včetně stanov.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

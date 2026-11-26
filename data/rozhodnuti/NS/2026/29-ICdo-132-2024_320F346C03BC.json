@@ -1,0 +1,66 @@
+{
+  "id": "NS:320F346C03BCF4FCC1258EA30052A2CE",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/320F346C03BCF4FCC1258EA30052A2CE?openDocument",
+  "spisova_znacka": "29 ICdo 132/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.132.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Incidenční spory (odporové spory)",
+    "dotcene_predpisy": "§ 140d IZ. ve znění do 31.05.2019"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 60411,
+  "rozbor": {
+    "shrnuti": "Správce daně přihlásil do insolvenčního řízení daňového dlužníka nevykonatelnou pohledávku na dani z přidané hodnoty v odhadnuté výši, protože u dlužníka probíhala daňová kontrola a daň byla doměřena až po přezkumném jednání. Insolvenční správce pohledávku popřel co do pravosti i výše a soudy nižších stupňů určily, že pohledávka je po právu. Nejvyšší soud potvrdil, že existující daňovou pohledávku lze přihlásit i před vydáním platebního výměru a že dodatečné platební výměry nebyly nicotné. Přihláška však obsahovala jen zcela obecný údaj o důvodu vzniku (bez určení zdaňovacích období), takže byla vadná a nebyla způsobilá k přezkumu. Nejvyšší soud proto rozsudek odvolacího soudu změnil a žalobu zamítl pro předčasnost.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze do insolvenčního řízení přihlásit jako nevykonatelnou pohledávku daň z přidané hodnoty za zdaňovací období před úpadkem, jejíž výše nebyla do přihlášky ani do přezkumného jednání pravomocně určena platebním výměrem a je uplatněna odhadem na základě probíhající daňové kontroly?",
+        "odpoved": "Ano, správce daně může již vzniklou pohledávku (§ 21 a § 99 zákona o DPH) přihlásit podle § 173 a § 175 IZ bez ohledu na to, zda byl platební výměr vydán nebo pravomocný; insolvenční zákon vyžaduje jen existenci pohledávky."
+      },
+      {
+        "otazka": "Brání ukončení přezkumného jednání (§ 243 odst. 2 daňového řádu ve znění do 30. 6. 2017) dalšímu pokračování nalézacího daňového řízení a lze dodatečné platební výměry vydané po přezkumu ponechat stranou jako nicotné?",
+        "odpoved": "Nejvyšší soud se přiklonil k judikatuře Nejvyššího správního soudu o zastavení nalézacího řízení ukončením přezkumu, ale obecné soudy mohou vydaný správní akt pominout jen je-li nicotný, což dodatečné platební výměry nebyly."
+      },
+      {
+        "otazka": "Musí soud zamítnout žalobu o určení pravosti a výše popřené pohledávky pro předčasnost, jestliže přihláška obsahuje jen zcela obecný údaj o důvodu vzniku, který neumožňuje individualizaci skutku (např. neurčuje zdaňovací období), a insolvenční správce neodstraňoval vady podle § 188 odst. 2 IZ?",
+        "odpoved": "Ano, vada přihlášky bránící přezkumu znamená, že se soud nemůže důvodností žaloby zabývat a musí ji zamítnout pro předčasnost; vady se pak odstraňují v insolvenčním řízení a následuje nový přezkum (§ 174 odst. 2, § 188 odst. 2 IZ)."
+      }
+    ],
+    "pravni_vety": [
+      "Pohledávku z titulu nedoplatku na dani z přidané hodnoty vzniklého před rozhodnutím o úpadku je správce daně oprávněn přihlásit jako nevykonatelnou do insolvenčního řízení bez zřetele k tomu, zda její výše byla již pravomocně určena platebním výměrem nebo dodatečným platebním výměrem, a zda byl takový výměr v době podání přihlášky vůbec vydán.",
+      "Zjistí-li soud rozhodující o pravosti nebo výši popřené pohledávky, že přihláška měla v části, o níž rozhoduje, vady bránící přezkumu, musí žalobu zamítnout pro předčasnost."
+    ],
+    "vysledek": "rozsudek odvolacího soudu změněn tak, že žaloba se zamítá pro předčasnost; žádný z účastníků nemá právo na náhradu nákladů řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 173 IZ",
+      "§ 174 odst. 2 IZ",
+      "§ 175 IZ",
+      "§ 188 odst. 2 IZ",
+      "§ 194 IZ",
+      "§ 198 IZ",
+      "§ 243 odst. 2 daňového řádu",
+      "§ 21 a § 99 zákona o dani z přidané hodnoty",
+      "§ 243d odst. 1 písm. b) o. s. ř."
+    ],
+    "klicova_slova": [
+      "přihláška pohledávky",
+      "daň z přidané hodnoty",
+      "incidenční spor",
+      "předčasnost žaloby",
+      "vady přihlášky",
+      "daňová kontrola",
+      "přezkumné jednání",
+      "popření pohledávky"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí upřesňuje možnost přihlásit nevyměřenou daň odhadem a vztah § 243 daňového řádu k insolvenčnímu řízení a zdůrazňuje zamítnutí žaloby pro předčasnost kvůli vadné přihlášce, v řadě navazuje na dřívější judikaturu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "NS:144B89FDFEF7F457C1258DC200529D39",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/144B89FDFEF7F457C1258DC200529D39?openDocument",
+  "spisova_znacka": "24 Cdo 68/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.68.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-02-25",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Správní řízení",
+    "dotcene_predpisy": "§ 244 o. s. ř.",
+    "oficialni_pravni_veta": "Pojem „tatáž věc“ užitý v § 244 odst. 1 o. s. ř. vymezuje předmět řízení, o němž rozhodl nebo měl"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 37878,
+  "rozbor": {
+    "shrnuti": "Žalobce se v řízení podle části páté o. s. ř. domáhal nahrazení správních rozhodnutí o vyvlastnění, mimo jiné požadoval uložení povinnosti vybudovat náhradní sjezd. Správní orgány o tomto požadavku nerozhodly ve výroku, vypořádaly jej jen v odůvodnění. Odvolací soud proto žalobu v této části zamítl, protože o věci nebylo ve výroku rozhodnuto. Nejvyšší soud to označil za nesprávné: rozsah soudního projednání určuje to, co bylo předmětem řízení před správním orgánem, a vymezení žalobcem, nikoli formulace výroku správního rozhodnutí. Vadu či neúplnost výroku musí civilní soud napravit a nemůže být překážkou přístupu k soudu. Rozsudek odvolacího soudu proto zrušil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je soud v řízení podle části páté o. s. ř. vázán formulací výroku konečného správního rozhodnutí, takže nemůže věcně projednat nárok, který účastník ve správním řízení uplatnil, ale správní orgán o něm výslovně nerozhodl ve výroku a vypořádal jej jen v odůvodnění?",
+        "odpoved": "Ne, rozsah projednání určuje to, co bylo předmětem řízení před správním orgánem, a žalobcem vymezený rozsah žaloby (§ 244, § 250f, § 250b odst. 3 o. s. ř.). Vadný či neúplný výrok správního rozhodnutí soud napraví a nemůže bránit přístupu k soudu."
+      }
+    ],
+    "pravni_vety": [
+      "Pojem „tatáž věc“ v § 244 odst. 1 o. s. ř. vymezuje předmět řízení, o němž správní orgán rozhodl nebo měl rozhodnout; rozsah projednání v řízení podle části páté o. s. ř. určuje to, co bylo předmětem řízení před správním orgánem, a žalobcem vymezený rozsah žaloby, nikoli formulace výroku správního rozhodnutí.",
+      "Skutečnost, že správní orgán ve výroku konečného rozhodnutí nerozhodl o části předmětu řízení, nebrání tomu, aby soud v řízení podle části páté o. s. ř. o této části věcně rozhodl."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 244 odst. 1 o. s. ř.",
+      "§ 246 o. s. ř.",
+      "§ 250b odst. 3 o. s. ř.",
+      "§ 250f o. s. ř.",
+      "§ 250j o. s. ř.",
+      "§ 68 odst. 2 správního řádu",
+      "čl. 36 Listiny"
+    ],
+    "klicova_slova": [
+      "řízení podle části páté o. s. ř.",
+      "tatáž věc",
+      "výrok správního rozhodnutí",
+      "vyvlastnění",
+      "náhradní sjezd",
+      "plná jurisdikce",
+      "dispoziční zásada"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozsudek kategorie A poprvé ve všech souvislostech vykládá pojem „tatáž věc“ v § 244 odst. 1 o. s. ř. a vztah soudního projednání k výroku správního rozhodnutí.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "NS:E5651C3A4500E9E1C1258E13004D247E",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5651C3A4500E9E1C1258E13004D247E?openDocument",
+  "spisova_znacka": "29 NSČR 37/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.NSCR.37.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení",
+    "dotcene_predpisy": "§ 38 odst. 1, 7 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 25903,
+  "rozbor": {
+    "shrnuti": "Šlo o určení odměny insolvenčního správce z výtěžku zpeněžení nemovitostí zajišťujících pohledávku. Správce počítal odměnu samostatně z každého pozemku, ačkoli byly oceněny jako soubor jedním posudkem a jednou veřejnou dražbou vydraženy jako celek k developerské výstavbě. Řešilo se, jak vykládat pojem „funkční celek“ v § 1 odst. 2 vyhlášky č. 313/2007 Sb. Nejvyšší soud uzavřel, že pojem je třeba vykládat do jisté míry autonomně s ohledem na účel insolvenčního řízení. Rozhodná je faktická či funkční provázanost, kterou může založit i předpokládané společné hospodářské využití a ekonomická výhodnost zpeněžení jako celku, což lze usuzovat i z průběhu zpeněžování. Soubor pozemků zde tvořil funkční celek, a dovolání proto zamítl; námitku překvapivosti odmítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Podle jakých kritérií se posuzuje, zda soubor nemovitostí tvoří „funkční celek“ jako jednotlivý předmět zajištění ve smyslu § 1 odst. 2 vyhlášky č. 313/2007 Sb. pro určení odměny insolvenčního správce, a lze tento pojem vykládat autonomně?",
+        "odpoved": "Pojem se vykládá do určité míry autonomně s ohledem na účel a zásady insolvenčního řízení; rozhodná je faktická či funkční provázanost, kterou může založit i předpokládané společné hospodářské využití a ekonomická výhodnost zpeněžení jako celku (§ 1 odst. 2 vyhlášky č. 313/2007 Sb., § 1 písm. a/ a § 5 písm. a/ IZ)."
+      },
+      {
+        "otazka": "Tvoří funkční celek pro účely odměny insolvenčního správce soubor fakticky či funkčně propojených nemovitostí, které byly oceněny jedním znaleckým posudkem jako celek, zpeněženy jednou veřejnou dražbou na pokyn zajištěného věřitele a vydraženy jedním nabyvatelem?",
+        "odpoved": "Zpravidla ano, průběh zpeněžování se při posouzení zohlední, ale nejde o nevyvratitelnou domněnku a existenci funkčního celku je třeba vždy posuzovat podle okolností konkrétního případu (§ 1 odst. 2 vyhlášky č. 313/2007 Sb.)."
+      }
+    ],
+    "pravni_vety": [
+      "Pro určení souboru nemovitostí jako funkčního celku (jednotlivého předmětu zajištění) ve smyslu § 1 odst. 2 vyhlášky č. 313/2007 Sb. je rozhodující s přihlédnutím ke konkrétním okolnostem jejich faktická či funkční provázanost, která může být dána i předpokládaným společným hospodářským využitím a ekonomickou výhodností zpeněžení jako celku, na což lze usuzovat i z průběhu zpeněžování.",
+      "Jestliže insolvenční správce a dražebník nechají fakticky či funkčně propojené nemovitosti ocenit jako celek, zajištěný věřitel navrhne jejich zpeněžení jako celku a nabyvatel je jako celek vydraží, půjde zpravidla o funkční celek i pro účely určení odměny insolvenčního správce."
+    ],
+    "vysledek": "dovolání zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 1 odst. 2 vyhlášky č. 313/2007 Sb.",
+      "§ 38 IZ",
+      "§ 298 IZ",
+      "§ 36 odst. 1 IZ",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "odměna insolvenčního správce",
+      "funkční celek",
+      "předmět zajištění",
+      "zpeněžení nemovitostí",
+      "veřejná dražba",
+      "zajištěný věřitel",
+      "překvapivé rozhodnutí"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé v insolvenčních poměrech výslovně vymezil kritéria funkčního celku podle § 1 odst. 2 vyhlášky č. 313/2007 Sb. a připustil jeho autonomní výklad, nejde však o sjednocení judikatury ani rozhodnutí velkého senátu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

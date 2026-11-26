@@ -1,0 +1,69 @@
+{
+  "id": "NS:B655DA0E38953D05C1258E0B004D42CC",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B655DA0E38953D05C1258E0B004D42CC?openDocument",
+  "spisova_znacka": "29 ICdo 59/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.59.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neúčinnost právního jednání",
+    "dotcene_predpisy": "§ 235 odst. 1 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 39605,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce se domáhal určení neúčinnosti kupní smlouvy, kterou dlužník prodal nemovitosti svému věřiteli, a vydání peněžní náhrady do majetkové podstaty. Kupní cena byla z drtivé části (2 450 000 Kč z 2 700 000 Kč) uhrazena zápočtem pohledávky kupujícího ze zápůjčky, takže dlužník reálně obdržel jen asi 9 % ceny. Nejvyšší soud potvrdil, že jde o právní úkon bez přiměřeného protiplnění podle § 240 IZ. Skutečnost, že započtená pohledávka byla zajištěna zástavním právem k prodávaným nemovitostem, je nevýznamná, protože rozhodné je jen to, zda dlužník reálně obdržel zužitkovatelné protiplnění. Výjimka podle § 240 odst. 4 písm. d) IZ se neuplatní, neboť kupující nedoložil, že vynaložil náležitou pečlivost při zjišťování dlužníkova úpadku. Námitky proti poučení žalobce podle § 118a o. s. ř., překvapivosti rozhodnutí, změně právního názoru odvolacího soudu a meritornímu rozhodnutí odvolacího soudu neobstály; dovolání bylo zamítnuto.",
+    "klicove_otazky": [
+      {
+        "otazka": "Jde o právní úkon bez přiměřeného protiplnění podle § 240 odst. 1 insolvenčního zákona, jestliže dlužník prodal nemovitost svému věřiteli a kupní cena byla téměř celá uhrazena zápočtem věřitelovy pohledávky, která byla zajištěna zástavním právem k téže nemovitosti?",
+        "odpoved": "Ano; zápočet není plnění využitelné k uspokojení ostatních věřitelů a zajištění pohledávky zástavním právem je nevýznamné, protože podstatné je jen to, že se dlužníku reálně nedostalo přiměřeného protiplnění (§ 240 odst. 1 IZ)."
+      },
+      {
+        "otazka": "Lze u právního úkonu bez přiměřeného protiplnění uplatnit výjimku podle § 240 odst. 4 písm. d) insolvenčního zákona, jestliže byla kupní cena sjednána převážně zápočtem a dlužník zjevně neměl prostředky na úhradu splatných závazků a kupující nedoložil, jaké úsilí vynaložil ke zjištění dlužníkova úpadku?",
+        "odpoved": "Ne; z konstrukce úhrady kupní ceny bylo zřejmé, že dlužník neměl prostředky k úhradě splatných závazků, a kupující nekonkretizoval žádné úsilí k zjištění úpadku, takže nelze mít za splněnou podmínku náležité pečlivosti (§ 240 odst. 4 písm. d) IZ)."
+      },
+      {
+        "otazka": "Je odvolací soud oprávněn vyzvat žalobce k doplnění tvrzení a důkazů o dlužníkově úpadku podle § 118a o. s. ř. i po zrušení prvního rozsudku a po nastalé koncentraci řízení, jestliže poučení nebylo dříve poskytnuto?",
+        "odpoved": "Ano; poučovací povinnost podle § 118a o. s. ř. je založena na objektivním principu a § 118b odst. 1 o. s. ř. nebrání doplnění tvrzení a důkazů po koncentraci, nebylo-li poučení dříve poskytnuto."
+      },
+      {
+        "otazka": "Je rozhodnutí odvolacího soudu překvapivé a nepřípustné, jestliže odvolací soud v novém složení změní svůj dříve vyslovený právní názor a věc sám meritorně rozhodne, aniž by rozsudek soudu prvního stupně zrušil?",
+        "odpoved": "Ne; z o. s. ř. nelze dovodit, že by odvolací soud nemohl dříve vyslovený právní názor změnit, a zrušit rozhodnutí soudu prvního stupně lze jen z důvodů uvedených v § 219a o. s. ř."
+      }
+    ],
+    "pravni_vety": [
+      "Při posuzování neúčinnosti právního úkonu podle § 240 insolvenčního zákona je rozhodné jen to, zda dlužník obdržel přiměřené protiplnění; je nevýznamné, zda by pohledávka kupujícího zanikající zápočtem byla zajištěna zástavním právem k převáděné nemovitosti.",
+      "Byla-li kupní cena nemovitosti převážně sjednána zápočtem dříve splatné pohledávky kupujícího, takže dlužník reálně obdržel jen nepatrnou část ceny, jde o právní úkon bez přiměřeného protiplnění ve smyslu § 240 insolvenčního zákona."
+    ],
+    "vysledek": "dovolání žalovaného zamítnuto; žalovanému uložena náhrada nákladů dovolacího řízení 4 114 Kč",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 240 IZ",
+      "§ 240 odst. 4 písm. d) IZ",
+      "§ 236 odst. 2 IZ",
+      "§ 237 IZ",
+      "§ 239 IZ",
+      "§ 118a o. s. ř.",
+      "§ 118b o. s. ř.",
+      "§ 219a o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "insolvenční neúčinnost",
+      "právní úkon bez přiměřeného protiplnění",
+      "zápočet",
+      "zástavní právo",
+      "poučovací povinnost",
+      "překvapivé rozhodnutí"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé beze zbytku řeší význam zástavního práva k převáděné nemovitosti pro posouzení neúčinnosti podle § 240 IZ, jinak však navazuje na ustálenou judikaturu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

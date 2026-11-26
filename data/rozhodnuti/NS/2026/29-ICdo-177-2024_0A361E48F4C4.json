@@ -1,0 +1,64 @@
+{
+  "id": "NS:0A361E48F4C44513C1258E0B004D4353",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A361E48F4C44513C1258E0B004D4353?openDocument",
+  "spisova_znacka": "29 ICdo 177/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.177.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-28",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Žaloba",
+    "dotcene_predpisy": "§ 95 o. s. ř."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 25228,
+  "rozbor": {
+    "shrnuti": "V incidenčním sporu o odpůrčí žalobu insolvenčního správce vydal insolvenční soud rozsudek pro uznání poté, co žalovaný nereagoval na kvalifikovanou výzvu podle § 114b o. s. ř. Žalobce mezitím rozšířil žalobu o peněžité plnění, avšak soud změnu žalovanému nedoručil a nerozhodl o jejím připuštění. Nejvyšší soud potvrdil, že asistent soudce může výzvu podle § 114b o. s. ř. vydat a že dříve nastalá fikce uznání původního petitu na určení neúčinnosti rozšířením žaloby nezaniká. Dovolání však shledal důvodným, protože při řádném postupu by byl částečný rozsudek pro uznání podle § 153a odst. 1 věty druhé o. s. ř. možný jen na návrh žalobce, který nebyl učiněn. Rozsudek odvolacího soudu proto změnil tak, že se rozsudek pro uznání nevydává ani ohledně určení neúčinnosti.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může soud vydat rozsudek pro uznání ohledně původního petitu na určení neúčinnosti právního jednání, jestliže žalobce po marném uplynutí lhůty k výzvě podle § 114b o. s. ř. rozšířil žalobu o peněžité plnění, soud změnu žalovanému nedoručil do vlastních rukou a o jejím připuštění nerozhodl, a žalobce nenavrhl vydání částečného rozsudku pro uznání?",
+        "odpoved": "Ne; při řádném postupu (doručení změny a její připuštění) by částečný rozsudek pro uznání bylo možné vydat jen na návrh žalobce (§ 153a odst. 1 věta druhá o. s. ř.) a vady postupu soudu nemohou zhoršit postavení žalovaného, proto se rozsudek pro uznání nevydává ani ohledně původního petitu."
+      },
+      {
+        "otazka": "Zaniká fikce uznání nároku podle § 114b odst. 5 o. s. ř. nastalá ohledně původního petitu na určení neúčinnosti právního jednání tím, že žalobce následně rozšíří odpůrčí žalobu o samostatně projednatelný petit na peněžité plnění podle § 239 odst. 4 IZ?",
+        "odpoved": "Ne; fikce uznání i předpoklady rozsudku pro uznání se posuzují u každého samostatně projednatelného nároku zvlášť, a účinky uznání proto zůstávají zachovány i po rozšíření žaloby (§ 114b odst. 5, § 153a odst. 3 o. s. ř.)."
+      },
+      {
+        "otazka": "Může asistent soudce insolvenčního soudu z pověření soudce vydat v incidenčním sporu o odpůrčí žalobě usnesení s kvalifikovanou výzvou k vyjádření podle § 114b o. s. ř.?",
+        "odpoved": "Ano; vydání výzvy je úkonem přípravy jednání i rozhodovací činností, na níž se asistent může podílet v rozsahu vyšších soudních úředníků (§ 36a odst. 4 a 5 zákona o soudech a soudcích, § 13 IZ, § 11 zák. č. 121/2008 Sb.), neboť jde o jiný úkon než rozhodnutí ve věci samé v incidenčním sporu."
+      }
+    ],
+    "pravni_vety": [
+      "Jestliže se má podle § 114b odst. 5 o. s. ř. za to, že žalovaný uznal nárok uplatněný žalobou, zůstávají účinky uznání v tomto rozsahu zachovány i poté, kdy žalobce rozšíří žalobu o další samostatně projednatelný nárok.",
+      "Asistent soudce insolvenčního soudu je oprávněn v rámci svého pověření vydat v incidenčním sporu o odpůrčí žalobě kvalifikovanou výzvu k vyjádření podle § 114b o. s. ř.",
+      "Nedoručení změny žaloby žalovanému a nerozhodnutí o jejím připuštění nemůže zhoršit procesní postavení žalovaného tak, že by částečný rozsudek pro uznání byl vydán bez návrhu žalobce (§ 153a odst. 1 věta druhá o. s. ř.)."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu změněn tak, že se rozsudek pro uznání nevydává ani ohledně původního petitu na určení neúčinnosti (změna bodu I. výroku rozsudku insolvenčního soudu).",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 95 o. s. ř.",
+      "§ 114b o. s. ř.",
+      "§ 153a o. s. ř.",
+      "§ 239 odst. 4 IZ",
+      "§ 13 IZ",
+      "§ 36a zákona o soudech a soudcích",
+      "§ 11 zák. č. 121/2008 Sb."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "rozsudek pro uznání",
+      "výzva podle § 114b o. s. ř.",
+      "změna žaloby",
+      "asistent soudce",
+      "fikce uznání",
+      "incidenční spor"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí kategorie A řeší dosud neřešené otázky vztahu rozšíření žaloby k fikci uznání a oprávnění asistenta soudce vydat výzvu podle § 114b o. s. ř. v incidenčním sporu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

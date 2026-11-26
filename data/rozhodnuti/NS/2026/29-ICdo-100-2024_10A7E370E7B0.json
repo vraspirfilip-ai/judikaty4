@@ -1,0 +1,66 @@
+{
+  "id": "NS:10A7E370E7B00647C1258E7C004D4333",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10A7E370E7B00647C1258E7C004D4333?openDocument",
+  "spisova_znacka": "29 ICdo 100/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.100.2024.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-08-31",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Smlouva kupní",
+    "dotcene_predpisy": "§ 241 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 56716,
+  "rozbor": {
+    "shrnuti": "Insolvenční správkyně se odpůrčí žalobou domáhala neúčinnosti platby dlužníka, jíž uhradil část kupní ceny za dodané zboží svému dlouholetému obchodnímu partnerovi jako zvýhodňující právní jednání. Soudy nižších stupňů vyhověly s tím, že platba nebyla učiněna za podmínek obvyklých v obchodním styku, protože dlužník měl jiné věřitele s delším prodlením a poté záhy ukončil podnikání. Nejvyšší soud dovolání shledal důvodným. Prodlení vůči jiným věřitelům je součástí předpokladů zvýhodňujícího jednání, a proto nemůže současně bránit uplatnění výjimky z § 241 odst. 5 písm. b) IZ. Účel získání prostředků k úhradě závazků či pokračování podnikání není samostatným předpokladem výjimky. Rozhodnutí soudů obou stupňů proto zrušil a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze považovat za vybočující z podmínek obvyklého obchodního styku podle § 241 odst. 5 písm. b) IZ úhradu kupní ceny za zboží dodané podle kupní smlouvy uzavřené mezi podnikateli v rámci běžného obchodního styku dlužníka jen proto, že dlužník měl v době platby více věřitelů ve srovnatelném postavení s pohledávkami po splatnosti?",
+        "odpoved": "Ne, prodlení vůči jiným věřitelům („předbíhání ve frontě“) je již součástí předpokladů zvýhodňujícího jednání podle § 241 odst. 1 až 3 IZ, a proto nemůže současně bránit uplatnění výjimky podle § 241 odst. 5 písm. b) IZ."
+      },
+      {
+        "otazka": "Je samostatným předpokladem výjimky podle § 241 odst. 5 písm. b) IZ, že dlužník učinil právní jednání proto, aby získal finanční prostředky využitelné k úhradě závazků nebo k pokračování podnikání?",
+        "odpoved": "Ne, tento účel není dalším samostatným předpokladem výjimky; jde pouze o hledisko, které se může uplatnit při individuálním posouzení „obvyklosti obchodního styku“, aby nebylo opomenuto jednání v zájmu zachování hodnoty závodu pro věřitele."
+      },
+      {
+        "otazka": "Jak se posuzuje, zda šlo o právní jednání dlužníka učiněné za podmínek obvyklých v obchodním styku, a kdy tento předpoklad není splněn?",
+        "odpoved": "Posuzuje se podle celého právního vztahu, z něhož dluh vzešel, a podle okolností konkrétního případu, zejména srovnáním s předmětem podnikání dlužníka; předpoklad není splněn, jde-li o dlužníka nepodnikatele či jednání mimo podnikání, nebo pokud dlužník již ukončil provoz závodu či zastavil platby podstatné části závazků (§ 241 odst. 5 písm. b) IZ)."
+      }
+    ],
+    "pravni_vety": [
+      "Je-li dlužník podnikatel a kupující a uzavřel-li se svým věřitelem jako podnikatelem a prodávajícím kupní smlouvu v rámci svého obvyklého (běžného) obchodního styku, nelze platbu kupní ceny považovat za vybočující z podmínek obvyklého obchodního styku ve smyslu § 241 odst. 5 písm. b) IZ jen proto, že měl dlužník v době platby více věřitelů ve srovnatelném postavení s pohledávkami po splatnosti.",
+      "Zjištění, že dlužník učinil právní jednání za účelem získání prostředků k úhradě závazků nebo k pokračování podnikání, není samostatným předpokladem výjimky podle § 241 odst. 5 písm. b) IZ.",
+      "Právní jednání dlužníka nebylo učiněno za podmínek obvyklých v obchodním styku, jde-li o dlužníka, který není podnikatelem, nebo jednal mimo rámec podnikání jako spotřebitel, anebo poté, co ukončil provoz závodu či zastavil platby podstatné části svých závazků."
+    ],
+    "vysledek": "rozsudky odvolacího i insolvenčního soudu zrušeny a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 241 odst. 1 až 5 IZ",
+      "§ 241 odst. 5 písm. b) IZ",
+      "§ 3 odst. 2 písm. a) IZ",
+      "§ 2079 o. z.",
+      "§ 1908 o. z.",
+      "§ 558 odst. 2 o. z.",
+      "§ 556 odst. 2 o. z.",
+      "§ 502 o. z.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "zvýhodňující právní jednání",
+      "obvyklý obchodní styk",
+      "§ 241 odst. 5 písm. b) IZ",
+      "platba kupní ceny",
+      "insolvenční správce",
+      "předbíhání věřitelů"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozsudek kategorie A zpřesňuje a sjednocuje výklad výjimky pro právní jednání za podmínek obvyklých v obchodním styku a vymezuje její vztah k předpokladům zvýhodňujícího jednání.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

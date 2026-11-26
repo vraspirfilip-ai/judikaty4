@@ -1,0 +1,74 @@
+{
+  "id": "NS:8E2F655638EEE14CC1258E8700374B55",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E2F655638EEE14CC1258E8700374B55?openDocument",
+  "spisova_znacka": "24 Cdo 1025/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.1025.2026.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-08-26",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Řízení o přípustnosti převzetí nebo držení v ústavu zdravotnické péče (detence)",
+    "dotcene_predpisy": "§ 75 odst. 1 a 2 z.ř.s."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 40028,
+  "rozbor": {
+    "shrnuti": "Nezletilý pacient byl přijat do psychiatrického zařízení bez souhlasu a nemocnice to soudu oznámila opožděně. Soud prvního stupně řízení vůbec nezahájil, protože později byly uděleny dodatečné souhlasy. Po propuštění podal pacient návrh na přezkum zákonnosti převzetí a soudy řízení zastavily s poukazem na dlouhou dobu od propuštění. Nejvyšší soud uvedl, že opožděné oznámení nemůže jít k tíži umístěného a soud měl detenční řízení z úřední povinnosti zahájit. Protože umístěný nikdy nedostal usnesení o zastavení řízení s poučením podle § 72 z. ř. s., je jeho návrh třeba vykládat jako prohlášení, že na projednání trvá. Nižší soudy proto rozhodnutí zrušil a věc vrátil k novému projednání včetně přezkumu zákonnosti omezovacích prostředků.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze odmítnout soudní přezkum zákonnosti převzetí do zdravotního ústavu jen proto, že umístěný podal návrh až dlouho po propuštění, jestliže soud detenční řízení vůbec nezahájil a umístěnému tak nebylo doručeno usnesení o zastavení s poučením o právu podle § 72 z. ř. s.?",
+        "odpoved": "Ne. Lhůta k prohlášení, že umístěný na projednání trvá, nemohla začít běžet, a jeho návrh je proto třeba posoudit jako projev vůle na projednání trvat (§ 72, § 76 odst. 2 z. ř. s.). Propuštění by mohlo mít význam jen pro rozhodnutí o dalším držení."
+      },
+      {
+        "otazka": "Musí soud zahájit detenční řízení z úřední povinnosti i tehdy, když poskytovatel zdravotních služeb oznámil hospitalizaci bez souhlasu opožděně po uplynutí 24 hodin a následně sdělil, že byl udělen dodatečný souhlas?",
+        "odpoved": "Ano. Smyslem 24hodinové lhůty je rychlá soudní kontrola, takže její nedodržení nesmí jít k tíži umístěného. Soud je povinen řízení zahájit a provést dokazování podle § 77 z. ř. s.; samotné sdělení poskytovatele o pozdějším souhlasu soudní zjištění nenahradí (§ 75, § 76 odst. 1 z. ř. s.)."
+      },
+      {
+        "otazka": "Lze za dostatečný souhlas s hospitalizací nezletilého pacienta bez plné svéprávnosti považovat dodatečný souhlas poručníka neschválený soudem a souhlas samotného nezletilého udělený po použití omezovacích prostředků?",
+        "odpoved": "Ne. K právnímu jednání poručníka v nikoli běžné záležitosti je nutný souhlas soudu, jinak se k němu nepřihlíží (§ 928, § 934 odst. 1 o. z.), a soud musí zjišťovat okolnosti i svobodu souhlasu nezletilého. Soud proto nemůže bez dalšího přijmout sdělení poskytovatele o udělení souhlasu."
+      },
+      {
+        "otazka": "Za jakých podmínek lze u nezletilého pacienta zákonně použít omezovací prostředky (kurtaci) po dobu několika dnů a jak má soud jejich zákonnost přezkoumávat?",
+        "odpoved": "Podle § 39 odst. 2 zákona o zdravotních službách jen k odvrácení bezprostředního ohrožení, po dobu jeho trvání a nejméně omezujícím prostředkem. Pro každý úsek omezení je nutné zjistit konkrétní ohrožení a nezbytnost, přičemž u nezletilého a při nedostatečné dokumentaci poskytovatele je přezkum zvlášť přísný."
+      }
+    ],
+    "pravni_vety": [
+      "Opožděné oznámení hospitalizace bez souhlasu soudu ze strany zdravotního ústavu nezbavuje soud povinnosti zahájit detenční řízení a jeho nedodržení nelze vykládat v neprospěch umístěného.",
+      "Nebylo-li detenční řízení zahájeno, nemohla začít běžet lhůta podle § 72 z. ř. s. a návrh umístěného na zahájení řízení po propuštění je třeba posoudit jako prohlášení, že na projednání věci trvá; jen z uplynutí doby jej nelze odmítnout.",
+      "Souhlas poručníka s hospitalizací nezletilého, který nebyl schválen soudem, a souhlas nezletilého udělený za okolností zpochybňujících svobodu vůle, nemůže soud bez dalšího zohlednit pouze na základě sdělení poskytovatele zdravotních služeb."
+    ],
+    "vysledek": "dovolání shledáno důvodným; usnesení odvolacího soudu i soudu prvního stupně zrušena a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 72 z. ř. s.",
+      "§ 75 z. ř. s.",
+      "§ 76 z. ř. s.",
+      "§ 77 z. ř. s.",
+      "§ 78 z. ř. s.",
+      "§ 16 z. ř. s.",
+      "§ 38 zákona o zdravotních službách",
+      "§ 39 zákona o zdravotních službách",
+      "§ 40 zákona o zdravotních službách",
+      "§ 928 o. z.",
+      "§ 934 odst. 1 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "detenční řízení",
+      "nedobrovolná hospitalizace",
+      "nezletilý pacient",
+      "omezovací prostředky",
+      "dodatečný souhlas",
+      "zastavení řízení",
+      "osobní svoboda"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud nevyřešenou otázku následků nezahájení obligatorního detenčního řízení soudem a možnosti přezkumu po propuštění umístěného a podrobně vykládá podmínky použití omezovacích prostředků u nezletilého.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

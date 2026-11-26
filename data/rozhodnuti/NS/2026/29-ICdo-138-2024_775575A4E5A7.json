@@ -1,0 +1,62 @@
+{
+  "id": "NS:775575A4E5A7A887C1258E28004CFFC4",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/775575A4E5A7A887C1258E28004CFFC4?openDocument",
+  "spisova_znacka": "29 ICdo 138/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.138.2024.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-05-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Žaloba pro zmatečnost",
+    "dotcene_predpisy": "§ 80a IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 27660,
+  "rozbor": {
+    "shrnuti": "Dlužník podal žalobu pro zmatečnost proti usnesením o zjištění úpadku a prohlášení konkursu s tvrzením, že insolvenční návrhy nemají úředně ověřený podpis. Nejvyšší soud uvedl, že úředně ověřený podpis vyžaduje § 97 odst. 2 IZ jen u návrhu v listinné podobě, ne u návrhu podaného z datové schránky. Požadavek úředně ověřeného podpisu zmocnitele na plné moci podle § 97 odst. 3 IZ se naopak uplatní i u elektronického návrhu podaného zástupcem. Odvolací soud tedy část věci posoudil nesprávně, ale protože plné moci byly úředně ověřeny (autorizovanou konverzí), jeho rozhodnutí je ve výsledku správné. Námitky nepřezkoumatelnosti a porušení předvídatelnosti (§ 13 o. z.) neshledal důvodnými, a proto dovolání zamítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Vyžaduje § 97 odst. 2 IZ ve znění účinném od 19. 9. 2016 úředně ověřený podpis na insolvenčním návrhu podaném v elektronické podobě prostřednictvím datové schránky?",
+        "odpoved": "Ne, povinnost úředně ověřeného podpisu stanoví § 97 odst. 2 IZ jen pro návrh v listinné podobě. U elektronického návrhu je k identifikaci navrhovatele dostačující podání z datové schránky nebo uznávaný elektronický podpis (§ 80a IZ)."
+      },
+      {
+        "otazka": "Musí být k insolvenčnímu návrhu podanému v elektronické podobě zástupcem insolvenčního navrhovatele připojena plná moc s úředně ověřeným podpisem zmocnitele?",
+        "odpoved": "Ano, plná moc musí být opatřena úředně ověřeným nebo uznávaným elektronickým podpisem zmocnitele (v autorizované konverzi), protože datová schránka identifikuje jen zmocněnce a nenahrazuje ověření vůle zmocnitele; závěr plyne z § 97 odst. 3 IZ."
+      },
+      {
+        "otazka": "Porušuje odvolací soud zásadu předvídatelnosti soudního rozhodování (§ 13 o. z.), jestliže se v odůvodnění odchýlí od rozhodnutí jiného senátu téhož soudu, na které účastník odkázal, a srozumitelně vyloží vlastní závěry?",
+        "odpoved": "Ne, § 13 o. z. nevyžaduje, aby soudy rozhodovaly shodně ve skutkově srovnatelných věcech. Soud se musí s argumentem odkazujícím na předchozí rozhodnutí vypořádat a podat srozumitelné důvody vlastního názoru, což zde bylo splněno."
+      }
+    ],
+    "pravni_vety": [
+      "Požadavek úředně ověřeného podpisu na insolvenčním návrhu podle § 97 odst. 2 insolvenčního zákona se vztahuje jen na návrh v listinné podobě; byl-li insolvenční návrh podán v elektronické podobě prostřednictvím datové schránky, úředně ověřený podpis se nevyžaduje.",
+      "Je-li insolvenční návrh podán v elektronické podobě zástupcem insolvenčního navrhovatele, musí být k němu připojena plná moc opatřená úředně ověřeným podpisem nebo uznávaným elektronickým podpisem navrhovatele v autorizované konverzi do elektronické podoby."
+    ],
+    "vysledek": "dovolání dlužníka zamítnuto",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 97 odst. 2 IZ",
+      "§ 97 odst. 3 IZ",
+      "§ 80a IZ",
+      "§ 13 o. z.",
+      "§ 243d odst. 1 písm. a) o. s. ř.",
+      "§ 42 o. s. ř."
+    ],
+    "klicova_slova": [
+      "insolvenční návrh",
+      "úředně ověřený podpis",
+      "datová schránka",
+      "procesní plná moc",
+      "žaloba pro zmatečnost",
+      "autorizovaná konverze",
+      "předvídatelnost rozhodování"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí sjednocuje a rozvíjí výklad § 97 odst. 2 a 3 IZ ohledně ověření podpisu u elektronických insolvenčních návrhů a plných mocí po novele z roku 2016, nejde však o rozhodnutí velkého senátu ani o zásadní změnu judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

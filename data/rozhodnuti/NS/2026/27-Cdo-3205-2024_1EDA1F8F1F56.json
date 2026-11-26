@@ -1,0 +1,54 @@
+{
+  "id": "NS:1EDA1F8F1F565380C1258DA40052D9B2",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EDA1F8F1F565380C1258DA40052D9B2?openDocument",
+  "spisova_znacka": "27 Cdo 3205/2024",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.3205.2024.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-02-12",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Lhůta prekluzivní [ Lhůty ]",
+    "dotcene_predpisy": "§ 259 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 26289,
+  "rozbor": {
+    "shrnuti": "Společník s.r.o. se domáhal vyslovení neplatnosti usnesení valné hromady původně jen pro nedoručení pozvánky; po uplynutí zákonných prekluzivních lhůt návrh rozšířil o další důvody (neposkytnutí informací), které uplatnil protestem na valné hromadě. Soudy obou stupňů změnu připustily podle dřívější judikatury k obchodnímu zákoníku a neplatnost vyslovily. Nejvyšší soud uvedl, že pro poměry od 1. 1. 2014 se tyto závěry neprosadí: s ohledem na právní jistotu společnosti, proporcionalitu a minimalizaci zásahů státu nelze po uplynutí lhůt podle § 259 o. z. a § 191 odst. 1 z. o. k. uplatnit nové důvody neplatnosti, ani když byly včas uplatněny protestem. Rozhodnutí odvolacího soudu i soudu prvního stupně proto zrušil a věc vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může navrhovatel, který se u soudu domáhá vyslovení neplatnosti usnesení valné hromady společnosti s ručením omezeným, po uplynutí prekluzivních lhůt podle § 259 o. z. a § 191 odst. 1 z. o. k. uplatnit nové, v návrhu dosud neuplatněné důvody neplatnosti, jestliže je včas uplatnil protestem na valné hromadě?",
+        "odpoved": "Ne, po uplynutí zákonných prekluzivních lhůt nelze nové důvody uplatnit ani při včasném protestu a soud k nim nepřihlédne, byť by byly dány; závěry usnesení sp. zn. 29 Odo 71/2001 se v poměrech od 1. 1. 2014 neprosadí, a to z důvodu právní jistoty, proporcionality a minimalizace zásahů státu do vnitřních poměrů korporace (§ 191, § 192 z. o. k., § 259 o. z.)."
+      }
+    ],
+    "pravni_vety": [
+      "V poměrech právní úpravy účinné od 1. 1. 2014 navrhovatel, který se domáhá vyslovení neplatnosti usnesení valné hromady společnosti s ručením omezeným z určitých důvodů, nemůže po uplynutí prekluzivních lhůt podle § 259 o. z. a § 191 odst. 1 z. o. k. uplatnit nové důvody neplatnosti, a to ani tehdy, byly-li tyto důvody včas uplatněny formou protestu na valné hromadě; k opožděně uplatněným důvodům soud nepřihlédne.",
+      "Závěry usnesení Nejvyššího soudu sp. zn. 29 Odo 71/2001, podle nichž lze i po uplynutí prekluzivních lhůt rozšířit či změnit důvody neplatnosti usnesení valné hromady, se v poměrech právní úpravy účinné od 1. 1. 2014 neprosadí."
+    ],
+    "vysledek": "dovolání vyhověno, usnesení odvolacího soudu i soudu prvního stupně zrušena a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 191 z. o. k.",
+      "§ 192 z. o. k.",
+      "§ 424 odst. 1 z. o. k.",
+      "§ 155 z. o. k.",
+      "§ 258 o. z.",
+      "§ 259 o. z.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "neplatnost usnesení valné hromady",
+      "protest společníka",
+      "prekluzivní lhůta",
+      "změna důvodů návrhu",
+      "společnost s ručením omezeným",
+      "právní jistota"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí kategorie A řeší dosud neřešenou otázku a opouští dřívější judikaturu (29 Odo 71/2001) o možnosti měnit důvody neplatnosti usnesení valné hromady po uplynutí prekluzivních lhůt, čímž sjednocuje výklad nové úpravy.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

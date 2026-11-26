@@ -1,0 +1,63 @@
+{
+  "id": "NS:EDE0D73E98BD8428C1258E12004D3BCA",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDE0D73E98BD8428C1258E12004D3BCA?openDocument",
+  "spisova_znacka": "29 ICdo 49/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.49.2024.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Dražba",
+    "dotcene_predpisy": "§ 225 odst. 4 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 28923,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce dlužníka (žalobce) se žalobou domáhal určení neplatnosti kupní smlouvy, jíž insolvenční správce jiné dlužnice prodal bytovou jednotku mimo dražbu. Tvrdil, že elektronická aukce, která prodeji předcházela, proběhla po zahájení řízení o vylučovací žalobě, a že tak byl porušen zákaz zpeněžit majetek nebo s ním nakládat podle § 225 odst. 4 IZ. Nejvyšší soud dovolání zamítl. Elektronická aukce slouží jen k vyhledání zájemců o koupi, nezavazuje k uzavření smlouvy a předchází zpeněžení. Není proto zpeněžením ani jiným nakládáním s majetkem. Smlouva byla uzavřena, když správce měl souhlas insolvenčního soudu se zpeněžením.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je elektronická aukce provedená v rámci prodeje nemovitosti mimo dražbu zpeněžením majetku nebo jiným nakládáním s ním ve smyslu zákazu podle § 225 odst. 4 IZ, jestliže se koná po zahájení řízení o vylučovací žalobě, avšak kupní smlouva je uzavřena až poté, co insolvenční soud udělil souhlas se zpeněžením?",
+        "odpoved": "Ne; elektronická aukce je pouze prostředkem zjištění a vyhledání zájemců o koupi, který zpeněžení předchází, a proto není zpeněžením ani jiným nakládáním s majetkem podle § 225 odst. 4 IZ."
+      },
+      {
+        "otazka": "Je elektronická aukce veřejnou dražbou nebo zvláštním způsobem uzavření smlouvy podle § 1771 o. z.?",
+        "odpoved": "Ne; elektronická aukce není zákonem vymezeným pojmem, není veřejnou dražbou ani zvláštním způsobem uzavření smlouvy podle § 1771 o. z., ale jen transparentním způsobem zjištění zájemců s cílem dosáhnout co nejvyšší ceny."
+      },
+      {
+        "otazka": "Je insolvenční správce dlužníka oprávněn podat dovolání v incidenčním sporu, jestliže v době podání dovolání nesepsal do majetkové podstaty dlužníka nemovitosti, kterých se spor týká?",
+        "odpoved": "Ano; dispoziční oprávnění k majetku v majetkové podstatě podle § 229 odst. 3 písm. c) IZ nelze ztotožňovat s procesními úkony insolvenčního správce, takže správce je k dovolání oprávněn."
+      }
+    ],
+    "pravni_vety": [
+      "Elektronická aukce provedená v souvislosti s prodejem majetku mimo dražbu podle § 286 odst. 1 písm. c) insolvenčního zákona není zpeněžením majetku ani jiným způsobem nakládání s ním ve smyslu § 225 odst. 4 insolvenčního zákona."
+    ],
+    "vysledek": "dovolání zamítnuto; žalobce je povinen nahradit prvnímu žalovanému náklady dovolacího řízení, ve vztahu k druhému žalovanému nemá nikdo právo na náhradu nákladů",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 225 odst. 4 a 5 IZ",
+      "§ 283 odst. 1 IZ",
+      "§ 286 odst. 1 IZ",
+      "§ 289 IZ",
+      "§ 293 IZ",
+      "§ 36 odst. 1 IZ",
+      "§ 1771 o. z.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "insolvenční správce",
+      "elektronická aukce",
+      "zpeněžení majetkové podstaty",
+      "prodej mimo dražbu",
+      "vylučovací žaloba",
+      "zákaz nakládání s majetkem",
+      "neplatnost kupní smlouvy"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výslovně řešil povahu elektronické aukce ve vztahu k zákazu zpeněžení a nakládání s majetkem podle § 225 odst. 4 IZ, jde však o úzce vymezenou otázku.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NS:8B557FF0187C50E3C1258E27004D2E8B",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B557FF0187C50E3C1258E27004D2E8B?openDocument",
+  "spisova_znacka": "27 Cdo 621/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.621.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-04",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Právo na informace",
+    "dotcene_predpisy": "§ 155 předpisu č. 90/2012 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 19652,
+  "rozbor": {
+    "shrnuti": "Společník společnosti s ručením omezeným žádal společnost o informace a nahlédnutí do dokladů a stanovil jí lhůtu k plnění. Společnost nejprve nereagovala, poté slíbila informace poskytnout při přípravě valné hromady a později je odmítla. Odvolací soud žalobu zamítl jako prekludovanou s tím, že měsíční lhůta podle § 156 odst. 2 z. o. k. začala běžet marným uplynutím lhůty stanovené ve výzvě. Nejvyšší soud rozhodnutí zrušil, protože prekluzivní lhůta začíná běžet až oznámením o odmítnutí informace, které musí být určitým a srozumitelným projevem vůle společnosti. Mlčení společnosti ani marné uplynutí lhůty určené společníkem odmítnutí nepředstavuje a okamžik splatnosti informační povinnosti je pro počátek lhůty právně bezvýznamný.",
+    "klicove_otazky": [
+      {
+        "otazka": "Od kdy běží prekluzivní lhůta k podání žaloby o poskytnutí informací podle § 156 odst. 2 z. o. k., jestliže se společnost k výzvě společníka nevyjádřila nebo marně uplynula lhůta, kterou si společník ve výzvě pro plnění stanovil?",
+        "odpoved": "Lhůta běží teprve od oznámení společnosti o odmítnutí informace, které je určitým a srozumitelným adresovaným projevem vůle; mlčení ani marné uplynutí lhůty určené společníkem odmítnutí nepředstavuje (§ 156 odst. 2 z. o. k., § 570, § 555 o. z.)."
+      },
+      {
+        "otazka": "Dopadá prekluzivní lhůta podle § 156 odst. 2 z. o. k. na všechna informační práva společníka podle § 155 z. o. k. (včetně nahlížení do dokladů a kontroly údajů) a na každé odmítnutí bez ohledu na jeho důvod?",
+        "odpoved": "Ano, lhůta dopadá na všechna informační práva podle § 155 z. o. k. a na každé odmítnutí společnosti, neboť jejím účelem je posílit stabilitu vnitřních poměrů společnosti; je přitom dispozitivní, takže ji společenská smlouva může prodloužit či vyloučit."
+      },
+      {
+        "otazka": "Je podání žaloby o poskytnutí informací podle § 156 odst. 2 z. o. k. podmíněno předchozí výzvou společnosti a musí se žaloba shodovat s rozsahem informací požadovaných ve výzvě?",
+        "odpoved": "Ne, právní úprava vznik oprávnění podat žalobu předchozí výzvou nepodmiňuje; absence výzvy může mít jen důsledky např. v nákladech řízení (§ 143, § 146 odst. 2 o. s. ř.), a žaloba může obsahovat i hmotněprávní jednání (§ 41 odst. 3 o. s. ř.)."
+      }
+    ],
+    "pravni_vety": [
+      "Prekluzivní lhůta k podání žaloby o poskytnutí informací podle § 156 odst. 2 z. o. k. začíná běžet oznámením společnosti o odmítnutí informace, které musí být určitým a srozumitelným projevem vůle přičitatelným společnosti a adresovaným společníku.",
+      "Pouhé mlčení společnosti na žádost společníka o informace není odmítnutím ve smyslu § 156 odst. 2 z. o. k.; to platí i tehdy, stanovil-li společník společnosti lhůtu k plnění, neurčuje-li společenská smlouva jinak.",
+      "Okamžik, kdy byla společnost povinna informace poskytnout, je pro počátek běhu prekluzivní lhůty podle § 156 odst. 2 z. o. k. právně bezvýznamný."
+    ],
+    "vysledek": "dovolání vyhověno, rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 155 z. o. k.",
+      "§ 156 odst. 2 z. o. k.",
+      "§ 654 o. z.",
+      "§ 555 o. z.",
+      "§ 570 o. z.",
+      "§ 1958 o. z.",
+      "§ 41 odst. 3 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "právo na informace společníka",
+      "prekluzivní lhůta",
+      "s. r. o.",
+      "odmítnutí informace",
+      "mlčení jako projev vůle",
+      "zákon o obchodních korporacích",
+      "nahlížení do dokladů"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší dosud neřešenou otázku počátku běhu prekluzivní lhůty podle § 156 odst. 2 z. o. k. a upřesňuje svou dřívější judikaturu k rozsahu této lhůty.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

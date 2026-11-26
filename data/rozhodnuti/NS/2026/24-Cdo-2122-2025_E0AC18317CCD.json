@@ -1,0 +1,65 @@
+{
+  "id": "NS:E0AC18317CCD5FC6C1258E2E004D19F7",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0AC18317CCD5FC6C1258E2E004D19F7?openDocument",
+  "spisova_znacka": "24 Cdo 2122/2025",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.2122.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-10",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Žaloba",
+    "dotcene_predpisy": "§ 189 odst. 1 z.ř.s."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 26168,
+  "rozbor": {
+    "shrnuti": "Žalobkyně se v průběhu dosud neskončeného řízení o pozůstalosti domáhala vůči jinému možnému dědici určení, že nemovitosti byly ke dni smrti zůstavitelky v jejím vlastnictví, s tvrzením, že kupní smlouva, kterou je zůstavitelka převedla na žalovanou, je neplatná. Soudy žalobu zamítly pro nedostatek naléhavého právního zájmu a aktivní legitimace, protože žalobkyně byla pravomocně vyloučena z dědického práva. Nejvyšší soud dovolání zamítl. Vyložil, že údaje k zjištění aktiv a pasiv pozůstalosti podle § 172 odst. 2 a § 173 z. ř. s. poskytují jen dědici, kteří jsou důvodně považováni za dědice a jejichž dědické právo je nepochybné. Spornost aktiva proto může vzniknout jen mezi nimi. Žaloba podle § 189 odst. 1 z. ř. s. podaná již v průběhu pozůstalostního řízení tak nemůže uspět, pokud nebyl vyhotoven seznam aktiv a pasiv a majetek nebyl označen za sporný. Odmítl i námitku porušení práva na spravedlivý proces.",
+    "klicove_otazky": [
+      {
+        "otazka": "Kdo je „dědicem“ ve smyslu § 172 odst. 2 a § 173 z. ř. s. a „účastníkem“ ve smyslu § 189 odst. 1 z. ř. s. a mezi kým tedy může vzniknout spornost aktiv či pasiv pozůstalosti?",
+        "odpoved": "Pro zjištění aktiv a pasiv pozůstalosti slouží údaje jen těch dědiců, o nichž lze důvodně mít za to, že jsou dědici, a jejichž dědické právo je nepochybné nebo bylo potvrzeno vyřešením sporu o dědické právo. Spornost aktiv a pasiv tak může vzniknout jen mezi nimi (§ 172 odst. 2, § 173 z. ř. s.)."
+      },
+      {
+        "otazka": "Může být úspěšná žaloba podle § 189 odst. 1 z. ř. s. o určení, že věc náležela ke dni smrti zůstaviteli, podaná již v průběhu řízení o pozůstalosti, jestliže dosud nebyl vyhotoven seznam aktiv a pasiv, nebyl vymezen okruh dědiců a majetek nebyl označen za sporný?",
+        "odpoved": "Ne, protože se k majetku nepřihlíželo z důvodu jeho spornosti mezi dědici; to nelze dovodit, dokud nebyl stanoven okruh dědiců a nebyl sestaven seznam aktiv a pasiv (§ 172 odst. 2, § 189 odst. 1 z. ř. s.)."
+      },
+      {
+        "otazka": "Porušuje právo na spravedlivý proces závěr soudů, že žalobci, jehož dědické právo je vyloučeno, nesvědčí aktivní legitimace k žalobě podle § 189 odst. 1 z. ř. s.?",
+        "odpoved": "Ne, správné závěry soudů o tom, že žalobci nepřísluší právo, jehož ochrany se domáhá, nejsou zásahem do práva na spravedlivý proces."
+      }
+    ],
+    "pravni_vety": [
+      "Pro zjištění (objasnění) aktiv a pasiv pozůstalosti podle § 172 odst. 2 a § 173 z. ř. s. slouží údaje jen těch dědiců, o nichž lze důvodně mít za to, že jsou zůstavitelovými dědici, a jejichž dědické právo je nepochybné nebo bylo potvrzeno vyřešením sporu o dědické právo; jen neshoda takových dědiců zakládá spornost aktiv či pasiv pozůstalosti.",
+      "Žaloba podle § 189 odst. 1 z. ř. s. podaná již v průběhu řízení o pozůstalosti nemůže být úspěšná, pokud nebyl stanoven okruh dědiců, vyhotoven seznam aktiv a pasiv a majetek nebyl shledán sporným, takže se k němu v pozůstalostním řízení nepřihlíželo."
+    ],
+    "vysledek": "dovolání žalobkyně zamítnuto, žalobkyně povinna nahradit žalované náklady dovolacího řízení",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 110 odst. 1 z. ř. s.",
+      "§ 168 z. ř. s.",
+      "§ 171 z. ř. s.",
+      "§ 172 odst. 2 z. ř. s.",
+      "§ 173 z. ř. s.",
+      "§ 189 odst. 1 z. ř. s.",
+      "§ 80 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "řízení o pozůstalosti",
+      "sporná aktiva pozůstalosti",
+      "žaloba podle § 189 z. ř. s.",
+      "aktivní legitimace",
+      "naléhavý právní zájem",
+      "dědic jako účastník řízení",
+      "určovací žaloba"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí doplňuje judikaturu k výkladu pojmů dědic a účastník v § 172, § 173 a § 189 z. ř. s. a k podmínkám žaloby o určení vlastnictví zůstavitele v průběhu pozůstalostního řízení.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

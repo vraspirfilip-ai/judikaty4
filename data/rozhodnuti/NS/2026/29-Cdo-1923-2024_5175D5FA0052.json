@@ -1,0 +1,65 @@
+{
+  "id": "NS:5175D5FA0052052FC1258E28004D00B4",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5175D5FA0052052FC1258E28004D00B4?openDocument",
+  "spisova_znacka": "29 Cdo 1923/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.1923.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Smlouva",
+    "dotcene_predpisy": "§ 570 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 21924,
+  "rozbor": {
+    "shrnuti": "Žalobce se domáhal plnění ze směnky vlastní (původně blankosměnky), kterou žalovaný vystavil k zajištění svého závazku z dohody o přistoupení k dluhu společnosti, jejímž je jednatelem. Odvolací soud zrušil směnečný platební rozkaz, protože akceptace návrhu dohody nebyla doručena žalovanému, takže zajišťovaný závazek nevznikl. Nejvyšší soud potvrdil, že doručení písemnosti společnosti nebo jinému jednateli ještě neznamená doručení do dispoziční sféry jednatele, jemuž je jednání určeno, a že povinnost péče řádného hospodáře (§ 159 o. z.) na to nemá vliv. Rozsudek přesto zrušil, protože odvolací soud se nezabýval tvrzením, že k uzavření dohody došlo i faktickým jednáním žalovaného po podpisu smlouvy (e-mail žádající o poskytnutí zápůjčky). Věc vrátil odvolacímu soudu k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Dostane se právní jednání určené členu statutárního orgánu právnické osoby do jeho dispoziční sféry již tím, že bylo doručeno právnické osobě nebo jinému členu jejího statutárního orgánu?",
+        "odpoved": "Ne, bez dalšího nikoli; do dispoziční sféry konkrétního jednatele se jednání dostane jen tehdy, měl-li on sám objektivní možnost se se zásilkou seznámit (§ 570 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Zavazuje povinnost člena voleného orgánu jednat s péčí řádného hospodáře (§ 159 o. z.) tohoto člena, aby se seznamoval s písemnostmi doručenými právnické osobě a určenými jemu osobně jako smluvní straně?",
+        "odpoved": "Ne, při doručování právního jednání určeného osobě, která je zároveň členem voleného orgánu, nejde o výkon funkce; adresát je povinen jen jednat poctivě a s běžnou péčí (§ 4 odst. 1 a § 7 o. z.)."
+      },
+      {
+        "otazka": "Je právní posouzení vzniku dohody o přistoupení k dluhu úplné, jestliže odvolací soud zkoumal pouze doručení akceptace do dispoziční sféry přistupujícího a nezabýval se tvrzeným následným faktickým jednáním, z něhož lze dovodit přijetí nabídky?",
+        "odpoved": "Ne, takové posouzení je neúplné a tedy nesprávné, neboť soud musí zvážit i další tvrzené skutečnosti svědčící o uzavření dohody (§ 1740 a § 1745 o. z.)."
+      }
+    ],
+    "pravni_vety": [
+      "Nachází-li se v dispoziční sféře právnické osoby písemnost určená též osobě, která je členem jejího statutárního orgánu, nelze bez dalšího uzavřít, že došla i do sféry dispozice tohoto člena; to platí, jen měl-li i on objektivní možnost se se zásilkou seznámit.",
+      "Povinnost člena voleného orgánu jednat s péčí řádného hospodáře (§ 159 o. z.) se nevztahuje na přijímání právních jednání, která jsou mu určena osobně a nikoli v rámci výkonu funkce."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc mu vrácena k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 570 odst. 1 o. z.",
+      "§ 159 o. z.",
+      "§ 1740 o. z.",
+      "§ 1745 o. z.",
+      "§ 1892 odst. 1 o. z.",
+      "§ 4 odst. 1 o. z.",
+      "§ 7 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "dispoziční sféra",
+      "doručení právního jednání",
+      "přistoupení k dluhu",
+      "blankosměnka",
+      "kauza směnky",
+      "jednatel",
+      "péče řádného hospodáře"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud nezodpovězenou otázku doručení jednání do dispoziční sféry člena statutárního orgánu a vymezuje ji vůči povinnosti péče řádného hospodáře.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

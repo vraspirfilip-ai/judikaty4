@@ -1,0 +1,66 @@
+{
+  "id": "NS:1691471439FB9A8AC1258E6F004D32BB",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1691471439FB9A8AC1258E6F004D32BB?openDocument",
+  "spisova_znacka": "24 Cdo 533/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.533.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-08-18",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Opatrovník hmotně právní [ Opatrovník ]",
+    "dotcene_predpisy": "§ 60 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 46348,
+  "rozbor": {
+    "shrnuti": "Po změně okolností soudy nižších stupňů znovu posuzovaly rozsah omezení svéprávnosti a opatrovnictví a jako opatrovníka jmenovaly veřejného opatrovníka. Odvolací soud ve výroku výslovně neodvolal dosavadního opatrovníka (manžela) a neuvedl, v jakém rozsahu mění dřívější pravomocný rozsudek. Nejvyšší soud dovolání v otázkách rozsahu peněžního limitu a střetu zájmů veřejného opatrovníka odmítl, protože nešlo o otázky, na nichž napadené rozhodnutí záviselo, nebo šlo o zpochybnění skutkových závěrů. Ve zbytku shledal dovolání důvodným: soud musí ve výroku odvolat dosavadního opatrovníka, jestliže jej odvolává, a vymezit, v jakém rozsahu mění dřívější rozsudek. Proto sám rozsudek odvolacího soudu změnil doplněním výroku o odvolání opatrovníka a o změně dřívějšího rozsudku a rozhodl o nákladech řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Musí soud, který při změně poměrů mění rozsah omezení svéprávnosti a odvolává dosavadního opatrovníka a jmenuje nového, ve výroku výslovně rozhodnout o odvolání dosavadního opatrovníka a vymezit, v jakém rozsahu mění dřívější pravomocný rozsudek?",
+        "odpoved": "Ano; osoba dříve jmenovaná opatrovníkem může být odvolána jen výrokem rozhodnutí a současně musí být jmenován nový opatrovník, a výrok pozdějšího rozhodnutí musí určitě uvést, v jakém rozsahu mění dřívější rozsudek (§ 155 odst. 1 o. s. ř., § 27 z. ř. s., § 60 a § 463 odst. 2 o. z.)."
+      },
+      {
+        "otazka": "Musí soud v řízení o změně rozsahu omezení svéprávnosti nebo o prodloužení jeho doby ve výroku rozhodovat o dosavadním opatrovníkovi, který zůstává ve funkci, a znovu jej jmenovat či potvrzovat?",
+        "odpoved": "Ne; kontinuita opatrovnictví je zachována, soud o setrvání opatrovníka nečiní zvláštní výrok a stačí odůvodnění, ve výroku však vymezí nový rozsah jeho zástupčího oprávnění odpovídající změněnému omezení (§ 60, § 463 o. z.)."
+      },
+      {
+        "otazka": "Z jakých důvodů lze odvolat opatrovníka podle § 463 odst. 2 o. z. a jaké nároky se kladou na odůvodnění takového rozhodnutí?",
+        "odpoved": "Výčet důvodů není uzavřený (neplnění povinností, žádost opatrovníka, ztráta způsobilosti, trvalý závažný střet zájmů nelze-li jej řešit kolizním opatrovníkem, důvodná žádost opatrovance), vždy však vyžaduje konkrétní, přesvědčivě odůvodněné a podstatné důvody; samotná existence vhodnější osoby nestačí."
+      }
+    ],
+    "pravni_vety": [
+      "Nedochází-li pozdějším rozhodnutím o omezení svéprávnosti ke změně osoby opatrovníka, soud o tom nečiní žádný samostatný výrok; dosavadního opatrovníka lze odvolat jen výrokem rozhodnutí, v němž je současně jmenován opatrovník nový.",
+      "Při změně rozsahu (či navrácení) svéprávnosti nebo při jakékoli změně osoby opatrovníka či rozsahu jeho zástupčího oprávnění musí výrok pozdějšího rozhodnutí obsahovat údaj o tom, v jakém přesně vymezeném rozsahu se mění dřívější pravomocné rozhodnutí.",
+      "Důvody odvolání opatrovníka uvedené v § 463 odst. 2 o. z. nejsou uzavřeným výčtem; odvolání však vyžaduje konkrétní, přesvědčivě odůvodněné a podstatné důvody."
+    ],
+    "vysledek": "rozsudek odvolacího soudu změněn doplněním výroku o odvolání dosavadního opatrovníka a o změně dřívějšího rozsudku; ve zbytku dovolání odmítnuto; náklady řízení nepřiznány",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 60 o. z.",
+      "§ 62 o. z.",
+      "§ 463 odst. 2 o. z.",
+      "§ 460 o. z.",
+      "§ 155 odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. b) o. s. ř.",
+      "§ 27 z. ř. s.",
+      "§ 46 z. ř. s.",
+      "§ 59 odst. 2 o. z."
+    ],
+    "klicova_slova": [
+      "omezení svéprávnosti",
+      "opatrovník",
+      "odvolání opatrovníka",
+      "veřejný opatrovník",
+      "změna rozhodnutí",
+      "výrok rozsudku",
+      "statusové věci"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozsudek kategorie A poprvé sjednocuje požadavky na výrok o odvolání dosavadního opatrovníka a o vztahu pozdějšího rozhodnutí k dřívějšímu pravomocnému rozsudku ve věcech svéprávnosti a opatrovnictví.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

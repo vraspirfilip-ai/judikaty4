@@ -1,0 +1,58 @@
+{
+  "id": "NS:CC88B6BED8704A83C1258E3B004D3D72",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CC88B6BED8704A83C1258E3B004D3D72?openDocument",
+  "spisova_znacka": "27 Cdo 2445/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.2445.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-24",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neplatnost právního jednání (o. z.)",
+    "dotcene_predpisy": "§ 1 odst. 2 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 25605,
+  "rozbor": {
+    "shrnuti": "Bývalý společník advokátní s. r. o. se domáhal vypořádacího podílu; společnost namítala, že jeho nárok zanikl podle ujednání společenské smlouvy o porušení zákazu konkurence. Odvolací soud pokládal toto ujednání (a ujednání o snížení podílu) za absolutně neplatné pro rozpor se zákonem podle § 588 o. z. Nejvyšší soud dovolání připustil jen ohledně ujednání o zániku nároku. Uvedl, že samotný rozpor se zákonem nezakládá absolutní neplatnost, nýbrž je nutný i zjevný rozpor s veřejným pořádkem, který odvolací soud neshledal. Zákon o obchodních korporacích umožňuje odchylnou úpravu vypořádacího podílu, a to i v neprospěch společníka, takže ujednání o zániku práva na podíl při splnění podmínky není samo o sobě neplatné. Rozsudek odvolacího soudu proto zrušil a věc vrátil k novému projednání.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je ujednání společenské smlouvy obchodní korporace, podle něhož právo vystupujícího společníka na vypořádací podíl zanikne při porušení jeho závazků vůči společnosti (zákaz konkurence, využití důvěrných informací), samo o sobě neplatné pro rozpor se zákonem?",
+        "odpoved": "Ne, takové ujednání není per se v rozporu se zákonem, neboť § 36 z. o. k. dovoluje sjednat odchylnou úpravu vypořádacího podílu i v neprospěch společníka, a může-li být sjednáno, že právo na podíl vůbec nevzniká, může být sjednáno i jeho zánik při splnění podmínky."
+      },
+      {
+        "otazka": "Zakládá rozpor právního jednání se zákonem bez dalšího jeho absolutní neplatnost podle § 588 o. z.?",
+        "odpoved": "Ne, jednání v rozporu se zákonem je absolutně neplatné jen tehdy, pokud to vyžaduje smysl a účel zákona (§ 580 o. z.) a kumulativně zjevně narušuje veřejný pořádek (§ 588 o. z.); v pochybnostech se veřejný pořádek za narušený nepovažuje."
+      }
+    ],
+    "pravni_vety": [
+      "Ujednání společenské smlouvy, podle kterého právo společníka na vypořádací podíl při splnění určité podmínky zaniká, není samo o sobě v rozporu se zákonem, a proto není z tohoto důvodu neplatné.",
+      "Pouhý rozpor právního jednání se zákonem nezakládá jeho absolutní neplatnost podle § 588 o. z.; je třeba, aby jednání zároveň zjevně narušovalo veřejný pořádek."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 1 odst. 2 o. z.",
+      "§ 580 o. z.",
+      "§ 588 o. z.",
+      "§ 36 z. o. k.",
+      "§ 243e odst. 1 o. s. ř.",
+      "§ 15 odst. 6 zákona o advokacii"
+    ],
+    "klicova_slova": [
+      "vypořádací podíl",
+      "společenská smlouva",
+      "autonomie vůle",
+      "absolutní neplatnost",
+      "veřejný pořádek",
+      "zánik práva na vypořádací podíl",
+      "s. r. o."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí potvrzuje a rozvíjí závěr o smluvní volnosti při úpravě vypořádacího podílu a řeší dosud neřešenou otázku platnosti ujednání o zániku nároku na podíl, ale bez zásadní změny judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

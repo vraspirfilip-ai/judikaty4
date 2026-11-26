@@ -1,0 +1,63 @@
+{
+  "id": "NS:EF5595E704114AC5C1258EB90052BF92",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF5595E704114AC5C1258EB90052BF92?openDocument",
+  "spisova_znacka": "22 Cdo 1950/2026",
+  "ecli": "ECLI:CZ:NS:2026:22.CDO.1950.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-27",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Ochrana vlastnictví",
+    "dotcene_predpisy": "§ 1042 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 40619,
+  "rozbor": {
+    "shrnuti": "Vlastník pozemků se žalobou domáhal, aby obec odstranila z jeho pozemků skládku komunálního odpadu, která vznikla jako nelegální „černá skládka“ a byla provozována do roku 1986. Nejvyšší soud řešil, zda je obec pasivně legitimována, tedy zda je podle odpadových předpisů původcem a vlastníkem takto uloženého odpadu. Dovolání zamítl, protože obec je původcem a vlastníkem komunálního odpadu jen tehdy, pokud byl odložen na místě k tomu určeném. Obec proto není rušitelem vlastnického práva podle § 1042 o. z. Ostatní důvody zamítnutí žaloby jsou nadbytečné, protože k zamítnutí postačuje jediný obstojící důvod.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je obec pasivně legitimována k negatorní žalobě na odstranění komunálního odpadu z pozemku jiného vlastníka, jestliže odpad byl uložen mimo místo obcí určené (na „černé skládce“), ačkoli zákony o odpadech označují obec za původce komunálního odpadu vznikajícího na jejím území?",
+        "odpoved": "Ne. Obec je původcem a vlastníkem komunálního odpadu jen tehdy, byl-li odložen na místě k tomu určeném, a to i podle § 2 odst. 8 zákona č. 238/1991 Sb.; jinak není rušitelem podle § 1042 o. z."
+      },
+      {
+        "otazka": "Vztahuje se označení obce za původce komunálního odpadu v § 2 odst. 8 zákona č. 238/1991 Sb. na odpad odhozený kdekoliv na území obce, nebo jen na odpad uložený na místě obcí určeném?",
+        "odpoved": "Jen na odpad uložený na místě k tomu určeném. Opačný výklad je zjevně nepřiměřený a odporuje zásadě, že odpady lze ukládat jen v k tomu určených prostorech (§ 3 odst. 3 zákona č. 238/1991 Sb.)."
+      },
+      {
+        "otazka": "Nabývá obec vlastnictví k odpadu uloženému mimo místo obcí určené?",
+        "odpoved": "Ne. Uložení odpadu mimo určené místo je protiprávní, opuštění věci je neplatné a odkládající vlastnictví nepozbývá, takže jej obec nemůže nabýt."
+      }
+    ],
+    "pravni_vety": [
+      "Obec je původcem komunálního odpadu, a současně jeho vlastníkem, jen jde-li o odpad odložený na místě k tomu určeném; to platí již podle § 2 odst. 8 zákona č. 238/1991 Sb. a platí to i podle pozdějších zákonů o odpadech.",
+      "Obec, která není původcem ani vlastníkem odpadu uloženého na „černé skládce“ na pozemku jiného vlastníka, není rušitelem vlastnického práva, a není proto pasivně legitimována k negatorní žalobě podle § 1042 o. z. na odstranění tohoto odpadu."
+    ],
+    "vysledek": "dovolání proti výroku I rozsudku odvolacího soudu zamítnuto, ve zbývající části odmítnuto; žalobce je povinen nahradit žalovanému náklady dovolacího řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 1042 o. z.",
+      "§ 2 odst. 8 zákona č. 238/1991 Sb.",
+      "§ 2 odst. 12 zákona č. 125/1997 Sb.",
+      "§ 4 odst. 1 písm. x) zákona č. 185/2001 Sb.",
+      "§ 3 odst. 3 zákona č. 238/1991 Sb.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "černá skládka",
+      "komunální odpad",
+      "původce odpadu",
+      "pasivní legitimace obce",
+      "negatorní žaloba",
+      "vlastnické právo",
+      "staré ekologické zátěže"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řešil a vyložil věcnou pasivní legitimaci obce k odstranění komunálního odpadu z „černé skládky“ na cizím pozemku, ale rozhodnutí nemá povahu sjednocující ani zásadně precedenční.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

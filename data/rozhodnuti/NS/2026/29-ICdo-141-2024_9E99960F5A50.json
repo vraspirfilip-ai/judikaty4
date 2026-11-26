@@ -1,0 +1,58 @@
+{
+  "id": "NS:9E99960F5A50854DC1258E29004D2EAA",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E99960F5A50854DC1258E29004D2EAA?openDocument",
+  "spisova_znacka": "29 ICdo 141/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.141.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Incidenční spory (žaloba odpůrčí)",
+    "dotcene_predpisy": "§ 235 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 27008,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce se odpůrčí žalobou domáhal určení neúčinnosti bankovních plateb dlužníka ve prospěch žalovaného jako zvýhodňujících právních jednání, ale nevěděl, na jaký dluh dlužník plnil. Odvolací soud žalobu zamítl, protože správce konkrétní dluh netvrdil a po poučení podle § 118a o. s. ř. se k žalovaným tvrzené smlouvě nevyjádřil. Nejvyšší soud rozhodnutí zrušil. Odvolací soud sice správně vyšel z toho, že neúčinnost lze určit jen tehdy, plnil-li dlužník konkrétní dluh, ale nezohlednil informační deficit správce. Správce měl být poučen, aby uvedl důvod informačního deficitu a alespoň opěrné body skutkového stavu, a tím by nastoupila vysvětlovací povinnost žalovaného. Soud se pak musí žalovaným tvrzenou skutkovou verzí zabývat a žalobu lze zamítnout jen tehdy, jestliže ji správce popře.",
+    "klicove_otazky": [
+      {
+        "otazka": "Musí insolvenční správce v odpůrčí žalobě proti peněžitému plnění dlužníka tvrdit, na jaký konkrétní dluh dlužník plnil, a jak má soud postupovat, jestliže je správce ve stavu informačního deficitu?",
+        "odpoved": "Neúčinnost plateb lze určit jen tehdy, plnil-li dlužník konkrétní dluh, a správce proto nese břemeno tvrzení. Je-li však v informačním deficitu, musí být poučen podle § 118a odst. 1 o. s. ř., aby vysvětlil jeho příčinu a uvedl alespoň opěrné body skutkového stavu, čímž nastupuje vysvětlovací povinnost žalovaného."
+      },
+      {
+        "otazka": "Lze odpůrčí žalobu zamítnout pro neunesení břemene tvrzení, jestliže žalovaný v rámci vysvětlovací povinnosti uvede skutkovou verzi o titulu plateb (smlouva) a žalobce ji výslovně nepopřel?",
+        "odpoved": "Ne, soud je povinen zabývat se skutkovou verzí žalovaného a provést navržené důkazy. Žalobu lze zamítnout pro neunesení břemene tvrzení, jen když žalobce tyto skutečnosti popře."
+      }
+    ],
+    "pravni_vety": [
+      "Je-li insolvenční správce v odpůrčím sporu o peněžité plnění dlužníka v objektivním informačním deficitu ohledně dluhu, na nějž dlužník plnil, musí jej soud poučit podle § 118a odst. 1 o. s. ř. o povinnosti vysvětlit příčinu tohoto deficitu a uvést alespoň opěrné body skutkového stavu; tím nastupuje vysvětlovací povinnost žalovaného.",
+      "Splní-li žalovaný vysvětlovací povinnost, musí se soud jím tvrzenou skutkovou verzí zabývat a provést navržené důkazy; odpůrčí žalobu lze pro neunesení břemene tvrzení zamítnout jen tehdy, jestliže správce tvrzení žalovaného popře."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu zrušen v části, kterou změnil body I., III., V., VII. a IX. rozsudku insolvenčního soudu, a věc vrácena odvolacímu soudu k dalšímu řízení.",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 235 IZ",
+      "§ 241 IZ",
+      "§ 118a odst. 1 o. s. ř.",
+      "§ 43 o. s. ř.",
+      "§ 79 odst. 1 o. s. ř.",
+      "§ 243e odst. 1 o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "břemeno tvrzení",
+      "vysvětlovací povinnost",
+      "informační deficit",
+      "poučovací povinnost",
+      "zvýhodňující právní jednání",
+      "insolvenční správce"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí kategorie A řeší dosud beze zbytku neřešenou otázku břemene tvrzení insolvenčního správce v odpůrčím sporu a vysvětlovací povinnosti žalovaného při informačním deficitu správce.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

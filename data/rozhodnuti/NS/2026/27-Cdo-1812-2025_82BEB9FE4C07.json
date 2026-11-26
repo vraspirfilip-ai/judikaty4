@@ -1,0 +1,64 @@
+{
+  "id": "NS:82BEB9FE4C079E8CC1258DF5004D2AC5",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82BEB9FE4C079E8CC1258DF5004D2AC5?openDocument",
+  "spisova_znacka": "27 Cdo 1812/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.1812.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Dobrá víra",
+    "dotcene_predpisy": "§ 121 odst. 1 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 22708,
+  "rozbor": {
+    "shrnuti": "V exekučním řízení šlo o návrh povinné společnosti na zastavení exekuce vedené na základě notářského zápisu s uznáním dluhu a svolením k vykonatelnosti, který za ni podepsal osoba zapsaná v obchodním rejstříku jako jednatel, ačkoli její funkce měla podle zápisu zaniknout už dříve. Nižší soudy exekuci zastavily, protože jednající osoba nebyla oprávněna povinnou zastupovat. Nejvyšší soud řešil, zda se negativní stránka materiální publicity (§ 121 odst. 1 o. z., § 8 odst. 1 z. v. r.) uplatní i ve prospěch osoby, která sama právně nejedná, ale je adresátem jednostranného právního jednání zapsané osoby. Vyložil dotčená ustanovení eurokonformně (čl. 8 a 16 směrnice 2017/1132) a dospěl k závěru, že ano, je-li dobrověrná. Rozhodnutí obou soudů proto zrušil, protože se nezabývaly dobrou vírou oprávněné. Nad rámec dodal, že překročení zástupčího oprávnění nevede k neplatnosti jednání, nýbrž k tomu, že zastoupeného nezavazuje, pokud je neschválí.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze se negativní stránky materiální publicity veřejného rejstříku (§ 121 odst. 1 o. z., § 8 odst. 1 z. v. r.) dovolat i ve prospěch osoby, která sama právně nejedná, ale nabývá práva jako adresát jednostranného právního jednání osoby zapsané v obchodním rejstříku jako statutární orgán?",
+        "odpoved": "Ano, ustanovení je třeba v souladu se směrnicí 2017/1132 (čl. 8, čl. 16 odst. 7) vykládat extenzivně, takže chrání všechny dobrověrné třetí osoby, včetně těch, které nabývají práva v důsledku jednání zapsané osoby."
+      },
+      {
+        "otazka": "Zavazuje obchodní společnost jednání osoby zapsané v obchodním rejstříku jako jednatel, jejíž funkce již zanikla, ale která dosud nebyla vymazána, vůči dobrověrné třetí osobě?",
+        "odpoved": "Ano, jednání zapsané osoby společnost zavazuje, byla-li třetí osoba v dobré víře v zástupčí oprávnění, a to až do výmazu této osoby z rejstříku; soudy se proto musí dobrou vírou zabývat."
+      },
+      {
+        "otazka": "Je následkem překročení zástupčího oprávnění statutárním orgánem neplatnost právního jednání?",
+        "odpoved": "Ne, právní jednání zastoupeného nezavazuje, pokud je dodatečně neschválí; neplatnost podle § 580 o. z. nenastává (uvedeno nad rámec odůvodnění)."
+      }
+    ],
+    "pravni_vety": [
+      "Osobou, která právně jedná důvěřujíc údaji zapsanému do veřejného rejstříku ve smyslu § 121 odst. 1 o. z. a § 8 odst. 1 z. v. r., je i osoba, která sama právně nejedná, avšak v důsledku právního jednání osoby zapsané ve veřejném rejstříku nabývá práva (např. adresát jednostranného právního jednání).",
+      "Byl-li jednatel v okamžiku právního jednání zapsán v obchodním rejstříku, může jeho jednání společnost zavázat, byla-li třetí osoba v dobré víře v jeho zástupčí oprávnění."
+    ],
+    "vysledek": "usnesení odvolacího soudu i soudu prvního stupně zrušena a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "exekuce",
+    "dotcene_predpisy": [
+      "§ 121 odst. 1 o. z.",
+      "§ 8 odst. 1 z. v. r.",
+      "§ 47 ZOK",
+      "§ 580 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e odst. 1 o. s. ř.",
+      "čl. 8 a čl. 16 odst. 7 směrnice (EU) 2017/1132"
+    ],
+    "klicova_slova": [
+      "materiální publicita",
+      "obchodní rejstřík",
+      "dobrá víra",
+      "jednatel",
+      "notářský zápis se svolením k vykonatelnosti",
+      "zastavení exekuce",
+      "eurokonformní výklad",
+      "zástupčí oprávnění"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil otázku rozsahu negativní stránky materiální publicity ve vztahu k adresátovi jednostranného jednání a to eurokonformním výkladem, přičemž rozhodnutí je zařazeno do kategorie A.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "NS:717A2216D94A3295C1258E91004D3C33",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/717A2216D94A3295C1258E91004D3C33?openDocument",
+  "spisova_znacka": "27 Cdo 771/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.771.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neplatnost právního jednání (o. z.)",
+    "dotcene_predpisy": "§ 32 předpisu č. 418/2011 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 30922,
+  "rozbor": {
+    "shrnuti": "Předseda senátu v trestní věci proti právnické osobě se domáhal vyslovení neplatnosti rozhodnutí jediné společnice v působnosti valné hromady o zrušení trestně stíhané společnosti s likvidací, přijatého bez oznámení podle § 32 odst. 1 zákona č. 418/2011 Sb. Nejvyšší soud řešil, zda se na takové rozhodnutí hledí, jako by nebylo přijato, a zda je účastníkem řízení i jediná společnice. Dovodil, že § 32 odst. 4 zákona č. 418/2011 Sb. je zvláštní úprava, která sankcionuje porušení oznamovací povinnosti jen relativní neplatností, jíž se musí orgán činný v trestním řízení dovolat v řízení a ve lhůtě podle § 191 z. o. k. Rozhodnutí o zrušení společnosti s likvidací je v působnosti valné hromady, nejde tedy o jednání ultra vires. Účastníkem řízení je jen navrhovatel a společnost, nikoli jediná společnice. Návrh byl podán opožděně, proto dovolání zamítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Hledí se na rozhodnutí jediného společníka v působnosti valné hromady o zrušení trestně stíhané společnosti s likvidací, přijaté bez předchozího oznámení podle § 32 odst. 1 zákona č. 418/2011 Sb., jako by nebylo přijato (jednání mimo působnost), nebo je jen relativně neplatné?",
+        "odpoved": "Nehledí; rozhodnutí je v působnosti valné hromady (§ 190 odst. 2 písm. f) z. o. k.) a podle zvláštního § 32 odst. 4 zákona č. 418/2011 Sb. je porušení sankcionováno jen relativní neplatností, takže § 245 o. z. a § 45 z. o. k. nedopadají."
+      },
+      {
+        "otazka": "Musí se orgán činný v trestním řízení dovolat relativní neplatnosti rozhodnutí o zrušení trestně stíhané společnosti s ručením omezeným ve lhůtě podle § 191 odst. 1 z. o. k. a jaké jsou následky jejího zmeškání?",
+        "odpoved": "Ano, neplatnosti se musí dovolat způsobem podle § 191 a násl. z. o. k. ve stanovené lhůtě; po jejím marném uplynutí se rozhodnutí považuje za platné (§ 32 odst. 4 zákona č. 418/2011 Sb., § 192 odst. 1 z. o. k.)."
+      },
+      {
+        "otazka": "Je účastníkem řízení o vyslovení neplatnosti rozhodnutí jediného společníka v působnosti valné hromady vedle navrhovatele a společnosti také jediný společník?",
+        "odpoved": "Ne, účastníkem je jen navrhovatel a společnost; skutečnost, že má společnost jediného společníka, na tom nic nemění, což je ustálená judikatura."
+      }
+    ],
+    "pravni_vety": [
+      "Porušení oznamovací povinnosti a požadavku souhlasu podle § 32 odst. 1 a 3 zákona č. 418/2011 Sb. při právním jednání směřujícím ke zrušení, zániku nebo přeměně trestně stíhané právnické osoby je podle § 32 odst. 4 tohoto zákona sankcionováno jen relativní neplatností, jíž se musí příslušný orgán činný v trestním řízení dovolat ve lhůtě stanovené zvláštním předpisem; to platí i pro rozhodnutí jediného společníka v působnosti valné hromady.",
+      "Na rozhodnutí jediného společníka společnosti s ručením omezeným v působnosti valné hromady o zrušení společnosti s likvidací a jmenování likvidátora se nehledí, jako by nebylo přijato, jen proto, že nebyla splněna povinnost podle § 32 odst. 1 a 3 zákona č. 418/2011 Sb."
+    ],
+    "vysledek": "dovolání navrhovatele zamítnuto; žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 32 zákona č. 418/2011 Sb.",
+      "§ 245 o. z.",
+      "§ 580 odst. 1 o. z.",
+      "§ 588 o. z.",
+      "§ 45 z. o. k.",
+      "§ 190 odst. 2 z. o. k.",
+      "§ 191 z. o. k.",
+      "§ 192 odst. 1 z. o. k.",
+      "§ 12 z. o. k."
+    ],
+    "klicova_slova": [
+      "trestní odpovědnost právnických osob",
+      "zrušení společnosti s likvidací",
+      "neplatnost rozhodnutí jediného společníka",
+      "relativní neplatnost",
+      "prekluzivní lhůta",
+      "účastenství v řízení",
+      "jednání ultra vires"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil sporný výklad následků porušení § 32 zákona č. 418/2011 Sb. při rozhodnutí o zrušení trestně stíhané společnosti a sjednotil jeho vztah k obecné úpravě neplatnosti.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

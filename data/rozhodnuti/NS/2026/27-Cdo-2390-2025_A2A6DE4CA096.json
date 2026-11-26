@@ -1,0 +1,65 @@
+{
+  "id": "NS:A2A6DE4CA0964C9FC1258DF5004D2ABF",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2A6DE4CA0964C9FC1258DF5004D2ABF?openDocument",
+  "spisova_znacka": "27 Cdo 2390/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.2390.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Usnesení valné hromady (neplatnost) [ Valná hromada ]",
+    "dotcene_predpisy": "§ 1 odst. 2 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 18714,
+  "rozbor": {
+    "shrnuti": "Navrhovatel, společník s. r. o., se domáhal vyslovení neplatnosti usnesení valné hromady o rozdělení zisku pro rozpor s dobrými mravy, protože zisk byl rozdělen podle podílů ve společenské smlouvě a ne podle ústní dohody společníků o hlasování (podle výkonnosti středisek). Soudy návrh zamítly; odvolací soud dohodu posoudil jako neplatnou změnu společenské smlouvy. Nejvyšší soud s tímto posouzením nesouhlasil, dohodu označil za samostatnou společnickou dohodu, ale dovolání zamítl, protože rozhodnutí je ve výsledku správné. Porušení společnické dohody při hlasování v souladu se společenskou smlouvou zásadně nezakládá neplatnost usnesení valné hromady pro rozpor s dobrými mravy; primárním následkem je odpovědnost za škodu. Namítané vady řízení neshledal.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je usnesení valné hromady s. r. o. o rozdělení zisku, které odpovídá pravidlu ve společenské smlouvě, neplatné pro rozpor s dobrými mravy jen proto, že společníci hlasovali v rozporu s (i ústní) dohodou společníků o výkonu hlasovacího práva?",
+        "odpoved": "Ne, porušení společnické dohody při hlasování v souladu se společenskou smlouvou zásadně nezakládá neplatnost usnesení pro rozpor s dobrými mravy; primárním následkem je odpovědnost za škodu (§ 191 odst. 2 z. o. k., § 2913 o. z.)."
+      },
+      {
+        "otazka": "Jde o změnu společenské smlouvy, nebo o samostatnou společnickou dohodu, uzavřeli-li společníci (i ústně) dohodu o způsobu hlasování při rozdělení zisku?",
+        "odpoved": "Jde o samostatnou společnickou dohodu (inominátní smlouvu) stojící vedle společenské smlouvy, nikoli o její změnu, neplyne-li z vůle společníků něco jiného; není proto vyžadována forma veřejné listiny (§ 559 o. z., § 8 z. o. k.)."
+      },
+      {
+        "otazka": "Který obsah má přednost při posuzování platnosti usnesení valné hromady, jestliže se společenská smlouva a společnická dohoda o téže otázce hlasování odlišují?",
+        "odpoved": "Zásadně se upřednostní společenská smlouva, která primárně upravuje právní poměry ve společnosti; srov. § 191 odst. 1 z. o. k."
+      }
+    ],
+    "pravni_vety": [
+      "Hlasuje-li společník společnosti s ručením omezeným na valné hromadě v souladu s pravidlem sjednaným ve společenské smlouvě, avšak v rozporu s dohodou o výkonu hlasovacího práva, nevede porušení této dohody zásadně k vyslovení neplatnosti usnesení valné hromady pro jeho rozpor s dobrými mravy.",
+      "Dohoda společníků o způsobu výkonu hlasovacího práva při rozdělení zisku není změnou společenské smlouvy, nýbrž samostatnou společnickou dohodou, neplyne-li z vůle společníků něco jiného."
+    ],
+    "vysledek": "dovolání zamítnuto; žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 1 odst. 2 o. z.",
+      "§ 559 o. z.",
+      "§ 588 o. z.",
+      "§ 2913 o. z.",
+      "§ 8 odst. 1 z. o. k.",
+      "§ 161 odst. 1 z. o. k.",
+      "§ 191 z. o. k.",
+      "§ 118a odst. 2 o. s. ř.",
+      "§ 164 o. s. ř."
+    ],
+    "klicova_slova": [
+      "společnická dohoda",
+      "akcionářská dohoda",
+      "neplatnost usnesení valné hromady",
+      "dobré mravy",
+      "rozdělení zisku",
+      "společenská smlouva",
+      "s. r. o."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výslovně řeší vliv porušení společnické dohody o výkonu hlasovacího práva na platnost usnesení valné hromady a vymezuje poměr společnické dohody ke společenské smlouvě.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

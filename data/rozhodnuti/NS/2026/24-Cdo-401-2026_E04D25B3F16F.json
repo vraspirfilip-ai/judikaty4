@@ -1,0 +1,73 @@
+{
+  "id": "NS:E04D25B3F16FEE2FC1258E0D004D47EA",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04D25B3F16FEE2FC1258E0D004D47EA?openDocument",
+  "spisova_znacka": "24 Cdo 401/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.401.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-29",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]",
+    "dotcene_predpisy": "§ 467 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 41926,
+  "rozbor": {
+    "shrnuti": "V řízení o prodloužení omezení svéprávnosti posuzovaný napadl zejména osobu hmotněprávního opatrovníka. Namítal, že opatrovník nerespektuje jeho volbu advokáta, nečiní kroky k pronájmu bytu, jehož je většinovým spoluvlastníkem, a je ve střetu zájmů. Nejvyšší soud dovolání shledal důvodným. Vyložil § 467 o. z.: opatrovník musí podle možností respektovat přání opatrovance, ale nemá povinnost bezvýhradně přijmout každou jeho volbu advokáta. Dílčí neshody nejsou důvodem k odvolání opatrovníka, ke střetu zájmů je třeba skutečné zjištění a podle okolností lze jmenovat kolizního opatrovníka. Soudy nižších stupňů neučinily dostatečná skutková zjištění ohledně využití bytu, možné škody a zajištění právní pomoci, proto Nejvyšší soud zrušil rozhodnutí v části o opatrovníkovi a nákladech a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Jak má postupovat opatrovník a opatrovnický soud při přetrvávajícím nesouladu mezi přáním opatrovance a rozhodnutím hmotněprávního opatrovníka, a kdy lze opatrovníka odvolat podle § 463 odst. 2 o. z.?",
+        "odpoved": "Nesoulad se řeší ad hoc podle § 467 odst. 1 o. z.: opatrovník musí respektovat racionální přání opatrovance, je-li to možné a v jeho zájmu. Dílčí neshody nejsou důvodem k zásahu soudu; odvolání přichází v úvahu až při dlouhodobé či zásadní neshodě, kdy opatrovník bezdůvodným nerespektováním přání závažně nebo opakovaně porušuje povinnosti (§ 463 odst. 2 o. z.)."
+      },
+      {
+        "otazka": "Je opatrovník povinen akceptovat volbu advokáta učiněnou opatrovancem omezeným ve svéprávnosti, zejména u osoby zbavené osobní svobody a vážně duševně nemocné?",
+        "odpoved": "Bezvýjimečná povinnost neexistuje; opatrovník může volbu odmítnout z věcných důvodů plynoucích z ochrany zájmů opatrovance (nezpůsobilost advokáta, nevhodné smluvní podmínky, neúčelnost nákladů, šikanózní či bezúspěšný postup). Nesmí však opatrovance zbavit účinné právní pomoci podle čl. 37 odst. 2 Listiny; kritériem je, zda by racionální osoba bez omezení svéprávnosti ve srovnatelné situaci smlouvu uzavřela."
+      },
+      {
+        "otazka": "Je překážkou výkonu funkce hmotněprávního opatrovníka již pouhá potenciální existence škodního nároku opatrovance vůči opatrovníkovi, nebo je třeba skutečně zjištěný střet zájmů?",
+        "odpoved": "Nestačí abstraktní možnost škodního nároku; překážkou je jen skutečně zjištěný střet zájmů, který svou povahou, intenzitou či trváním zpochybňuje schopnost opatrovníka hájit zájmy opatrovance. Pro jmenování kolizního opatrovníka podle § 460 o. z. postačí hrozba střetu zájmů a jeho jmenování nelze vázat na souhlas hmotněprávního opatrovníka."
+      },
+      {
+        "otazka": "Jaké povinnosti má opatrovník při správě majetku opatrovance, který je většinovým spoluvlastníkem nemovitosti (rekonstrukce a pronájem), a brání tomu probíhající pozůstalostní řízení o menšinovém podílu?",
+        "odpoved": "Opatrovník spravuje majetek s péčí řádného hospodáře v zájmu opatrovance (§ 457, § 461, § 467 o. z.) a má s opatrovancem projednat možnost využití věci. Probíhající pozůstalostní řízení o menšinovém podílu využití nebrání, jen se jedná i se správcem pozůstalosti či dědici podle § 1128 o. z., přičemž rozhodující úlohu má většinový spoluvlastník."
+      }
+    ],
+    "pravni_vety": [
+      "Opatrovník je povinen dbát přání a názorů opatrovance a zařizovat jeho záležitosti v souladu s nimi, je-li to možné a v zájmu opatrovance (§ 467 odst. 1 o. z.); dílčí neshody mezi opatrovníkem a opatrovancem nejsou samy o sobě důvodem k odvolání opatrovníka, to přichází v úvahu až při dlouhodobé či zásadní neshodě, kdy opatrovník bezdůvodným nerespektováním přání opatrovance závažně nebo opakovaně porušuje své povinnosti (§ 463 odst. 2 o. z.).",
+      "Opatrovník není povinen akceptovat každou volbu právního zástupce učiněnou opatrovancem; odmítnout ji může jen z věcných důvodů vycházejících ze zájmu opatrovance, přičemž opatrovanec nesmí být pro své duševní onemocnění zbaven práva na účinnou právní pomoc (čl. 37 odst. 2 Listiny).",
+      "Výkonu funkce opatrovníka nebrání pouhý abstraktní předpoklad možného škodního nároku mezi opatrovníkem a opatrovancem, nýbrž jen skutečně zjištěný střet zájmů; pro jmenování kolizního opatrovníka podle § 460 o. z. však postačí hrozba střetu zájmů."
+    ],
+    "vysledek": "dovolání shledáno důvodným; rozsudek odvolacího soudu ve výroku II a v části výroku I o opatrovníkovi a rozsudek soudu prvního stupně ve výrocích II, IV a V zrušeny a věc vrácena soudu prvního stupně",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 457 o. z.",
+      "§ 460 o. z.",
+      "§ 461 o. z.",
+      "§ 463 odst. 2 o. z.",
+      "§ 465 o. z.",
+      "§ 467 o. z.",
+      "§ 471 odst. 2 o. z.",
+      "§ 1128 o. z.",
+      "čl. 37 odst. 2 Listiny",
+      "čl. 13 odst. 1 Úmluvy o právech osob se zdravotním postižením",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "opatrovnictví",
+      "omezení svéprávnosti",
+      "hmotněprávní opatrovník",
+      "střet zájmů",
+      "kolizní opatrovník",
+      "právní pomoc",
+      "volba advokáta",
+      "správa majetku opatrovance"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí kategorie A podrobně vykládá § 467 o. z. a řeší dosud neujasněnou otázku sporů mezi opatrovancem a opatrovníkem, včetně volby advokáta a střetu zájmů, bez změny dosavadní judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

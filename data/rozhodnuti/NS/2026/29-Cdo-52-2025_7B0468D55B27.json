@@ -1,0 +1,57 @@
+{
+  "id": "NS:7B0468D55B270384C1258D9C0052B068",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B0468D55B270384C1258D9C0052B068?openDocument",
+  "spisova_znacka": "29 Cdo 52/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.52.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-01-28",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Směnečný a šekový platební rozkaz",
+    "dotcene_predpisy": "§ 58 předpisu č. 99/1963 Sb.",
+    "oficialni_pravni_veta": "Jestliže žalovaný podal proti směnečnému platebnímu rozkazu včasné námitky a po uplynutí lhůty k"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 19586,
+  "rozbor": {
+    "shrnuti": "Žalovaní podali včasné a odůvodněné námitky proti směnečnému platebnímu rozkazu. Po více než dvou letech uplatnili nové námitky (nepodepsání dohod o vyplňovacím právu směnečném) a požádali o prominutí zmeškání lhůty podle § 58 o. s. ř. Soudy žádost zamítly. Nejvyšší soud dovolání proti usnesení odvolacího soudu zamítl: kdo podal včasné námitky, lhůtu nezmeškal, a nové námitky podané po uplynutí lhůty jsou vyloučeny koncentrací řízení podle § 175 odst. 1 a 4 o. s. ř. Prominutí zmeškání lhůty by koncentraci obcházelo. Řízení o „dovolání“ proti usnesení soudu prvního stupně zastavil pro nepřípustnost dovolání proti takovému rozhodnutí.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může soud podle § 58 odst. 1 o. s. ř. prominout zmeškání lhůty k podání nových námitek proti směnečnému platebnímu rozkazu, jestliže žalovaný podal včasné námitky a další námitky uplatnil až po uplynutí lhůty s tvrzením, že skutečnosti k nim se dozvěděl později?",
+        "odpoved": "Ne, žalovaný lhůtu k podání námitek nezmeškal a koncentrace řízení podle § 175 odst. 1 a 4 o. s. ř. brání uplatnění nové obrany po uplynutí lhůty; k novým námitkám soud nepřihlíží."
+      },
+      {
+        "otazka": "Lze prominout zmeškání lhůty ve vztahu k námitkám, které jsou pouze přípustným doplněním dříve včas a řádně uplatněných námitek proti směnečnému platebnímu rozkazu?",
+        "odpoved": "Ne, prominutí nepřichází v úvahu, neboť doplnění dříve uplatněné obrany není novou námitkou a žalovaný jej může učinit i bez prominutí lhůty."
+      }
+    ],
+    "pravni_vety": [
+      "Jestliže žalovaný podal proti směnečnému platebnímu rozkazu včasné námitky a po uplynutí lhůty k jejich podání uplatnil nové námitky, které nejsou jen přípustným doplněním včasných námitek, nemůže soud postupem podle § 58 odst. 1 o. s. ř. prominout zmeškání lhůty k podání těchto námitek; při rozhodování o tom, zda směnečný platební rozkaz ponechá v platnosti, k novým námitkám nepřihlíží."
+    ],
+    "vysledek": "řízení o „dovolání“ proti usnesení krajského soudu zastaveno; dovolání proti usnesení vrchního soudu zamítnuto",
+    "pravni_oblast": "civilní proces",
+    "dotcene_predpisy": [
+      "§ 58 odst. 1 o. s. ř.",
+      "§ 175 odst. 1 o. s. ř.",
+      "§ 175 odst. 4 o. s. ř.",
+      "§ 104 odst. 1 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "směnečný platební rozkaz",
+      "námitky",
+      "prominutí zmeškání lhůty",
+      "koncentrace řízení",
+      "směnka",
+      "vyplňovací právo"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výslovně vyřešil dosud nezodpovězenou otázku vztahu prominutí zmeškání lhůty a koncentrace řízení o námitkách proti směnečnému platebnímu rozkazu, navazuje však na ustálenou judikaturu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "NS:7134C01FB34D6DD1C1258E27004D2F02",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7134C01FB34D6DD1C1258E27004D2F02?openDocument",
+  "spisova_znacka": "29 ICdo 152/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.152.2024.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-27",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Incidenční spory",
+    "dotcene_predpisy": "§ 199 IZ. ve znění od 01.06.2019"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 34510,
+  "rozbor": {
+    "shrnuti": "Dlužník v oddlužení popřel žalobou pravost a výši vykonatelné pohledávky z obchodní kupní smlouvy přiznané rozsudkem pro uznání, který byl vymáhán exekucí zahájenou před uplynutím desetileté promlčecí doby. Nejvyšší soud potvrdil, že dlužník může podle § 410 odst. 6 IZ uplatnit jen důvody zániku nebo promlčení pohledávky, nikoli vady rozsudku pro uznání, neplatnost smlouvy či povahu a výši příslušenství. Vyložil, že zákaz uplatnit námitku promlčení podle § 408 odst. 1 obch. zák. nezpůsobuje stavení promlčecí doby, nýbrž znamená, že se k námitce nepřihlíží, a že totéž platí pro insolvenční řízení zahájené za trvání exekuce. Odvolací soud sice nesprávně vyložil počátek a stavení promlčecí doby, ale jeho závěr o nedůvodnosti námitky promlčení je ve výsledku správný, proto bylo dovolání zamítnuto.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může dlužník v oddlužení popřít vykonatelnou pohledávku přiznanou rozsudkem pro uznání námitkami k nesplnění předpokladů vydání rozsudku, neplatnosti smlouvy, bezesmluvnímu plnění nebo povaze a výši sjednaného úroku z prodlení?",
+        "odpoved": "Ne, podle § 410 odst. 6 IZ lze u vykonatelné pohledávky uplatnit jen skutečnosti, které jsou důvodem pro zastavení výkonu rozhodnutí nebo exekuce proto, že pohledávka zanikla nebo je promlčená; uvedené námitky z mezí způsobilých popěrných důvodů vybočují."
+      },
+      {
+        "otazka": "Může dlužník úspěšně uplatnit námitku promlčení popřené vykonatelné pohledávky z obchodního závazkového vztahu v insolvenčním řízení zahájeném za trvání exekučního řízení, které bylo zahájeno před uplynutím desetileté lhůty podle § 408 odst. 1 obch. zák.?",
+        "odpoved": "Ne, zákaz uplatnění námitky promlčení podle § 408 odst. 1 věty druhé obch. zák. znamená, že se k takové námitce v insolvenčním řízení probíhajícím za neskončené exekuce nepřihlíží, protože ji nemohl uplatnit ani v exekučním řízení."
+      },
+      {
+        "otazka": "Stavěla se desetiletá promlčecí doba podle § 408 obch. zák. po dobu exekučního řízení vedeného pro pravomocně přiznanou pohledávku, zahájeného před uplynutím této lhůty?",
+        "odpoved": "Ne, zákaz uplatnit námitku promlčení v řízení zahájeném před uplynutím lhůty nemá za následek stavení promlčecí doby, ale pouze to, že se k námitce promlčení nepřihlíží; lhůta přitom běží od prodlení s jednotlivými splátkami, nikoli od vykonatelnosti rozsudku."
+      },
+      {
+        "otazka": "Podle jakého předpisu se posuzuje promlčení pohledávky z kupní smlouvy uzavřené v podnikatelském vztahu za účinnosti obchodního zákoníku, jestliže dlužník později přestal podnikat?",
+        "odpoved": "Promlčení se řídí obchodním zákoníkem (§ 3028 odst. 3, § 3036 o. z.), neboť pozdější ukončení podnikatelské činnosti dlužníka není významné."
+      }
+    ],
+    "pravni_vety": [
+      "Zákaz uplatnění námitky promlčení v soudním řízení zahájeném před uplynutím desetileté lhůty podle § 408 odst. 1 věty druhé obch. zák. má za následek, že se nepřihlíží k námitce promlčení uplatněné dlužníkem v insolvenčním řízení vedeném na jeho majetek, které probíhá v době, kdy není skončeno exekuční řízení téhož dlužníka.",
+      "Dlužník může jako důvod popření pravosti nebo výše vykonatelné pohledávky přiznané pravomocným rozhodnutím uplatnit podle § 410 odst. 6 insolvenčního zákona jen skutečnosti, které jsou důvodem pro zastavení výkonu rozhodnutí nebo exekuce proto, že pohledávka zanikla nebo je promlčená."
+    ],
+    "vysledek": "dovolání zamítnuto, bez nároku na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 410 odst. 6 IZ",
+      "§ 199 odst. 2 IZ",
+      "§ 109 odst. 1 písm. c) IZ",
+      "§ 408 odst. 1 obch. zák.",
+      "§ 402 obch. zák.",
+      "§ 3028 odst. 3 o. z.",
+      "§ 3036 o. z.",
+      "§ 243d písm. a) o. s. ř.",
+      "§ 157 odst. 3 o. s. ř."
+    ],
+    "klicova_slova": [
+      "popření vykonatelné pohledávky",
+      "oddlužení",
+      "promlčení",
+      "exekuční řízení",
+      "rozsudek pro uznání",
+      "§ 408 obchodního zákoníku",
+      "incidenční spor"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud neřešenou otázku uplatnění námitky promlčení vykonatelné pohledávky v insolvenčním řízení zahájeném za trvání exekuce a rozšiřuje na insolvenční poměry dřívější konkursní judikaturu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

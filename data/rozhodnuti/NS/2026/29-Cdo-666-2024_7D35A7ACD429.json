@@ -1,0 +1,68 @@
+{
+  "id": "NS:7D35A7ACD429BE1FC1258DEF004D397E",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D35A7ACD429BE1FC1258DEF004D397E?openDocument",
+  "spisova_znacka": "29 Cdo 666/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.666.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-03-27",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Neúčinnost právního jednání",
+    "dotcene_predpisy": "§ 589 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 53919,
+  "rozbor": {
+    "shrnuti": "Věřitel se odpůrčí žalobou domáhal určení neúčinnosti kupní smlouvy, kterou dlužník převedl na osobu blízkou ideální polovinu nemovitostí. Nejvyšší soud potvrdil dosavadní judikaturu: ekvivalentní právní jednání není zkracující, rozhoduje okamžik jeho účinnosti a pozdější naložení s protiplněním je zásadně bez významu. Širší koncepci tzv. nepřímého zkrácení, kterou prosazuje část literatury, odmítl. Výjimku připustil jen tehdy, když druhá strana znala nebo musela znát další úmysl dlužníka použít protiplnění tak, aby ztížil či znemožnil uspokojení věřitele (to tvrdí a prokazuje věřitel). Platbu kupujícího na dluh prodávajícího jeho věřiteli lze započíst jako reálné plnění. Rozsudek odvolacího soudu přesto zrušil, protože obvyklá cena převáděného podílu nebyla zjištěna odborně: znalci bylo chybně zadáno ocenění nemovitostí jako celku a odvolací soud závěry znalce nahradil vlastními spekulativními úvahami.",
+    "klicove_otazky": [
+      {
+        "otazka": "Zkracuje právní jednání dlužníka uspokojení pohledávky věřitele ve smyslu § 589 a § 590 odst. 1 písm. c) o. z., jestliže dlužník od osoby blízké obdržel reálně obvyklou cenu nebo rovnocennou náhradu, ale následně s ní naložil tak, že věřitel nemůže být uspokojen?",
+        "odpoved": "Ne; o ekvivalentní právní jednání se zkrácením nejde, rozhodný je okamžik účinnosti jednání a následné naložení s protiplněním je zásadně bezvýznamné. Výjimkou je situace, kdy druhá strana znala nebo musela znát další úmysl dlužníka použít protiplnění ke ztížení či znemožnění uspokojení věřitele, což musí tvrdit a prokázat věřitel."
+      },
+      {
+        "otazka": "Lze v poměrech § 589 a násl. o. z. odporovat ekvivalentnímu právnímu jednání dlužníka na základě koncepce nepřímého zkrácení, aniž by to odporovalo ústavnímu principu právní jistoty?",
+        "odpoved": "Nejvyšší soud setrval na dosavadní judikatuře a koncepci nepřímého zkrácení neakceptoval, neboť by spojením vědomosti druhé strany s pozdějším jednáním dlužníka, které nemůže ovlivnit, oslabila právní jistotu (čl. 1 Ústavy)."
+      },
+      {
+        "otazka": "Je reálným protiplněním při posuzování ekvivalence kupní smlouvy platba kupujícího, kterou podle dohody s prodávajícím splní dluh prodávajícího vůči jeho věřiteli, a to i v rozsahu nad vnitřní podíl kupujícího na společném dluhu?",
+        "odpoved": "Ano; plnění kupujícího na dlužníkův dluh podle jeho pokynu je plněním reálným a započítává se, takže pro posouzení ekvivalence se zohlední i platba bance nad rámec vnitřního podílu kupujícího (§ 559 obč. zák., § 511 obč. zák.)."
+      },
+      {
+        "otazka": "Může soud určit obvyklou cenu převáděného spoluvlastnického podílu bez odborného posudku zaměřeného na tento podíl, prostým vydělením ceny celku nebo vlastními úvahami o ceně při dražbě v exekuci?",
+        "odpoved": "Ne; je-li k určení obvyklé ceny třeba odborných znalostí, musí být znalci zadáno ocenění právě převáděného podílu a soud nesmí závěry znalce nahrazovat vlastními spekulativními úvahami, nýbrž má v případě nedostatků znalce vyslechnout či požádat o vysvětlení (§ 127 o. s. ř.)."
+      }
+    ],
+    "pravni_vety": [
+      "O neúčinné právní jednání dlužníka ve smyslu § 590 odst. 1 písm. c) o. z. nejde, jestliže druhá strana poskytla dlužníku za převedený majetek skutečně jeho obvyklou cenu nebo jinou přiměřenou (rovnocennou) náhradu a změna skladby majetku dlužníka nevedla ke ztížení uspokojení vykonatelné pohledávky věřitele.",
+      "Pro posouzení ekvivalentnosti kupní smlouvy je určující okamžik její účinnosti a to, jak dlužník následně naložil s obdrženým protiplněním, je zásadně bez významu; výjimkou je situace, kdy druhá strana znala nebo musela znát další úmysl dlužníka použít protiplnění způsobem, který ztíží nebo znemožní uspokojení věřitele, což tvrdí a prokazuje věřitel.",
+      "Plnění kupujícího, kterým podle pokynu dlužníka splní jeho dluh vůči jeho věřiteli, je pro posouzení ekvivalentnosti právního jednání reálným (skutečným) protiplněním."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 589 o. z.",
+      "§ 590 odst. 1 písm. c) o. z.",
+      "§ 594 o. z.",
+      "§ 42a obč. zák.",
+      "§ 511 obč. zák.",
+      "§ 127 o. s. ř.",
+      "čl. 1 Ústavy"
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "relativní neúčinnost",
+      "ekvivalentní právní jednání",
+      "zkrácení věřitele",
+      "osoba blízká",
+      "znalecký posudek",
+      "nepřímé zkrácení"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud výslovně potvrdil a odůvodnil, že i podle § 589 a násl. o. z. nelze odporovat ekvivalentnímu právnímu jednání, odmítl koncepci nepřímého zkrácení prosazovanou literaturou a vymezil výjimku, a rozhodnutí je kategorie A.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

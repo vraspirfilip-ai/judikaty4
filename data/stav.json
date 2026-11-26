@@ -1,0 +1,2575 @@
+{
+ "davky": {},
+ "inicializovano": {
+  "NS": true,
+  "US": true
+ },
+ "zname": {
+  "NS:019BD35205FE8F35C1258E90004D6B33": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:01C51F8A1320E8E2C1258E14004D2405": {
+   "datum": "2026-11-26",
+   "spzn": "29 NSČR 31/2025",
+   "stav": "ok"
+  },
+  "NS:01CA9B295C1A9EEAC1258E88004D4410": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:01ECD47D606EE00EC1258E9F0052A268": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:01F31977E0668438C1258E8700374B05": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0247808B8BDED105C1258E8F004D252B": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 1630/2025",
+   "stav": "ok"
+  },
+  "NS:02DB293C6ADFC78BC1258E89004D5A86": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:03D14BDF0993B20BC1258E66004D4A29": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:043B13D6B11A32BCC1258E98004D3D5B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:0480BF625E6200CFC1258E9C0052BA96": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0552945A9163C361C1258E87004D4449": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:056C008113E265B2C1258EA30052A29D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:05F883D900EE4239C1258E6C004D4A4B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:060618F0FEBB7883C1258E92004D0D1F": {
+   "datum": "2026-11-26",
+   "spzn": "21 Cdo 2196/2025",
+   "stav": "ok"
+  },
+  "NS:06B6215DB01B71F6C1258EA40052BA23": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0735CF2990DE9305C1258E96004D3D35": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:07CBEC4DDA074545C1258E17004D4011": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0837F6561FFAA749C1258559004D5A50": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2020-01-29",
+   "spzn": "29 Cdo 557/2018",
+   "stav": "preskoceno"
+  },
+  "NS:085AB8C0112CFC3FC1258E81004D5AC0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0893097F4C368E22C1258E9C0052BA9E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:094EF791BE7CCE24C1258EB10052A805": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0A0D660EBE3A5A0CC1258E98004D3D0E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0A361E48F4C44513C1258E0B004D4353": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 177/2024",
+   "stav": "ok"
+  },
+  "NS:0AE412004D4F273CC1258E52004D53FD": {
+   "datum": "2026-11-26",
+   "spzn": "28 Cdo 1389/2026",
+   "stav": "ok"
+  },
+  "NS:0B3469106911A866C1258E99004D554A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0C2AD1FC5985807CC1258EB40052A81D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0C54222667BE0038C1258C580052A2A3": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0D9CA884DB9B014BC1258E89004D5ABD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:0DC7FA0E3962E920C1258E53004D54DA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:0E237CBBCEF180FCC1258EBA0052BFE6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0E8B2B092CF6EFB4C1258E9D0052A28D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:0E977EC3614140AFC1258EBA0052BFDE": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 2060/2026",
+   "stav": "ok"
+  },
+  "NS:0EED0117238B4A2DC1258E9D0052A283": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:102790FE2661D4B0C1258E9F0052A26B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:10A7E370E7B00647C1258E7C004D4333": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 100/2024",
+   "stav": "ok"
+  },
+  "NS:10BFC46CF9146607C1258E89004D5AD9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:1198B2674F7CE933C1258DD2004D1F24": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "duševní vlastnictví",
+   "spzn": "23 Cdo 636/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1198B2674F7CE933C1258DD2004D1F24?openDocument"
+  },
+  "NS:1209810BED191BC2C1258E96004D3D43": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:120B674032B03C66C1258E7C004D43BF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:121A3FCB249238A3C1258E1A004D5827": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 501/2026",
+   "stav": "ok"
+  },
+  "NS:122F7E9CA30D2FBEC1258E87004D4466": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1247B1810B32D099C1258E99004D54E6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:126943A02E61F401C1258E8700374B01": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:129F37D7B49D42D4C1258EB80052A846": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:135E66A774FF4A5CC1258E91004D3C07": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:13C4640C1F348865C1258E3C004D3D07": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 2577/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13C4640C1F348865C1258E3C004D3D07?openDocument"
+  },
+  "NS:143963AEEE3A4C22C1258E66004D4A37": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:143A84E25D50E148C1258EAE0052B149": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1441777DE8A3A9ACC1258E8F004D254C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:144B89FDFEF7F457C1258DC200529D39": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 68/2026",
+   "stav": "ok"
+  },
+  "NS:14E2F80148E1EF91C1258E8E004D5327": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1527C3DCCD1A9119C1258EAE0052B14F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1691471439FB9A8AC1258E6F004D32BB": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 533/2026",
+   "stav": "ok"
+  },
+  "NS:169260176722E06FC1258EAA0052B1E2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:169C9DB0FA829C7EC1258E88004D43F8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:172253D8F2F792C1C1258E9C0052BA85": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:17608AF3CEEE93F0C1258EA100528AA5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:17625ABFD7044F46C1258E9F0052A255": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:17773848B693C0C7C1258EAE0052B182": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:17A1A432DC31FAC6C1258E74004D4364": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:18236528059DF1CAC1258DFC004D54D2": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 81/2026",
+   "stav": "ok"
+  },
+  "NS:1855B86E9381A8CCC1258E8E004D535B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:18AFC676E5615C6AC1258EB50052D6E5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:190B0D70100FB1CFC1258EB80052A82B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:193AE91ADF7928DFC1258E96004D3D54": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1973D0F32A1C7ADAC1258E1B004D4132": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "nekalá soutěž",
+   "spzn": "23 Cdo 2523/2024",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1973D0F32A1C7ADAC1258E1B004D4132?openDocument"
+  },
+  "NS:1A3A2B143B3E3A7EC125830100316101": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2018-06-27",
+   "spzn": "29 Cdo 3325/2016",
+   "stav": "preskoceno"
+  },
+  "NS:1AC1998FC255E3AFC1258E96004D3D3B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:1ACBA65C0F39EE75C1258EAF0052BFA9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1B03C02E1A90D288C1258E28004D00AE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:1B4F8117C0828D24C1258EB90052BFCE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1B89EE8E9680FB05C1258E82004D2C2B": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 470/2026",
+   "stav": "ok"
+  },
+  "NS:1BC8D423EC7EA557C1258E6C004D4A64": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1C14F4F1C5D9351AC1258EAF0052BF98": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:1C5CE2F2E0B323B9C1258E43004D3D94": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:1EDA1F8F1F565380C1258DA40052D9B2": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 3205/2024",
+   "stav": "ok"
+  },
+  "NS:1FEAA5E48E66226FC1258E1B004D4038": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 306/2025",
+   "stav": "ok"
+  },
+  "NS:20800AD203BFF1C9C1258E87004D443C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:211AE40B59C7D155C1258E99004D5534": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:21CEBE4443E3649CC1258E5B004D1B8B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2367D525B425FC70C1258E90004D6B15": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:23A68119163A12A8C1258EB90052BFB8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:23A86FF1C9247E9AC1258E89004D5A82": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:23FD162664A4DE1DC1258E92004D0D2A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:243267C8A006537DC1258EA00052B9A0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:243E26D080F2315AC1258E87004D4471": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:245C2985992CD927C1258EA5003EE232": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:24A36FC8FD8B9E9DC1258E98004D3D29": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:24CD1EBB59A05AF4C1258E4C0016083A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:24CD627688336479C1258E89004D5A96": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:25A51E500E9DE98EC1258E87004D44A0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:27D6CA9F94F495BAC1258E45004D25AF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:2837DBD2B3D2DB07C1258EAB0052B1C4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:29167D058C91B19EC1258EB90052BFC4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:29577B85F79A4D69C1258EAF0052BFA2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:297B0EC65BFA6936C1258EA7005273E5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:297DB70D6CF2F68CC1258E91004D3C61": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2992CB74FBC7573EC1258E4F004D3DE0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2A5E8880A0368A94C125857C002F16AE": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2020-03-31",
+   "spzn": "29 NSČR 43/2018",
+   "stav": "preskoceno"
+  },
+  "NS:2C37765F04A10C0CC1258EB80052A87E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2CD4CE0D0B1A236DC1258E87004D445F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2D439AA4643B54ACC1258E92004D0D0B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:2D542AFE40B15B3CC1258DFD004D2741": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 2600/2024",
+   "stav": "ok"
+  },
+  "NS:2D5F0D81E1641684C1258EA40052B9BF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:2E4513028EBE2313C1258E6C004D4A6D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2E81AF24BA568E0BC1258E97004D260A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2F2D925835F3AE28C1258EB50052D6BE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:2F436CAFFFDD19CCC1258EAA0052B1D1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2F8B49D8B0935F3DC1258E66004D4A1E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:2FBF2B8E454245D8C1258E99004D54EE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:30DDFC649BAAF803C1258EA60052A2EF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:312DB4598BD1F6F3C1258E8F004D253E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:320F346C03BCF4FCC1258EA30052A2CE": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 132/2024",
+   "stav": "ok"
+  },
+  "NS:329456F68CEAEAECC1258EA30052A2BB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:32A523AE2349FC39C1258EB40052A824": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:3365DD89828DB220C1258EB40052A86A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:33CB46241AD3ED07C1258E96004D3D57": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:340EB017F0B33046C1258E66004D4AD5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:341232BDD59AB64FC1258EA30052A2C0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:34A9F335C4D84F61C1258E99004D553C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:35B8289C72DB53B1C1258EB40052A876": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:3651FA847100A996C1258EB40052A830": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:36A08329316754B1C1258EB80052A883": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:36AEFCC638DB73B8C1258EAE0052B163": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "rodinné právo",
+   "spzn": "24 Cdo 3319/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36AEFCC638DB73B8C1258EAE0052B163?openDocument"
+  },
+  "NS:370269B1B96CB7DCC1258E9C0052BAA7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3710545C0EFF6049C1258E9D0052A24F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:394FA527EC88C987C1258E9C0052BADB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:39A31407319397C8C1258E98004D3D0A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:39ACD3A98E154CC6C1258E66004D4A2C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:39E334BFA4B6C6A5C1258EAB0052B1BC": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3B1AF1154DF0E1A9C1258EA40052B9FC": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 120/2024",
+   "stav": "ok"
+  },
+  "NS:3B577FBE4CD7FA90C1258EA40052B9AC": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 142/2022",
+   "stav": "ok"
+  },
+  "NS:3B6F352A188D2E9AC1258E5A004D1C63": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3BB515C831123D92C1258EB40052A870": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3BB6B98F9728DB08C1258EB40052A83E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3C2259E085F54088C1258E9C0052BAC3": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3C8DA46DB69EE83AC1258EB40052A889": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3CFFD1889EE149FCC1258E89004D5AC2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3D3B7BC952B97135C1258E91004D3C50": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3EEE5020D4AD3670C1258E87004D444F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:3F33459521D631E9C1258EA7005273ED": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4098A051CB4A0DE6C1258E87004D449C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:426EAAA7538B0020C1258E95004D3D3D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:43B16AC974D8EE96C1258EB50052D6DF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:459B5F8D5DC90597C1258E90004D6B3C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:45FCCC0A81414E72C1258E8700374B31": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:46C4D83D9AC50DC1C1258E98004D3D23": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:46D619A0DC15B7AEC1258E9D0052A260": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:47719DC5307FDF29C1258EB90052BFD7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4BB5888D71C5CDBAC1258E8E004D53A0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4D034B82CAF9CB21C1258E91004D3C39": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4EAC77148BA75679C1258E2E004D1A07": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 955/2026",
+   "stav": "ok"
+  },
+  "NS:4EAEEF597A1338C5C1258E68004D1BFE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4EC1C007AAD0E8F3C1258EB40052A883": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:4F3B030BDBCCE803C1258551002E90D9": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2020-01-29",
+   "spzn": "21 Cdo 2128/2019",
+   "stav": "preskoceno"
+  },
+  "NS:4FAE84041FB26AE4C1258EA40052B9D0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:50417130ED83D188C1258E8F004D2563": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:50F2221779D43F73C1258E6C004D4A35": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5121FDC0147042FDC1258E87004D4452": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5175D5FA0052052FC1258E28004D00B4": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 1923/2024",
+   "stav": "ok"
+  },
+  "NS:5304C47B7328FC4EC1258E57004D3309": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5374180D9E6B1390C1258E88004D4416": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:53CBCE038691ED6EC1258EAA0052B1B2": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 122/2024",
+   "stav": "ok"
+  },
+  "NS:551FC1E0C9A6A994C1258EB90052BFE4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:5535DB63F66C072DC1258E7A004D2C74": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:559311CB1AF4BDC1C1258E96004D3D11": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5665266E33EB605CC1258E68004D1BF6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:56E07F7E3C2514C9C1258C99004D66C4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5721FF5BFFF41881C1258E9D0052A255": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5770ED58A0C5C97BC1258E92004D0D2D": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "dědické právo",
+   "spzn": "24 Cdo 1196/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5770ED58A0C5C97BC1258E92004D0D2D?openDocument"
+  },
+  "NS:577CA3D19353E974C1258E89004D5ADE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:580C3034D3DB679AC1258EAE0052B157": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:582AFC20DFD6FF63C1258E6C004D4A84": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:588A7D650DA04E72C1258E89004D5AD0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:58E671B23E80648AC1258E8F004D250D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:59A1287C6979AA5CC1258EAA0052B18E": {
+   "datum": "2026-11-26",
+   "spzn": "26 Cdo 1746/2026",
+   "stav": "ok"
+  },
+  "NS:59E211178EF25CF5C1258E9E0052B9E7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5ACAC3D9F9434632C1258E97004D25FD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:5B33160EC686CECBC1258E1D004D6EDD": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 720/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B33160EC686CECBC1258E1D004D6EDD?openDocument"
+  },
+  "NS:5C551F05C4F0C823C1258E3D004D2608": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 408/2025",
+   "stav": "ok"
+  },
+  "NS:5D8FA91F3203D12FC1258EB40052A854": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:5EAA7E2104A21487C1258E98004D3D1E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:5EBEA6B85A8FE82DC1258E9F0052A249": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:5F9DD1A9402179D9C1258EB90052BFC9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:600387028633C8CEC1258E8E004D536E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:608835861C212117C1258EB40052A891": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:60E58A9DE6394073C1258DC200529D32": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 3245/2025",
+   "stav": "ok"
+  },
+  "NS:613D085915229A72C1258E8E004D5360": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:62B961584F0FEE1CC1258E99004D5541": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:62DC2070DB23D0BFC1258E49004D3D16": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 88/2025",
+   "stav": "ok"
+  },
+  "NS:63DA8BB88F40C3D0C1258E88004D43D0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:651B0B0F48A0A016C1258E25004D2E7C": {
+   "datum": "2026-11-26",
+   "spzn": "29 NSČR 73/2024",
+   "stav": "ok"
+  },
+  "NS:6578CCFB49D94BABC1258E27004D2EBA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:657DC4DFA13AA902C1258EAC0052C958": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:65898CFFDA5B2A6EC1258E91004D3BFE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:667225CB4F6921ADC1258EB80052A85A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:67161723A9B71AEFC1258E87004D445B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:67CCA75FD86CDDB5C1258E59004D335A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:680FD3FFF1747094C1258E90004D6B2D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:687349AD3C5EC951C1258E4B004D54C9": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 908/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/687349AD3C5EC951C1258E4B004D54C9?openDocument"
+  },
+  "NS:687AAA27D9BCAF63C1258E91004D3C18": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:692053CB854E6D6FC1258E52004D540B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6A0BD31EBEE061DDC1258EBA0052BFAF": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 2059/2026",
+   "stav": "ok"
+  },
+  "NS:6A6F6027F7242293C1258E4A004D3E5A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6A93AD021CBA439FC1258E3B004D3D57": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6AED47E5C52D2914C1258E89004D5AE4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:6CB6D0E32F1AC29CC1258EA7005273F5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6CD6F0222C201B90C1258EA30052A295": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:6DBC2A20EE44B9C1C1258EA7005273F0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6DEBDF39621DB19DC1258E87004D44B1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6E99911603C0D3CFC1258E67004D4A6D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:6F152333E7C4138CC1258E90004D6B28": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 983/2025",
+   "stav": "ok"
+  },
+  "NS:6F562FA050293E4CC1258EAA0052B187": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 728/2026",
+   "stav": "ok"
+  },
+  "NS:6FF82E608A6A6F55C1258EA4001B84B3": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 64/2026",
+   "stav": "ok"
+  },
+  "NS:70302261B25F94CEC1258E8700374B0C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:708E064BF5891772C1258E27004D2E78": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 1622/2025",
+   "stav": "ok"
+  },
+  "NS:70A7B3692D7A2393C1258DD1004D4DC4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7134C01FB34D6DD1C1258E27004D2F02": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 152/2024",
+   "stav": "ok"
+  },
+  "NS:7145144102B99B06C1258E8700374A71": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 80/2025",
+   "stav": "ok"
+  },
+  "NS:7168F3275B21F497C1258E9C0052BA90": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:717A2216D94A3295C1258E91004D3C33": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 771/2025",
+   "stav": "ok"
+  },
+  "NS:73656633CA56B867C1258E92004D0D12": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7441495A44D9BABBC1258E8F004D2520": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:751E8B966AE5EC9EC1258E3C004D3D11": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:756566F5D8CE3F98C1258E98004D3D39": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:75E179C417F9D268C12585A1003A3316": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2020-03-31",
+   "spzn": "29 ICdo 39/2018",
+   "stav": "preskoceno"
+  },
+  "NS:75ECA0C66E0C9C0AC1258E6C004D4A79": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:7658FF781319F05FC1258EB10052A810": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7665FBED6EE3E733C1258EAA0052B1AD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7670949E46579AE9C1258E53004D54B5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:767FFCB98C8D844CC1258E8E004D5352": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:768F6442B6262FEAC1258EA40052B9D5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:76E080C6B8787847C1258E3B004D3D67": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 1076/2025",
+   "stav": "ok"
+  },
+  "NS:7717BD2767711868C1258E8F004D24D0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:775575A4E5A7A887C1258E28004CFFC4": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 138/2024",
+   "stav": "ok"
+  },
+  "NS:77C0BA82BA10C5FDC1258E4C004D3DC4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:7879C5B9A54DCDBDC1258E9F0052A24F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:79DAB7721E2BE129C1258E9E0052B990": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:79FAA71B31F7CE9CC1258EA7005273EA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7B0468D55B270384C1258D9C0052B068": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 52/2025",
+   "stav": "ok"
+  },
+  "NS:7B34935028A8565EC1258EB90052BFBB": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 1767/2026",
+   "stav": "ok"
+  },
+  "NS:7BA4A5B6CA4CFB44C1258E99004D5553": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7CA1DF30E48EF242C1258E4A004D3E41": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 949/2024",
+   "stav": "ok"
+  },
+  "NS:7CFF72CE264E7547C1258EAC0052C937": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7D259828A6EF220DC1258E99004D5545": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7D35A7ACD429BE1FC1258DEF004D397E": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 666/2024",
+   "stav": "ok"
+  },
+  "NS:7D70F5A2F23BA1CBC1258EB40052A82A": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "rodinné právo",
+   "spzn": "24 Cdo 1958/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D70F5A2F23BA1CBC1258EB40052A82A?openDocument"
+  },
+  "NS:7D9A7124BE157F10C1258E8700374A27": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:7D9F02C66F5F608FC1258E3A004D3D58": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 3018/2025",
+   "stav": "ok"
+  },
+  "NS:7E7304825AF7478AC1258E89004D5A9E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:7FCB875C6C40F4E7C1258E9C0052BACA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:808DBF586D151F38C1258EAE0052B152": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:80CB333E812853D8C1258E9F0052A242": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:80FF365119FAA829C1258EAC0052C99A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:814C4A7BB571F229C1258E87004D44D8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:818DC26F7E01648AC1258E53004D54A7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8192110DECA5A65FC1258EA00052B993": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:81ADACA8ADEFB7E8C1258E89004D5AA7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:8221A0D75FEA1D3AC1258EB20052BF68": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:824114FE935571B8C1258E59004D3341": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:824BFCD81EC9B11BC1258E9D0052A274": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:82BEB9FE4C079E8CC1258DF5004D2AC5": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 1812/2025",
+   "stav": "ok"
+  },
+  "NS:832FE796BAE58CCAC1258E90004D6B23": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:84DAB6357F40BAC4C1258EA100528AB5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8567D1704275D0FCC1258E74004D4380": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:85B3B2E549865574C1258EAA0052B1EF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:878AF5527DFA1798C1258E9C0052BA8B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:8798C02343C2679FC1258E42004D3D6E": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 28/2024",
+   "stav": "ok"
+  },
+  "NS:89B302B8D9155F21C1258E8F004D251B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:89C171F0DEAB22E9C1258E6B004D1BAE": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:89CAF25CD2EB9ADAC1258EA40052B9B7": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 56/2026",
+   "stav": "ok"
+  },
+  "NS:8A38C7D317FB08BBC1258EA100528AAB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8AB55D699B829F4CC1258EA40052B9D8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8B29314202FD3789C1258E9D0052A26E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8B557FF0187C50E3C1258E27004D2E8B": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 621/2025",
+   "stav": "ok"
+  },
+  "NS:8B911DDD1446899EC1258EB80052A860": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8BD1BA83F91DBCA6C1258E98004D3D2E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8C3B9EB6F85924F6C1258EAC0052C8CE": {
+   "datum": "2026-11-26",
+   "spzn": "29 NSČR 13/2026",
+   "stav": "ok"
+  },
+  "NS:8C4216B958671C48C1258EA30052A2C9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8C5D2712E49BCAD3C1258E91004D3C2D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8CE21BA8EB9A0807C1258E99004D54F6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:8E2F655638EEE14CC1258E8700374B55": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 1025/2026",
+   "stav": "ok"
+  },
+  "NS:8F4974241EDC5A13C1258E8F004D2557": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9229CBB566045730C1258E74004D439F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:923E748DB8F29B42C1258E92004D0D04": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:924187C70E17A265C12585830045463A": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2020-04-30",
+   "spzn": "29 ICdo 43/2018",
+   "stav": "preskoceno"
+  },
+  "NS:9275D29ACF290F3BC1258E91004D3C28": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:929B54E1A407E94AC1258E8E004D5340": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:92AC6F9D2BBAF245C1258DC00052B93C": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "dědické právo",
+   "spzn": "24 Cdo 2973/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/92AC6F9D2BBAF245C1258DC00052B93C?openDocument"
+  },
+  "NS:92D1660226330655C1258E92004D0D01": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:92D2370B9946C424C1258E8F004D2545": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:951818A02DB21FF9C1258E96004D3D30": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:957C42AB44431900C1258E66004D4A47": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:95DBD0C58957D41DC1258DCA004D4E4C": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 3308/2024",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95DBD0C58957D41DC1258DCA004D4E4C?openDocument"
+  },
+  "NS:96542AD31E80008AC1258E06004D5908": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "rodinné právo",
+   "spzn": "24 Cdo 2849/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96542AD31E80008AC1258E06004D5908?openDocument"
+  },
+  "NS:97A9F0FD4D1E1591C1258EB90052BFD1": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 2840/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97A9F0FD4D1E1591C1258EB90052BFD1?openDocument"
+  },
+  "NS:97D48BE990F20817C1258E89004D5AD4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:985C283B1738C52CC1258E9C0052BAD8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:995C4D67AA9905C5C1258E99004D54BA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:996127FBDB5CAFFDC1258E4A004D3EC2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:99CDADB01382E842C1258E89004D5AA2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:99EBD5DE7E656C93C1258EB80052A865": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9A70A2990EE8219DC1258EB40052A87D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:9B005DD622CDA36FC1258EA30052A2C4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9B2A72B10F7D8359C1258E76004D439E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:9B787B8692857CE6C1258EA40052BA27": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9BA0097E3BF0FB02C1258E10004D42F3": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 347/2025",
+   "stav": "ok"
+  },
+  "NS:9BA1010E86361008C1258E53004D5466": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:9C0010D91FFC1A0EC1258E90004D6B18": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9C98A83B35A19E61C1258E14004D2412": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "dědické právo",
+   "spzn": "24 Cdo 499/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C98A83B35A19E61C1258E14004D2412?openDocument"
+  },
+  "NS:9CE579AF5EBBFBE2C1258EAF0052BF9D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9D14D555FCA9F044C1258E9D0052A26A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9D3F37FCD19A35C4C1258E8F004D24CB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9E137889D9B3DC54C1258E8E004D534E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9E5943FE2DB9956FC1258E99004D555B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9E99960F5A50854DC1258E29004D2EAA": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 141/2024",
+   "stav": "ok"
+  },
+  "NS:9F481B9C6940CED6C1258EB80052A83B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9F87B4D4F528F00DC1258EA40052BA04": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:9FE0CD054BE4D0B1C1258E67004D4AE6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A26D86E90D61E62DC1258EB40052A864": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A28F44305463DA08C1258E98004D3D34": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:A2A6DE4CA0964C9FC1258DF5004D2ABF": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 2390/2025",
+   "stav": "ok"
+  },
+  "NS:A2B73846A55FEA5EC1258E8E004D533C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A40A6E21A9F211B7C1258E7D004D14ED": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:A5960B379439CBD2C1258E4F004D3E0C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A5C05EE64AB4BC1CC1258E44004D3D50": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:A63E80A4377F3169C1258EB40052A84F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:A698CE1BD9FD1404C1258E91004D3C56": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A74D1EAEC523ED2BC1258E53004D5536": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:A8E55A0DAC88588DC1258EA00052B984": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 2825/2025",
+   "stav": "ok"
+  },
+  "NS:ACEEB632BC5FF0DEC1258E8700374A82": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:AD151696595D8489C1258E4A004D3EC8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:AD25286E0D626006C1258E89004D5AC6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:ADF8503B97B2C2C2C1258E98004D3D13": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:AEC6FE517A4C2C21C1258E87004D4489": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:AF9AE26305409617C1258E87004D4455": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:B0B9CA3230B0D907C1258EB80052A82E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:B11FF241D009E872C1258EB40052A859": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:B26EF5116815F311C1258EB10052A7F6": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "duševní vlastnictví",
+   "spzn": "29 ICdo 123/2024",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B26EF5116815F311C1258EB10052A7F6?openDocument"
+  },
+  "NS:B2870D3228EB2096C1258E88004D4408": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:B4953900B30647E5C1258B72004D1A22": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:B4C723138AEB10A8C1258EAA0052B1B9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:B4FD5A52024AE30FC1258E9E0052B9F2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:B655DA0E38953D05C1258E0B004D42CC": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 59/2024",
+   "stav": "ok"
+  },
+  "NS:B7494153A61485D3C1258EAF0052BF94": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:B785A0523CF6017FC1258E12004D3B64": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "duševní vlastnictví",
+   "spzn": "23 Cdo 1993/2025",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B785A0523CF6017FC1258E12004D3B64?openDocument"
+  },
+  "NS:B7F6586768872279C1258E9E0052BA02": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:B8115312FB6D2A4FC1258DDA004D23FF": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 1455/2025",
+   "stav": "ok"
+  },
+  "NS:B982914360D3AD28C1258EA40052B9F2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:BB5F1DCA53B073DBC1258E33004D2F78": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:BB9E912EBAEA304FC1258C62004D318C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:BBBDBACACF55BB5FC1258E9C0052BAA2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:BBCD681C0A0DB6C6C1258E9D0052A286": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:BBE9556DB7DF2D02C1258E91004D3C5C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:BE45A0EA13E85AFEC1258E87004D4486": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:BE46F5EAB5D5DA9FC1258E98004D3D4F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:BF091F8FC8E68A24C1258EB90052BFDD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:BF2FE6D2D016AF8AC1258E92004D0D25": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:BF9B2F459F998CF0C1258E8F004D2542": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C07B94A9DA4C1C2AC1258EAF0052BF90": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C09FC24ACACF553AC1258E25004D2F01": {
+   "datum": "2026-11-26",
+   "spzn": "21 Cdo 1761/2025",
+   "stav": "ok"
+  },
+  "NS:C0D5E83ADD95BA7EC1258E67004D4B13": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C17D8C83F804D923C1258EA30052A268": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C1AB2C99F016E850C1258EAA0052B1C1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C1EEF8EAC317E447C1258E4D004D546E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C21D99B78A5A7B85C1258E92004D0D0E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:C2D134E180BE9864C1258E87004D44A6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C4811268E9FFEDCCC1258E90004D6B38": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C48C72733104C4ACC1258E8F004D2515": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:C497888B23F9282BC1258D64005275D6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:C54A1EC38EC76D3FC1258E81004D5AA7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:C5763D0B65AFAE72C1258E8700374A39": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 1678/2025",
+   "stav": "ok"
+  },
+  "NS:C703C90750D138E0C1258E99004D5563": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:C773F74016D50C15C1258EB10052A7FA": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 200/2026",
+   "stav": "ok"
+  },
+  "NS:C7A01D521BCFD1D3C1258E97004D260E": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 3223/2024",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7A01D521BCFD1D3C1258E97004D260E?openDocument"
+  },
+  "NS:C7A978E91E27E7BAC1258EA40052B9E0": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 194/2024",
+   "stav": "ok"
+  },
+  "NS:C85A6084CD166B5BC1258E29004D2F19": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:C8DF7B6C6D760A4DC1258E98004D3D53": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:C94C14DB7F61980DC1258E73004D43C1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:CA3624E47C4097F9C1258E89004D5AB5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CB043785EA1B274DC1258EAF0052BFA6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CB36A2E63615EC8EC1258E64004D1B69": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 48/2024",
+   "stav": "ok"
+  },
+  "NS:CB85D4EF0D055FBAC1258E61004D32D0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CC05859E4BD39643C1258E99004D54FA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CC7E213CF84BCE88C1258EAA0052B195": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:CC88B6BED8704A83C1258E3B004D3D72": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 2445/2025",
+   "stav": "ok"
+  },
+  "NS:CD1653DEE12F7880C1258E95004D3D40": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CD381AF0A80F6E6EC1258E4B004D5519": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:CDAE39F1A9E41884C1258E6C004D4A44": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:CDB8219681C93166C1258E8700374AA4": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:CDF585FBCDCC3A65C1258E8700374B29": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:CE13BF92A29A7972C1258E8E004D5364": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CE590F801F7C3A03C1258E89004D5A9B": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CE7DE1948199FE41C1258EBA0052BFA7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:CE83196571748BA8C1258E8F004D2574": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:CEA48950AD32B534C1258E20004D4612": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:CEC8C7C8BC071C8AC1258E90004D6B1D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:CFA5596790AFB1B4C1258E29004D2F3D": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 157/2024",
+   "stav": "ok"
+  },
+  "NS:D07E87F43050AAFEC1258EB40052A849": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D09D679EB1457858C1258EA40052BA08": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D0A01C77E269AEF6C1258E87004D44BB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D19D68EAD9A53823C1258E78004D5AC2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:D1DA80B3B02888DCC1258E8F004D2569": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:D24373F08638FC92C1258EB10052A801": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D2A3CB26A2B949C9C1258EA5002F9F0B": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 1913/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D2A3CB26A2B949C9C1258EA5002F9F0B?openDocument"
+  },
+  "NS:D51553A6914E6F54C1258E9F0052A25E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D5CA16696ACC60F7C1258E66004D4A5D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D61F7070D3B3E7EAC1258EA100528AC0": {
+   "datum": "2026-11-26",
+   "spzn": "22 Cdo 240/2026",
+   "stav": "ok"
+  },
+  "NS:D67694EB215ED1C8C1258E99004D54FF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D6D7ABB3F57FDF12C1258E8E004D534A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D6FE8D5F67F64D8EC1258E87004D4441": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D76B93A16F543E58C1258EBA0052BFC0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D798E7ACF65A92F6C1258EA100528ABB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:D7ED7B3FFC9C6A8DC1258EAA0052B1D9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D82DA30A3AA16711C1258E59004D3362": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:D849B4B7D0429877C1258EAA0052B1CB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:D86DAB5C68E9FB89C1258E96004D3D50": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:D981114823B9FB13C1258E9E0052B9F7": {
+   "datum": "2026-11-26",
+   "spzn": "23 Cdo 3598/2024",
+   "stav": "ok"
+  },
+  "NS:D99F3EFE20DACA46C1258E90004D6B41": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:D9A1060740635F14C1258E8F004D255D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DA233E5B6CC57A66C1258E8F004D2539": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DA3F00A4A40A0F6DC1258E87004D44BF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DAF8CF3530805626C1258E8F004D2533": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DB3E25673F7B3937C1258E8F004D24E1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DC1D6496FAB740AAC1258E53004D54E7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:DC74F4111556BCB6C1258E44004D3D45": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DCB17F971CED1C52C1258EB80052A833": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:DD795D3E23F96436C1258E89004D5AAF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DDC45DAE0CE20F4DC1258E45004D2592": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DDD05F5258E105DCC1258E53004D54EB": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:DDF48B3EAD5795A6C1258E99004D54B4": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 1521/2025",
+   "stav": "ok"
+  },
+  "NS:DE8C9BFE62B23DAFC1258E8700374B25": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:DF095DCD2581FBF4C1258E91004D3C03": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:DF4AB7CB585FA6FAC1258E75004D434A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E00C0B8953B1789CC1258E59004D33F6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E04D25B3F16FEE2FC1258E0D004D47EA": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 401/2026",
+   "stav": "ok"
+  },
+  "NS:E0AC18317CCD5FC6C1258E2E004D19F7": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 2122/2025",
+   "stav": "ok"
+  },
+  "NS:E106AD133AF57682C1258EAA0052B1E8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E13E9E3EB8EB2A61C1258E8F004D2552": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E16F206899B32FC0C1258EB30052A911": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E340E31D904C1A5AC1258E42004D3DF0": {
+   "datum": "2026-11-26",
+   "den": "2026-11-26",
+   "duvod": "pracovní právo",
+   "spzn": "21 Cdo 18/2026",
+   "stav": "vyrazeno",
+   "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E340E31D904C1A5AC1258E42004D3DF0?openDocument"
+  },
+  "NS:E3A46B09DC7CA94BC1258E67004D4AF1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:E3BF6BC1A31A733FC1258EA7005273FA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E3D3965B49017AC6C1258E42004D3DCA": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E4230085305DABFEC1258E98004D3D3F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E488D6F593B2B343C1258EB80052A879": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E48C3E79FC29AF0DC1258EB8003BBE88": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E497924997FD6C1AC1258E8B004D2C77": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E5651C3A4500E9E1C1258E13004D247E": {
+   "datum": "2026-11-26",
+   "spzn": "29 NSČR 37/2025",
+   "stav": "ok"
+  },
+  "NS:E5BCE7299737DC21C1258E87004D4463": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E6A991F397558E87C1258E8F004D24DD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E742B24DA0BDB95AC1258E91004D3C49": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E78360ED4940A1C8C1258E52004D5435": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E7BCD82521B39D93C1258E91004D3C3E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E819D81D55E6F653C1258EAE0052B15F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:E8C91781A8D3CB29C1258EB40052A85F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:E97312B3D3B9E319C1258E98004D3D48": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:EA6691D03AD96E18C1258E9C0052BADF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:EAE59D7648A6E87CC1258E0B004D4377": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:EAF2F9CC8E5C2CD5C1258E8E004D5335": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:EB481A173E116AD4C1258E4C004D3D7E": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:EB802EAA24B4EE14C1258E98004D3D18": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:EBA9B2C43FCB76C1C1258E67004D4AF5": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:EC072CE6D2BC90BFC1258EAC0052C960": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:EC9E83243A43DD29C1258E90004D6B47": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:ED88DD329B15F28FC1258EB50052D6C9": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:EDB2DBDBE2E54C20C1258E9D0052A25D": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:EDE0D73E98BD8428C1258E12004D3BCA": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 49/2024",
+   "stav": "ok"
+  },
+  "NS:EF3FF8605AFE1DC0C1258E1200160637": {
+   "datum": "2026-11-26",
+   "spzn": "29 Cdo 2290/2024",
+   "stav": "ok"
+  },
+  "NS:EF5595E704114AC5C1258EB90052BF92": {
+   "datum": "2026-11-26",
+   "spzn": "22 Cdo 1950/2026",
+   "stav": "ok"
+  },
+  "NS:EF75570A75281A10C1258E87004D446A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:F0A49D169B79DB3EC1258E99004D554F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F0B093FF9B9617F1C1258E87004D4497": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F12EA468DBEFCE31C1258E48004D259F": {
+   "datum": "2026-11-26",
+   "spzn": "24 Cdo 780/2026",
+   "stav": "ok"
+  },
+  "NS:F1AB6276369A4A9EC1258E9F0052A25A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F1B3AB5E08FE8D95C1258E8F004D24D8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F2A151184F229507C1258E8700374B15": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F47CEF7E40527B2AC1258EAA0052B1DD": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F597D05B19A27165C1258EB40052A844": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:F62EFEDFCE94BC2AC1258E81004D5AAF": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:F65DDD35EF1AB799C1258E7A004D2CA0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F661F9D97E3CF7E5C1258E8E004D5369": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F66A7E9580748CA0C1258E8700374B3A": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F67706889AF03D11C1258E8700374B3F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F69A26E638D23CC0C1258E6D004D1B90": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F737AC88545167A5C1258E74004D438C": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F7B2CB798A8AB40BC1258E8E004D5345": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:F895B28AB3883A46C1258E87004D44B8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:F9DF77F85219804DC1258E9F0052A263": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FAEEEE53840566BDC1258EA60052A2F8": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:FC08270EDB8DD235C1258E4A004D3EBA": {
+   "datum": "2026-11-26",
+   "spzn": "29 ICdo 49/2025",
+   "stav": "ok"
+  },
+  "NS:FD73230AD0912220C1258EA30052A2B0": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FE4156EA2BAF669BC1258E92004D0D17": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FE522F94F5DFBB0FC1258E8700374A7F": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FF24EE29A72A2DB8C1258E81004D5ABC": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FF7BCDB18F5BD166C1258E0D004D47D2": {
+   "datum": "2026-11-26",
+   "spzn": "27 Cdo 3437/2024",
+   "stav": "ok"
+  },
+  "NS:FF866A817C5452FBC1258E87004D44D2": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "NS:FFA568419C9CEED1C1258EB10052A7F1": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:FFACC33D4A5CC0F2C1258E87004D4438": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:FFF5FB02427047D9C1258E66004D4A66": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "US:3-643-24_2": {
+   "datum": "2026-11-26",
+   "duvod": "rozhodnuto 2026-04-22",
+   "spzn": "III. ÚS 643/24",
+   "stav": "preskoceno"
+  }
+ }
+}

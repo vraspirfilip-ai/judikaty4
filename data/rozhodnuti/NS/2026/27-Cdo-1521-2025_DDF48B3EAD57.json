@@ -1,0 +1,65 @@
+{
+  "id": "NS:DDF48B3EAD5795A6C1258E99004D54B4",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDF48B3EAD5795A6C1258E99004D54B4?openDocument",
+  "spisova_znacka": "27 Cdo 1521/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.1521.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Veřejná obchodní společnost",
+    "dotcene_predpisy": "§ 36 předpisu č. 90/2012 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 24343,
+  "rozbor": {
+    "shrnuti": "Společník veřejné obchodní společnosti vypověděl svou účast a požadoval vypořádací podíl; soudy nižších stupňů žalobu zamítly, protože podle nich mu náleží jen podíl na likvidačním zůstatku. Nejvyšší soud uzavřel, že výpovědí a uplynutím výpovědní doby účast společníka zaniká bez právního nástupce za trvání společnosti, která po zrušení a vstupu do likvidace nadále existuje (§ 185 o. z.). Takovému společníku proto vzniká právo na vypořádací podíl podle § 36 odst. 1 z. o. k., nikoli právo na podíl na likvidačním zůstatku podle § 37, které náleží jen společníkům. Soud zdůraznil, že opačný výklad by bez racionálního důvodu činil majetkové právo bývalého společníka závislým na vůli ostatních a odporoval by § 111 odst. 1 z. o. k. Odvolací soud navíc nedostatečně reagoval na argumentaci odborným stanoviskem (§ 157 odst. 2 o. s. ř.). Rozsudky obou soudů proto zrušil a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Vzniká společníku veřejné obchodní společnosti, jehož účast zanikla bez právního nástupce výpovědí a uplynutím výpovědní doby, právo na vypořádací podíl, nebo jen právo na podíl na likvidačním zůstatku, jestliže se společnost zrušila a vstoupila do likvidace a ostatní společníci se nedohodli na jejím dalším trvání?",
+        "odpoved": "Vzniká mu právo na vypořádací podíl podle § 36 odst. 1 z. o. k., protože jeho účast zanikla za trvání společnosti a nadále již není společníkem, takže mu nenáleží podíl na likvidačním zůstatku podle § 37 odst. 1 z. o. k."
+      },
+      {
+        "otazka": "Zaniká účast společníka veřejné obchodní společnosti, který vypověděl společenskou smlouvu, uplynutím výpovědní doby, nebo až zánikem společnosti výmazem z obchodního rejstříku po skončení likvidace?",
+        "odpoved": "Účast zaniká uplynutím výpovědní doby (§ 1998 odst. 2 o. z.), což vyplývá ze systematiky § 113 z. o. k., a to bez právního nástupce."
+      },
+      {
+        "otazka": "Přestává právnická osoba existovat jako subjekt již svým zrušením a vstupem do likvidace?",
+        "odpoved": "Ne, právnická osoba zapsaná do veřejného rejstříku zaniká až dnem výmazu z rejstříku (§ 185 o. z.); zrušení a vstup do likvidace její existenci nekončí."
+      }
+    ],
+    "pravni_vety": [
+      "Společníku veřejné obchodní společnosti, jehož účast zanikla bez právního nástupce v důsledku výpovědi a uplynutí výpovědní doby, vzniká právo na vypořádací podíl podle § 36 odst. 1 z. o. k.; právo na podíl na likvidačním zůstatku podle § 37 odst. 1 z. o. k. mu nesvědčí.",
+      "Samotným zrušením právnické osoby a jejím vstupem do likvidace právnická osoba nepřestává existovat; zaniká až výmazem z veřejného rejstříku."
+    ],
+    "vysledek": "rozsudek odvolacího soudu i rozsudek soudu prvního stupně ve výrocích II., III. a IV. zrušeny a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 36 odst. 1 z. o. k.",
+      "§ 37 odst. 1 z. o. k.",
+      "§ 111 odst. 1 z. o. k.",
+      "§ 113 odst. 1 písm. a) a odst. 2 z. o. k.",
+      "§ 185 o. z.",
+      "§ 1998 odst. 2 o. z.",
+      "§ 346 zákona o přeměnách",
+      "§ 157 odst. 2 o. s. ř.",
+      "čl. 36 odst. 1 Listiny"
+    ],
+    "klicova_slova": [
+      "veřejná obchodní společnost",
+      "výpověď společníka",
+      "vypořádací podíl",
+      "podíl na likvidačním zůstatku",
+      "zánik účasti společníka",
+      "likvidace",
+      "odůvodnění rozhodnutí"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší sporně posuzovanou otázku, zda vypovídajícímu společníku veřejné obchodní společnosti náleží vypořádací podíl nebo podíl na likvidačním zůstatku, a sjednocuje tak výklad § 36 a § 37 z. o. k.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

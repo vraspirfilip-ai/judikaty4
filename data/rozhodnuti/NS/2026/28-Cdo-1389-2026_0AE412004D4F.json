@@ -1,0 +1,57 @@
+{
+  "id": "NS:0AE412004D4F273CC1258E52004D53FD",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AE412004D4F273CC1258E52004D53FD?openDocument",
+  "spisova_znacka": "28 Cdo 1389/2026",
+  "ecli": "ECLI:CZ:NS:2026:28.CDO.1389.2026.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-07-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Exekuce",
+    "dotcene_predpisy": "§ 15a odst. 3 předpisu č. 119/2001 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 22825,
+  "rozbor": {
+    "shrnuti": "Exekutor přerušil první v pořadí nařízenou exekuci prodejem členského podílu v bytovém družstvu na výzvu oprávněného z jiné, dosud přerušené exekuce postihující tentýž majetek. Odvolání povinných proti tomuto usnesení soud odmítl jako nepřípustné a jejich žalobu pro zmatečnost i návrh na odklad vykonatelnosti zamítl. Nejvyšší soud dovolání v části o odkladu vykonatelnosti odmítl, protože odvolací soud postupoval v souladu s ustálenou judikaturou: rozhodnutí, které se nevykonává, nelze odložit a odklad předpokládá pravděpodobný úspěch žaloby. Ve zbytku dovolání zamítl, neboť podle jazykového, systematického i teleologického výkladu § 15a odst. 3 zákona č. 119/2001 Sb. není proti usnesení exekutora o přerušení exekuce odvolání přípustné. Jde o projev exekutorovy volby způsobu vedení exekuce, proti níž ani u exekučního příkazu opravný prostředek nepřísluší (§ 47 exek. řádu). Žaloba pro zmatečnost proto není opodstatněná.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je povinný oprávněn podat odvolání proti usnesení exekutora, jímž exekutor jako první v pořadí provádějící exekuci postihující nemovitý majetek povinného (včetně družstevního podílu spojeného s užíváním bytu) tuto exekuci přeruší na výzvu oprávněného z jiné, dosud přerušené exekuce podle § 15a odst. 3 zákona č. 119/2001 Sb.?",
+        "odpoved": "Ne. Podle jazykového, systematického i teleologického výkladu § 15a odst. 3 zákona č. 119/2001 Sb. a ve shodě s § 47 odst. 1 a 5 exekučního řádu jde o výkon pravomoci exekutora volit způsob provedení exekuce, proti němuž odvolání zákon nezakládá."
+      },
+      {
+        "otazka": "Lze podle § 235c o. s. ř. odložit vykonatelnost rozhodnutí napadeného žalobou pro zmatečnost, jde-li o usnesení, které se nevykonává, a žaloba není pravděpodobně úspěšná?",
+        "odpoved": "Ne. Odklad vykonatelnosti rozhodnutí, které se nevykonává, pojmově nepřichází v úvahu a předpokládá pravděpodobný úspěch mimořádného opravného prostředku (§ 235c o. s. ř.)."
+      }
+    ],
+    "pravni_vety": [
+      "Proti usnesení exekutora o přerušení exekuce souběžně postihující týž nemovitý majetek povinného podle § 15a odst. 3 zákona č. 119/2001 Sb. není odvolání přípustné."
+    ],
+    "vysledek": "dovolání proti výroku o zamítnutí návrhu na odklad vykonatelnosti odmítnuto, dovolání proti výroku o zamítnutí žaloby pro zmatečnost zamítnuto",
+    "pravni_oblast": "exekuce",
+    "dotcene_predpisy": [
+      "§ 15a odst. 3 zákona č. 119/2001 Sb.",
+      "§ 14 odst. 1 zákona č. 119/2001 Sb.",
+      "§ 47 odst. 1, 5 exekučního řádu",
+      "§ 235c o. s. ř.",
+      "§ 229 odst. 4 o. s. ř.",
+      "§ 320ab o. s. ř."
+    ],
+    "klicova_slova": [
+      "přerušení exekuce",
+      "souběžné exekuce",
+      "opravný prostředek",
+      "odvolání",
+      "žaloba pro zmatečnost",
+      "odklad vykonatelnosti",
+      "družstevní podíl"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Soud poprvé v judikatuře vyřešil otázku přípustnosti odvolání proti usnesení exekutora o přerušení exekuce podle § 15a odst. 3 zákona č. 119/2001 Sb.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

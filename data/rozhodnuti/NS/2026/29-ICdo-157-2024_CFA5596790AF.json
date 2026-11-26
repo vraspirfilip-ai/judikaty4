@@ -1,0 +1,65 @@
+{
+  "id": "NS:CFA5596790AFB1B4C1258E29004D2F3D",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFA5596790AFB1B4C1258E29004D2F3D?openDocument",
+  "spisova_znacka": "29 ICdo 157/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.157.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Úroky z prodlení",
+    "dotcene_predpisy": "§ 570 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 15430,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce klienta banky se v incidenčním sporu domáhal určení pohledávky na úrocích z prodlení banky s provedením platebního příkazu zadaného v internetovém bankovnictví, který nebyl autorizován pro nefunkčnost systému. Soudy nižších stupňů žalobu zamítly, protože platební příkaz nebyl přijat a banka nebyla v prodlení. Nejvyšší soud uvedl, že na zvláštní úpravu přijetí platebního příkazu lze použít obecné pravidlo o fikci dojití při vědomém zmaření dojití (§ 570 odst. 1 o. z.). To předpokládá úmyslné protiprávní jednání adresáta, nikoli objektivní technickou poruchu. Odvolací soud se k § 570 o. z. nevyjádřil, jeho posouzení je neúplné a rozhodnutí vnitřně rozporné, neboť závěr o neunesení břemene tvrzení a důkazního přijal bez poučení podle § 118a o. s. ř. Rozsudek proto zrušil a věc vrátil odvolacímu soudu.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze na dojití platebního příkazu zadaného v internetovém bankovnictví poskytovateli platební služby použít fikci dojití podle § 570 odst. 1 věty druhé o. z., zmaří-li adresát dojití vědomě, a kdy je vědomé zmaření dojití dáno?",
+        "odpoved": "Ano, zvláštní úprava přijetí platebního příkazu (§ 158 zákona o platebním styku) použití § 570 odst. 1 o. z. nevylučuje; vědomé zmaření předpokládá úmyslné protiprávní jednání adresáta s cílem zabránit dojití, což zpravidla nenastává při technické poruše, přetížení či systémové chybě internetového bankovnictví."
+      },
+      {
+        "otazka": "Je poskytovatel platební služby v prodlení a vzniká klientovi nárok na úrok z prodlení, jestliže platební příkaz došel na základě fikce dojití podle § 570 odst. 1 o. z. a nebyl proveden ve splatnosti?",
+        "odpoved": "Ano, nesplní-li dlužník v důsledku fikce dojití platebního příkazu dluh řádně a včas, je v prodlení a věřitel, který řádně splnil své povinnosti, může požadovat úrok z prodlení (§ 1968, § 1970 o. z.)."
+      },
+      {
+        "otazka": "Lze učinit závěr o neunesení důkazního břemene a břemene tvrzení ohledně vědomého zmaření dojití platebního příkazu bez předchozího poučení účastníka podle § 118a odst. 1 a 3 o. s. ř.?",
+        "odpoved": "Ne, takový závěr nelze učinit bez odpovídajícího poučení podle § 118a o. s. ř., neboť poučovací povinnost má objektivní povahu."
+      }
+    ],
+    "pravni_vety": [
+      "Vědomé zmaření dojití právního jednání ve smyslu § 570 odst. 1 o. z. předpokládá úmyslné protiprávní jednání adresáta s cílem zabránit tomu, aby právní jednání odesílatele došlo do sféry jeho dispozice; o takový případ zpravidla nejde, není-li systém internetového bankovnictví funkční v důsledku přetížení, systémové chyby či jiné technické poruchy nezávislé na vůli poskytovatele platební služby.",
+      "Na dojití platebního příkazu podle zákona o platebním styku se uplatní i obecné pravidlo o fikci dojití při vědomém zmaření dojití podle § 570 odst. 1 věty druhé o. z."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 570 odst. 1 o. z.",
+      "§ 1968 o. z.",
+      "§ 1970 o. z.",
+      "§ 158 zákona č. 370/2017 Sb., o platebním styku",
+      "§ 2 odst. 3 písm. c) zákona č. 370/2017 Sb., o platebním styku",
+      "§ 118a odst. 1 a 3 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř.",
+      "§ 373 IZ"
+    ],
+    "klicova_slova": [
+      "platební příkaz",
+      "internetové bankovnictví",
+      "dojití projevu vůle",
+      "vědomé zmaření dojití",
+      "úrok z prodlení",
+      "incidenční spor",
+      "poučovací povinnost"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí poprvé řeší otázku použití fikce dojití podle § 570 odst. 1 o. z. na platební příkazy v internetovém bankovnictví a vymezuje pojem vědomého zmaření dojití.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

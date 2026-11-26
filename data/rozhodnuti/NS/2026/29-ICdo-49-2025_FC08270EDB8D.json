@@ -1,0 +1,58 @@
+{
+  "id": "NS:FC08270EDB8DD235C1258E4A004D3EBA",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC08270EDB8DD235C1258E4A004D3EBA?openDocument",
+  "spisova_znacka": "29 ICdo 49/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.49.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Promlčení",
+    "dotcene_predpisy": "§ 619 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 32516,
+  "rozbor": {
+    "shrnuti": "Státní podnik se po insolvenčním správci domáhal náhrady škody, protože správce sepsal do majetkové podstaty dlužníka a zpeněžil státní lesní pozemky, které později byly vyloučeny. Za ně byla vyplacena jen kupní cena, nikoli jejich obvyklá cena. Odvolací soud nárok považoval za promlčený, protože počátek lhůty vázal na zveřejnění kupní smlouvy v insolvenčním rejstříku, a dále dovodil, že správce postupoval s odbornou péčí. Nejvyšší soud uvedl, že zveřejnění smlouvy pod neurčitým označením „Sdělení insolvenčního správce“ bez dalšího nezakládá vědomost o škodě a o osobě odpovědné. Neúplné bylo i posouzení odborné péče, protože odvolací soud se nevypořádal s námitkami o neoprávněném soupisu a o prodeji bez souhlasu ministerstva. Marné uplynutí lhůty k žalobě na neplatnost kupní smlouvy podle § 289 odst. 3 IZ navíc nebrání namítat nezákonnost jednání správce v řízení o jeho odpovědnosti. Rozsudek proto zrušil a věc vrátil odvolacímu soudu.",
+    "klicove_otazky": [
+      {
+        "otazka": "Počíná subjektivní promlčecí lhůta k náhradě škody proti insolvenčnímu správci podle § 37 odst. 4 IZ již zveřejněním kupní smlouvy o zpeněžení majetku v insolvenčním rejstříku, jestliže zveřejnění neoznačuje, že jde o smlouvu zpeněžující majetek ze soupisu?",
+        "odpoved": "Ne, takové zveřejnění pod označením „Sdělení insolvenčního správce“ bez dalšího nezakládá vědomost (ani možnost a povinnost se dozvědět) o zpeněženém majetku a ceně. Lhůta nezačne běžet dříve, než se poškozený dozvěděl nebo měl a mohl dozvědět o vzniku škody a přibližně o její výši a o odpovědné osobě (§ 37 odst. 4 IZ, § 619 a § 620 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Brání marné uplynutí lhůty k žalobě na neplatnost kupní smlouvy o zpeněžení majetku prodejem mimo dražbu podle § 289 odst. 3 IZ tomu, aby se v řízení o odpovědnosti insolvenčního správce za škodu namítala nezákonnost jeho jednání při zpeněžení?",
+        "odpoved": "Ne, uplynutí lhůty podle § 289 odst. 3 IZ vylučuje jen možnost domoci se neplatnosti smlouvy, na odpovědnost správce podle § 37 IZ nemá přímý vliv a nezákonnost jeho jednání lze namítat i nadále."
+      }
+    ],
+    "pravni_vety": [
+      "Zveřejnění kupní smlouvy v insolvenčním rejstříku pod označením „Sdělení insolvenčního správce“, z něhož není zřejmé, že jí byl zpeněžen majetek ze soupisu majetkové podstaty, nelze bez dalšího považovat za skutečnost, z níž se poškozený dozvěděl nebo mohl a měl dozvědět o škodě, a nemá proto význam pro počátek běhu subjektivní promlčecí lhůty podle § 37 odst. 4 insolvenčního zákona.",
+      "Marné uplynutí lhůty k podání žaloby na neplatnost smlouvy, kterou došlo ke zpeněžení majetku prodejem mimo dražbu (§ 289 odst. 3 insolvenčního zákona), nemá přímý vliv na odpovědnost insolvenčního správce za škodu podle § 37 insolvenčního zákona; nezákonnost jeho právního jednání lze v řízení o náhradě škody namítat i poté."
+    ],
+    "vysledek": "Dovolání je přípustné, rozsudek Vrchního soudu v Olomouci byl zrušen a věc mu byla vrácena k dalšímu řízení.",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 37 odst. 1 a 4 IZ",
+      "§ 289 odst. 3 IZ",
+      "§ 619 o. z.",
+      "§ 620 odst. 1 o. z.",
+      "§ 243e o. s. ř.",
+      "§ 4 odst. 2 zákona o lesích"
+    ],
+    "klicova_slova": [
+      "odpovědnost insolvenčního správce",
+      "náhrada škody",
+      "promlčení",
+      "subjektivní promlčecí lhůta",
+      "zpeněžení mimo dražbu",
+      "odborná péče",
+      "insolvenční rejstřík"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí upřesňuje počátek subjektivní promlčecí lhůty podle § 37 odst. 4 IZ ve vztahu k zveřejnění smlouvy v insolvenčním rejstříku a vyjasňuje vztah odpovědnosti správce k lhůtě podle § 289 odst. 3 IZ.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

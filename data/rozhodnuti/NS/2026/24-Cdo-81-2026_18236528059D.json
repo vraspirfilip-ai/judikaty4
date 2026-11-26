@@ -1,0 +1,65 @@
+{
+  "id": "NS:18236528059DF1CAC1258DFC004D54D2",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18236528059DF1CAC1258DFC004D54D2?openDocument",
+  "spisova_znacka": "24 Cdo 81/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.81.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-09",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Smlouva kupní",
+    "dotcene_predpisy": "§ 2131 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 40510,
+  "rozbor": {
+    "shrnuti": "Šlo o vkladovou žalobu podle části páté o. s. ř. po zamítnutí návrhu na vklad vlastnického práva katastrálním úřadem. Kupní smlouva o převodu spoluvlastnických podílů na nemovitostech výslovně uváděla, že je uzavřena bez určení kupní ceny podle § 2085 odst. 2 o. z. ve spojení s § 2131 o. z. Soudy nižších stupňů žalobu zamítly, protože podle nich nelze kupní cenu u nemovité věci neurčit a smlouva nesplňuje požadavek určitosti podle § 2080 o. z. Nejvyšší soud dovolání vyhověl: § 2085 odst. 2 o. z. se podle § 2131 o. z. přiměřeně použije i na koupi nemovité věci, pokud je v písemné smlouvě jasně vyjádřena vůle uzavřít úplatnou smlouvu bez určení ceny. Za ujednanou pak platí cena obvyklá. Nejvyšší soud proto sám změnil rozhodnutí tak, že vklad povolil, a nahradil rozhodnutí katastrálního úřadu.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze v písemné kupní smlouvě o převodu nemovité věci výslovně projevit vůli uzavřít úplatnou smlouvu bez určení kupní ceny, takže se podle § 2131 o. z. přiměřeně použije § 2085 odst. 2 o. z. a za ujednanou platí cena obvyklá?",
+        "odpoved": "Ano, pokud je z písemné smlouvy zřejmá vůle stran uzavřít úplatnou kupní smlouvu bez určení ceny, platí za ujednanou cena, za niž se srovnatelná nemovitá věc v době uzavření smlouvy a za obdobných podmínek obvykle prodává. Ustanovení o koupi nemovité věci použití § 2085 odst. 2 o. z. nevylučují a § 2131 o. z. svědčí pro jednotu úpravy koupě."
+      },
+      {
+        "otazka": "Je výše kupní ceny podstatnou náležitostí kupní smlouvy, jejíž neurčení u nemovité věci brání tomu, aby smlouva byla způsobilou vkladovou listinou podle § 17 odst. 1 písm. b) katastrálního zákona?",
+        "odpoved": "Ne, pojmovým znakem koupě je jen úplatnost (§ 2079 odst. 1 o. z.), nikoli výslovné určení výše ceny. Požadavek určitosti podle § 2080 o. z. dopadá jen na případy, kdy je cena sjednána, nikoli na případy, kdy strany výslovně chtějí cenu neurčit."
+      },
+      {
+        "otazka": "Brání použití § 2085 odst. 2 o. z. u koupě nemovité věci povinná písemná forma, vyšší hodnota nebo obtížná ocenitelnost nemovitostí nebo odlišný okamžik nabytí vlastnického práva?",
+        "odpoved": "Ne, písemná forma chrání jistotu o obsahu jednání, nikoli vylučuje zákonné pravidlo určující cenu. Hodnota věci ani okamžik nabytí vlastnického práva nemají vztah ke způsobu určení ceny, což dokládají i jiné písemné smlouvy bez určení ceny, např. smlouva o dílo."
+      }
+    ],
+    "pravni_vety": [
+      "Je-li u koupě nemovité věci v písemné smlouvě výslovně projevena vůle stran uzavřít úplatnou kupní smlouvu bez určení kupní ceny, použije se podle § 2131 o. z. přiměřeně § 2085 odst. 2 o. z. a za ujednanou platí cena, za niž se srovnatelná nemovitá věc v době uzavření smlouvy a za obdobných smluvních podmínek obvykle prodává.",
+      "Stanovení výše kupní ceny není podstatnou náležitostí kupní smlouvy; pojmovým znakem koupě je úplatnost. Ustanovení § 2080 o. z. dopadá na případy sjednané, avšak neurčité kupní ceny, kdežto § 2085 odst. 2 o. z. na případy, kdy strany výslovně chtějí kupní smlouvu uzavřít bez určení ceny."
+    ],
+    "vysledek": "Dovolání vyhověno, rozsudek odvolacího soudu změněn a rozsudkem soudu prvního stupně povolen vklad vlastnického práva (rozhodnutí katastrálního úřadu nahrazeno); žádný z účastníků nemá právo na náhradu nákladů řízení.",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 2079 odst. 1 o. z.",
+      "§ 2080 o. z.",
+      "§ 2085 odst. 2 o. z.",
+      "§ 2131 o. z.",
+      "§ 492 odst. 1 o. z.",
+      "§ 17 odst. 1 písm. b) katastrálního zákona",
+      "§ 580 odst. 1 o. z.",
+      "§ 243d odst. 1 písm. b) o. s. ř."
+    ],
+    "klicova_slova": [
+      "kupní smlouva",
+      "kupní cena",
+      "nemovitá věc",
+      "vklad vlastnického práva",
+      "přiměřené použití",
+      "cena obvyklá",
+      "autonomie vůle",
+      "vkladové řízení"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší sporný a v praxi katastrálních úřadů významný výklad, že lze koupi nemovité věci uzavřít bez určení ceny podle § 2085 odst. 2 ve spojení s § 2131 o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

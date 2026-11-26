@@ -1,0 +1,68 @@
+{
+  "id": "NS:D981114823B9FB13C1258E9E0052B9F7",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D981114823B9FB13C1258E9E0052B9F7?openDocument",
+  "spisova_znacka": "23 Cdo 3598/2024",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.3598.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-22",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Odpovědnost za vady",
+    "dotcene_predpisy": "§ 2106 odst. 2 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 40064,
+  "rozbor": {
+    "shrnuti": "Žalobkyně jako kupující se po koupi nemovitostí domáhala slevy z kupní ceny pro statické vady stropů. Odvolací soud nárok ohledně stropu nad II. nadzemním podlažím zamítl s tím, že strany po vytknutí vady uzavřely dohodu o kompenzaci (povolenky k lovu). Nejvyšší soud uvedl, že právní úpravu práva na slevu z kupní ceny lze po oznámení vady a volbě práva dispozitivně změnit dohodou o jiném plnění, které narovná ekvivalenci plnění. Tvrzení o dohodě však byla příliš neurčitá (strany, předmět, zánik) a odvolací soud neprovedl dokazování. Rozhodnutí bylo pro žalobkyni také překvapivé. Rozsudek odvolacího soudu proto zrušil a věc vrátil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Mohou se strany kupní smlouvy odchýlit od zákonné úpravy práva na přiměřenou slevu z kupní ceny dohodou uzavřenou až poté, co kupující oznámil vadu a zvolil právo z vadného plnění?",
+        "odpoved": "Ano, úprava je dispozitivní (§ 1 odst. 2 o. z.) a účelu práv z vad se neprotiví, dohodnou-li se strany po oznámení vady na jiném plnění způsobilém narovnat narušenou ekvivalenci plnění; ani § 2106 odst. 2 a § 2107 odst. 3 o. z. to nebrání. Dohoda může být změnou závazku, novací či narovnáním (§ 1901–1903 o. z.)."
+      },
+      {
+        "otazka": "Lze v kupní smlouvě mezi podnikateli po oznámení vady dovodit zánik nároku na slevu z kupní ceny z dohody o „kompenzaci“, jejíž strany, předmět a trvání nejsou z tvrzení jasné a kterou druhá strana popírá?",
+        "odpoved": "Ne, z neurčitých tvrzení nelze bez dokazování dovodit, že dohoda byla uzavřena mezi stranami kupní smlouvy, že upravuje právo z vad a že nezanikla. Takový postup je nesprávným právním posouzením a vadou řízení."
+      },
+      {
+        "otazka": "Je nutné provádět dokazování ohledně tvrzené skutečnosti, jestliže by při jejím prokázání nebylo možné žalobě vyhovět?",
+        "odpoved": "Dokazování není třeba, pokud by ani po prokázání tvrzení nebylo možné žalobě vyhovět. To ale neplatí, jsou-li tvrzení natolik neurčitá, že neumožňují závěr o zániku nároku; soud je pak musí objasnit a provést dokazování."
+      }
+    ],
+    "pravni_vety": [
+      "Účelu práv z vadného plnění se neprotiví, dohodnou-li se strany kupní smlouvy po oznámení vady a volbě práva z vad kupujícím na jiném než zákonem předpokládaném právu nebo plnění, které je způsobilé narovnat poruchu ekvivalence plnění vzniklou vadným plněním prodávajícího.",
+      "Rozhodnutí odvolacího soudu, které bez předchozího upozornění založí právní posouzení na dohodě o kompenzaci vad, jež nebyla v řízení takto posuzována a o jejímž obsahu nemohla strana argumentovat, je překvapivé a porušuje právo na soudní ochranu."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena Krajskému soudu v Ostravě k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 1 odst. 2 o. z.",
+      "§ 1901 o. z.",
+      "§ 1902 o. z.",
+      "§ 1903 o. z.",
+      "§ 2106 odst. 2 o. z.",
+      "§ 2107 odst. 3 o. z.",
+      "§ 2174 o. z.",
+      "§ 2103 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř.",
+      "čl. 36 odst. 1 Listiny",
+      "čl. 38 odst. 2 Listiny"
+    ],
+    "klicova_slova": [
+      "vady věci",
+      "sleva z kupní ceny",
+      "dohoda po oznámení vady",
+      "dispozitivnost",
+      "narovnání",
+      "překvapivé rozhodnutí",
+      "dokazování"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší možnost odchylné dohody o právech z vad po oznámení vady a navazuje na R 29/2026, jde však o rozhodnutí s omezeným dopadem.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

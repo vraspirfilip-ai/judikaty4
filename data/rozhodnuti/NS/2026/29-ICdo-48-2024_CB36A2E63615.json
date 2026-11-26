@@ -1,0 +1,62 @@
+{
+  "id": "NS:CB36A2E63615EC8EC1258E64004D1B69",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB36A2E63615EC8EC1258E64004D1B69?openDocument",
+  "spisova_znacka": "29 ICdo 48/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.48.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-07-31",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Incidenční spory",
+    "dotcene_predpisy": "§ 160 odst. 1 IZ. ve znění do 31.05.2019"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 33263,
+  "rozbor": {
+    "shrnuti": "Dlužnice podala incidenční žalobu na určení neplatnosti kupní smlouvy, jíž insolvenční správkyně zpeněžila prodejem mimo dražbu spoluvlastnický podíl na nemovitosti. Smlouva byla v insolvenčním rejstříku zveřejněna vadně, pod označením „Zpráva o průběhu zpeněžení“. Nejvyšší soud uzavřel, že vadné zveřejnění samo o sobě nespouští tříměsíční propadnou lhůtu podle § 289 odst. 3 IZ. Lhůta však běží od okamžiku, kdy se osoba prokazatelně dozvěděla, že vadně označená událost identifikuje zveřejnění smlouvy. Dlužnice se to prokazatelně dozvěděla z doplnění první žaloby ze dne 23. 8. 2019, takže žaloba podaná 27. 4. 2021 je opožděná. Odvolací soud proto správně shledal opožděnost, ale nesprávně žalobu zamítl, místo aby ji odmítl (§ 160 odst. 4 IZ). Nejvyšší soud proto rozsudek odvolacího soudu změnil tak, že se žaloba odmítá, a rozhodl o nákladech řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Spouští vadné zveřejnění kupní smlouvy o zpeněžení majetkové podstaty prodejem mimo dražbu v insolvenčním rejstříku (s nepřesným označením události) tříměsíční propadnou lhůtu k žalobě o určení neplatnosti podle § 289 odst. 3 IZ, jestliže se žalobce prokazatelně dozvěděl, že vadně označená událost identifikuje zveřejnění této smlouvy?",
+        "odpoved": "Samo vadné zveřejnění lhůtu nespouští, ale ochrana náleží jen osobám, které ji potřebují; lhůta začíná běžet okamžikem, kdy se žalobce prokazatelně dozvěděl, že vadně označená událost představuje zveřejnění smlouvy (§ 289 odst. 3 IZ)."
+      },
+      {
+        "otazka": "Jaký je procesní následek podání žaloby o určení neplatnosti smlouvy o zpeněžení prodejem mimo dražbu až po uplynutí lhůty podle § 289 odst. 3 IZ – zamítnutí, nebo odmítnutí žaloby?",
+        "odpoved": "Žaloba doručená po uplynutí hmotněprávní propadné lhůty se odmítne pro opožděnost podle § 160 odst. 4 věty první IZ; její zamítnutí je nesprávné."
+      },
+      {
+        "otazka": "Brání podání nové žaloby o určení neplatnosti kupní smlouvy o zpeněžení podle § 289 odst. 3 IZ před uplynutím lhůty to, že dřívější stejná žaloba byla vzata zpět a řízení zastaveno?",
+        "odpoved": "Ne, § 289 odst. 3 IZ nevybízí k analogické aplikaci § 225 odst. 3 IZ, takže předchozí podání žaloby, jejíž řízení skončilo odmítnutím nebo zastavením, opětovné podání v běžící lhůtě samo o sobě nevylučuje."
+      }
+    ],
+    "pravni_vety": [
+      "Vadné (nikoli řádné) zveřejnění smlouvy, kterou došlo ke zpeněžení majetku z majetkové podstaty prodejem mimo dražbu, v insolvenčním rejstříku vylučuje spojit s takovým zveřejněním počátek běhu lhůty podle § 289 odst. 3 insolvenčního zákona; vyšlo-li však najevo, že se žalobce přes nepřesné označení zveřejňované události dozvěděl, že byla zveřejněna taková smlouva, počíná lhůta běžet okamžikem, kdy se to prokazatelně dozvěděl.",
+      "Žaloba o určení neplatnosti smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, podaná po uplynutí lhůty podle § 289 odst. 3 insolvenčního zákona, se odmítá pro opožděnost podle § 160 odst. 4 věty první insolvenčního zákona."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu změněn tak, že se žaloba odmítá; žalobkyně nahradí žalovanému náklady řízení před soudy obou stupňů 30 263,26 Kč; náklady dovolacího řízení nikdo nemá právo.",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 289 odst. 3 IZ",
+      "§ 160 odst. 4 IZ",
+      "§ 225 odst. 3 IZ",
+      "§ 283 odst. 4 IZ",
+      "§ 419 odst. 1 IZ",
+      "§ 243d odst. 1 písm. b) o. s. ř."
+    ],
+    "klicova_slova": [
+      "incidenční spor",
+      "neplatnost kupní smlouvy",
+      "zpeněžení mimo dražbu",
+      "insolvenční rejstřík",
+      "prekluzivní lhůta",
+      "opožděnost žaloby",
+      "vadné zveřejnění"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí rozvíjí a upřesňuje judikaturu k počátku běhu prekluzivní lhůty podle § 289 odst. 3 IZ při vadném zveřejnění smlouvy v insolvenčním rejstříku a k procesnímu následku opožděné žaloby.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "NS:1B89EE8E9680FB05C1258E82004D2C2B",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B89EE8E9680FB05C1258E82004D2C2B?openDocument",
+  "spisova_znacka": "27 Cdo 470/2026",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.470.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-08-26",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Squeeze-out",
+    "dotcene_predpisy": "§ 183m obch. zák."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 21976,
+  "rozbor": {
+    "shrnuti": "Šlo o nárok vytěsněného minoritního akcionáře na zákonný úrok z prodlení z doplatku přiměřeného protiplnění za zaknihované akcie, který byl později stanoven soudem v řízení o přezkumu přiměřenosti. Řešila se otázka, kdy je protiplnění za zaknihované akcie splatné, když vlastník nečiní vůči společnosti žádný úkon, a zda hlavní akcionář, který se řídil znaleckým posudkem, odpovídá za úrok z prodlení. Nejvyšší soud rozšířil dříve vyslovené závěry o listinných akciích i na zaknihované akcie. Splatnost dovodil přímo z § 183m odst. 2 a 3 obch. zák. s tím, že protiplnění je splatné bez zbytečného odkladu po zápisu vlastnického práva na majetkovém účtu. Hlavní akcionář se tak dostává do prodlení od tohoto okamžiku, a to i s doplatkem stanoveným později soudem. Dovolání proto zamítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Kdy je splatné přiměřené protiplnění (včetně doplatku do jiné výše přiznané soudem podle § 183k odst. 3 obch. zák.) za zaknihované účastnické cenné papíry při nuceném přechodu na hlavního akcionáře, jestliže dosavadní vlastník vůči společnosti nečiní žádný úkon, který by šlo považovat za výzvu k plnění?",
+        "odpoved": "Protiplnění je splatné bez zbytečného odkladu po zápisu vlastnického práva na majetkovém účtu v příslušné evidenci cenných papírů, neboť splatnost plyne přímo z § 183m odst. 2 a 3 obch. zák.; výzva podle § 340 odst. 2 obch. zák. se nevyžaduje. Nevyplatí-li hlavní akcionář protiplnění v této lhůtě, je v prodlení a vlastníkovi náleží i úrok z prodlení."
+      },
+      {
+        "otazka": "Odpovídá hlavní akcionář za úrok z prodlení z doplatku protiplnění stanoveného soudem, jestliže při vytěsnění vyplatil částku určenou znaleckým posudkem a podle § 183j odst. 4 obch. zák. ve znění do 1. 4. 2008 se od něj nemohl odchýlit?",
+        "odpoved": "Ano, úrok z prodlení z doplatku běží od okamžiku, kdy mělo být splněno protiplnění přiznané v usnesení valné hromady. Gramatický výklad § 183j odst. 4 obch. zák. tento závěr nemění, neboť teleologický výklad (požadavek přiměřenosti protiplnění) vede k odlišnému závěru a soudní rozhodnutí o jiné výši protiplnění má pouze deklaratorní povahu."
+      }
+    ],
+    "pravni_vety": [
+      "Přiměřené protiplnění (včetně protiplnění přiznaného soudem podle § 183k odst. 3 obch. zák.) za zaknihované účastnické cenné papíry je splatné bez zbytečného odkladu po zápisu vlastnického práva hlavního akcionáře na majetkovém účtu v příslušné evidenci cenných papírů (§ 183m odst. 2 a 3 obch. zák.); nevyplatí-li je hlavní akcionář v této lhůtě, dostává se do prodlení a dosavadnímu vlastníkovi vzniká právo na úrok z prodlení."
+    ],
+    "vysledek": "dovolání žalované zamítnuto; žalované uložena náhrada nákladů dovolacího řízení 450 Kč",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 183i obch. zák.",
+      "§ 183j odst. 4 obch. zák.",
+      "§ 183k odst. 3 obch. zák.",
+      "§ 183m odst. 2 a 3 obch. zák.",
+      "§ 340 odst. 2 obch. zák.",
+      "§ 517 odst. 2 obč. zák. (1964)",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "nucený přechod akcií",
+      "vytěsnění minoritních akcionářů",
+      "přiměřené protiplnění",
+      "zaknihované akcie",
+      "splatnost",
+      "úrok z prodlení",
+      "doplatek protiplnění"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud neřešenou otázku splatnosti protiplnění u zaknihovaných akcií a rozšiřuje na ně dřívější judikaturu o akciích listinných, nejde však o změnu judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

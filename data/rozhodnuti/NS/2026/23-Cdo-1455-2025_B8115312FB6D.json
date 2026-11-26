@@ -1,0 +1,58 @@
+{
+  "id": "NS:B8115312FB6D2A4FC1258DDA004D23FF",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B8115312FB6D2A4FC1258DDA004D23FF?openDocument",
+  "spisova_znacka": "23 Cdo 1455/2025",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.1455.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-03-25",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Břemeno důkazní",
+    "dotcene_predpisy": "čl. 10 předpisu č. 11/1975 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 23869,
+  "rozbor": {
+    "shrnuti": "Dopravce se po odesílateli domáhal náhrady škody na vozidle způsobené požárem přepravovaných použitých lithiových baterií, mimo jiné s odkazem na čl. 10 Úmluvy CMR (vada obalu zásilky). Nižší soudy žalobu zamítly, protože dopravce znal povahu nebezpečí a neprokázal vadu obalu ani její příčinnou souvislost se škodou. Dovolání bylo shledáno přípustným jen pro dosud neřešenou otázku, kdo nese důkazní břemeno o vadě obalu. Nejvyšší soud vyšel z autonomního výkladu Úmluvy CMR a obecného pravidla o důkazním břemeni podle hmotněprávní normy, přihlédl i k zahraniční literatuře a judikatuře. Dovodil, že důkazní břemeno o vzniku škody, vadě obalu a příčinné souvislosti nese dopravce, a dovolání zamítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Kdo nese důkazní břemeno o vadě obalu zásilky a o příčinné souvislosti mezi touto vadou a škodou na provozním prostředku, uplatňuje-li dopravce vůči odesílateli nárok podle čl. 10 Úmluvy CMR?",
+        "odpoved": "Důkazní břemeno nese dopravce, který musí tvrdit a prokázat vznik škody, vadu obalu i příčinnou souvislost, neboť podle obecného pravidla stíhá břemeno toho, komu je existence skutečnosti podle hmotného práva ku prospěchu; odesílatel nemusí dokazovat bezvadnost obalu."
+      },
+      {
+        "otazka": "Podle jakých zásad se v režimu Úmluvy CMR vykládají její pojmy a rozděluje důkazní břemeno, nestanoví-li Úmluva výslovně jinak?",
+        "odpoved": "Pojmy Úmluvy CMR se vykládají autonomně, nezávisle na vnitrostátním právu, s přihlédnutím k účelu Úmluvy a zahraniční praxi; důkazní břemeno se určuje podle hmotněprávní normy a nese je ten, kdo z dané skutečnosti vyvozuje pro sebe příznivé důsledky."
+      }
+    ],
+    "pravni_vety": [
+      "Důkazní břemeno ohledně vzniku škody, vady obalu zásilky a příčinné souvislosti mezi vadou a škodou způsobenou na provozním prostředku, jejíž náhrady se dopravce domáhá vůči odesílateli podle čl. 10 Úmluvy CMR, nese dopravce."
+    ],
+    "vysledek": "dovolání zamítnuto; žalobkyně nahradí žalované náklady dovolacího řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "čl. 10 Úmluvy CMR",
+      "čl. 22 Úmluvy CMR",
+      "čl. 29 Úmluvy CMR",
+      "čl. 18 Úmluvy CMR",
+      "§ 237 o. s. ř.",
+      "§ 241a odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "Úmluva CMR",
+      "mezinárodní silniční přeprava",
+      "důkazní břemeno",
+      "vada obalu zásilky",
+      "odpovědnost odesílatele",
+      "autonomní výklad",
+      "nebezpečná zásilka"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí poprvé řeší a sjednocuje otázku rozložení důkazního břemene o vadě obalu podle čl. 10 Úmluvy CMR s využitím autonomního výkladu a zahraniční komparace a je zařazeno do kategorie A.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

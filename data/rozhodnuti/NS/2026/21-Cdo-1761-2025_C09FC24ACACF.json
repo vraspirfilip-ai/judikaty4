@@ -1,0 +1,59 @@
+{
+  "id": "NS:C09FC24ACACF553AC1258E25004D2F01",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C09FC24ACACF553AC1258E25004D2F01?openDocument",
+  "spisova_znacka": "21 Cdo 1761/2025",
+  "ecli": "ECLI:CZ:NS:2026:21.CDO.1761.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-27",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Bezdůvodné obohacení",
+    "dotcene_predpisy": "§ 6 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 22991,
+  "rozbor": {
+    "shrnuti": "Původní žalobce poskytoval žalovanému pracovníky na základě rámcové smlouvy, kterou nižší soudy posoudily jako zastřené agenturní zaměstnávání, tedy neplatnou smlouvu. Odvolací soud žalobu zamítl s odkazem na § 6 odst. 2 o. z., podle něhož nikdo nesmí těžit ze svého protiprávního jednání, a vyloučil tak i nárok z bezdůvodného obohacení. Nejvyšší soud dovodil, že vrácení plnění z neplatné smlouvy je zákonným důsledkem neplatnosti a nepředstavuje výhodu žádné ze stran, takže § 6 odst. 2 o. z. neporušuje. Ustanovení má chránit poctivou stranu před nepoctivou, nikoli postihovat strany, které jednaly nepoctivě obě. Odvolací soud také zaměnil plnění poskytnuté podle neplatné smlouvy s ziskem z činnosti provozované na jejím základě. Rozsudek odvolacího soudu proto zrušil a věc vrátil; dovolání proti nákladovému výroku odmítl.",
+    "klicove_otazky": [
+      {
+        "otazka": "Brání zásada zákazu těžit z vlastního nepoctivého nebo protiprávního jednání podle § 6 odst. 2 o. z. vrácení plnění z oboustranně zavazující smlouvy neplatné pro rozpor se zákonem (zde zastřené agenturní zaměstnávání), takže nelze přiznat nárok z bezdůvodného obohacení?",
+        "odpoved": "Nikoli; právo na vrácení plnění (naturální nebo peněžité) je zákonným důsledkem neplatnosti smlouvy podle § 2993 o. z. bez ohledu na její důvod a nepředstavuje výhodu žádné strany, takže § 6 odst. 2 o. z. neporušuje."
+      },
+      {
+        "otazka": "Je účelem § 6 odst. 2 o. z. postihnout strany, které obě jednají nepoctivě či protiprávně, nebo chránit poctivou stranu proti nepoctivé?",
+        "odpoved": "Účelem ustanovení je chránit poctivou stranu proti nepoctivé, nikoli postihovat strany nebo jednu z nich, jednají-li nepoctivě či protiprávně obě."
+      }
+    ],
+    "pravni_vety": [
+      "Vrácení plnění poskytnutého podle neplatné smlouvy (ať v naturální, nebo peněžité podobě), které mají obě strany oboustranně zavazující smlouvy, je zákonným důsledkem neplatnosti smlouvy a nepředstavuje výhodu žádné z nich; platí to i při neplatnosti pro rozpor se zákonem, a zákaz těžit z vlastního protiprávního jednání podle § 6 odst. 2 o. z. tím není porušen.",
+      "Smyslem § 6 odst. 2 o. z. je ochrana poctivé strany proti nepoctivé, nikoli postih stran nebo jedné z nich v situaci, kdy obě jednají nepoctivě či protiprávně."
+    ],
+    "vysledek": "dovolání proti výroku o nákladech řízení odmítnuto; rozsudek odvolacího soudu zrušen a věc vrácena Krajskému soudu v Brně k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 6 odst. 2 o. z.",
+      "§ 2991 o. z.",
+      "§ 2993 o. z.",
+      "§ 2999 o. z.",
+      "§ 580 odst. 1 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná smlouva",
+      "zákaz těžit z protiprávního jednání",
+      "poctivost",
+      "agenturní zaměstnávání",
+      "vrácení plnění",
+      "§ 6 odst. 2 o. z."
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil otázku, zda § 6 odst. 2 o. z. brání vrácení plnění z neplatné smlouvy uzavřené v rozporu se zákonem, a vyložil smysl tohoto ustanovení.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

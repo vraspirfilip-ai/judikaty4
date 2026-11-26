@@ -1,0 +1,61 @@
+{
+  "id": "NS:C7A978E91E27E7BAC1258EA40052B9E0",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7A978E91E27E7BAC1258EA40052B9E0?openDocument",
+  "spisova_znacka": "29 ICdo 194/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.194.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neúčinnost právního jednání",
+    "dotcene_predpisy": "§ 241 odst. 5 písm. b) IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 23950,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce se odpůrčí žalobou domáhal určení neúčinnosti tří plateb dlužníka dodavateli projekčních a inženýrských služeb jako zvýhodňujících právních jednání. Odvolací soud žalobě vyhověl, protože dodavatel podle něj nejednal s náležitou pečlivostí: mohl se přímo zeptat dlužníka a dalších věřitelů, zda je v úpadku, zvlášť když byl dlužník v prodlení. Nejvyšší soud výklad § 241 odst. 5 písm. b) IZ odvolacím soudem nesdílel. Standard náležité pečlivosti závisí na okolnostech a typu obchodního styku a vychází z reálné praxe. Po dodavateli proto nelze spravedlivě požadovat, aby obesílal dlužníkovy obchodní partnery nebo se dotazoval dlužníka na úpadek. Rozsudek odvolacího soudu proto zrušil a věc mu vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Vyžaduje náležitá pečlivost podle § 241 odst. 5 písm. b) insolvenčního zákona, aby dodavatel služeb, který je dlužníkem placen opožděně a po urgenci, zjišťoval dotazem na dlužníka či jeho další věřitele, zda je dlužník v úpadku?",
+        "odpoved": "Ne; standard náležité pečlivosti se odvíjí od okolností a typových znaků obchodního styku a vychází z reálné praxe, takže příliš vysoké nároky (obesílání dlužníkových partnerů, dotazy na úpadek) kladené na dodavatele neobstojí. Prodlení, urgence a uznání dluhu vedou jen k vyšší obezřetnosti, samy však na mnohost věřitelů a platební neschopnost neukazují (§ 241 odst. 5 písm. b) IZ)."
+      },
+      {
+        "otazka": "Jaký je obsah a rozsah standardu náležité pečlivosti osoby, v jejíž prospěch dlužník učinil odporované právní jednání, ve smyslu § 241 odst. 5 písm. b) insolvenčního zákona?",
+        "odpoved": "Taková osoba musí vyvinout úsilí, které by v obdobné situaci vyvinula jiná rozumně pečlivá osoba. Rozsah závisí na okolnostech případu (postavení stran, délka spolupráce, platební morálka, podezřelá jednání) a zohlední se jak signály vyšší obezřetnosti, tak důvodná očekávání obvyklého průběhu styku. Odborné znalosti je nutné využít a kritérium chrání dobrověrné partnery dlužníka (§ 241 odst. 5 písm. b) IZ)."
+      },
+      {
+        "otazka": "Jaké předpoklady musí být splněny pro výjimku podle § 241 odst. 5 písm. b) insolvenčního zákona a kdo nese břemeno tvrzení a důkazní břemeno?",
+        "odpoved": "Musí být kumulativně splněno: nejde o jednání ve prospěch blízké osoby či člena koncernu, dlužník obdržel přiměřené protiplnění, jednání bylo učiněno za podmínek obvyklých v obchodním styku a protistrana nemohla ani při náležité pečlivosti poznat úpadek. Břemeno tvrzení i důkazní břemeno nese osoba, v jejíž prospěch bylo jednání učiněno."
+      }
+    ],
+    "pravni_vety": [
+      "Standard náležité pečlivosti podle § 241 odst. 5 písm. b) insolvenčního zákona vyžaduje úsilí, jaké by v obdobné situaci vyvinula jiná rozumně pečlivá osoba; závisí na okolnostech konkrétního případu a typových znacích obchodního styku a musí vycházet z reálné praxe, takže nelze klást nároky vymykající se tomu, co lze po účastnících daného obchodního styku spravedlivě požadovat.",
+      "Samotné prodlení dlužníka s placením, urgence věřitele a uznání dluhu mohou vést k vyšší obezřetnosti, nezakládají však povinnost dodavatele dotazovat se dlužníka na úpadek nebo obesílat jeho další věřitele."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 241 odst. 1, 2 a 5 písm. b) IZ",
+      "§ 241 odst. 5 písm. c) IZ",
+      "§ 111 odst. 2 IZ",
+      "§ 237 o. s. ř.",
+      "§ 243e odst. 1 o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "zvýhodňující právní jednání",
+      "náležitá pečlivost",
+      "obvyklý obchodní styk",
+      "úpadek dlužníka",
+      "důkazní břemeno",
+      "insolvenční správce"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí poprvé výslovně vykládá a upřesňuje standard náležité pečlivosti podle § 241 odst. 5 písm. b) IZ a omezuje požadavky na aktivní zjišťování úpadku dlužníka kontrahentem.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

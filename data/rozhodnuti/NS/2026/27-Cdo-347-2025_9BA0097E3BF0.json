@@ -1,0 +1,57 @@
+{
+  "id": "NS:9BA0097E3BF0FB02C1258E10004D42F3",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BA0097E3BF0FB02C1258E10004D42F3?openDocument",
+  "spisova_znacka": "27 Cdo 347/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.347.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Likvidace právnické osoby (o. z.)",
+    "dotcene_predpisy": "§ 209 odst. 1 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 15465,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce jediné akcionářky vymazané akciové společnosti se domáhal zrušení výmazu společnosti z obchodního rejstříku podle § 209 odst. 1 o. z. pro neznámý majetek, a to pozemky prodané za údajně neplatnou smlouvu a pohledávku z převodu peněžních prostředků. Řešila se otázka výkladu pojmu „neznámý majetek“ v poměrech nového občanského zákoníku. Nejvyšší soud s odkazem na důvodovou zprávu a dřívější judikaturu k § 75b obch. zák. uzavřel, že neznámým majetkem je jen majetek, který byl ke dni výmazu ve vlastnictví právnické osoby a o němž ona (resp. osoby, jejichž vědomost jí lze přičíst) nevěděla ani vědět nemohla. Člen představenstva a pozdější likvidátor znal smlouvu i okolnosti převodu, včetně důvodů údajné neplatnosti, které byly zjistitelné již při uzavření smlouvy, a vědomost se společnosti přičítá. O neznámý majetek proto nešlo a dovolání bylo zamítnuto.",
+    "klicove_otazky": [
+      {
+        "otazka": "Kdy jde o „neznámý majetek“ právnické osoby ve smyslu § 209 odst. 1 o. z., zjištěný po jejím výmazu z veřejného rejstříku, a lze za takový majetek považovat majetek, o jehož převodu věděl člen statutárního orgánu a pozdější likvidátor, byť právně nevyvodil důsledky z případné neplatnosti převodu?",
+        "odpoved": "Neznámým majetkem je jen majetek, který byl ke dni výmazu ve vlastnictví právnické osoby a o němž ona (resp. osoby, jejichž vědomost jí lze přičíst) nevěděla ani vědět nemohla; obě podmínky musí být splněny kumulativně. Znal-li likvidátor převod i okolnosti zakládající tvrzenou neplatnost, o neznámý majetek nejde a jeho právní posouzení těchto okolností je bezvýznamné (§ 209 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Lze závěry judikatury k „neznámému majetku“ podle § 75b obch. zák. použít při výkladu § 209 odst. 1 o. z.?",
+        "odpoved": "Ano, protože podle důvodové zprávy zákonodárce pojem z § 75b obch. zák. převzal a znění ustanovení tomu odpovídá, uplatní se dřívější judikatura i v poměrech § 209 odst. 1 o. z."
+      }
+    ],
+    "pravni_vety": [
+      "Neznámým majetkem ve smyslu § 209 odst. 1 o. z. je pouze majetek, který byl ke dni výmazu právnické osoby z veřejného rejstříku v jejím vlastnictví a o němž právnická osoba (resp. fyzické osoby, jejichž vědomost jí lze přičíst) nevěděla a ani vědět nemohla; obě podmínky musí být splněny kumulativně.",
+      "Majetek, o jehož existenci a okolnostech nabytí či převodu věděl člen statutárního orgánu a pozdější likvidátor již před výmazem právnické osoby, není neznámým majetkem, byť z těchto okolností právně nevyvodil správné důsledky."
+    ],
+    "vysledek": "dovolání zamítnuto; žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 209 odst. 1 o. z.",
+      "§ 75b obch. zák.",
+      "§ 196a obch. zák.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "neznámý majetek",
+      "zrušení výmazu společnosti",
+      "likvidace",
+      "likvidátor",
+      "obchodní rejstřík",
+      "přičitatelnost vědomosti",
+      "§ 209 o. z."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí poprvé v poměrech občanského zákoníku vymezuje pojem „neznámý majetek“ v § 209 odst. 1 o. z. a přenáší na něj dřívější judikaturu k § 75b obch. zák.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

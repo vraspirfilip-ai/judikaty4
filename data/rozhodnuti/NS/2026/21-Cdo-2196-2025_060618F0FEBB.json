@@ -1,0 +1,59 @@
+{
+  "id": "NS:060618F0FEBB7883C1258E92004D0D1F",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/060618F0FEBB7883C1258E92004D0D1F?openDocument",
+  "spisova_znacka": "21 Cdo 2196/2025",
+  "ecli": "ECLI:CZ:NS:2026:21.CDO.2196.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-09-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Exekuce",
+    "dotcene_predpisy": "§ 238 odst. 1 písm. e) o. s. ř."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 22313,
+  "rozbor": {
+    "shrnuti": "V exekuci vedené prodejem zástavy podala povinná opakovaný návrh na zastavení exekuce z důvodu promlčení pohledávky a zástavního práva; o shodných námitkách už bylo pravomocně rozhodnuto. Jako novou skutečnost uváděla, že vymáhanou částku složila na účet exekutora, takže nedošlo ke zpeněžení zástavy. Nejvyšší soud dovolání zamítl: platba exekutorovi je plněním vymáhané pohledávky, procesně vymožením plnění a hmotněprávně zánikem pohledávky. Nemá proto vliv na posouzení promlčení a nejde o novou právně relevantní skutečnost, která by překonala překážku věci pravomocně rozhodnuté. Dovolání proti odmítnutí odvolání v části výroku II bylo odmítnuto jako nepřípustné, neboť proti tomu je přípustná žaloba pro zmatečnost.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je složení částky odpovídající vymáhané pohledávce povinným na účet soudního exekutora novou právně relevantní skutečností, která překonává překážku věci pravomocně rozhodnuté při opakovaném návrhu na zastavení exekuce prodejem zástavy z důvodu promlčení?",
+        "odpoved": "Ne, platba exekutorovi je vymožením plnění (§ 46 odst. 4 e. ř.) a hmotněprávně zánikem pohledávky, což nemůže změnit dřívější posouzení námitky promlčení, takže nejde o novou relevantní skutečnost."
+      },
+      {
+        "otazka": "Lze v exekuci prováděné prodejem zástavy hledět na částku zaplacenou povinným exekutorovi jako na vymožené plnění, byť nedošlo ke zpeněžení zástavy?",
+        "odpoved": "Ano, plnění hrazené na vymáhanou povinnost exekutorovi nebo oprávněnému od doručení vyrozumění o zahájení exekuce do jejího skončení se považuje za vymožené plnění (§ 46 odst. 4 e. ř.) i při prodeji zástavy."
+      }
+    ],
+    "pravni_vety": [
+      "Složení peněžních prostředků povinným na účet soudního exekutora v průběhu exekuce prodejem zástavy je vymožením plnění a zánikem pohledávky v rozsahu plnění; nepředstavuje novou právně relevantní skutečnost pro posouzení překážky věci pravomocně rozhodnuté při novém návrhu na zastavení exekuce z důvodu promlčení vymáhané pohledávky."
+    ],
+    "vysledek": "dovolání povinné 2) částečně odmítnuto (část výroku II usnesení odvolacího soudu), jinak zamítnuto; povinná 2) nahradí oprávněné náklady dovolacího řízení 59 907,10 Kč",
+    "pravni_oblast": "exekuce",
+    "dotcene_predpisy": [
+      "§ 237 o. s. ř.",
+      "§ 243c odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř.",
+      "§ 238 odst. 1 písm. e) o. s. ř.",
+      "§ 229 odst. 4 o. s. ř.",
+      "§ 268 odst. 1 písm. h) o. s. ř.",
+      "§ 46 odst. 4 e. ř.",
+      "§ 52 e. ř."
+    ],
+    "klicova_slova": [
+      "zastavení exekuce",
+      "překážka věci pravomocně rozhodnuté",
+      "prodej zástavy",
+      "promlčení",
+      "platba exekutorovi",
+      "vymožené plnění",
+      "nová skutečnost"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí upřesňuje, že platba exekutorovi při exekuci prodejem zástavy není novou skutečností překonávající překážku věci rozhodnuté, ale vychází z ustálené judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

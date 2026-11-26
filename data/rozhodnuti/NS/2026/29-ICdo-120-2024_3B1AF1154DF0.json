@@ -1,0 +1,63 @@
+{
+  "id": "NS:3B1AF1154DF0E1A9C1258EA40052B9FC",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B1AF1154DF0E1A9C1258EA40052B9FC?openDocument",
+  "spisova_znacka": "29 ICdo 120/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.120.2024.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení (zásady)",
+    "dotcene_predpisy": "§ 5 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 38157,
+  "rozbor": {
+    "shrnuti": "Věřitel uplatnil pohledávku z bezdůvodného obohacení vzniklou po rozhodnutí o úpadku dlužníka (zadržená kupní cena po neuzavřené kupní smlouvě) a domáhal se určení, že se z majetkové podstaty uspokojí i přisouzené úroky z prodlení. Soudy obou stupňů žalobu zamítly s tím, že úroky z prodlení z pohledávky splatné po rozhodnutí o úpadku se v insolvenčním řízení neuspokojují (§ 170 písm. b/ IZ). Nejvyšší soud dovolání zamítl: účelem § 170 písm. b/ IZ je zachovat předvídatelnost uspokojení věřitelů a zabránit zvýhodňování části věřitelů podle délky řízení, proto se vztahuje i na úroky z prodlení z pohledávek za majetkovou podstatou. Usnesení podle § 203 odst. 5 IZ o lhůtě k plnění není rozhodnutím o pořadí pohledávky a postup podle § 203a IZ nevylučuje. Řízení o „dovolání“ proti rozsudku insolvenčního soudu zastavil, protože takové dovolání není přípustné.",
+    "klicove_otazky": [
+      {
+        "otazka": "Vztahuje se vyloučení úroků z prodlení z uspokojení v insolvenčním řízení podle § 170 písm. b/ IZ i na úroky z prodlení z pohledávky za majetkovou podstatou podle § 168 odst. 2 písm. b/ IZ, která vznikla a stala se splatnou po rozhodnutí o úpadku?",
+        "odpoved": "Ano, úroky z prodlení z takové pohledávky se v insolvenčním řízení neuspokojují, neboť smyslem § 170 písm. b/ IZ je zachovat předvídatelnost uspokojení a zabránit zvýhodňování věřitelů podle délky řízení; § 168 odst. 3 IZ („v plné výši“) tomu nebrání."
+      },
+      {
+        "otazka": "Předjímá usnesení insolvenčního soudu podle § 203 odst. 5 IZ o lhůtě k uspokojení přisouzené pohledávky a jejího příslušenství rozhodnutí o pořadí pohledávky a vylučuje následný postup podle § 203a IZ, jestliže insolvenční správce pochybuje o pořadí příslušenství?",
+        "odpoved": "Ne, usnesení podle § 203 odst. 5 IZ pouze určuje lhůtu k plnění a část majetkové podstaty k uspokojení, nerozhoduje závazně o pořadí pohledávky; pochybnosti se řeší v incidenčním sporu podle § 203a IZ."
+      },
+      {
+        "otazka": "Lze závěry o kapitalizovaném úroku tvořícím součást jistiny (R 48/2018) použít na samostatně uplatněné úroky z prodlení jako příslušenství pohledávky za majetkovou podstatou?",
+        "odpoved": "Ne, rozhodnutí řeší odlišnou situaci kapitalizovaného úroku před úpadkem, který se stal součástí jistiny, kdežto zde jde o samostatné úroky z prodlení jako příslušenství."
+      }
+    ],
+    "pravni_vety": [
+      "Úroky z prodlení z pohledávky za majetkovou podstatou podle § 168 odst. 2 písm. b/ insolvenčního zákona, která se stala splatnou po rozhodnutí o úpadku, se v insolvenčním řízení podle § 170 písm. b/ insolvenčního zákona neuspokojují.",
+      "Usnesení insolvenčního soudu podle § 203 odst. 5 insolvenčního zákona o lhůtě k uspokojení přisouzené pohledávky není rozhodnutím o jejím pořadí a nevylučuje následný postup podle § 203a insolvenčního zákona."
+    ],
+    "vysledek": "řízení o „dovolání“ proti rozsudku insolvenčního soudu zastaveno; dovolání proti rozsudku odvolacího soudu zamítnuto; žalobce povinen nahradit náklady dovolacího řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 170 písm. b/ IZ",
+      "§ 168 odst. 2 písm. b/ a odst. 3 IZ",
+      "§ 203 odst. 4 a 5 IZ",
+      "§ 203a IZ",
+      "§ 5 IZ",
+      "§ 104 odst. 1 o. s. ř.",
+      "§ 243d odst. 1 písm. a/ o. s. ř."
+    ],
+    "klicova_slova": [
+      "úroky z prodlení",
+      "pohledávka za majetkovou podstatou",
+      "§ 170 insolvenčního zákona",
+      "určení pořadí pohledávky",
+      "incidenční spor",
+      "bezdůvodné obohacení",
+      "příslušenství pohledávky"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí poprvé řeší sporný výklad § 170 písm. b/ IZ ve vztahu k úrokům z prodlení z pohledávek za majetkovou podstatou a objasňuje vztah § 203 odst. 5 a § 203a IZ.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

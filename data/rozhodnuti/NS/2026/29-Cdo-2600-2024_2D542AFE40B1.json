@@ -1,0 +1,61 @@
+{
+  "id": "NS:2D542AFE40B15B3CC1258DFD004D2741",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D542AFE40B15B3CC1258DFD004D2741?openDocument",
+  "spisova_znacka": "29 Cdo 2600/2024",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.2600.2024.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-04-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neúčinnost právního úkonu (jednání)",
+    "dotcene_predpisy": "§ 16 ZKV ve znění do 31.12.2007"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 36628,
+  "rozbor": {
+    "shrnuti": "Šlo o odpůrčí žalobu podle § 16 ZKV, kterou původně podal správce konkursní podstaty. Odpůrčí nárok poté zpeněžil ve veřejné dobrovolné dražbě a vydražitel, který byl sám konkursním věřitelem, do řízení vstoupil a nárok vymáhal do konkursní podstaty. Nejvyšší soud potvrdil, že konkursní věřitel je legitimován i tehdy, když jeho pohledávka vznikla až po odporovaném úkonu. Povaha odpůrčího nároku ale podle něj vylučuje jeho postoupení i vydražení před pravomocným rozhodnutím o nároku, a vydražitel jej proto nenabyl, i když by sám mohl žalovat jako konkursní věřitel. Rozsudek odvolacího soudu proto zrušil a věc mu vrátil; ostatními dovolacími otázkami se pro nadbytečnost nezabýval.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může být odpůrčí nárok podle § 16 ZKV před pravomocným rozhodnutím o něm předmětem veřejné dobrovolné dražby a nabývá jej vydražitel, který je sám konkursním věřitelem a mohl by nárok uplatnit vlastním jménem?",
+        "odpoved": "Ne, povaha odpůrčího nároku vylučuje jeho postoupení i vydražení před pravomocným rozhodnutím, takže na vydražitele nepřešel, ani když zaplatil nejvyšší podání a dražba je platná, ani když je sám konkursním věřitelem (§ 16 ZKV, § 107a odst. 1 o. s. ř., § 525 odst. 1 obč. zák.)."
+      },
+      {
+        "otazka": "Je konkursní věřitel aktivně věcně legitimován k odpůrčí žalobě podle § 16 odst. 1 ZKV, jestliže jeho pohledávka vznikla až po učinění odporovaného právního úkonu?",
+        "odpoved": "Ano, § 16 odst. 1 ZKV upravuje legitimaci samostatně a podmínku, že věřitel měl pohledávku již v době odporovaného úkonu, neklade; stačí postavení konkursního věřitele ve smyslu § 7 ZKV."
+      }
+    ],
+    "pravni_vety": [
+      "Povaha odpůrčího nároku podle § 16 ZKV vylučuje, aby jej žalobce (konkursní věřitel nebo správce konkursní podstaty) před pravomocným rozhodnutím o tomto nároku postoupil jiné osobě, a to i za úplatu.",
+      "Odpůrčí nárok podle § 16 ZKV nemůže být před pravomocným rozhodnutím o něm předmětem veřejné dobrovolné dražby; vydražitel jej nenabývá ani při zaplacení nejvyššího podání a platnosti dražby, a to ani tehdy, je-li sám konkursním věřitelem oprávněným odpůrčí nárok uplatnit.",
+      "Konkursní věřitel je ve smyslu § 16 odst. 1 ZKV aktivně věcně legitimován k uplatnění odpůrčího nároku bez ohledu na to, že v době odporovaného úkonu neměl pohledávku vůči pozdějšímu úpadci."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 16 ZKV",
+      "§ 15 odst. 2 ZKV",
+      "§ 27 odst. 1 ZKV",
+      "§ 42a obč. zák.",
+      "§ 525 odst. 1 obč. zák.",
+      "§ 107a o. s. ř.",
+      "§ 242 odst. 3 o. s. ř.",
+      "§ 24 odst. 3 zákona č. 26/2000 Sb., o veřejných dražbách"
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "konkurs",
+      "aktivní legitimace",
+      "konkursní věřitel",
+      "postoupení odpůrčího nároku",
+      "veřejná dobrovolná dražba",
+      "správce konkursní podstaty"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí rozšiřuje dřívější závěr o nepostupitelnosti odpůrčího nároku na odpůrčí nárok podle § 16 ZKV a na jeho zpeněžení veřejnou dražbou a řeší dosud neřešenou otázku, byť v dožívajícím režimu zákona o konkursu a vyrovnání.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

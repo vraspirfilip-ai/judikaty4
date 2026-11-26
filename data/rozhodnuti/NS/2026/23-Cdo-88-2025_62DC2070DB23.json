@@ -1,0 +1,67 @@
+{
+  "id": "NS:62DC2070DB23D0BFC1258E49004D3D16",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62DC2070DB23D0BFC1258E49004D3D16?openDocument",
+  "spisova_znacka": "23 Cdo 88/2025",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.88.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-24",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Bezdůvodné obohacení",
+    "dotcene_predpisy": "§ 7 odst. 1 předpisu č. 340/2015 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 64304,
+  "rozbor": {
+    "shrnuti": "Žalobkyně se domáhala zaplacení ceny za deset reklamních a marketingových zakázek pro zdravotní pojišťovnu. Devět smluv nebylo uveřejněno v registru smluv, proto byly podle § 7 odst. 1 zákona o registru smluv zrušeny od počátku. Soudy přiznaly peněžitou náhradu za bezdůvodné obohacení ve výši sjednané úplaty podle § 2999 odst. 2 o. z. a obvyklou cenu nezkoumaly. Nejvyšší soud dovolání odmítl ohledně zakázky 4, na kterou se povinnost uveřejnění nevztahovala. Ve zbytku napadený rozsudek zrušil, protože odvolací soud nezkoumal, zda sjednaná úplata nepředstavovala nehospodárné nakládání s veřejnými prostředky. Podle § 2999 odst. 1 věty druhé o. z. totiž nevzniká právo na náhradu v rozsahu, v němž by se to příčilo účelu § 7 odst. 1 zákona o registru smluv. Ostatní dovolací námitky směřovaly proti skutkovým zjištěním a vadám řízení a přípustnost nezaložily.",
+    "klicove_otazky": [
+      {
+        "otazka": "Podle jakého kritéria se určuje výše peněžité náhrady za bezdůvodné obohacení, bylo-li plněno za úplatu na smlouvu, kterou subjekt hospodařící s veřejnými prostředky neuveřejnil v registru smluv a která byla proto podle § 7 odst. 1 zákona o registru smluv zrušena od počátku?",
+        "odpoved": "Základem je sjednaná úplata podle § 2999 odst. 2 o. z. Ta se však podle § 2999 odst. 1 věty druhé o. z. neuplatní v rozsahu, v němž představuje nehospodárné nakládání s veřejnými prostředky, tedy zpravidla v rozsahu převyšujícím obvyklou cenu plnění."
+      },
+      {
+        "otazka": "Zakládá výjimku z použití sjednané úplaty podle § 2999 odst. 2 části věty za středníkem o. z. to, že smlouva byla zrušena pro neuveřejnění v registru smluv podle § 7 odst. 1 zákona o registru smluv?",
+        "odpoved": "Ne, výše úplaty není důvodem zrušení smlouvy ani jím není podstatně ovlivněna. Důvodem zrušení je neuveřejnění smlouvy, které autonomii vůle stran při sjednání ceny nevylučuje."
+      },
+      {
+        "otazka": "Lze použít § 2999 odst. 1 větu druhou o. z. (vyloučení či snížení náhrady, pokud se to příčí účelu pravidla zakládajícího neplatnost či zrušení) jen tam, kde pravidlo chrání osobu obohaceného?",
+        "odpoved": "Ne, ustanovení dopadá i tam, kde by přiznání náhrady popíralo jiný ochranný účel normy. Tím může být i ochrana společnosti před nehospodárným nakládáním s veřejnými prostředky."
+      },
+      {
+        "otazka": "Je při určení výše náhrady za bezdůvodné obohacení z plnění na zrušenou smlouvu odlišné, zda smlouva byla absolutně neplatná, nebo zrušena s účinky ex tunc podle § 7 odst. 1 zákona o registru smluv?",
+        "odpoved": "Ne, v obou případech jde o kondikci z plnění a výše náhrady se určuje shodně podle § 2999 o. z. Zrušení podle § 7 odst. 1 vyvolává stejné následky jako absolutní neplatnost."
+      }
+    ],
+    "pravni_vety": [
+      "Hrazená úplata ujednaná ve smlouvě zrušené podle § 7 odst. 1 zákona o registru smluv je východiskem pro určení peněžité náhrady za bezdůvodné obohacení podle § 2999 odst. 2 o. z.; ujednaná úplata sama o sobě není důvodem zrušení závazku ani jím podstatně ovlivněna.",
+      "Představuje-li úplata za řádně poskytnuté plnění ujednaná ve smlouvě zrušené podle § 7 odst. 1 zákona o registru smluv nehospodárné nakládání s veřejnými prostředky, nevznikne podle § 2999 odst. 1 věty druhé o. z. právo na peněžitou náhradu v rozsahu, v němž úplata převyšuje cenu odpovídající hospodárnému nakládání s veřejnými prostředky, zpravidla obvyklou cenu plnění.",
+      "Ustanovení § 2999 odst. 1 věty druhé o. z. se neomezuje na normy chránící osobu obohaceného, ale dopadá i na případy, kdy by přiznání náhrady popíralo jiný ochranný účel normy zakládající neplatnost či zrušení právního jednání."
+    ],
+    "vysledek": "Dovolání odmítnuto v rozsahu týkajícím se zakázky 4 (43 560 Kč s úrokem); ve zbytku rozsudek odvolacího soudu i soudu prvního stupně zrušeny a věc vrácena soudu prvního stupně k dalšímu řízení.",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 2999 odst. 1 a 2 o. z.",
+      "§ 2991 o. z.",
+      "§ 7 odst. 1 zákona o registru smluv",
+      "§ 8 odst. 2 zákona o registru smluv",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "registr smluv",
+      "peněžitá náhrada",
+      "obvyklá cena",
+      "nehospodárné nakládání s veřejnými prostředky",
+      "smlouva o dílo",
+      "zrušení smlouvy od počátku"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé řeší, jak určit výši náhrady za bezdůvodné obohacení z plnění na smlouvu zrušenou podle § 7 odst. 1 zákona o registru smluv, a vykládá § 2999 odst. 1 větu druhou o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

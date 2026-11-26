@@ -1,0 +1,72 @@
+{
+  "id": "NS:1FEAA5E48E66226FC1258E1B004D4038",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FEAA5E48E66226FC1258E1B004D4038?openDocument",
+  "spisova_znacka": "27 Cdo 306/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.306.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-05-28",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Společnost s ručením omezeným",
+    "dotcene_predpisy": "§ 260 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 28725,
+  "rozbor": {
+    "shrnuti": "Navrhovatel jako společník s. r. o. napadl usnesení valné hromady schvalující převod podílů dvou společníků na jiného společníka, který na zasedání uplatnil předkupní právo, ačkoliv pozvánka uváděla převod na třetí osobu a neobsahovala návrh usnesení. Soudy nižších stupňů usnesení vyslovily neplatným. Nejvyšší soud uzavřel, že společník s. r. o. může uplatnit protinávrh i přímo na zasedání valné hromady a že za konkrétních okolností (jednání o osobě nabyvatele známá všem společníkům, předkupní právo ve společenské smlouvě) spadal převod na společníka pod záležitost uvedenou v pozvánce (§ 185 z. o. k.). Dále vyložil, že absence návrhu usnesení v pozvánce musí být posouzena z hlediska § 260 odst. 1 o. z. a že § 260 odst. 2 o. z. nelze vyloučit jen proto, že třetí osoba nenabyla právo na základě napadeného usnesení, ani zápisem předkupního práva v rejstříku. Rozhodnutí odvolacího soudu proto zrušil a věc vrátil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může společník společnosti s ručením omezeným uplatnit protinávrh k návrhu usnesení uvedenému v pozvánce na valnou hromadu i přímo na jejím zasedání a platí pro něj analogicky formální pravidla akciové společnosti?",
+        "odpoved": "Ano, neurčuje-li společenská smlouva jinak, může protinávrh uplatnit před zasedáním i na něm; pravidla pro akciovou společnost (§ 362, 363 z. o. k.) se automaticky neaplikují, protože s. r. o. má smíšenou povahu s prvky osobních společností."
+      },
+      {
+        "otazka": "Spadá usnesení valné hromady o souhlasu s převodem podílů na jiného společníka pod záležitost uvedenou v pozvánce jako schválení převodu na třetí osobu, jestliže společenská smlouva dává společníkům předkupní právo a všichni společníci věděli o jednáních o osobě nabyvatele?",
+        "odpoved": "Ano, pokud společník mohl s ohledem na okolnosti racionálně předpokládat, že valná hromada v rámci tohoto bodu rozhodne i o převodu na společníka, jde o záležitost uvedenou v pozvánce a § 185 z. o. k. není porušen; pozvánka se vykládá podle § 555 a násl. o. z."
+      },
+      {
+        "otazka": "Lze podle § 260 odst. 1 o. z. nevyslovit neplatnost usnesení valné hromady, jestliže pozvánka neobsahovala návrh usnesení, ale společníkům bylo z okolností zjevné, jaké usnesení má být přijato?",
+        "odpoved": "Soud musí posoudit, zda absence návrhu usnesení měla závažné právní následky; byla-li z okolností zjevná podoba navrhovaného usnesení, nejsou takové následky zřejmé a odvolací soud je musí zkoumat (§ 260 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Vylučuje aplikaci § 260 odst. 2 o. z. okolnost, že třetí osoba nenabyla právo přímo z napadeného usnesení, nebo že je v rejstříku zapsáno předkupní právo společníka k podílu?",
+        "odpoved": "Ne, ochrana práv třetích osob v dobré víře není omezena na práva získaná z napadeného usnesení a existence předkupního práva nezpochybňuje oprávnění převést podíl ani dobrou víru nabyvatele (§ 260 odst. 2 o. z., § 7, § 2143 o. z.)."
+      }
+    ],
+    "pravni_vety": [
+      "Neurčuje-li společenská smlouva jinak, může společník společnosti s ručením omezeným uplatnit protinávrh k návrhu usnesení uvedenému v pozvánce na valnou hromadu jak před zasedáním valné hromady, tak přímo na něm; úprava protinávrhů v akciové společnosti se na společnost s ručením omezeným automaticky neuplatní.",
+      "Usnesení valné hromady přijaté na základě návrhu či protinávrhu společníka spadá do záležitosti uvedené v pozvánce, může-li společník s ohledem na konkrétní okolnosti případu a obsah pozvánky (vykládané podle § 555 a násl. o. z.) racionálně předpokládat, že valná hromada o dané záležitosti takto rozhodne.",
+      "Ochrana práv třetích osob nabytých v dobré víře podle § 260 odst. 2 o. z. není omezena na práva získaná na základě napadeného usnesení valné hromady a sama existence předkupního práva k podílu nezpochybňuje dobrou víru nabyvatele podílu v oprávnění vlastníka podíl převést."
+    ],
+    "vysledek": "dovolání důvodné; usnesení odvolacího soudu zrušeno a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 167 odst. 1 z. o. k.",
+      "§ 184 odst. 1 z. o. k.",
+      "§ 185 z. o. k.",
+      "§ 207 z. o. k.",
+      "§ 208 z. o. k.",
+      "§ 260 odst. 1 o. z.",
+      "§ 260 odst. 2 o. z.",
+      "§ 7 o. z.",
+      "§ 555 o. z.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "valná hromada",
+      "protinávrh",
+      "společnost s ručením omezeným",
+      "neplatnost usnesení valné hromady",
+      "pozvánka na valnou hromadu",
+      "převod podílu",
+      "předkupní právo",
+      "ochrana dobré víry třetích osob"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší v judikatuře dosud neřešené otázky práva společníka s. r. o. na protinávrh a výkladu pojmu záležitost uvedená v pozvánce a upřesňuje aplikaci § 260 o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

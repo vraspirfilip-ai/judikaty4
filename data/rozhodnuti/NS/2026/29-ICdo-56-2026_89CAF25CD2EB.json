@@ -1,0 +1,68 @@
+{
+  "id": "NS:89CAF25CD2EB9ADAC1258EA40052B9B7",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89CAF25CD2EB9ADAC1258EA40052B9B7?openDocument",
+  "spisova_znacka": "29 ICdo 56/2026",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.56.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvence",
+    "dotcene_predpisy": "§ 111 předpisu č. 182/2006 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 27951,
+  "rozbor": {
+    "shrnuti": "Insolvenční správkyně se odpůrčí žalobou domáhala neúčinnosti plateb, které dlužník po zahájení insolvenčního řízení poukázal na účet soudního exekutora k úhradě exekučně vymáhaných dluhů svého jediného jednatele a společníka, a zaplacení těchto částek do majetkové podstaty. Soudy nižších stupňů žalobu zamítly pro nedostatek pasivní legitimace exekutora. Nejvyšší soud potvrdil, že v rozsahu, v němž exekutor plnění vyplatil oprávněnému nebo vrátil přeplatek povinnému, není exekutor osobou, v jejíž prospěch bylo jednání učiněno ani osobou, která z něj měla prospěch; dovolání v této části zamítl. V rozsahu odměny exekutora (73.006 Kč) však exekutor z jednání dlužníka prospěch měl a je pasivně legitimován; § 46 odst. 7 exekučního řádu se neuplatní, protože exekuce proti povinnému nebyla přerušena a nešlo o vydání výtěžku do jeho insolvence. Proto v tomto rozsahu rozhodnutí odvolacího soudu zrušil a věc mu vrátil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je soudní exekutor pasivně legitimován v odpůrčí žalobě podle § 111 a § 237 odst. 1 IZ ohledně částky, kterou si z plnění dlužníka poskytnutého po zahájení jeho insolvenčního řízení na úhradu exekučně vymáhaného dluhu třetí osoby ponechal jako odměnu exekutora?",
+        "odpoved": "Ano, v rozsahu ponechané odměny měl exekutor z právního jednání dlužníka prospěch, takže je osobou povinnou k vydání do majetkové podstaty podle § 237 odst. 1 IZ, i když bylo jednání učiněno ve prospěch jiné osoby."
+      },
+      {
+        "otazka": "Je pasivně legitimován soudní exekutor v odpůrčí žalobě ohledně plateb dlužníka na exekučně vymáhanou pohledávku oprávněného za třetí osobou v rozsahu, v němž exekutor plnění vyplatil oprávněnému a vrátil přeplatek povinnému?",
+        "odpoved": "Ne, v rozsahu částek vyplacených oprávněnému a vrácených povinnému exekutor nebyl osobou, v jejíž prospěch bylo jednání učiněno, ani osobou, která z něj měla prospěch (§ 237 odst. 1 IZ)."
+      },
+      {
+        "otazka": "Vztahuje se omezení dlužníka podle § 111 odst. 1 věty druhé IZ po zahájení insolvenčního řízení i na platbu, kterou dlužník uhradil exekučně vymáhaný splatný dluh třetí osoby, a je významné, zda mezi dlužníkem a exekutorem vznikl hmotněprávní vztah?",
+        "odpoved": "Ano, omezení dopadá i na takovou platbu a je právně nevýznamné, že dlužník neplnil vlastní závazek ani že mezi ním a exekutorem nevznikl hmotněprávní vztah."
+      },
+      {
+        "otazka": "Brání odměna exekutora podle § 46 odst. 7 exekučního řádu odporování plnění poskytnutému dlužníkem exekutorovi po zahájení insolvenčního řízení, jestliže exekuce proti povinnému nebyla přerušena a výtěžek se nevydává do jeho insolvenčního řízení?",
+        "odpoved": "Ne, § 46 odst. 7 exekučního řádu se v takové situaci neuplatní, neboť dopadá jen na přerušené exekuce či případy, kdy zvláštní předpis exekuci vylučuje, a na vydání výtěžku insolvenčnímu správci."
+      }
+    ],
+    "pravni_vety": [
+      "Exekutor, který si z plnění poskytnutého dlužníkem po zahájení jeho insolvenčního řízení na úhradu exekučně vymáhaného dluhu třetí osoby ponechal část jako odměnu, je v tomto rozsahu osobou, která měla z neúčinného právního jednání prospěch, a je pasivně legitimován v odpůrčí žalobě podle § 237 odst. 1 insolvenčního zákona.",
+      "Omezení dlužníka podle § 111 odst. 1 věty druhé insolvenčního zákona se vztahuje i na platbu uhrazující před zahájením insolvenčního řízení vzniklý dluh třetí osoby; právně nevýznamné je, že dlužník neplnil vlastní závazek, i to, zda mezi ním a příjemcem plnění vznikl hmotněprávní vztah."
+    ],
+    "vysledek": "dovolání zamítnuto ohledně částek vyplacených oprávněnému a vrácených povinnému; rozsudek odvolacího soudu zrušen ve věci samé ohledně částky 73.006 Kč a v nákladových výrocích a věc vrácena odvolacímu soudu",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 111 IZ",
+      "§ 235 IZ",
+      "§ 237 odst. 1 IZ",
+      "§ 239 odst. 4 IZ",
+      "§ 46 odst. 7 exekučního řádu",
+      "§ 87 exekučního řádu",
+      "§ 243d odst. 1 písm. a) o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "pasivní legitimace",
+      "soudní exekutor",
+      "odměna exekutora",
+      "účinky zahájení insolvenčního řízení",
+      "plnění za třetí osobu",
+      "§ 111 IZ"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud nezodpovězenou otázku pasivní legitimace exekutora v odpůrčí žalobě ohledně plateb dlužníka za třetí osobu a vymezuje dopad § 46 odst. 7 exekučního řádu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

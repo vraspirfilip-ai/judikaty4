@@ -1,0 +1,67 @@
+{
+  "id": "NS:59A1287C6979AA5CC1258EAA0052B18E",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/59A1287C6979AA5CC1258EAA0052B18E?openDocument",
+  "spisova_znacka": "26 Cdo 1746/2026",
+  "ecli": "ECLI:CZ:NS:2026:26.CDO.1746.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-07",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Společenství vlastníků jednotek",
+    "dotcene_predpisy": "§ 576 o. z."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 38811,
+  "rozbor": {
+    "shrnuti": "Žalovaná jako většinová vlastnice bytové jednotky změnila prohlášení vlastníka tak, že části garáže, zahrady, terasy a chodeb přidělila k výlučnému užívání jednotlivým vlastníkům jednotek a určila umístění skříní a dalších movitých věcí; žalobce, spoluvlastník druhé jednotky, s tím nesouhlasil a žalobou napadl rozhodnutí o změně. Soudy nižších stupňů vyslovily neplatnost celé změny. Nejvyšší soud uvedl, že vyhrazení společné části k trvalému výlučnému užívání vyžaduje souhlas všech dotčených vlastníků podle § 1169 odst. 1 o. z., i když rozsah odpovídá podílu a druhému vlastníku je dána kompenzace. Totéž platí o umístění movitých věcí k výhradnímu užívání jednoho vlastníka, ledaže jde o zanedbatelný zásah. Změna prohlášení však není nedílným celkem, takže je neplatná jen ta její část, která souhlas všech vyžadovala (§ 576, § 580 o. z.); odvolací soud to neposoudil, proto rozsudek zrušil a věc vrátil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze prostou většinou hlasů vlastníků jednotek podle § 1169 odst. 2 o. z. změnit prohlášení vlastníka tak, že se určité společné části vyhradí k trvalému výlučnému užívání jednotlivých vlastníků jednotek v rozsahu odpovídajícím jejich podílům na společných částech?",
+        "odpoved": "Ne, takové vyhrazení nelze podřadit pod § 1169 odst. 2 písm. a) ani písm. c) o. z. a vyžaduje souhlas všech dotčených vlastníků podle § 1169 odst. 1 o. z., a to i při přidělení ekvivalentní plochy jinému vlastníku."
+      },
+      {
+        "otazka": "Vyžaduje změna prohlášení vlastníka, podle níž se do společných prostor umísťují movité věci (skříně, stolky, stojany) určené k výhradnímu užívání jednoho vlastníka jednotky, souhlas všech dotčených vlastníků, nebo postačí většina hlasů podle § 1169 odst. 2 o. z.?",
+        "odpoved": "Zásadně je třeba souhlas všech dotčených vlastníků, protože jde o vyhrazení části společných prostor k výlučnému užívání; to neplatí při zcela zanedbatelném zásahu. Movitá věc sloužící všem vlastníkům je naopak zpravidla změnou pravidel užívání podle § 1169 odst. 2 písm. c) o. z."
+      },
+      {
+        "otazka": "Je při změně prohlášení vlastníka, která obsahuje různorodá ustanovení (vyhrazení výlučného užívání i obecná pravidla užívání společných částí), neplatnost části právního jednání oddělitelná od zbytku, nebo je neplatná celá změna?",
+        "odpoved": "Při absenci důkazu o opaku je třeba podle zásady in favorem negotii a § 576 o. z. vycházet z oddělitelnosti, takže je neplatná jen ta část, která vyžadovala souhlas všech vlastníků (§ 580 o. z.), nikoli změna jako celek."
+      }
+    ],
+    "pravni_vety": [
+      "Vyhrazení určité společné části domu k trvalému výlučnému užívání vlastníku jednotky nelze provést změnou prohlášení vlastníka schválenou většinou hlasů podle § 1169 odst. 2 o. z., ani když přidělený rozsah odpovídá podílu vlastníka na společných částech či když byla jinému vlastníku přidělena ekvivalentní plocha; vyžaduje souhlas všech dotčených vlastníků jednotek podle § 1169 odst. 1 o. z.",
+      "Změna prohlášení vlastníka, podle níž má být do společných částí umístěna movitá věc určená k výhradnímu užívání konkrétního vlastníka jednotky, vyžaduje souhlas všech dotčených vlastníků, nejde-li o zcela zanedbatelný zásah do práv ostatních spoluvlastníků.",
+      "Obsahuje-li změna prohlášení vlastníka různorodá ustanovení, která nejsou vzájemně existenčně závislá, je neplatnost jen těch ustanovení, která vyžadovala souhlas všech vlastníků, oddělitelná od zbytku jednání a neplatná je jen tato část (§ 576 o. z.)."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena k dalšímu řízení (dovolání shledáno přípustným pro otázky pod body 4 a 5)",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 1169 odst. 1 o. z.",
+      "§ 1169 odst. 2 o. z.",
+      "§ 1169 odst. 3 o. z.",
+      "§ 1209 odst. 1 o. z.",
+      "§ 576 o. z.",
+      "§ 580 o. z.",
+      "§ 1175 o. z.",
+      "§ 555 o. z.",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "změna prohlášení vlastníka",
+      "výlučné užívání společných částí",
+      "bytové spoluvlastnictví",
+      "částečná neplatnost právního jednání",
+      "souhlas všech vlastníků jednotek",
+      "movité věci ve společných prostorách",
+      "§ 1169 o. z."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud ne zcela vyřešenou otázku, zda lze většinou hlasů přidělit společné části či umístit movité věci k výlučnému užívání, a upřesňuje oddělitelnost neplatných částí změny prohlášení.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

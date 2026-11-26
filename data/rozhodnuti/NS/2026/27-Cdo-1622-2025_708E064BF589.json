@@ -1,0 +1,72 @@
+{
+  "id": "NS:708E064BF5891772C1258E27004D2E78",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/708E064BF5891772C1258E27004D2E78?openDocument",
+  "spisova_znacka": "27 Cdo 1622/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.1622.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-05-29",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Sleva z ceny",
+    "dotcene_predpisy": "§ 595 předpisu č. 90/2012 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 25800,
+  "rozbor": {
+    "shrnuti": "Členka bytového družstva se domáhala slevy z „kupní ceny“ družstevního bytu převedeného do jejího vlastnictví na základě stanov a nákladů na znalecký posudek kvůli skryté vadě bytu (tepelný most). Odvolací soud žalobu zamítl, protože nešlo o kupní smlouvu. Nejvyšší soud dovodil, že při převodu družstevního bytu do vlastnictví člena na základě povinnosti ze stanov nejde o klasickou kupní smlouvu a nevzniká porucha ekvivalence plnění, takže družstvo za faktické vady bytu neodpovídá. Práva z vadného plnění lze uplatnit vůči osobě, od níž člen družstevní podíl úplatně nabyl, neboť závady bytu jsou vadami družstevního podílu. Závěr odvolacího soudu byl tedy ve výsledku správný, rozhodnutí však zrušil pro vadu řízení spočívající v tom, že v prvním stupni rozhodoval věcně nepříslušný okresní soud místo krajského, a věc postoupil Městskému soudu v Praze.",
+    "klicove_otazky": [
+      {
+        "otazka": "Odpovídá bytové družstvo za faktické vady družstevního bytu a vzniká členu právo na slevu z kupní ceny, jestliže družstvo převádí byt do vlastnictví bydlícího člena na základě práva vyplývajícího ze stanov za „kupní cenu“ neodpovídající tržní ceně?",
+        "odpoved": "Ne; nejde o klasickou kupní smlouvu, vlastnosti bytu jsou předem dány a člen neposkytuje ekvivalentní protiplnění, takže nevzniká porucha ekvivalence, jejíž nápravě slouží práva z vadného plnění (§ 2095, § 2099 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Vůči komu může člen bytového družstva uplatnit práva z vadného plnění za závady družstevního bytu, jestliže družstevní podíl spojený s nájmem bytu úplatně nabyl od jiného člena?",
+        "odpoved": "Vůči převodci družstevního podílu, neboť závady bytu jsou vadami družstevního podílu, který je nehmotnou movitou věcí, a smlouva o jeho úplatném převodu je smlouvou kupní podle § 2079 odst. 1 o. z."
+      },
+      {
+        "otazka": "Lze se při převodu družstevního bytu na člena odchýlit od zásady, že družstvo za vady bytu neodpovídá?",
+        "odpoved": "Ano, závěr se prosadí jen tehdy, pokud si družstvo a nabyvatel nesjednají odchylný režim, například převzetí odpovědnosti družstva za vady, neboť úprava práv z vadného plnění je dispozitivní."
+      },
+      {
+        "otazka": "Který soud je v prvním stupni věcně příslušný k projednání sporu člena bytového družstva proti družstvu o slevu z kupní ceny družstevního bytu převáděného do jeho vlastnictví?",
+        "odpoved": "Krajský soud podle § 9 odst. 2 písm. e) o. s. ř., neboť jde o spor mezi obchodní korporací a jejím členem; rozhodl-li okresní soud, je řízení zatíženo vadou podle § 242 odst. 3 o. s. ř."
+      }
+    ],
+    "pravni_vety": [
+      "Při převodu družstevního bytu do vlastnictví člena bytového družstva na základě povinnosti plynoucí ze stanov nelze po družstvu požadovat práva z vadného plnění za faktické vady převáděného bytu, neboť jde o transformaci dosavadních práv člena a nevzniká porucha ekvivalence plnění.",
+      "Závady váznoucí na družstevním bytu jsou vadami družstevního podílu, s nímž je spojeno právo nájmu družstevního bytu; práva z vadného plnění lze uplatnit vůči osobě, od níž člen družstevní podíl úplatně nabyl.",
+      "Spor člena bytového družstva s družstvem o slevu z ceny družstevního bytu převáděného do vlastnictví člena je sporem mezi obchodní korporací a jejím členem, o němž v prvním stupni rozhoduje krajský soud (§ 9 odst. 2 písm. e) o. s. ř.)."
+    ],
+    "vysledek": "rozsudek odvolacího soudu a ve výrocích I., III. a IV. i rozsudek soudu prvního stupně zrušen a věc postoupena Městskému soudu v Praze jako soudu věcně příslušnému",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 2095 o. z.",
+      "§ 2099 odst. 1 o. z.",
+      "§ 2079 odst. 1 o. z.",
+      "§ 2161 o. z.",
+      "§ 595 odst. 1 ZOK",
+      "§ 729 ZOK",
+      "§ 736 ZOK",
+      "§ 9 odst. 2 písm. e) o. s. ř.",
+      "§ 242 odst. 3 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bytové družstvo",
+      "družstevní byt",
+      "převod do vlastnictví",
+      "vady plnění",
+      "sleva z kupní ceny",
+      "družstevní podíl",
+      "věcná příslušnost",
+      "ekvivalence plnění"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil dosud nezodpovězenou otázku odpovědnosti bytového družstva za vady družstevního bytu při převodu do vlastnictví člena a určil, vůči komu lze práva z vad uplatnit.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

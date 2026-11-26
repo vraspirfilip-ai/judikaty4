@@ -1,0 +1,73 @@
+{
+  "id": "NS:D61F7070D3B3E7EAC1258EA100528AC0",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7070D3B3E7EAC1258EA100528AC0?openDocument",
+  "spisova_znacka": "22 Cdo 240/2026",
+  "ecli": "ECLI:CZ:NS:2026:22.CDO.240.2026.3",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-06",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Společné jmění manželů",
+    "dotcene_predpisy": "§ 736 o. z.",
+    "oficialni_pravni_veta": "zní: „Při vypořádání společného jmění manželů zaniklého podle zákona č. 89/2012 Sb., občanského zákoníku, se zásadně vychází z obvyklé ceny věci a jejího stavu v době rozhodování soudu.“), Nejvyšší soud souhlasit nemůže. Odvolací soud odmítl aplikovat jednoznačné znění zákona (§ 742 odst. 2 o. z.), za něž je označuje i Ústavní soud v nálezu pléna ze dne 11. 9. 2024, sp. zn. Pl. ÚS 23/24 (viz bod 42 odůvodnění nálezu) a přijal výklad contra legem"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 132435,
+  "rozbor": {
+    "shrnuti": "V řízení o vypořádání zaniklého společného jmění manželů odvolací soud valorizoval vnosy z výlučného majetku na pořízení družstevního podílu podle hodnoty podílu ke dni svého rozhodnutí. Nejvyšší soud dovolání shledal přípustným jen pro otázku časového okamžiku valorizace, ostatní námitky (platnost darování, souhlas s vnosem, kompenzace za výlučné užívání bytu, disparita podílů, retroaktivita § 742 odst. 2 o. z., extrémní rozpor) neshledal přípustnými. Dovolací soud dovodil, že § 742 odst. 2 o. z. jednoznačně váže valorizaci ke dni zúžení, zrušení nebo zániku společného jmění. Nahrazení tohoto pravidla oceňovacím principem k době rozhodování soudu podle § 740 o. z. je výklad contra legem. Rozsudek odvolacího soudu proto zrušil a věc vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Do kterého okamžiku se valorizuje vnos z výlučného majetku manžela na společný majetek podle § 742 odst. 2 o. z. – do zániku společného jmění, nebo do rozhodnutí soudu o vypořádání?",
+        "odpoved": "Valorizace se provádí do dne, kdy bylo společné jmění zúženo, zrušeno nebo zaniklo, jak výslovně stanoví § 742 odst. 2 o. z.; oceňovací pravidlo k době rozhodování soudu z § 740 o. z. se na valorizaci vnosu neuplatní, jinak by šlo o výklad contra legem."
+      },
+      {
+        "otazka": "Lze k okamžiku rozhodnutí soudu valorizovat vnos s odkazem na spravedlivé vypořádání, když zákon jednoznačně určuje jiný rozhodný okamžik?",
+        "odpoved": "Ne, princip ekvity nemůže sám o sobě založit oprávnění neaplikovat jednoznačné znění zákona; vnos je pohledávkou mezi majetkovými sférami a nelze jej oceňovat stejně jako majetek ve společném jmění."
+      },
+      {
+        "otazka": "Použije se § 742 odst. 2 o. z. (valorizace) na vnos učiněný před 1. 1. 2014, zaniklo-li společné jmění po tomto datu?",
+        "odpoved": "Ano, povinnost k plnění z vnosu vzniká až při vypořádání, nikoli při poskytnutí vnosu, takže jde o nepravou retroaktivitu podle § 3028 odst. 2 o. z. a vypořádání se řídí zákonem č. 89/2012 Sb."
+      },
+      {
+        "otazka": "Je vnos z výlučného majetku jednoho z manželů na pořízení majetku do společného jmění právním jednáním vyžadujícím souhlas druhého manžela podle § 714 odst. 1 o. z. (§ 145 odst. 2 obč. zák.)?",
+        "odpoved": "Ne, vnos je faktická majetková investice, nikoli právní úkon, a § 145 odst. 2 obč. zák. dopadá na dispozice s majetkem, který již patří do společného jmění."
+      }
+    ],
+    "pravni_vety": [
+      "Hodnota vnosu mezi společným a výhradním majetkem manžela se podle § 742 odst. 2 o. z. valorizuje (zvyšuje či snižuje) podle změny hodnoty té součásti majetku, na niž byl náklad vynaložen, v období od vynaložení do dne zúžení, zrušení nebo zániku společného jmění, nikoli do dne rozhodnutí soudu.",
+      "Soud nemůže jednoznačné pravidlo § 742 odst. 2 o. z. o rozhodném okamžiku valorizace vnosu nahradit oceňovacím principem k době rozhodování soudu dovozeným z § 740 o. z. s odkazem na spravedlivé vypořádání; takový postup je výkladem contra legem.",
+      "Vnos z výlučného majetku manžela na společný majetek není právním jednáním, a nevyžaduje proto souhlas druhého manžela podle § 714 odst. 1 o. z.; povinnost k jeho vrácení vzniká až při vypořádání společného jmění."
+    ],
+    "vysledek": "dovolání je přípustné v části otázky B) a důvodné; rozsudek Krajského soudu v Brně zrušen a věc vrácena tomuto soudu k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 742 odst. 1 a 2 o. z.",
+      "§ 740 o. z.",
+      "§ 736 o. z.",
+      "§ 714 odst. 1 o. z.",
+      "§ 3028 odst. 2 o. z.",
+      "§ 149 odst. 2 obč. zák.",
+      "§ 628 odst. 2 obč. zák.",
+      "§ 237 o. s. ř.",
+      "§ 241a odst. 1 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "společné jmění manželů",
+      "vypořádání SJM",
+      "valorizace vnosu",
+      "§ 742 odst. 2 o. z.",
+      "výklad contra legem",
+      "nepravá retroaktivita",
+      "družstevní podíl",
+      "disparita podílů"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí řeší sporný rozhodný okamžik valorizace vnosů podle § 742 odst. 2 o. z. a odmítá jeho nahrazení oceňovacím pravidlem k době rozhodování soudu, navazuje přitom na plenární nález Ústavního soudu Pl. ÚS 23/24 a má obecný dopad na praxi vypořádání SJM.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "NS:3B577FBE4CD7FA90C1258EA40052B9AC",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B577FBE4CD7FA90C1258EA40052B9AC?openDocument",
+  "spisova_znacka": "29 ICdo 142/2022",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.142.2022.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-30",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Insolvenční řízení",
+    "dotcene_predpisy": "§ 237 odst. 1 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 163989,
+  "rozbor": {
+    "shrnuti": "V incidenčním sporu o pravost a výši pohledávek věřitele z ručení dlužníka za dluhopisy a úvěr skupiny NWR a o odpůrčí žalobě insolvenčního správce dovolací soud částečně zrušil rozsudek odvolacího soudu. Zrušil jej v rozsahu, v němž odvolací soud zamítl žalobu o určení neúčinnosti vzdání se práva subrogace vůči obligačním dlužníkům. Odvolací soud totiž v rozporu s ustálenou judikaturou zkoumal obecný materiální rys zkrácení podle § 235 IZ a podmínky odporovatelnosti poměřoval ke dni svého rozhodování a obsahu reorganizačního plánu, ačkoli rozhodný je den vzniku právního jednání. Ve zbytku dovolání insolvenčního správce i dlužníka zamítl či odmítl: věřitel jako agent pro zajištění má postavení nepřímého zástupce, koncern s věřiteli nevznikl pouhou neformální restrukturalizací, ručitelské závazky nejsou neplatné ani v rozporu s veřejným pořádkem a nebylo porušeno právo na zákonného soudce. Soud také shledal dostatečně zjištěnou procesní způsobilost zahraniční pobočky a přípustné spojení odporové a odpůrčí žaloby.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je při posouzení neúčinnosti právního jednání dlužníka spočívajícího ve vzdání se práva subrogace podle § 240 až 242 IZ rozhodný obsah schváleného reorganizačního plánu a stav insolvenčního řízení v době rozhodování soudu, a musí být kromě zvláštní skutkové podstaty zkoumán i „materiální rys zkrácení“ podle § 235 IZ?",
+        "odpoved": "Ne; podmínky odporovatelnosti se posuzují ke dni vzniku právního jednání a obsah reorganizačního plánu není rozhodný. Skutkové podstaty § 240 až 242 IZ samy vymezují zkracující či zvýhodňující jednání a § 235 odst. 1 IZ není samostatnou podmínkou."
+      },
+      {
+        "otazka": "Může věřitel jednající jako agent pro zajištění podle cizího práva přihlásit pohledávky ručitelských závazků vlastním jménem na účet zastupovaných věřitelů a být účastníkem incidenčního sporu?",
+        "odpoved": "Ano; agent pro zajištění je zvláštním případem nepřímého zástupce, který jedná vlastním jménem na účet věřitelů, a takové ujednání lze uznat podle § 4 z. m. p. s., což odpovídá i § 20 odst. 2 zákona o dluhopisech."
+      },
+      {
+        "otazka": "Vzniká koncern ve smyslu § 79 z. o. k. a § 240 odst. 3 IZ mezi dlužníkem a věřiteli jen proto, že se na základě neformální restrukturalizace podle zahraničního práva dohodli na společném postupu a nabyli majetkovou účast ve skupině?",
+        "odpoved": "Ne; koncern předpokládá znaky jednotného řízení (rozhodující vliv, dlouhodobost, prosazování koncernových zájmů, jednotná politika), které z jednorázové dohody o restrukturalizaci ani z majetkové účasti věřitelů nevyplývají."
+      },
+      {
+        "otazka": "Jsou ručitelské závazky převzaté v rámci neformální restrukturalizace neplatné pro zjevné zneužití práva, rozpor s dobrými mravy nebo veřejným pořádkem (§ 8, § 588 o. z., § 4 z. m. p. s.), jestliže dlužník poukazuje na blíže neurčený řetězec protiprávních jednání skupiny z dřívějších let?",
+        "odpoved": "Ne; tvrzení musí být konkrétní a nelze je nahrazovat důkazními návrhy, uplatnění pohledávek z ručení není šikanou a „neodvolatelné a bezpodmínečné“ ručení nemá účinky nesnesitelné pro tuzemský veřejný pořádek."
+      }
+    ],
+    "pravni_vety": [
+      "Při posuzování neúčinnosti právního jednání dlužníka podle § 240 až 242 insolvenčního zákona se podmínky odporovatelnosti posuzují ke dni vzniku právního jednání; obsah pozdějšího reorganizačního plánu je pro závěr o neúčinnosti nerozhodný a vedle naplnění zvláštní skutkové podstaty se samostatně nezkoumá „materiální rys zkrácení“ podle § 235 odst. 1 insolvenčního zákona.",
+      "Postavení agenta pro zajištění založené smlouvou podle cizího práva je zvláštním případem nepřímého zastoupení; agent je oprávněn přihlásit pohledávky zastupovaných věřitelů vlastním jménem a na jejich účet a vykonávat v insolvenčním řízení jejich práva.",
+      "Koncern ve smyslu § 79 z. o. k. nevzniká mezi dlužníkem a jeho věřiteli samotnou jednorázovou dohodou o neformální restrukturalizaci ani majetkovou účastí věřitelů v restrukturalizovaných společnostech, pokud nevykazuje znaky jednotného řízení."
+    ],
+    "vysledek": "Rozsudek odvolacího soudu zrušen ohledně potvrzení zamítnutí žaloby o neúčinnost vůči druhému a třetímu žalovanému (včetně závislých výroků o nákladech) a věc vrácena odvolacímu soudu; dovolání žalobce a/ jinak zamítnuto, resp. odmítnuto; dovolání žalobce b/ zamítnuto, resp. odmítnuto; oba žalobci uhradí prvnímu žalovanému náklady dovolacího řízení.",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 235 IZ",
+      "§ 237 odst. 1 IZ",
+      "§ 240 IZ",
+      "§ 241 odst. 3 písm. c) IZ",
+      "§ 242 IZ",
+      "§ 79 z. o. k.",
+      "§ 8 o. z.",
+      "§ 588 o. z.",
+      "§ 4 z. m. p. s.",
+      "§ 9 odst. 2 z. m. p. s.",
+      "§ 20 odst. 2 zákona o dluhopisech",
+      "čl. 4 a 13 nařízení o úpadkovém řízení",
+      "čl. 38 odst. 1 Listiny",
+      "§ 42b, § 42e zákona o soudech a soudcích"
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "vzdání se práva subrogace",
+      "agent pro zajištění",
+      "koncern",
+      "neformální restrukturalizace",
+      "ručení",
+      "veřejný pořádek",
+      "zákonný soudce"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Rozhodnutí řeší komplexní spor s mezinárodním prvkem, potvrzuje časový okamžik posuzování odporovatelnosti nezávislý na reorganizačním plánu a vymezuje postavení agenta pro zajištění i pojem koncernu při neformální restrukturalizaci.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

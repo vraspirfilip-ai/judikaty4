@@ -1,0 +1,54 @@
+{
+  "id": "NS:7145144102B99B06C1258E8700374A71",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7145144102B99B06C1258E8700374A71?openDocument",
+  "spisova_znacka": "29 ICdo 80/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.ICDO.80.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-08-31",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Incidenční spory",
+    "dotcene_predpisy": "§ 159 odst. 6 IZ."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 7531,
+  "rozbor": {
+    "shrnuti": "Insolvenční správce podal odpůrčí žalobu proti žalované; soudy ji zamítly a správce podal dovolání. Během dovolacího řízení insolvenční soud vzal na vědomí splnění reorganizačního plánu a reorganizace skončila, čímž se spor přerušil. Podle § 159 odst. 6 IZ lze v takovém sporu pokračovat jen na návrh věřitele podaný do 30 dnů, který uplatnil pohledávku v insolvenčním řízení. Návrh podala společnost, která nabyla pouze pohledávku za majetkovou podstatou a neprokázala její uplatnění v insolvenčním řízení. Nejvyšší soud proto na základě přípustného dovolání zrušil rozhodnutí soudů obou stupňů a řízení zastavil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze v odpůrčím sporu přerušeném skončením insolvenčního řízení rozhodnutím, jímž insolvenční soud vzal na vědomí splnění reorganizačního plánu, pokračovat na návrh osoby, která nabyla postoupením pouze pohledávku za majetkovou podstatou a neprokázala její uplatnění v insolvenčním řízení?",
+        "odpoved": "Ne; podle § 159 odst. 6 IZ lze pokračovat jen na návrh věřitele podaného do 30 dnů, který řádně a včas uplatnil pohledávku v insolvenčním řízení, a pokud takový návrh nepodá žádný věřitel, řízení se zastaví."
+      }
+    ],
+    "pravni_vety": [],
+    "vysledek": "rozsudky vrchního soudu i insolvenčního soudu zrušeny a řízení zastaveno; žádný z účastníků nemá právo na náhradu nákladů řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 159 odst. 1 písm. d) IZ",
+      "§ 159 odst. 3 IZ",
+      "§ 159 odst. 6 IZ",
+      "§ 364 odst. 3 IZ",
+      "§ 104 odst. 1 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 243c odst. 3 o. s. ř.",
+      "§ 146 odst. 1 písm. b) o. s. ř."
+    ],
+    "klicova_slova": [
+      "odpůrčí žaloba",
+      "incidenční spor",
+      "reorganizační plán",
+      "skončení insolvenčního řízení",
+      "přerušení řízení",
+      "pokračování v řízení",
+      "pohledávka za majetkovou podstatou",
+      "zastavení řízení"
+    ],
+    "vyznam": "nízký",
+    "duvod_vyznamu": "Rozhodnutí aplikuje výslovnou úpravu § 159 odst. 6 IZ na skutkově specifickou situaci a neformuluje nový obecný právní závěr.",
+    "jen_procesni": true
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

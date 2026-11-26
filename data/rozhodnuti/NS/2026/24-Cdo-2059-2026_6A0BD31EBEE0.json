@@ -1,0 +1,60 @@
+{
+  "id": "NS:6A0BD31EBEE061DDC1258EBA0052BFAF",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A0BD31EBEE061DDC1258EBA0052BFAF?openDocument",
+  "spisova_znacka": "24 Cdo 2059/2026",
+  "ecli": "ECLI:CZ:NS:2026:24.CDO.2059.2026.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-10-21",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Vklad do katastru nemovitostí",
+    "dotcene_predpisy": "§ 17 odst. 1 písm. d) předpisu č. 256/2013 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 27700,
+  "rozbor": {
+    "shrnuti": "Dárkyně uzavřela darovací smlouvu k nemovitostem, ale zemřela dříve, než byl proveden vklad; návrh na vklad byl podán po její smrti, avšak před skončením řízení o pozůstalosti. Katastrální úřad vklad zamítl, protože dědici byli omezeni insolvencí a exekucí (§ 17 odst. 1 písm. d) katastrálního zákona). Soudy obou stupňů nahradily rozhodnutí úřadu a vklad povolily. Nejvyšší soud dovolání zamítl. Do skončení řízení o pozůstalosti plní zůstavitelův dluh z darování osoba spravující pozůstalost, která jedná „na účet“ dědiců na místě zůstavitele. Proto jsou pro posouzení omezení v nakládání s nemovitostí rozhodné poměry zůstavitele, nikoli dědiců. Odvolací soud tak rozhodl správně, byť z ne zcela přiléhavých důvodů.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je při zkoumání, zda účastník vkladového řízení není omezen právními předpisy v oprávnění nakládat s nemovitostí (§ 17 odst. 1 písm. d) katastrálního zákona), rozhodné omezení postihující dědice dárce, jestliže dárce zemřel před vkladem vlastnického práva obdarovaného a návrh na vklad byl podán před skončením řízení o pozůstalosti?",
+        "odpoved": "Ne, rozhodné jsou poměry zůstavitele, protože do skončení řízení o pozůstalosti plní jeho dluh z darovací smlouvy osoba spravující pozůstalost na místě zůstavitele a na účet dědiců (§ 17 odst. 1 písm. d) a odst. 5 katastrálního zákona, § 1677 a násl. o. z.)."
+      },
+      {
+        "otazka": "Kdo vystupuje jako účastník vkladového řízení na místě zemřelého dárce a plní jeho dluh převést darovanou nemovitost, jestliže řízení o pozůstalosti dosud neskončilo?",
+        "odpoved": "Osoba oprávněná spravovat pozůstalost; jedná vlastním jménem, ale na účet dědiců, a dědic je k tomu oprávněn jen tehdy, nevykonává-li správu správce pozůstalosti nebo vykonavatel závěti a je-li jeho dědické právo prokázáno (§ 1677 o. z.)."
+      }
+    ],
+    "pravni_vety": [
+      "Zemřel-li dárce, aniž obdarovaný nabyl vkladem vlastnické právo k darované nemovitosti, a byl-li návrh na vklad podán před skončením řízení o pozůstalosti, není při zkoumání, zda účastník vkladového řízení není omezen právními předpisy v oprávnění nakládat s nemovitostí (§ 17 odst. 1 písm. d) katastrálního zákona), rozhodné, že takové omezení postihuje dědice zůstavitele; rozhodné jsou poměry zůstavitele."
+    ],
+    "vysledek": "dovolání zamítnuto; žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 17 odst. 1 písm. d) katastrálního zákona",
+      "§ 17 odst. 5 katastrálního zákona",
+      "§ 13 katastrálního zákona",
+      "§ 1677 o. z.",
+      "§ 1678 o. z.",
+      "§ 1236 o. z.",
+      "§ 1405 o. z.",
+      "§ 185 odst. 1 z. ř. s.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "vklad vlastnického práva",
+      "darovací smlouva",
+      "smrt dárce",
+      "správa pozůstalosti",
+      "omezení nakládání s nemovitostí",
+      "dědic",
+      "katastr nemovitostí"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Soud poprvé za současné právní úpravy řeší sporný výklad § 17 odst. 1 písm. d) katastrálního zákona ve vztahu k vkladu po smrti dárce a ke správě pozůstalosti a formuluje obecný závěr.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

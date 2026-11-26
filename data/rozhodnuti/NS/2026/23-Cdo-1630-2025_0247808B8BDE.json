@@ -1,0 +1,64 @@
+{
+  "id": "NS:0247808B8BDED105C1258E8F004D252B",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0247808B8BDED105C1258E8F004D252B?openDocument",
+  "spisova_znacka": "23 Cdo 1630/2025",
+  "ecli": "ECLI:CZ:NS:2026:23.CDO.1630.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-09-08",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Neplatnost smlouvy",
+    "dotcene_predpisy": "§ 5 odst. 1 předpisu č. 340/2015 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 45628,
+  "rozbor": {
+    "shrnuti": "Objednatelé se po zhotoviteli domáhali smluvní pokuty ze smlouvy o dílo a jejích dodatků. Zhotovitel namítal, že smlouva byla zrušena od počátku, protože metadata o ceně byla v registru smluv uveřejněna nesprávně a opravena až po uplynutí tří měsíců. Nejvyšší soud řešil, které chyby v metadatech lze považovat za chyby v psaní nebo v počtech opravitelné kdykoli podle § 7 odst. 4 zákona o registru smluv. Dovodil, že jde o chyby vzniklé při tvorbě textu smlouvy nebo při mechanickém či početním přepisu údajů ze smlouvy do formuláře. Nejde o ně, jestliže nesprávný údaj vznikl z omylu či chybného úsudku osoby vkládající metadata o tom, co se má uveřejnit. Uvedení pouze části ceny díla navýšené o DPH nebylo chybou v psaní ani v počtech, proto oprava po třech měsících nezabránila zrušení smlouvy od počátku a dovolání bylo zamítnuto.",
+    "klicove_otazky": [
+      {
+        "otazka": "Lze za chybu v psaní nebo v počtech opravitelnou kdykoli podle § 7 odst. 4 zákona o registru smluv považovat uvedení nesprávné ceny v metadatech, které vzniklo úsudkem osoby vkládající metadata o tom, jaká cena ze smlouvy se má uveřejnit (část ceny navýšená o DPH místo celkové ceny)?",
+        "odpoved": "Ne. Chybou v psaní či počtech je jen zjevné a okamžité selhání při tvorbě textu smlouvy nebo mechanickém či početním přepisu údajů; nikoli chyba v úsudku o tom, jaké údaje mají být uveřejněny, a po třech měsících tak oprava již nezabrání zrušení smlouvy od počátku (§ 7 odst. 1 a 4 zákona o registru smluv)."
+      },
+      {
+        "otazka": "Má se pojem chyby v psaní nebo v počtech v § 7 odst. 4 zákona o registru smluv vykládat shodně jako v soukromoprávních a procesních předpisech (§ 578 o. z., § 164 o. s. ř.)?",
+        "odpoved": "Ano. Zákon o registru smluv nedává důvod přikládat těmto pojmům jiný význam, který jim judikatura a literatura přisuzují shodně v právu soukromém i veřejném, a výklad tak vychází z § 578 o. z. a § 164 o. s. ř."
+      },
+      {
+        "otazka": "Lze nesprávné údaje v metadatech považovat za opravitelnou chybu v psaní či počtech proto, že jejich správnost lze ověřit porovnáním s textem uveřejněné smlouvy?",
+        "odpoved": "Ne. Metadata slouží k vyhledávání smluv v registru a k veřejné kontrole, takže by bylo v rozporu s jejich účelem nutit k ověřování jejich správnosti v textu smlouvy; při nesprávných metadatech může být smlouva veřejností nenalezena."
+      }
+    ],
+    "pravni_vety": [
+      "Chybami v psaní nebo v počtech v uveřejněných metadatech smlouvy ve smyslu § 7 odst. 4 zákona o registru smluv jsou chyby vzniklé převzetím údajů nesprávně uvedených již ve smlouvě v důsledku chyby v psaní či počtech, a chyby vzniklé zjevným a okamžitým selháním v duševní (početní) nebo mechanické činnosti při přepisu správně uvedených údajů ze smlouvy do formuláře registru smluv.",
+      "Chybou v psaní nebo v počtech podle § 7 odst. 4 zákona o registru smluv není uvedení nesprávných metadat v důsledku omylu, nedostatečné informovanosti nebo chybného úsudku osoby vkládající metadata o tom, jaké údaje ze smlouvy mají být uveřejněny.",
+      "Oprava povinně uveřejňovaných metadat provedená po uplynutí tří měsíců od uzavření smlouvy, která nejde o opravu chyby v psaní nebo v počtech, nebrání zrušení smlouvy od počátku podle § 7 odst. 1 zákona o registru smluv."
+    ],
+    "vysledek": "dovolání žalobce a) zamítnuto; žalobce a) uhradí žalované náklady dovolacího řízení 45 581 Kč",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 5 odst. 1, 5 a 7 zákona o registru smluv",
+      "§ 7 odst. 1, 2, 3 a 4 zákona o registru smluv",
+      "§ 578 o. z.",
+      "§ 164 o. s. ř.",
+      "§ 37 odst. 3 obč. zák.",
+      "§ 237 o. s. ř.",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "registr smluv",
+      "metadata",
+      "chyba v psaní nebo v počtech",
+      "zrušení smlouvy od počátku",
+      "smlouva o dílo",
+      "smluvní pokuta",
+      "veřejná kontrola"
+    ],
+    "vyznam": "vysoký",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výkladově vymezil, jaké chyby v metadatech lze opravit kdykoli podle § 7 odst. 4 zákona o registru smluv, což zásadně ovlivňuje riziko zrušení smlouvy od počátku.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

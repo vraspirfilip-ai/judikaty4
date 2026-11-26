@@ -1,0 +1,56 @@
+{
+  "id": "NS:60E58A9DE6394073C1258DC200529D32",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60E58A9DE6394073C1258DC200529D32?openDocument",
+  "spisova_znacka": "29 Cdo 3245/2025",
+  "ecli": "ECLI:CZ:NS:2026:29.CDO.3245.2025.1",
+  "forma": "usnesení",
+  "datum_rozhodnuti": "2026-03-10",
+  "datum_zverejneni": "",
+  "kategorie": "A",
+  "extra": {
+    "heslo": "Oddlužení",
+    "dotcene_predpisy": "§ 9 odst. 1 předpisu č. 549/1991 Sb.",
+    "oficialni_pravni_veta": "Je-li řízení přerušeno podle § 140a insolvenčního zákona, nelze rozhodnout (ani) o zastavení"
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 11220,
+  "rozbor": {
+    "shrnuti": "Soud prvního stupně zastavil řízení o zaplacení pohledávky pro nezaplacení soudního poplatku, ačkoli insolvenční soud mezitím zjistil úpadek žalovaného a povolil mu oddlužení. Odvolací soud rozhodnutí potvrdil s tím, že přerušení řízení lze zkoumat až po zaplacení poplatku. Nejvyšší soud uvedl, že řízení se přerušuje ex lege již zveřejněním rozhodnutí o úpadku v insolvenčním rejstříku. Tento účinek nezávisí na právní moci rozhodnutí o úpadku ani na splnění poplatkové povinnosti. Výjimka umožňující zastavit řízení po zpětvzetí žaloby se na zastavení pro nezaplacení poplatku nevztahuje, protože nezaplacení poplatku není dispozitivním úkonem žalobce. Proto oba nižší soudy rozhodly v době přerušení řízení nesprávně a Nejvyšší soud jejich usnesení zrušil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může soud zastavit řízení pro nezaplacení soudního poplatku podle § 9 odst. 1 zákona o soudních poplatcích, jestliže bylo řízení o pohledávce vůči dlužníku přerušeno podle § 140a insolvenčního zákona zveřejněním rozhodnutí o úpadku v insolvenčním rejstříku?",
+        "odpoved": "Ne, po dobu trvání účinků rozhodnutí o úpadku nelze v přerušeném řízení pokračovat, a tedy ani zastavit řízení pro nezaplacení poplatku, neboť nezaplacení poplatku není dispozitivním úkonem směřujícím k ukončení řízení (§ 140a odst. 1 IZ)."
+      },
+      {
+        "otazka": "Nastává přerušení řízení podle § 140a insolvenčního zákona již zveřejněním rozhodnutí o úpadku v insolvenčním rejstříku bez ohledu na jeho právní moc a na to, zda žalobce splnil poplatkovou povinnost?",
+        "odpoved": "Ano, řízení se přerušuje ex lege okamžikem zveřejnění rozhodnutí o úpadku v insolvenčním rejstříku; tento účinek není vázán na právní moc rozhodnutí ani na zaplacení soudního poplatku (§ 140a odst. 1 IZ)."
+      }
+    ],
+    "pravni_vety": [
+      "Je-li řízení přerušeno podle § 140a insolvenčního zákona, nelze rozhodnout o zastavení řízení pro nezaplacení soudního poplatku, neboť nesplnění poplatkové povinnosti není dispozitivním úkonem žalobce směřujícím k ukončení řízení."
+    ],
+    "vysledek": "usnesení odvolacího soudu i soudu prvního stupně zrušena a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "insolvenční právo",
+    "dotcene_predpisy": [
+      "§ 140a IZ",
+      "§ 9 odst. 1 zákona o soudních poplatcích",
+      "§ 4 odst. 1 písm. a) zákona o soudních poplatcích",
+      "§ 243e o. s. ř.",
+      "§ 237 o. s. ř."
+    ],
+    "klicova_slova": [
+      "přerušení řízení",
+      "rozhodnutí o úpadku",
+      "zastavení řízení",
+      "soudní poplatek",
+      "oddlužení",
+      "účinky úpadku"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí řeší dosud nezodpovězenou otázku vztahu přerušení řízení podle § 140a IZ a zastavení řízení pro nezaplacení soudního poplatku a upřesňuje restriktivní výklad výjimky z přerušení.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}

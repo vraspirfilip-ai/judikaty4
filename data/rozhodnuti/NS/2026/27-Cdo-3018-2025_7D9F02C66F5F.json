@@ -1,0 +1,64 @@
+{
+  "id": "NS:7D9F02C66F5F608FC1258E3A004D3D58",
+  "soud": "NS",
+  "url": "https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D9F02C66F5F608FC1258E3A004D3D58?openDocument",
+  "spisova_znacka": "27 Cdo 3018/2025",
+  "ecli": "ECLI:CZ:NS:2026:27.CDO.3018.2025.1",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-06-24",
+  "datum_zverejneni": "",
+  "kategorie": "B",
+  "extra": {
+    "heslo": "Zápis z valné hromady [ Valná hromada ]",
+    "dotcene_predpisy": "§ 423 předpisu č. 90/2012 Sb."
+  },
+  "zpracovano": "2026-11-26T15:58:06+01:00",
+  "delka_textu": 16343,
+  "rozbor": {
+    "shrnuti": "Akcionář žalobou na plnění požadoval, aby akciová společnost vyhotovila zápis z valné hromady a zaslala mu jeho kopii. Soudy nižších stupňů žalobu zamítly, protože společnost akcionáři e-mailem zaslala nepodepsaný wordový soubor bez příloh, který označila za zápis, a tím podle nich svou povinnost splnila. Nejvyšší soud vyložil, že v řízení o splnění této povinnosti nelze vady zápisu pominout, neboť kvalitu plnění stanoví přímo § 423 z. o. k. Povinnost splní společnost až zápisem s obsahovými náležitostmi, podepsaným zákonem určenými osobami zvolenými valnou hromadou. Akcionář má právo na kompletní kopii včetně příloh. Rozhodnutí soudů obou stupňů proto zrušil a věc vrátil soudu prvního stupně.",
+    "klicove_otazky": [
+      {
+        "otazka": "Splní akciová společnost povinnost vyhotovit zápis z valné hromady a zaslat jeho kopii akcionáři, zašle-li mu nepodepsaný volně editovatelný elektronický soubor bez příloh, který sama označí za zápis?",
+        "odpoved": "Ne, společnost povinnost splní až zápisem s obsahovými náležitostmi podle § 423 z. o. k., podepsaným zapisovatelem, předsedou nebo svolavatelem a ověřovateli; žalobu akcionáře proto nelze zamítnout s odůvodněním, že již splnila."
+      },
+      {
+        "otazka": "Je v řízení o uložení povinnosti vyhotovit zápis z valné hromady a zaslat jeho kopii akcionáři významné, jakou listinu statutární orgán společnosti označil za zápis, a lze v něm přehlédnout vady zápisu, které nezpůsobují neplatnost usnesení valné hromady?",
+        "odpoved": "Nelze; závěry o nevýznamnosti vad zápisu pro platnost usnesení se týkají jiného řízení, kde zápis plní jen důkazní funkci. U žaloby na plnění určuje kvalitu plnění § 423 z. o. k. a zápis vyhotovují a podpisem stvrzují osoby volené valnou hromadou."
+      },
+      {
+        "otazka": "Má akcionář podle § 425 z. o. k. právo na vydání kompletní kopie zápisu z valné hromady včetně všech příloh?",
+        "odpoved": "Ano, zákon právo akcionáře na kopii zápisu nijak co do rozsahu neomezuje, proto má akcionář právo na kompletní kopii včetně příloh podle § 423 odst. 3 z. o. k."
+      }
+    ],
+    "pravni_vety": [
+      "Povinnost vyhotovit zápis z jednání valné hromady akciové společnosti a zaslat jeho kopii akcionáři společnost řádně splní až zápisem, který obsahuje náležitosti podle § 423 z. o. k. a je podepsán osobami uvedenými v § 423 odst. 1 z. o. k.",
+      "Zašle-li společnost akcionáři nepodepsaný volně editovatelný elektronický soubor bez příloh, který označí za zápis z jednání valné hromady, nelze žalobu akcionáře na vyhotovení zápisu a zaslání jeho kopie zamítnout s odůvodněním, že společnost svou povinnost již splnila.",
+      "Akcionář má právo na vydání kompletní kopie zápisu z jednání valné hromady včetně všech příloh."
+    ],
+    "vysledek": "rozsudky odvolacího soudu i soudu prvního stupně zrušeny a věc vrácena soudu prvního stupně k dalšímu řízení",
+    "pravni_oblast": "obchodní a korporátní právo",
+    "dotcene_predpisy": [
+      "§ 423 z. o. k.",
+      "§ 425 z. o. k.",
+      "§ 188 odst. 3 z. o. k.",
+      "§ 237 o. s. ř.",
+      "§ 241a odst. 1 o. s. ř.",
+      "§ 243e odst. 1 o. s. ř."
+    ],
+    "klicova_slova": [
+      "valná hromada",
+      "zápis z valné hromady",
+      "akciová společnost",
+      "kopie zápisu",
+      "práva akcionáře",
+      "podpis zápisu",
+      "přílohy zápisu",
+      "žaloba na plnění"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé výslovně vyložil, že v poměrech akciové společnosti splní povinnost vyhotovit a zaslat zápis z valné hromady jen zápis s náležitostmi dle § 423 z. o. k., a rozlišil tuto otázku od řízení o neplatnosti usnesení valné hromady.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01ArTyeEbzNGsj8nbp95kSaN"
+}
