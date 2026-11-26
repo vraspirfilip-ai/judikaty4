@@ -23,7 +23,7 @@ prodleva_mezi_dotazy_s = 1.5
 # V přehledu dát čistě procesní rozhodnutí (odmítnutí bez právního závěru) jen do krátkého seznamu.
 skryt_procesni_v_prehledu = true
 # Adresa vašeho webu na GitHub Pages (pro RSS), např. "https://uzivatel.github.io/judikaty-bot/"
-adresa_webu = ""
+adresa_webu = "https://vraspirfilip-ai.github.io/judikaty4/"
 
 [nejvyssi_soud]
 zapnuto = true
