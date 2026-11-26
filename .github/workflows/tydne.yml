@@ -1,0 +1,121 @@
+name: Týdenní judikatura
+
+on:
+  schedule:
+    # Hlavní běh: pátek 17:00 v Praze. GitHub plánuje v UTC a nezná letní čas,
+    # takže spouštíme 15:00 i 16:00 UTC a krok „Kontrola času“ pustí jen ten správný.
+    - cron: "0 15 * * 5"
+    - cron: "0 16 * * 5"
+    # Kontrolní běhy: vyzvednou výsledky dávky, kdyby nedoběhla během hlavního běhu.
+    # Když na nic nečekáme, skončí během pár sekund.
+    # (pátek ~20:30 a ~23:30, sobota ~8:30 pražského času)
+    - cron: "30 19 * * 5"
+    - cron: "30 22 * * 5"
+    - cron: "30 7 * * 6"
+  # První spuštění hned po nahrání na GitHub (jen dokud bot nikdy neběžel –
+  # pozdější úpravy souborů už nic nespustí; commity bota workflow nespouštějí).
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+    inputs:
+      rezim:
+        description: "Co spustit"
+        type: choice
+        default: "normalni"
+        options:
+          - normalni
+          - bez-ai
+          - jen-vyzvednout
+          - okamzite
+
+permissions:
+  contents: write
+
+concurrency:
+  group: judikaty
+  cancel-in-progress: false
+
+jobs:
+  zpracovat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # vždy aktuální stav větve (i s commity bota), ne jen stav v okamžiku nahrání
+          ref: ${{ github.ref_name }}
+
+      - name: Kontrola času
+        id: cas
+        env:
+          MA_KLIC: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+        run: |
+          spustit=false; argumenty=""
+          plan="${{ github.event.schedule }}"
+          offset=$(TZ=Europe/Prague date +%z)   # +0100 v zimě, +0200 v létě
+          if [ "${{ github.event_name }}" = "push" ]; then
+            if [ -f data/stav.json ]; then
+              echo "Bot už běžel – nahrání souborů ho znovu nespouští."
+            elif [ "$MA_KLIC" != "true" ]; then
+              echo "::warning::Chybí secret ANTHROPIC_API_KEY. Doplňte ho a spusťte workflow ručně (Run workflow)."
+            else
+              echo "První spuštění po nahrání."; spustit=true
+            fi
+          elif [ "${{ github.event_name }}" != "schedule" ]; then
+            spustit=true
+            case "${{ inputs.rezim }}" in
+              bez-ai) argumenty="--bez-ai" ;;
+              jen-vyzvednout) argumenty="--jen-vyzvednout" ;;
+              okamzite) argumenty="--okamzite" ;;
+            esac
+          elif [ "$plan" = "0 16 * * 5" ] && [ "$offset" = "+0100" ]; then spustit=true
+          elif [ "$plan" = "0 15 * * 5" ] && [ "$offset" = "+0200" ]; then spustit=true
+          elif [ "$plan" != "0 15 * * 5" ] && [ "$plan" != "0 16 * * 5" ]; then
+            spustit=true; argumenty="--jen-vyzvednout"
+          else
+            echo "Tento plán neodpovídá 17:00 pražského času – přeskakuji."
+          fi
+          echo "spustit=$spustit" >> "$GITHUB_OUTPUT"
+          echo "argumenty=$argumenty" >> "$GITHUB_OUTPUT"
+
+      - name: Čeká se na dávku?
+        id: fronta
+        if: steps.cas.outputs.spustit == 'true'
+        run: |
+          if [ "${{ steps.cas.outputs.argumenty }}" = "--jen-vyzvednout" ] && \
+             ! python3 -c "import json,sys; sys.exit(0 if json.load(open('data/stav.json')).get('davky') else 1)" 2>/dev/null; then
+            echo "Žádná rozpracovaná dávka – není co vyzvedávat."
+            echo "pokracovat=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "pokracovat=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.fronta.outputs.pokracovat == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - if: steps.fronta.outputs.pokracovat == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Stáhnout a zpracovat rozhodnutí
+        if: steps.fronta.outputs.pokracovat == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: python -m judikaty ${{ steps.cas.outputs.argumenty }}
+
+      - name: Uložit výsledky do repozitáře
+        if: always() && steps.fronta.outputs.pokracovat == 'true'
+        run: |
+          git config user.name "judikaty-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data prehledy docs
+          if git diff --cached --quiet; then
+            echo "Žádné změny."
+          else
+            git commit -m "Judikatura $(TZ=Europe/Prague date +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
