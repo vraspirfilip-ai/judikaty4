@@ -1,2 +1,0 @@
-# Týdenní přehledy judikatury
-
