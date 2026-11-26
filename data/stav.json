@@ -1,0 +1,24 @@
+{
+ "davky": {},
+ "inicializovano": {
+  "US": true
+ },
+ "zname": {
+  "NS:0E237CBBCEF180FCC1258EBA0052BFE6": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie D",
+   "stav": "preskoceno"
+  },
+  "NS:CE7DE1948199FE41C1258EBA0052BFA7": {
+   "datum": "2026-11-26",
+   "duvod": "kategorie C",
+   "stav": "preskoceno"
+  },
+  "US:3-643-24_2": {
+   "chyba": "výsledek dávky: errored",
+   "datum": "2026-11-26",
+   "pokusy": 1,
+   "stav": "chyba"
+  }
+ }
+}
