@@ -2,7 +2,12 @@
  "davky": {},
  "inicializovano": {
   "NS": true,
+  "NS-deska": true,
   "US": true
+ },
+ "posledni_beh": {
+  "NS-deska": "2026-11-27",
+  "US": "2026-11-27"
  },
  "zname": {
   "NS:019BD35205FE8F35C1258E90004D6B33": {
@@ -2563,6 +2568,159 @@
   "NS:FFF5FB02427047D9C1258E66004D4A66": {
    "datum": "2026-11-26",
    "duvod": "kategorie E",
+   "stav": "preskoceno"
+  },
+  "NS:UD-23_Cdo_766_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-13",
+   "spzn": "23 Cdo 766/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-25_Cdo_1555_2025": {
+   "datum": "2026-11-27",
+   "duvod": "senát 25",
+   "stav": "preskoceno"
+  },
+  "NS:UD-27_ICdo_126_2025": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-16",
+   "spzn": "27 ICdo 126/2025",
+   "stav": "preskoceno"
+  },
+  "NS:UD-28_Cdo_1719_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-13",
+   "spzn": "28 Cdo 1719/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-28_Cdo_302_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-13",
+   "spzn": "28 Cdo 302/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-28_Cdo_796_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-16",
+   "spzn": "28 Cdo 796/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_Cdo_730_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-13",
+   "spzn": "29 Cdo 730/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_103_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 103/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_110_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 110/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_141_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 141/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_192_2024": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 192/2024",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_33_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 33/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_34_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 34/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-29_ICdo_63_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-12",
+   "spzn": "29 ICdo 63/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-30_Cdo_2672_2026": {
+   "datum": "2026-11-27",
+   "duvod": "senát 30",
+   "stav": "preskoceno"
+  },
+  "US:2-2452-26_1": {
+   "datum": "2026-11-27",
+   "spzn": "II. ÚS 2452/26",
+   "stav": "ok"
+  },
+  "US:2-2613-26_1": {
+   "datum": "2026-11-27",
+   "duvod": "zveřejněno 2026-11-18",
+   "stav": "preskoceno"
+  },
+  "US:2-2784-26_1": {
+   "datum": "2026-11-27",
+   "duvod": "zveřejněno 2026-11-18",
+   "stav": "preskoceno"
+  },
+  "US:2-2799-26_1": {
+   "datum": "2026-11-27",
+   "spzn": "II. ÚS 2799/26",
+   "stav": "ok"
+  },
+  "US:2-2984-26_1": {
+   "datum": "2026-11-27",
+   "spzn": "II. ÚS 2984/26",
+   "stav": "ok"
+  },
+  "US:2-3662-14_1": {
+   "datum": "2026-11-27",
+   "duvod": "rozhodnuto 2015-10-20",
+   "spzn": "II. ÚS 3662/14",
+   "stav": "preskoceno"
+  },
+  "US:2-642-07_1": {
+   "datum": "2026-11-27",
+   "duvod": "rozhodnuto 2008-01-30",
+   "spzn": "II. ÚS 642/07",
+   "stav": "preskoceno"
+  },
+  "US:3-1396-07_1": {
+   "datum": "2026-11-27",
+   "duvod": "rozhodnuto 2009-03-19",
+   "spzn": "III. ÚS 1396/07",
+   "stav": "preskoceno"
+  },
+  "US:3-2706-26_1": {
+   "datum": "2026-11-27",
+   "duvod": "zveřejněno 2026-11-18",
+   "stav": "preskoceno"
+  },
+  "US:3-2954-11_2": {
+   "datum": "2026-11-27",
+   "duvod": "rozhodnuto 2012-03-30",
+   "spzn": "III. ÚS 2954/11",
+   "stav": "preskoceno"
+  },
+  "US:3-584-22_1": {
+   "datum": "2026-11-27",
+   "duvod": "rozhodnuto 2024-03-13",
+   "spzn": "III. ÚS 584/22",
+   "stav": "preskoceno"
+  },
+  "US:3-635-26_3": {
+   "datum": "2026-11-27",
+   "duvod": "zveřejněno 2026-11-18",
    "stav": "preskoceno"
   },
   "US:3-643-24_2": {

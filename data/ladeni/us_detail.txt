@@ -1,12 +1,10 @@
-https://nalus.usoud.cz/Search/GetText.aspx?sz=3-643-24_2
+https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2799-26_1
 
 NALUS - databáze rozhodnutí Ústavního soudu
 
-III.ÚS 643/24 ze dne 22. 4. 2026
+II.ÚS 2799/26 ze dne 4. 11. 2026
 
-N 61/135 SbNU 318
-
-Postup Energetického regulačního úřadu podle cenového rozhodnutí rozporného se zákonem
+Dokazování stížnostního soudu k trvání zabezpečovací detence
 
 Česká republika
 
@@ -16,17 +14,16 @@ NÁLEZ
 
 Jménem republiky
 
-Ústavní soud rozhodl v senátu složeném z předsedkyně Daniely Zemanové, soudce zpravodaje Jiřího Přibáně a soudkyně Lucie Dolanské Bányaiové o ústavní stížnosti stěžovatelky Liberty Ostrava, a. s., sídlem Vratimovská 689/117, Ostrava, zastoupené opatrovníkem JUDr. Jiřím Dubou, advokátem, sídlem Svornosti 958/8, Praha 5, proti rozsudku Nejvyššího soudu ze dne 16. 11. 2023, č. j. 23 Cdo 2330/2022-221, rozsudku Krajského soudu v Ostravě ze dne 10. 3. 2022, č. j. 8 Co 312/2021-176, rozsudku Okresního soudu v Ostravě ze dne 21. 7. 2021, č. j. 63 C 112/2020-137, a rozhodnutí Rady Energetického regulačního úřadu ze dne 25. 2. 2020, č. j. 06768-32/2018-ERU, a rozhodnutí Energetického regulačního úřadu ze dne 17. 5. 2019, č. j. 06768-23/2018-ERU, za účasti Nejvyššího soudu, Krajského soudu v Ostravě, Okresního soudu v Ostravě a Energetického regulačního úřadu, jako účastníků řízení, a ČEZ Distribuce, a. s., se sídlem Teplická 874/8, Děčín, zastoupené Mgr. Radkem Pokorným, advokátem, sídlem Klimentská 1216/46, Praha 1, jako vedlejší účastnice řízení, takto:
+Ústavní soud rozhodl v senátu složeném z předsedy Jiřího Přibáně a soudců Martina Smolka a Pavla Šámala (soudce zpravodaje) o ústavní stížnosti stěžovatele A. A. (jedná se o pseudonym), t. č. ve Věznici a ústavu pro výkon zabezpečovací detence Opava, zastoupeného JUDr. Vladimírem Dvořáčkem, advokátem, sídlem Sokolovská 32/22, Praha 8 - Karlín, proti usnesení Krajského soudu v Ostravě ze dne 13. července 2026 č. j. 47 To 193/2026-1140, spojené s návrhem na přednostní projednání věci, za účasti Krajského soudu v Ostravě, jako účastníka řízení, takto:
 
-I. Rozsudkem Nejvyššího soudu ze dne 16. 11. 2023, č. j. 23 Cdo 2330/2022-221, rozsudkem Krajského soudu v Ostravě ze dne 10. 3. 2022, č. j. 8 Co 312/2021-176, rozsudkem Okresního soudu v Ostravě ze dne 21. 7. 2021, č. j. 63 C 112/2020-137, byla porušena stěžovatelčina ústavní práva podle čl. 11 odst. 5 Listiny základních práv a svobod.
-II. Tato rozhodnutí se proto ruší.
-III. Ve zbytku se ústavní stížnost odmítá.
+I. Usnesením Krajského soudu v Ostravě ze dne 13. července 2026 č. j. 47 To 193/2026-1140, byla porušena základní práva stěžovatele na spravedlivý proces podle čl. 36 odst. 1 Listiny základních práv a svobod, jakož i práva vyjádřit se ke všem prováděným důkazům podle čl. 38 odst. 2 Listiny základních práv a svobod. 
+II. Usnesení Krajského soudu v Ostravě ze dne 13. července 2026 č. j. 47 To 193/2026-1140 se ruší.
 
-Odůvodnění:
-I. Podstata řízení před Ústavním soudem
-1. Předmětem sporu před obecnými soudy se stala povinnost stěžovatelky platit v období od 2. 10. 2013 do 31. 12. 2013 příspěvek na úhradu nákladů spojených s podporou elektřiny, které tvoří složku ceny za přenos elektřiny a ceny za distribuci elektřiny ("příspěvek POZE"). 
-2. Mezi stěžovatelkou a vedlejší účastnicí bylo sporné, zda měla stěžovatelka povinnosti platit příspěvek pouze ve výši 495 Kč/MWh, nikoliv ve výši 583 Kč/MWh, jak jej účtovala vedlejší účastnice (ČEZ Distribuce, a. s., dále též "ČEZ"). Podle stěžovatelky od účinnosti novely zákona POZE, který výši příspěvku nově zastropoval na nižší částce, již nemusela vyšší příspěvek platit. Jinými slovy, od 2. 10. 2013 nemusela vedlejší účastnici hradit příspěvek v původní výši, jak jí Energetický regulační úřad ("ERÚ", či "úřad") pro rok 2013 ve svém cenovém rozhodnutí stanovil. 
-3. V této souvislosti stěžovatelka upozorňovala zejména na to, že ERÚ na podzim roku 2013 otálel s vydáním nového cenového rozhodnutí, které by novelu reflektovalo. Na místo toho ponechal účinné své původní cenové rozhodnutí a znění zákona ignoroval. Změna právní úpravy ale vyzněla jednoznačně ve prospěch konečných subjektů, mezi něž se řadí i stěžovatelka. ERÚ měl proto konat a včas vydat nové cenové rozhodnutí s účinností již od 2. 10. 2013.
-4. Spor mezi vedlejší účastnicí a stěžovatelkou o doplacení příspěvku POZE probíhal nejprve před správním orgánem (ERÚ), posléze před obecnými soudy v řízení podle části páté občanského soudního řádu, a to následovně: ERÚ postoj stěžovatelky nesdílel a za období podzimu roku 2013 uložil stěžovatelce povinnost doplatit vedlejší účastnici 26 177 615,88 Kč s příslušenstvím podle tehdy platného cenového rozhodnutí ERÚ. Právní názor ERÚ posléze stvrdily i obecné soudy, když nevyhověly žalobě stěžovatelky na nahrazení správního rozhodnutí.
-5. Ústavní soud v tomto nálezu považuje uvedený postup orgánů veřejné moci vůči stěžovatelce za rozporný s ústavním pořádkem. Příspěvek POZE lze svou povahou přirovnat k dani či poplatku, které lze ukládat jen na základě zákona (čl. 11 odst. 5 Listiny základních práv a svobod). Státní moc si při stanovení a vybírání daní a poplatků musí počínat v mezích stanovených zákonem.
-6. Jest
+Odůvodnění
+I.
+Skutkové okolnosti případu a obsah napadeného rozhodnutí
+1. Ústavní stížností podle čl. 87 odst. 1 písm. d) Ústavy České republiky (dále jen "Ústava") a § 72 a násl. zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů (dále jen "zákon o Ústavním soudu"), se stěžovatel domáhá zrušení v záhlaví označeného rozhodnutí s tvrzením, že jím došlo k porušení jeho ústavně zaručených základních práv a svobod zakotvených v čl. 36 odst. 1 a čl. 38 odst. 2 Listiny základních práv a svobod (dále jen "Listina") a čl. 6 odst. 3 Úmluvy o ochraně lidských práv a základních svobod (dále jen "Úmluva").
+
+2. Z ústavní stížnosti, napadeného rozhodnutí a spisu okresního soudu, který si Ústavní soud za účelem posouzení věci vyžádal, se podává, že stěžovatel byl rozsudkem Okresního soudu v Lounech ze dne 5. 1. 2009 sp. zn. 2 T 270/2008, ve spojení s usnesením Krajského soudu v Ústí nad Labem ze dne 12. 3. 2009 č. j. 6 To 111/2009-194, uznán vinným trestným činem pohlavního zneužívání podle § 242 odst. 1 zákona č. 140/1961 Sb., trestního zákona, účinného do 31. 12. 2009, za což mu byl uložen nepodmíněný trest odnětí svobody v trvání tři roků a šesti měsíců se zařazením do věznice s ostrahou, a současně mu bylo uloženo ochranné léčení sexuologické s protialkoholní komponentou v ústavní formě. Kromě toho byl rozsudkem Okresního soudu v Lounech ze dne 18. 4. 2007 č. j. 15 T 99/2006-137 uznán vinným trestným činem loupeže podle § 234 odst. 1 trestního zákona a trestným činem výtržnictví podle § 202 odst. 1 trestního zákona, za které byl odsouzen k podmíněnému trestu odnětí svobody na třicet měsíců se zkušební dobou v trvání pěti let. Následně bylo rozhodnuto, že podmíněně odložený trest vykoná. 
+3. Usnesením Okresního soudu v Litoměřicích ze dne 4. 2. 2016 č. j. 1 Nt 1744/2015-42, ve spojení s usnesením Krajského soudu v Ústí nad Labem ze dne 19. 4. 2016 č. j. 7 To 115/2016-63, bylo stěžovateli změněno ochranné léčení sexuologické s protialkoholní komponentou na zabezpečovací detenci, a to na základě návrhu psychiatrické nemocnice s tím, že stěžovatel odmítal léčbu na sexuologickém oddělení a že ochranná léčba neplní účel. 
+4. Důvodnost zabezpečovací detence byla opakovaně přezkoumávána, a to v rámci periodického přezkumu, jakož i k žádosti stěžovatele. Naposledy bylo o trvání zabezpečovací detence stěžovatele rozhodováno usnesením Okresního soudu v Opavě (dále jen "okresní soud") ze dne 23. 3. 2026 č. j. 19 Dt 4/2016-1111, kterým mu byla zabezpečovací detence změněna na ochranné léčení sexuologické s protialkoholní komponentou v ústavní formě. Z odůvodnění usnesení okresního soudu se podává, že na základě provedeného dokazování měl za prokázané, že stěžovatel je bez dokončené sexuologické léčby nadále společensky vysoce nebezpečný vzhledem k vysokému riziku opakování násiln

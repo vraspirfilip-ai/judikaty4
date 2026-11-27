@@ -1,0 +1,59 @@
+{
+  "id": "US:2-2984-26_1",
+  "soud": "US",
+  "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-26_1",
+  "spisova_znacka": "II. ÚS 2984/26",
+  "ecli": "",
+  "forma": "nález",
+  "datum_rozhodnuti": "2026-11-04",
+  "datum_zverejneni": "2026-11-27",
+  "kategorie": "",
+  "extra": {
+    "zdroj_titulek": "Souhrn nálezů vyhlášených v 47. týdnu roku 2026",
+    "zdroj_odkaz": "https://www.usoud.cz/aktualne/souhrn-nalezu-vyhlasenych-v-47-tydnu-roku-2026"
+  },
+  "zpracovano": "2026-11-27T17:59:17+01:00",
+  "delka_textu": 21056,
+  "rozbor": {
+    "shrnuti": "Stěžovatel, vazebně stíhaný pro zločin obchodování s lidmi, napadl usnesení Vrchního soudu v Praze, které na stížnost státního zástupce zrušilo rozhodnutí krajského soudu a ponechalo ho ve vazbě i z útěkového důvodu, který krajský soud shledal již nenaplněným. Stížnost státního zástupce nebyla stěžovateli ani jeho obhájci doručena a vrchní soud rozhodl v neveřejném zasedání více než šest týdnů po posledním slyšení k vazbě, aniž by se zabýval obdobným užitím § 73d odst. 3 tr. ř. Ústavní soud shledal porušení práva na kontradiktorní řízení a práva být slyšen (čl. 36 odst. 1, čl. 38 odst. 2 Listiny, čl. 5 odst. 4 Úmluvy) a v důsledku toho i práva na osobní svobodu (čl. 8 odst. 2, 5 Listiny). Napadené usnesení zrušil a k důvodům vazby se již nevyjadřoval.",
+    "klicove_otazky": [
+      {
+        "otazka": "Porušuje stížnostní soud právo na kontradiktorní vazební řízení a právo být slyšen, jestliže o stížnosti státního zástupce proti rozhodnutí o vazbě rozhodne v neveřejném zasedání ve prospěch státního zástupce, aniž by stížnost doručil obviněnému či obhájci a umožnil jim se k ní vyjádřit?",
+        "odpoved": "Ano, obviněný musí být se stížností státního zástupce seznámen a mít reálnou možnost se k ní vyjádřit, jinak je porušeno právo podle čl. 36 odst. 1 a čl. 38 odst. 2 Listiny a čl. 5 odst. 4 Úmluvy, a tím i právo na osobní svobodu podle čl. 8 Listiny."
+      },
+      {
+        "otazka": "Musí stížnostní soud při rozhodování o stížnosti ve vazbě v neveřejném zasedání více než šest týdnů po posledním slyšení obviněného k vazbě zjišťovat, zda obviněný trvá na vazebním zasedání, a zabývat se obdobným užitím § 73d odst. 3 tr. ř. podle § 74 tr. ř.?",
+        "odpoved": "Ano, překročí-li doba od posledního slyšení šest týdnů, nelze výjimku podle § 73d odst. 3 písm. b) tr. ř. použít a obviněnému je nutné umožnit požádat o konání vazebního zasedání; nedoručení stížnosti protistrany tuto možnost fakticky vylučuje."
+      }
+    ],
+    "pravni_vety": [
+      "Rozhoduje-li stížnostní soud o stížnosti státního zástupce ve vazební věci v neprospěch obviněného, je povinen stížnost obviněnému či jeho obhájci zpřístupnit a umožnit jim se k ní vyjádřit, případně požádat o konání vazebního zasedání; jinak porušuje právo na kontradiktorní řízení podle čl. 38 odst. 2 Listiny a čl. 5 odst. 4 Úmluvy."
+    ],
+    "vysledek": "ústavní stížnosti vyhověno, usnesení Vrchního soudu v Praze zrušeno; návrh na přednostní projednání samostatně neřešen",
+    "pravni_oblast": "ústavní právo a základní práva",
+    "dotcene_predpisy": [
+      "čl. 8 odst. 2, 5 Listiny",
+      "čl. 36 odst. 1 Listiny",
+      "čl. 38 odst. 2 Listiny",
+      "čl. 5 odst. 4 Úmluvy",
+      "§ 73d odst. 3 tr. ř.",
+      "§ 74 tr. ř.",
+      "§ 67 tr. ř.",
+      "§ 149 odst. 1 písm. a) tr. ř."
+    ],
+    "klicova_slova": [
+      "vazba",
+      "kontradiktornost",
+      "stížnost státního zástupce",
+      "právo být slyšen",
+      "vazební zasedání",
+      "neveřejné zasedání",
+      "osobní svoboda"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nález navazuje na ustálenou judikaturu Ústavního soudu a ESLP a potvrzuje povinnost doručit stížnost státního zástupce obviněnému ve vazebním řízení a použít šestitýdenní lhůtu u stížnostního soudu, bez nového judikaturního posunu.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_012EuoGir8EyfnN4iDUvLejj"
+}

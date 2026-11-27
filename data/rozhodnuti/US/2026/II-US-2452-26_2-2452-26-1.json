@@ -1,0 +1,66 @@
+{
+  "id": "US:2-2452-26_1",
+  "soud": "US",
+  "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2452-26_1",
+  "spisova_znacka": "II. ÚS 2452/26",
+  "ecli": "",
+  "forma": "nález",
+  "datum_rozhodnuti": "2026-11-10",
+  "datum_zverejneni": "2026-11-27",
+  "kategorie": "",
+  "extra": {
+    "zdroj_titulek": "Souhrn nálezů vyhlášených v 47. týdnu roku 2026",
+    "zdroj_odkaz": "https://www.usoud.cz/aktualne/souhrn-nalezu-vyhlasenych-v-47-tydnu-roku-2026"
+  },
+  "zpracovano": "2026-11-27T17:59:17+01:00",
+  "delka_textu": 29445,
+  "rozbor": {
+    "shrnuti": "Cizinec bez znalosti češtiny, předvedený ze zadržení, se při vazebním zasedání bez obhájce vzdal práva odporu proti trestnímu příkazu s trestem vyhoštění, i za osoby uvedené v § 247 odst. 2 tr. ř.; z jednání nebyl pořízen zvukový záznam. Městský soud v Brně později odmítl nařídit hlavní líčení, ač stěžovatel a jeho matka podali odpor, protože trestní příkaz podle něj nabyl právní moci. Ústavní soud vyšel jen z obecných formulací protokolu a nemohl zjistit, zda poučení o významu a důsledcích vzdání se odporu bylo srozumitelné a stěžovatel jej vědomě a informovaně učinil. Nemožnost prokázat řádné poučení jde k tíži státu, proto dospěl k závěru, že nenařízením hlavního líčení byla porušena práva stěžovatele podle čl. 36 odst. 1, čl. 37 odst. 2 a 4 a čl. 40 odst. 3 Listiny. Zakázal soudu v zásahu pokračovat.",
+    "klicove_otazky": [
+      {
+        "otazka": "Je vzdání se práva odporu proti trestnímu příkazu ústavně souladné, jestliže se jej vzdal zadržený cizinec neovládající jazyk, bez obhájce, a z protokolu o vazebním zasedání, z něhož nebyl pořízen zvukový záznam, nelze zjistit obsah a srozumitelnost poučení o jeho významu a důsledcích?",
+        "odpoved": "Ne, vzdání se musí být vědomé, jednoznačné a doprovázené zárukami úměrnými významu úkonu; nelze-li z dostupných podkladů najisto zjistit řádné poučení, jde pochybnost k tíži státu a odpor je třeba považovat za účinný, jinak je porušen čl. 36 odst. 1, čl. 37 odst. 2 a 4 a čl. 40 odst. 3 Listiny."
+      },
+      {
+        "otazka": "Musí být zranitelnému cizinci, jehož soud vyzve k vyjádření, zda se vzdává práva odporu proti právě doručenému trestnímu příkazu, předem poskytnuta právní pomoc obhájce nebo jiná vhodná kompenzace zranitelnosti?",
+        "odpoved": "Ano, takové výzvě musí předcházet poučení o významu a důsledcích vyjádření a o právu poradit se s obhájcem, popř. mu musí být ustanoven, nebo musí být zranitelnost prokazatelně vyřešena jiným vhodným způsobem (čl. 6 odst. 3 Úmluvy)."
+      },
+      {
+        "otazka": "Přičítá se k tíži státu, že z vazebního zasedání, při němž se obviněný vzdal práva odporu, nebyl pořízen zvukový záznam z důvodu technického vybavení jednací místnosti?",
+        "odpoved": "Ano, volba způsobu zaznamenání jednání je odpovědností soudu a obviněný ji nemůže ovlivnit; nemožnost prokázat namítaná pochybení jde k tíži státu."
+      }
+    ],
+    "pravni_vety": [
+      "Vzdání se práva odporu proti trestnímu příkazu musí být vědomé, jednoznačné a informované; pochybnosti o tom, zda byl cizinec obviněný řádně poučen o významu a důsledcích vzdání se tohoto práva, nelze přičíst k tíži obviněného, a nelze-li je odstranit, je třeba presumovat, že se práva odporu nevzdal.",
+      "Jde-li o zadrženého cizince neovládajícího jazyk, musí výzvě k vyjádření, zda se vzdává práva odporu proti právě doručenému trestnímu příkazu, předcházet srozumitelné poučení o významu a důsledcích takového úkonu a o právu poradit se s obhájcem; neexistence zvukového záznamu z takového jednání jde k tíži státu."
+    ],
+    "vysledek": "Ústavní stížnosti vyhověno: konstatováno porušení práv podle čl. 36 odst. 1, čl. 37 odst. 2 a 4 a čl. 40 odst. 3 Listiny a Městskému soudu v Brně zakázáno pokračovat v nenařízení hlavního líčení.",
+    "pravni_oblast": "ústavní právo a základní práva",
+    "dotcene_predpisy": [
+      "čl. 36 odst. 1 Listiny",
+      "čl. 37 odst. 2 a 4 Listiny",
+      "čl. 40 odst. 3 Listiny",
+      "čl. 6 Úmluvy",
+      "§ 314e tr. ř.",
+      "§ 314f odst. 1 písm. f) tr. ř.",
+      "§ 314g tr. ř.",
+      "§ 247 odst. 2 tr. ř.",
+      "§ 82 odst. 2 písm. a) a odst. 3 písm. b) zákona o Ústavním soudu"
+    ],
+    "klicova_slova": [
+      "trestní příkaz",
+      "vzdání se práva odporu",
+      "cizinec",
+      "tlumočení",
+      "zvukový záznam",
+      "vazební zasedání",
+      "právo na obhájce",
+      "spravedlivý proces"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nález navazuje na ustálenou judikaturu Ústavního soudu a ESLP o vzdání se práva odporu zranitelným cizincem a rozvíjí ji o důsledky nepořízení zvukového záznamu z vazebního zasedání.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_012EuoGir8EyfnN4iDUvLejj"
+}

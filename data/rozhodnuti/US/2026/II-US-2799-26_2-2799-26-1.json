@@ -1,0 +1,60 @@
+{
+  "id": "US:2-2799-26_1",
+  "soud": "US",
+  "url": "https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2799-26_1",
+  "spisova_znacka": "II. ÚS 2799/26",
+  "ecli": "",
+  "forma": "nález",
+  "datum_rozhodnuti": "2026-11-04",
+  "datum_zverejneni": "2026-11-27",
+  "kategorie": "",
+  "extra": {
+    "zdroj_titulek": "Souhrn nálezů vyhlášených v 47. týdnu roku 2026",
+    "zdroj_odkaz": "https://www.usoud.cz/aktualne/souhrn-nalezu-vyhlasenych-v-47-tydnu-roku-2026"
+  },
+  "zpracovano": "2026-11-27T17:59:17+01:00",
+  "delka_textu": 25023,
+  "rozbor": {
+    "shrnuti": "Stěžovatel byl v zabezpečovací detenci a okresní soud ji po veřejném zasedání změnil na ústavní ochranné léčení. Krajský soud k stížnosti státního zástupce v neveřejném zasedání sám opatřil novou lékařskou zprávu ošetřující lékařky s vyjádřením speciálního pedagoga, stěžovateli je nezpřístupnil, usnesení zrušil a rozhodl, že zabezpečovací detence trvá. Ústavní soud uvedl, že rozhodnutí o změně zabezpečovací detence je mimořádně razantní zásah do osobní svobody, takže stížnostní soud smí rozhodnout v neveřejném zasedání jen tehdy, nedoplňuje-li sám dokazování. Stěžovatel se k novým důkazům nemohl vyjádřit, a to ani tím, že by nahlédl do spisu. Soud proto shledal porušení čl. 36 odst. 1 a čl. 38 odst. 2 Listiny a napadené usnesení zrušil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Může stížnostní soud rozhodnout v neveřejném zasedání o stížnosti proti usnesení o změně zabezpečovací detence na ochranné léčení, jestliže sám doplní dokazování o nové důkazy, k nimž se odsouzený nemohl vyjádřit?",
+        "odpoved": "Ne, v neveřejném zasedání lze rozhodnout jen tehdy, neopakuje-li či nedoplňuje-li stížnostní soud sám dokazování. Jinak dochází k porušení práva na spravedlivý proces a práva vyjádřit se ke všem prováděným důkazům (čl. 36 odst. 1 a čl. 38 odst. 2 Listiny), a to s ohledem na mimořádnou intenzitu zásahu zabezpečovací detence a analogicky ke stanovisku pléna Pl. ÚS-st. 47/18."
+      },
+      {
+        "otazka": "Lze nezpřístupnění nového důkazu, který stížnostní soud sám opatřil, ospravedlnit tím, že odsouzený měl možnost seznámit se s ním nahlédnutím do spisu?",
+        "odpoved": "Ne, takový výklad by stranám ukládal novou povinnost průběžně kontrolovat spis, zejména když předem nevědí, kdy se neveřejné zasedání uskuteční."
+      }
+    ],
+    "pravni_vety": [
+      "Stížnostní soud může o stížnosti proti usnesení o změně zabezpečovací detence na ochranné léčení rozhodnout v neveřejném zasedání jen tehdy, jestliže sám neopakuje ani nedoplňuje dokazování; provádí-li další dokazování, musí tak učinit ve veřejném zasedání při dodržení zásad řádného trestního procesu.",
+      "Skutečnost, že odsouzený měl možnost seznámit se s nově opatřeným důkazem nahlédnutím do spisu, nezbavuje soud povinnosti umožnit mu vyjádřit se k tomuto důkazu."
+    ],
+    "vysledek": "ústavní stížnosti vyhověno, usnesení Krajského soudu v Ostravě zrušeno; porušena práva podle čl. 36 odst. 1 a čl. 38 odst. 2 Listiny",
+    "pravni_oblast": "trestní řízení",
+    "dotcene_predpisy": [
+      "čl. 36 odst. 1 Listiny",
+      "čl. 38 odst. 2 Listiny",
+      "čl. 8 Listiny",
+      "§ 355 tr. ř.",
+      "§ 240 tr. ř.",
+      "§ 149 odst. 1 písm. a) tr. ř.",
+      "§ 100 odst. 5 tr. zák.",
+      "§ 82 odst. 3 písm. a) zákona o Ústavním soudu"
+    ],
+    "klicova_slova": [
+      "zabezpečovací detence",
+      "ochranné léčení",
+      "neveřejné zasedání",
+      "stížnostní řízení",
+      "doplnění dokazování",
+      "právo vyjádřit se k důkazům",
+      "kontradiktornost"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nález rozšiřuje závěry stanoviska pléna Pl. ÚS-st. 47/18 o formě zasedání stížnostního soudu při doplňování dokazování na rozhodování o změně zabezpečovací detence, jde však o aplikaci ustálené judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_012EuoGir8EyfnN4iDUvLejj"
+}
