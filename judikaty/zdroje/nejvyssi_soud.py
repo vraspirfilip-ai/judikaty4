@@ -130,7 +130,8 @@ _POLE = {
     "ecli": r"(ECLI:CZ:NS:\d{4}:[0-9A-Z.]+)",
     # u dat bereme první datum do ~80 znaků za popiskem (popisek může mít dovětek, např. „na webu“)
     "datum_rozhodnuti": r"Datum\s+(?:vydání\s+)?rozhodnutí[^\d]{0,80}?(" + _DATUM + ")",
-    "datum_zverejneni": r"Datum\s+(?:zveřejnění|publikace|vyvěšení)[^\d]{0,80}?(" + _DATUM + ")",
+    # na webu NS: „Zveřejněno na webu: 25. 11. 2026“
+    "datum_zverejneni": r"(?:Zveřejněno(?:\s+na\s+webu)?|Datum\s+(?:zveřejnění|publikace|vyvěšení))[^\d]{0,80}?(" + _DATUM + ")",
     "kategorie": r"Kategorie\s+rozhodnutí\s*:?\s*\n?\s*([A-E])\b",
     "forma": r"Typ\s+rozhodnutí\s*:?\s*\n?\s*([^\n]{3,30})",
     "heslo": r"Heslo\s*:?\s*\n?\s*([^\n]{3,300})",

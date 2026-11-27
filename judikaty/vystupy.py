@@ -177,6 +177,7 @@ def web_data(zaznamy: list[dict], limit: int = 3000) -> None:
             "id": z["id"], "soud": z["soud"], "url": z["url"],
             "spzn": z.get("spisova_znacka", ""), "ecli": z.get("ecli", ""),
             "forma": z.get("forma", ""), "datum": z.get("datum_rozhodnuti", ""),
+            "zverejneno": z.get("datum_zverejneni", ""),
             "zpracovano": (z.get("zpracovano") or "")[:10], "kategorie": z.get("kategorie", ""),
             "oblast": a.get("pravni_oblast", ""), "vyznam": a.get("vyznam", ""),
             "otazky": klicove_otazky(a), "shrnuti": a.get("shrnuti", ""),

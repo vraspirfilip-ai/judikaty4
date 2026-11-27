@@ -20,7 +20,7 @@ KOREN = vystupy.KOREN
 STAV = vystupy.DATA / "stav.json"
 TZ = ZoneInfo("Europe/Prague")
 MAX_POKUSU = 3
-OPAKOVAT = {"chyba", "bez_kategorie"}
+OPAKOVAT = {"chyba", "bez_kategorie", "bez_data"}
 
 
 def nacti_nastaveni() -> dict:
@@ -79,18 +79,25 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
 
     kategorie = {k.upper() for k in cfg.get("kategorie", [])}
     senaty = {int(s) for s in cfg.get("senaty", [])}
+    # OBDOBÍ: zpracují se jen rozhodnutí zveřejněná od posledního běhu (běžně tedy za uplynulý týden).
+    # Den posledního běhu se počítá včetně – co už bylo zpracováno, pozná bot podle paměti.
+    posledni = stav.get("posledni_beh", {}).get(soud, "")
+    vychozi_okno = int(cfg.get("okno_dni", 7))
+    hranice = posledni or (ted.date() - timedelta(days=vychozi_okno)).isoformat()
+    # pojistka: ani po delší pauze nesahat dál než max_stari_dni
     max_stari = int(cfg.get("max_stari_dni", 30))
-    hranice = (ted.date() - timedelta(days=max_stari)).isoformat()
-
+    hranice = max(hranice, (ted.date() - timedelta(days=max_stari)).isoformat())
     if od:
-        # zveřejnění musí být od zvoleného data; podle data rozhodnutí filtrujeme níže zvlášť
-        hranice = min(hranice, od) if podle != "zverejneni" else od
+        # první běh: zveřejnění od zvoleného data; podle data rozhodnutí filtrujeme níže zvlášť
+        hranice = od if podle == "zverejneni" else min(hranice, od)
+    log.info("%s: zpracuji rozhodnutí zveřejněná od %s", soud, hranice)
 
     hotovo = chyb = 0
     starsich_za_sebou = 0  # NS výsledky jsou řazené od nejnovějších → po řadě starších můžeme skončit
     for klic, kontext in kandidati:
         rid = f"{soud}:{klic}"
-        if hotovo >= limit or (od and starsich_za_sebou >= 25):
+        if hotovo >= limit or starsich_za_sebou >= 25:
+            # dál ve výsledcích jsou už jen starší rozhodnutí (nebo je vyčerpán limit)
             if prvni_beh:
                 oznac(stav, rid, "preskoceno", duvod="první běh")
             continue
@@ -131,6 +138,11 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
             oznac(stav, rid, "preskoceno", duvod=f"rozhodnuto {r.datum_rozhodnuti}", spzn=r.spisova_znacka)
             continue
         zverejneno = r.datum_zverejneni
+        if not zverejneno and soud == "NS":
+            # bez data zveřejnění nelze ověřit období → zkusit znovu příště
+            pokusy = stav["zname"].get(rid, {}).get("pokusy", 0) + 1
+            oznac(stav, rid, "bez_data", pokusy=pokusy, spzn=r.spisova_znacka)
+            continue
         if zverejneno and zverejneno < hranice:
             oznac(stav, rid, "preskoceno", duvod=f"zveřejněno {zverejneno}")
             starsich_za_sebou += 1
@@ -183,8 +195,38 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         log.info("%s: ✓ %s", soud, r.spisova_znacka or klic)
 
     stav["inicializovano"][soud] = True
+    stav.setdefault("posledni_beh", {})[soud] = ted.date().isoformat()
     uloz_stav(stav)
     return hotovo, chyb
+
+
+def doplnit_data_zverejneni(limit: int = 200) -> int:
+    """Starší záznamy NS bez data zveřejnění (z doby, kdy ho bot neuměl přečíst) doplní
+    stažením stránky – bez AI, nic to nestojí. Vrátí počet doplněných."""
+    doplneno = 0
+    for soubor in sorted((vystupy.ROZHODNUTI / "NS").rglob("*.json")):
+        if doplneno >= limit:
+            break
+        try:
+            z = json.loads(soubor.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if z.get("datum_zverejneni") or z.get("soud") != "NS":
+            continue
+        try:
+            r = ns.stahni(z["id"].split(":", 1)[1])
+        except Exception as e:  # noqa: BLE001
+            log.warning("Doplnění data %s selhalo: %s", z.get("spisova_znacka"), e)
+            continue
+        if r.datum_zverejneni:
+            z["datum_zverejneni"] = r.datum_zverejneni
+            if not z.get("datum_rozhodnuti"):
+                z["datum_rozhodnuti"] = r.datum_rozhodnuti
+            soubor.write_text(json.dumps(z, ensure_ascii=False, indent=2), encoding="utf-8")
+            doplneno += 1
+    if doplneno:
+        log.info("Doplněno datum zveřejnění u %s starších záznamů", doplneno)
+    return doplneno
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -220,6 +262,10 @@ def main(argv: list[str] | None = None) -> int:
                 vysledky["dávky z minula"] = davky.vyzvedni(analyzator, stav, oznac, uloz_stav, MAX_POKUSU)
 
         if not args.jen_vyzvednout:
+            try:
+                doplnit_data_zverejneni()
+            except Exception as e:  # noqa: BLE001
+                log.warning("Doplnění dat zveřejnění selhalo: %s", e)
             davka = davky.Davka(analyzator, stav) if (analyzator and davkove) else None
             for soud in ("US", "NS"):
                 if args.jen and args.jen != soud:

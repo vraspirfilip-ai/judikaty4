@@ -59,6 +59,12 @@ OBLASTI: dict[str, dict] = {
         "nazev": "společné jmění manželů",
         "vzory": [r"společn\w+\s+jmění", r"\bSJM\b", r"vypořádání\s+společného", r"bezpodílov\w+\s+spoluvlastn"],
     },
+    "exekuce": {
+        "nazev": "exekuce a výkon rozhodnutí",
+        "vzory": [r"exekuc", r"exekutor", r"exekuční", r"120\s*/\s*2001", r"výkon\w*\s+rozhodnutí",
+                  r"soudní\w*\s+exekutor", r"vylouč\w+\s+(věci\s+)?z\s+(exekuce|soupisu|výkonu)",
+                  r"excindační", r"dražb\w*.{0,40}(exekuc|výkon)", r"zastavení\s+(exekuce|výkonu)"],
+    },
     "soudni_uschovy": {
         "nazev": "soudní úschovy",
         "vzory": [r"soudní\w*\s+úschov", r"\búschovní\w*\s+(řízení|věc)", r"do\s+(soudní\s+)?úschovy",
@@ -90,7 +96,9 @@ ALIASY = {
     "restituce": "restituce", "restitucni": "restituce",
     "rodinne": "rodinne", "rodina": "rodinne", "rodinny": "rodinne", "opatrovnicke": "rodinne",
     "sjm": "sjm", "spolecnejmenimanzelu": "sjm", "vyporadanisjm": "sjm",
-    "soudniuschovy": "soudni_uschovy", "uschovy": "soudni_uschovy", "uschova": "soudni_uschovy",
+    "exekuce": "exekuce", "exekuci": "exekuce", "exekucni": "exekuce", "vykonrozhodnuti": "exekuce",
+    "exekuceavykonrozhodnuti": "exekuce",
+        "soudniuschovy": "soudni_uschovy", "uschovy": "soudni_uschovy", "uschova": "soudni_uschovy",
     "soudniuschova": "soudni_uschovy",
     "nekalasoutez": "nekala_soutez", "nekalesouteze": "nekala_soutez", "nekalesoutez": "nekala_soutez",
     "arbitraze": "arbitraze", "arbitraz": "arbitraze", "rozhodcirizeni": "arbitraze", "rozhodci": "arbitraze",
