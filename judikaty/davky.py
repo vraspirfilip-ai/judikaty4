@@ -18,7 +18,7 @@ import re
 import time
 from datetime import date
 
-from . import vystupy
+from . import filtry, vystupy
 from .model import Rozhodnuti
 from .rozbor import vytahni_rozbor
 
@@ -102,6 +102,12 @@ def vyzvedni(analyzator, stav: dict, oznac, uloz_stav, max_pokusu: int) -> tuple
                 zaznam["rozbor"] = vytahni_rozbor(zprava)
                 zaznam["model"] = analyzator.model
                 zaznam["davka"] = bid
+                oblast = filtry.vyrazeno_podle_ai(zaznam["rozbor"]) if zaznam.get("soud") == "NS" else None
+                if oblast:
+                    oznac(stav, rid, "vyrazeno", duvod=oblast, spzn=zaznam.get("spisova_znacka", ""),
+                          url=zaznam.get("url", ""), den=(zaznam.get("zpracovano") or date.today().isoformat())[:10])
+                    soubor.unlink(missing_ok=True)
+                    continue
                 vystupy.uloz_zaznam(zaznam)
                 oznac(stav, rid, "ok", spzn=zaznam.get("spisova_znacka", ""))
                 ulozeno += 1

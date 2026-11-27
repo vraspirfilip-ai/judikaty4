@@ -94,7 +94,7 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
 
     if soud == "NS":
         # chybu v nastavení oblastí ohlásit hned, ne až u prvního rozhodnutí
-        filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
+        filtry.VYLOUCENE_KLICE[:] = filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
         kandidati = (ud.seznam_novych({**cfg, "od_data": hranice}, zname, limit) if deska
                      else ns.seznam_novych(cfg, zname, limit))
     else:
@@ -206,6 +206,12 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
             try:
                 zaznam["rozbor"] = analyzator.zpracuj(r)
                 zaznam["model"] = analyzator.model
+                oblast = filtry.vyrazeno_podle_ai(zaznam["rozbor"]) if soud == "NS" else None
+                if oblast:
+                    oznac(stav, rid, "vyrazeno", duvod=oblast, spzn=r.spisova_znacka, url=r.url,
+                          den=ted.date().isoformat())
+                    uloz_stav(stav)
+                    continue
             except Exception as e:  # noqa: BLE001
                 chyb += 1
                 pokusy = stav["zname"].get(rid, {}).get("pokusy", 0) + 1
@@ -235,6 +241,28 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
     stav.setdefault("posledni_beh", {})[klic_stavu] = ted.date().isoformat()
     uloz_stav(stav)
     return hotovo, chyb
+
+
+def uklid_vyloucenych(stav: dict) -> int:
+    """Uložená rozhodnutí NS, která Claude zařadil do vyloučené oblasti, odstraní z výstupů."""
+    smazano = 0
+    slozka = vystupy.ROZHODNUTI / "NS"
+    if not slozka.exists() or not filtry.VYLOUCENE_KLICE:
+        return 0
+    for soubor in slozka.rglob("*.json"):
+        try:
+            z = json.loads(soubor.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        oblast = filtry.vyrazeno_podle_ai(z.get("rozbor") or {})
+        if oblast:
+            oznac(stav, z["id"], "vyrazeno", duvod=oblast, spzn=z.get("spisova_znacka", ""),
+                  url=z.get("url", ""), den=(z.get("zpracovano") or "")[:10])
+            soubor.unlink()
+            smazano += 1
+    if smazano:
+        log.info("Odstraněno %s dříve uložených rozhodnutí z vyloučených oblastí", smazano)
+    return smazano
 
 
 def doplnit_data_zverejneni(limit: int = 200) -> int:
@@ -283,6 +311,11 @@ def main(argv: list[str] | None = None) -> int:
     http.nastav_prodlevu(obecne.get("prodleva_mezi_dotazy_s", 1.5))
     ted = datetime.now(TZ)
     davkove = bool(obecne.get("davkove_zpracovani", True)) and not args.okamzite
+    try:
+        filtry.VYLOUCENE_KLICE[:] = filtry.zkontroluj(
+            nastaveni.get("nejvyssi_soud", {}).get("vyloucit", {}).get("oblasti", []))
+    except ValueError as e:
+        log.error("%s", e)
 
     vysledky: dict[str, tuple[int, int] | str] = {}
     analyzator = None
@@ -299,6 +332,8 @@ def main(argv: list[str] | None = None) -> int:
                 vysledky["dávky z minula"] = davky.vyzvedni(analyzator, stav, oznac, uloz_stav, MAX_POKUSU)
 
         if not args.jen_vyzvednout:
+            uklid_vyloucenych(stav)
+            uloz_stav(stav)
             try:
                 doplnit_data_zverejneni()
             except Exception as e:  # noqa: BLE001

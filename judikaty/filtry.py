@@ -130,12 +130,28 @@ def zkontroluj(oblasti: list[str]) -> list[str]:
     return [normalizuj_oblast(o) for o in oblasti]
 
 
+# Oblasti, které umí rozpoznat i Claude (pole „pravni_oblast“ v rozboru) – druhá pojistka po rozboru.
+OBLAST_AI = {"pracovni": "pracovní právo", "rodinne": "rodinné právo", "exekuce": "exekuce"}
+# nastavuje hlavní běh podle [nejvyssi_soud] vyloucit.oblasti
+VYLOUCENE_KLICE: list[str] = []
+
+
+def vyrazeno_podle_ai(rozbor: dict) -> str | None:
+    """Zařadil-li Claude rozhodnutí do vyloučené oblasti, vrátí její název."""
+    oblast = (rozbor or {}).get("pravni_oblast", "")
+    for k in VYLOUCENE_KLICE:
+        if OBLAST_AI.get(k) == oblast:
+            return f"{oblast} (podle AI rozboru)"
+    return None
+
+
 def zahlavi(text: str) -> str:
     """Úvod rozhodnutí: záhlaví (účastníci, předmět řízení) a výrok – po slovo „takto“."""
-    zacatek = text[:8000]
+    zacatek = text[:10000]
     oduvodneni = re.search(r"\n\s*(Odůvodnění|Stručné\s+odůvodnění)", zacatek)
     if oduvodneni:
-        return zacatek[: oduvodneni.start()]
+        # záhlaví + výrok + úvod odůvodnění (čeho se žalobce domáhal) – zbytek odůvodnění ne
+        return zacatek[: oduvodneni.end() + 1200]
     konec = re.search(r"\btakto\s*:", zacatek, re.IGNORECASE)
     return zacatek[: konec.end() + 600] if konec else zacatek[:3000]
 
