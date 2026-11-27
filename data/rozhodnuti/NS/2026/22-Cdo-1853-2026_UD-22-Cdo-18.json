@@ -1,0 +1,69 @@
+{
+  "id": "NS:UD-22_Cdo_1853_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_22_Cdo_1853_2026.pdf",
+  "spisova_znacka": "22 Cdo 1853/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-26",
+  "datum_zverejneni": "2026-11-26",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": true
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 55768,
+  "rozbor": {
+    "shrnuti": "Žalobci se domáhali určení, že pozemek žalovaných je zatížen služebností chůze a jízdy ve prospěch jejich pozemků. Soud prvního stupně žalobu zamítl, odvolací soud ji vyhověl, protože služebnost vznikla smlouvou z roku 2000 a žalovaní se podle něj nemohou dovolávat důvěry v katastr, neboť domněnka správnosti zápisu byla vyvrácena. Nejvyšší soud dovolání shledal přípustným a důvodným. Ochrana nabyvatele za úplatu v dobré víře podle § 984 odst. 1 o. z. spočívá právě v tom, že zapsaný stav neodpovídá skutečnému stavu; vyvrácení domněnky správnosti zápisu ji proto nevylučuje. Ostatní dovolací námitky (nepřezkoumatelnost, rozsah zatížení pozemku, vydržení) neshledal přípustnými či důvodnými. Rozsudek odvolacího soudu zrušil a vrátil mu věc k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Chrání § 984 odst. 1 o. z. osobu, která za úplatu v dobré víře nabyla vlastnické právo k pozemku nezatíženému podle zápisu v katastru, před nezapsanou služebností, i když je prokázáno, že zápis neodpovídá skutečnému stavu a domněnka správnosti zápisu podle § 980 odst. 2 o. z. je tedy vyvrácena?",
+        "odpoved": "Ano, § 984 odst. 1 o. z. chrání nabyvatele právě tehdy, když je prokázáno, že zápis neodpovídá skutečnosti; nezapsaná služebnost vůči dobrověrnému úplatnému nabyvateli nepůsobí. Vyvrácení domněnky správnosti ochranu nevylučuje."
+      },
+      {
+        "otazka": "Dopadá výjimka z účinků materiální publicity podle § 984 odst. 2 o. z. na smluvně založené právo odpovídající věcnému břemeni?",
+        "odpoved": "Ne, výjimka se týká nezbytné cesty povolené konstitutivním soudním rozhodnutím, nikoli smluvně zřízené služebnosti."
+      },
+      {
+        "otazka": "Z jakého právního stavu vychází soud v řízení o určení práva odpovídajícího věcnému břemeni a je významný zápis tohoto práva v katastru nemovitostí?",
+        "odpoved": "Soud vychází ze skutečného právního stavu v době vyhlášení rozhodnutí (§ 154 odst. 1 o. s. ř.) bez ohledu na evidenci práva v katastru, neboť skutečný stav se může lišit od zapsaného (§ 980 odst. 2, § 984 odst. 1 o. z.)."
+      },
+      {
+        "otazka": "Brání určení, že pozemek je zatížen služebností cesty, skutečnost, že rozsudek nekonkretizuje trasu výkonu služebnosti, případně že cesta vede jen přes část pozemku?",
+        "odpoved": "Nebrání, služebnost vázne na pozemku jako celku (parcele); neurčení trasy neznamená, že lze právo vykonávat kdekoli, případný spor o místo výkonu lze řešit v jiném řízení."
+      }
+    ],
+    "pravni_vety": [
+      "Nabyl-li někdo za úplatu v dobré víře ve stav zápisu v katastru nemovitostí vlastnické právo k pozemku, u něhož nebyla evidována služebnost, svědčí mu ochrana podle § 984 odst. 1 o. z. a nezapsaná služebnost vůči němu nepůsobí; ochrana předpokládá, že zápis neodpovídá skutečnému stavu, a vyvrácení domněnky správnosti zápisu podle § 980 odst. 2 o. z. ji proto nevylučuje.",
+      "V řízení o určení práva odpovídajícího věcnému břemeni (služebnosti) vychází soud ze skutečného právního stavu v době vyhlášení rozhodnutí bez ohledu na evidenci tohoto práva v katastru nemovitostí.",
+      "Rozsudek určující, že pozemek je zatížen služebností cesty, aniž by určil místo jejího výkonu, nezakládá oprávnění vykonávat služebnost kdekoli na pozemku; služebnost vázne na pozemku jako celku."
+    ],
+    "vysledek": "rozsudek Městského soudu v Praze zrušen a věc mu vrácena k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 984 odst. 1 o. z.",
+      "§ 984 odst. 2 o. z.",
+      "§ 980 odst. 2 o. z.",
+      "§ 154 odst. 1 o. s. ř.",
+      "§ 237 o. s. ř.",
+      "§ 241a odst. 1 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "služebnost",
+      "věcné břemeno",
+      "dobrá víra",
+      "materiální publicita",
+      "katastr nemovitostí",
+      "určovací žaloba",
+      "vydržení"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí jednoznačně potvrzuje a vysvětluje vztah § 980 odst. 2 a § 984 odst. 1 o. z. a rozlišuje § 984 odst. 2 o. z., což koriguje chybný výklad odvolacího soudu, avšak vychází z již ustálené judikatury.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

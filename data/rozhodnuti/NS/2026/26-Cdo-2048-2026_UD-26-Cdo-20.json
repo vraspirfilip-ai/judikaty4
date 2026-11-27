@@ -1,0 +1,66 @@
+{
+  "id": "NS:UD-26_Cdo_2048_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_26_Cdo_2048_2026.pdf",
+  "spisova_znacka": "26 Cdo 2048/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-24",
+  "datum_zverejneni": "2026-11-24",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": false
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 24546,
+  "rozbor": {
+    "shrnuti": "Bytové družstvo jako neoprávněný disponent s byty zahrnutými do konkursní podstaty vlastníka zaplatilo do podstaty bezdůvodné obohacení za jejich užívání a po člence družstva, které byt přenechalo neplatnou nájemní smlouvou z roku 2005, požadovalo její podíl. Soudy žalobu zamítly s využitím úpravy bezdůvodného obohacení v zákoníku č. 89/2012 Sb. (§ 2994, § 2999 odst. 2 o. z.). Nejvyšší soud dovodil, že obohacení vzniklo plněním z neplatné smlouvy uzavřené před 1. 1. 2014, a proto se řídí zákonem č. 40/1964 Sb. Odvolací soud tak nesprávně aplikoval nový občanský zákoník, jehož § 2994 a § 2999 jsou vyloučeny. Rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení. Ostatní dovolací otázky shledal nepodstatnými pro rozhodnutí.",
+    "klicove_otazky": [
+      {
+        "otazka": "Řídí se vydání bezdůvodného obohacení vzniklého plněním z absolutně neplatné nájemní smlouvy uzavřené před 1. 1. 2014 a užíváním bytu po tomto datu starým občanským zákoníkem, takže je vyloučena aplikace § 2994 a § 2999 o. z.?",
+        "odpoved": "Ano, podle § 3028 odst. 3 o. z. se nároky z bezdůvodného obohacení z plnění na základě neplatné smlouvy uzavřené do 31. 12. 2013 řídí zákonem č. 40/1964 Sb. (§ 451 obč. zák.), a aplikace § 2994 a § 2999 o. z. je proto vyloučena."
+      },
+      {
+        "otazka": "Plní osoba, která bez právního podkladu přenechala cizí byty třetím osobám a podle pravomocných rozsudků hradí vlastníkovi bezdůvodné obohacení za jejich užívání, za tyto uživatele, nebo plní vlastní dluh?",
+        "odpoved": "Plní vlastní povinnost, k níž je sama zavázána, a to bez ohledu na to, že nemovitosti fakticky užívali třetí osoby; charakter plnění jejich nájemcům z neplatné smlouvy se tím nemění."
+      },
+      {
+        "otazka": "Je pro určení, zda se uživatel obohatil plněním z neplatné nájemní smlouvy, či jiným způsobem, významné, že věděl o neplatnosti smlouvy a o tom, že pronajímatel nebyl oprávněn byt přenechat?",
+        "odpoved": "Ne, tato okolnost se týká dobré víry obohaceného, nikoli toho, zda se obohacuje smluvním plněním; při plnění z neplatné smlouvy je věcná legitimace dána pouze na straně účastníků smlouvy."
+      }
+    ],
+    "pravni_vety": [
+      "Bezdůvodné obohacení vzniklé plněním na základě absolutně neplatné smlouvy uzavřené do 31. 12. 2013 se i v případě užívání po 1. 1. 2014 řídí podle § 3028 odst. 3 o. z. dosavadními právními předpisy; aplikace § 2994 a § 2999 o. z. je proto vyloučena.",
+      "Plní-li neoprávněný disponent vlastníkovi bezdůvodné obohacení za užívání věci třetími osobami, kterým věc přenechal na základě neplatné smlouvy, plní vlastní dluh, nikoli za tyto osoby."
+    ],
+    "vysledek": "dovolání důvodné, rozsudek Krajského soudu v Praze zrušen a věc mu vrácena k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 3028 odst. 3 o. z.",
+      "§ 2994 o. z.",
+      "§ 2999 o. z.",
+      "§ 2991 odst. 2 o. z.",
+      "§ 451 obč. zák.",
+      "§ 454 obč. zák.",
+      "§ 18 odst. 3 ZKV",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná nájemní smlouva",
+      "přechodná ustanovení",
+      "konkursní podstata",
+      "družstevní byt",
+      "intertemporalita",
+      "nájem bytu"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí potvrzuje a rozvádí dosavadní judikaturu o časové působnosti úpravy bezdůvodného obohacení z neplatných smluv uzavřených před 1. 1. 2014 a vylučuje aplikaci § 2994 a § 2999 o. z. na takové vztahy.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

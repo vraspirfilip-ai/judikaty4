@@ -1,0 +1,65 @@
+{
+  "id": "NS:UD-26_Cdo_2423_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_26_Cdo_2423_2026.pdf",
+  "spisova_znacka": "26 Cdo 2423/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-24",
+  "datum_zverejneni": "2026-11-24",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": false
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 23743,
+  "rozbor": {
+    "shrnuti": "Bytové družstvo jako domnělý pronajímatel žalovalo svou členku o zaplacení části bezdůvodného obohacení, které muselo vydat do konkursní podstaty vlastníka bytových domů za jejich neoprávněné užívání. Nájemní smlouva z roku 2003 byla absolutně neplatná pro rozpor s § 18 odst. 3 ZKV. Soudy nižších stupňů žalobu zamítly podle zákona č. 89/2012 Sb. s odkazem na § 2999 odst. 2 o. z. Nejvyšší soud dovodil, že bezdůvodné obohacení vzniklé plněním z neplatné smlouvy uzavřené před 1. 1. 2014 se řídí zákonem č. 40/1964 Sb. a že plněním do konkursní podstaty družstvo neplnilo za žalovanou, ale jen to, k čemu bylo samo povinno. Odvolací soud proto nesprávně aplikoval nový občanský zákoník, a Nejvyšší soud jeho rozsudek zrušil a věc vrátil k dalšímu řízení; ostatní dovolací otázky považoval za nepodstatné.",
+    "klicove_otazky": [
+      {
+        "otazka": "Řídí se nárok z bezdůvodného obohacení vzniklého plněním ze smlouvy o nájmu bytu uzavřené před 1. 1. 2014, která je absolutně neplatná, dosavadním občanským zákoníkem, nebo zákonem č. 89/2012 Sb. (včetně § 2994 a § 2999 o. z.)?",
+        "odpoved": "Řídí se zákonem č. 40/1964 Sb., neboť podle § 3028 odst. 3 o. z. se právní poměry z neplatné smlouvy uzavřené před 1. 1. 2014 a práva z nich vzešlá řídí dosavadními předpisy; aplikace § 2994 a § 2999 o. z. je tím vyloučena."
+      },
+      {
+        "otazka": "Plní domnělý pronajímatel, který přenechal cizí nemovitost do užívání na základě neplatné nájemní smlouvy a vydal vlastníku bezdůvodné obohacení za její neoprávněné užívání, tím za nájemce, takže vůči němu získává nárok z bezdůvodného obohacení?",
+        "odpoved": "Ne, plněním vlastníku plní jen to, k čemu byl sám povinen, a charakter plnění nájemci z neplatné smlouvy se nemění; věcná legitimace z bezdůvodného obohacení z neplatné smlouvy je dána jen na straně jejích účastníků (§ 451, § 454 obč. zák.)."
+      },
+      {
+        "otazka": "Má pro posouzení, zda se uživatel obohatil plněním z neplatné smlouvy, či jiným způsobem, význam jeho vědomí, že byt nelze podle smlouvy oprávněně užívat?",
+        "odpoved": "Ne, tato okolnost ovlivňuje dobrou víru obohaceného, nikoli to, zda se obohacuje smluvním plněním."
+      }
+    ],
+    "pravni_vety": [
+      "Bezdůvodné obohacení vzniklé plněním z absolutně neplatné smlouvy uzavřené před 1. 1. 2014 se posuzuje podle zákona č. 40/1964 Sb.; ustanovení § 2994 a § 2999 o. z. se neuplatní.",
+      "Domnělý pronajímatel, který vydal vlastníku nemovitosti bezdůvodné obohacení za její neoprávněné užívání nájemci na základě neplatné nájemní smlouvy, plní tím vlastní povinnost, nikoli za nájemce."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena Krajskému soudu v Praze k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 3028 odst. 3 o. z.",
+      "§ 451 obč. zák.",
+      "§ 454 obč. zák.",
+      "§ 2994 o. z.",
+      "§ 2999 odst. 2 o. z.",
+      "§ 18 odst. 3 ZKV",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná nájemní smlouva",
+      "intertemporální působnost",
+      "konkursní podstata",
+      "bytové družstvo",
+      "neoprávněné užívání",
+      "nájem bytu"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí potvrzuje a rozvádí ustálenou judikaturu o časové působnosti úpravy bezdůvodného obohacení z neplatných smluv před rokem 2014 a vylučuje v takové situaci postup podle § 2994 a § 2999 o. z.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

@@ -2570,16 +2570,104 @@
    "duvod": "kategorie E",
    "stav": "preskoceno"
   },
+  "NS:UD-21_Cdo_1473_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-18",
+   "spzn": "21 Cdo 1473/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-21_Cdo_2446_2026": {
+   "datum": "2026-11-27",
+   "spzn": "21 Cdo 2446/2026",
+   "stav": "ok"
+  },
+  "NS:UD-22_Cdo_1853_2026": {
+   "datum": "2026-11-27",
+   "spzn": "22 Cdo 1853/2026",
+   "stav": "ok"
+  },
   "NS:UD-23_Cdo_766_2026": {
    "datum": "2026-11-27",
    "duvod": "vyhlášeno 2026-11-13",
    "spzn": "23 Cdo 766/2026",
    "stav": "preskoceno"
   },
+  "NS:UD-24_Cdo_1781_2026": {
+   "datum": "2026-11-27",
+   "den": "2026-11-27",
+   "duvod": "rodinné právo",
+   "spzn": "24 Cdo 1781/2026",
+   "stav": "vyrazeno",
+   "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_24_Cdo_1781_2026.pdf"
+  },
+  "NS:UD-24_Cdo_985_2026": {
+   "datum": "2026-11-27",
+   "den": "2026-11-27",
+   "duvod": "dědické právo",
+   "spzn": "24 Cdo 985/2026",
+   "stav": "vyrazeno",
+   "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_24_Cdo_985_2026.pdf"
+  },
+  "NS:UD-25_Cdo_1466_2026": {
+   "datum": "2026-11-27",
+   "duvod": "senát 25",
+   "stav": "preskoceno"
+  },
   "NS:UD-25_Cdo_1555_2025": {
    "datum": "2026-11-27",
    "duvod": "senát 25",
    "stav": "preskoceno"
+  },
+  "NS:UD-25_Cdo_1590_2026": {
+   "datum": "2026-11-27",
+   "duvod": "senát 25",
+   "stav": "preskoceno"
+  },
+  "NS:UD-25_Cdo_2328_2026": {
+   "datum": "2026-11-27",
+   "duvod": "senát 25",
+   "stav": "preskoceno"
+  },
+  "NS:UD-26_Cdo_1718_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 1718/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_1783_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 1783/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_2008_2026": {
+   "datum": "2026-11-27",
+   "duvod": "vyhlášeno 2026-11-18",
+   "spzn": "26 Cdo 2008/2026",
+   "stav": "preskoceno"
+  },
+  "NS:UD-26_Cdo_2048_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 2048/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_2246_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 2246/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_2263_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 2263/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_2333_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 2333/2026",
+   "stav": "ok"
+  },
+  "NS:UD-26_Cdo_2423_2026": {
+   "datum": "2026-11-27",
+   "spzn": "26 Cdo 2423/2026",
+   "stav": "ok"
   },
   "NS:UD-27_ICdo_126_2025": {
    "datum": "2026-11-27",

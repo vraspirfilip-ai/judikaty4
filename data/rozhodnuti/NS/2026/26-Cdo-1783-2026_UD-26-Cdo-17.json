@@ -1,0 +1,65 @@
+{
+  "id": "NS:UD-26_Cdo_1783_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_26_Cdo_1783_2026.pdf",
+  "spisova_znacka": "26 Cdo 1783/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-24",
+  "datum_zverejneni": "2026-11-24",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": false
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 24135,
+  "rozbor": {
+    "shrnuti": "Bytové družstvo požadovalo po svém členovi-nájemci zaplacení části bezdůvodného obohacení, které muselo vydat do konkursní podstaty vlastníka domů, v nichž byty na základě absolutně neplatných nájemních smluv z roku 2003 užívali jeho členové. Soudy obou stupňů žalobu zamítly, odvolací soud ji posuzoval podle zákona č. 89/2012 Sb. (§ 2994, § 2999 odst. 2 o. z.). Nejvyšší soud uvedl, že obohacení vzniklo plněním z neplatné smlouvy uzavřené před 1. 1. 2014, a proto se řídí zákonem č. 40/1964 Sb. (§ 3028 odst. 3 o. z.). Aplikace § 2999 ani § 2994 o. z. je tím vyloučena. Plnění družstva do konkursní podstaty nebylo plněním za nájemce, ale plněním vlastního dluhu. Dovolací soud proto rozsudek odvolacího soudu zrušil a věc mu vrátil. Ostatní dovolací otázky považoval za nepodstatné pro výsledek sporu a otázkou promlčení se nezabýval, protože ji odvolací soud neřešil.",
+    "klicove_otazky": [
+      {
+        "otazka": "Řídí se nárok na vydání bezdůvodného obohacení vzniklého plněním z absolutně neplatné nájemní smlouvy uzavřené před 1. 1. 2014 dosavadním občanským zákoníkem, nebo zákonem č. 89/2012 Sb. včetně § 2994 a § 2999 odst. 2 o. z.?",
+        "odpoved": "Řídí se zákonem č. 40/1964 Sb., protože § 3028 odst. 3 o. z. podřizuje dosavadním předpisům práva a povinnosti z právních poměrů vzniklých před 1. 1. 2014, takže aplikace § 2994 a § 2999 o. z. je vyloučena."
+      },
+      {
+        "otazka": "Je bezdůvodné obohacení uživatele bytu, kterému byt přenechal domnělý pronajímatel na základě neplatné nájemní smlouvy, plněním z neplatné smlouvy, jež vzniká jen mezi smluvními stranami, i když domnělý pronajímatel následně vydal obohacení vlastníkovi nemovitosti a uživatel věděl o neplatnosti smlouvy?",
+        "odpoved": "Ano, jde o plnění z neplatného právního úkonu (§ 451 odst. 2 obč. zák.), věcná legitimace náleží jen účastníkům smlouvy a nemění ji ani vydání obohacení vlastníkovi, ani znalost uživatele o neplatnosti smlouvy, která má vliv jen na dobrou víru."
+      },
+      {
+        "otazka": "Plní domnělý pronajímatel, který na základě pravomocných rozsudků vydá vlastníkovi (konkursní podstatě) obohacení za neoprávněné užívání nemovitostí třetími osobami, za tyto uživatele, nebo plní vlastní dluh?",
+        "odpoved": "Plní vlastní dluh, neboť bez právního podkladu přenechal nemovitosti do užívání jiným a byla mu uložena povinnost je vyklidit, což nezajistil; nejde proto o plnění za nájemce."
+      }
+    ],
+    "pravni_vety": [
+      "Nárok na vydání bezdůvodného obohacení vzniklého plněním na základě absolutně neplatné smlouvy uzavřené před 1. 1. 2014 se posuzuje podle zákona č. 40/1964 Sb. (§ 3028 odst. 3 o. z.).",
+      "Bezdůvodné obohacení vzniklé plněním z neplatné nájemní smlouvy je vypořádáváno pouze mezi jejími účastníky; tento charakter plnění se nemění tím, že domnělý pronajímatel vydal obohacení vlastníku nemovitosti, ani tím, že uživatel věděl o neplatnosti smlouvy."
+    ],
+    "vysledek": "dovolání přípustné a důvodné; rozsudek Krajského soudu v Praze zrušen a věc mu vrácena k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 3028 odst. 3 o. z.",
+      "§ 2994 o. z.",
+      "§ 2999 odst. 2 o. z.",
+      "§ 451 odst. 1 a 2 obč. zák.",
+      "§ 454 obč. zák.",
+      "§ 18 odst. 3 ZKV",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná nájemní smlouva",
+      "intertemporalita",
+      "konkursní podstata",
+      "bytové družstvo",
+      "neoprávněné užívání",
+      "§ 3028 o. z."
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí potvrzuje a aplikuje ustálenou judikaturu o intertemporálním určení práva rozhodného pro bezdůvodné obohacení z neplatné smlouvy a o jeho vypořádání jen mezi smluvními stranami.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

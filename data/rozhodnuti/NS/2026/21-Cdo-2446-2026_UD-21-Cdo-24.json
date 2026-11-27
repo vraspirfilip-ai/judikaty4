@@ -1,0 +1,55 @@
+{
+  "id": "NS:UD-21_Cdo_2446_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_21_Cdo_2446_2026.pdf",
+  "spisova_znacka": "21 Cdo 2446/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-25",
+  "datum_zverejneni": "2026-11-25",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": true
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 22601,
+  "rozbor": {
+    "shrnuti": "Zaměstnankyně dostala od zaměstnavatele (statutárního města) výpověď pro závažné porušení povinností podle § 52 písm. g) zák. práce a po jejím doručení byla uznána dočasně práceneschopnou. Domáhala se náhrady mzdy za dobu, o kterou se podle § 53 odst. 2 zák. práce měla prodloužit výpovědní doba. Soudy nižších stupňů žalobu zamítly. Nejvyšší soud dovolání zamítl, protože § 54 písm. d) zák. práce vylučuje u takové výpovědi nejen zákaz výpovědi v ochranné době podle § 53 odst. 1, ale i stavení běhu výpovědní doby podle § 53 odst. 2. Pracovní poměr proto skončil uplynutím původní výpovědní doby. Zkrácené vyhotovení zde obsahuje plné odůvodnění.",
+    "klicove_otazky": [
+      {
+        "otazka": "Vztahuje se ochrana podle § 53 odst. 2 zák. práce (stavení běhu výpovědní doby) na zaměstnance, který byl po doručení výpovědi daného pro závažné porušení povinností vyplývajících z právních předpisů vztahujících se k vykonávané práci [§ 52 písm. g) zák. práce] uznán dočasně práce neschopným?",
+        "odpoved": "Ne, výjimka z ochrany v § 54 písm. d) zák. práce vylučuje nejen zákaz výpovědi podle § 53 odst. 1, ale i § 53 odst. 2, takže výpovědní doba neběží se stavením a pracovní poměr skončí uplynutím původní výpovědní doby."
+      }
+    ],
+    "pravni_vety": [
+      "Je-li zaměstnanec uznán dočasně práce neschopným poté, co mu byla doručena výpověď z pracovního poměru z důvodu porušení povinnosti vyplývající z právních předpisů vztahujících se k vykonávané práci podle § 52 písm. g) zák. práce, nevztahuje se na něj ochrana stanovená v § 53 odst. 2 zák. práce a výpovědní doba se neprodlužuje.",
+      "Stanoví-li § 54 zák. práce, že zákaz výpovědi podle § 53 zák. práce se nevztahuje na určité výpovědi, znamená to, že se na tyto výpovědi nepoužije nejen § 53 odst. 1, ale ani § 53 odst. 2 zák. práce."
+    ],
+    "vysledek": "dovolání žalobkyně zamítnuto; žalobkyně je povinna nahradit žalovanému náklady dovolacího řízení",
+    "pravni_oblast": "pracovní právo",
+    "dotcene_predpisy": [
+      "§ 52 písm. g) zák. práce",
+      "§ 53 odst. 1 zák. práce",
+      "§ 53 odst. 2 zák. práce",
+      "§ 54 písm. d) zák. práce",
+      "§ 55 zák. práce",
+      "§ 243d odst. 1 písm. a) o. s. ř."
+    ],
+    "klicova_slova": [
+      "výpověď z pracovního poměru",
+      "ochranná doba",
+      "dočasná pracovní neschopnost",
+      "výpovědní doba",
+      "stavení výpovědní doby",
+      "porušení povinností",
+      "výjimka ze zákazu výpovědi"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Nejvyšší soud poprvé vyřešil dosud neřešenou otázku, zda se na výpověď podle § 52 písm. g) zák. práce uplatní stavení výpovědní doby podle § 53 odst. 2 zák. práce při pozdější pracovní neschopnosti.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "NS:UD-26_Cdo_2263_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_26_Cdo_2263_2026.pdf",
+  "spisova_znacka": "26 Cdo 2263/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-26",
+  "datum_zverejneni": "2026-11-26",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": false
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 26675,
+  "rozbor": {
+    "shrnuti": "Žalobce, bytové družstvo, žádal po své člence vydání bezdůvodného obohacení ve výši obvyklého nájemného za užívání bytu na základě nájemní smlouvy z roku 2003, která byla pro rozpor s § 18 odst. 3 ZKV absolutně neplatná, protože dům patřil do konkursní podstaty jiné společnosti. Žalobce totiž musel do konkursní podstaty vydat bezdůvodné obohacení za neoprávněné užívání domů. Soudy obou stupňů žalobu zamítly, odvolací soud postupoval podle zákona č. 89/2012 Sb. a použil § 2999 odst. 2 o. z. Nejvyšší soud dovolání shledal přípustným a důvodným. Bezdůvodné obohacení z plnění na základě neplatné smlouvy uzavřené před 31. 12. 2013 se podle § 3028 odst. 3 o. z. řídí zákonem č. 40/1964 Sb., takže § 2999 ani § 2994 o. z. nelze použít. Plněním do konkursní podstaty navíc žalobce neplnil za žalovanou, ale to, k čemu byl sám povinen. Rozsudek odvolacího soudu proto zrušil a věc mu vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Který právní předpis se použije na vydání bezdůvodného obohacení vzniklého plněním z absolutně neplatné nájemní smlouvy uzavřené před 1. 1. 2014, jestliže se užívá i po tomto datu, a lze na ně aplikovat § 2999 odst. 2 nebo § 2994 o. z.?",
+        "odpoved": "Použije se dosavadní zákon č. 40/1964 Sb. (§ 3028 odst. 3 o. z.), takže aplikace § 2999 a § 2994 o. z. je vyloučena."
+      },
+      {
+        "otazka": "Je vztah mezi domnělým pronajímatelem a nájemcem z neplatné nájemní smlouvy vztahem plnění z neplatného právního úkonu, v němž je věcná legitimace jen na straně smluvních stran, i když nájemce věděl o neplatnosti a pronajímatel později vydal obohacení vlastníku nemovitosti?",
+        "odpoved": "Ano, jde o obohacení plněním z neplatné smlouvy mezi jejími účastníky, jehož charakter nemění ani vědomí nájemce o neplatnosti, ani to, že pronajímatel vydal obohacení vlastníku (§ 451 obč. zák.)."
+      },
+      {
+        "otazka": "Plní domnělý pronajímatel, který vydává vlastníku nemovitosti bezdůvodné obohacení za neoprávněné užívání nemovitosti jejími faktickými uživateli, za tyto uživatele?",
+        "odpoved": "Ne, plní jen to, k čemu byl sám povinen, neboť neoprávněně přenechal nemovitost do užívání třetím osobám."
+      }
+    ],
+    "pravni_vety": [
+      "Bezdůvodné obohacení vzniklé plněním z absolutně neplatné smlouvy uzavřené přede dnem 1. 1. 2014 se řídí zákonem č. 40/1964 Sb. (§ 3028 odst. 3 o. z.), a to i při užívání po tomto dni.",
+      "Spočívá-li bezdůvodné obohacení v plnění na základě neplatné smlouvy, jsou v přímém vztahu pouze její účastníci; vědomí obohaceného o neplatnosti smlouvy ovlivňuje jeho dobrou víru, nikoli povahu obohacení."
+    ],
+    "vysledek": "dovolání přípustné a důvodné, rozsudek Krajského soudu v Praze zrušen a věc vrácena tomuto soudu k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 3028 odst. 3 o. z.",
+      "§ 2994 o. z.",
+      "§ 2999 o. z.",
+      "§ 451 obč. zák.",
+      "§ 454 obč. zák.",
+      "§ 18 odst. 3 ZKV",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná nájemní smlouva",
+      "intertemporalita",
+      "konkursní podstata",
+      "bytové družstvo",
+      "plnění z neplatného právního úkonu"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí potvrzuje a aplikuje ustálenou judikaturu o intertemporálním určení práva pro bezdůvodné obohacení z neplatných smluv a o rozlišení skutkových podstat podle obč. zák. v neobvyklé konstelaci družstva a členů.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}

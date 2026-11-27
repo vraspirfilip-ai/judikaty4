@@ -1,0 +1,65 @@
+{
+  "id": "NS:UD-26_Cdo_1718_2026",
+  "soud": "NS",
+  "url": "https://www.nsoud.cz/fileadmin/user_upload/Uredni_deska/UD_-_civilni/Vyhlas._zneni_rozsudku_26_Cdo_1718_2026.pdf",
+  "spisova_znacka": "26 Cdo 1718/2026",
+  "ecli": "",
+  "forma": "rozsudek",
+  "datum_rozhodnuti": "2026-11-26",
+  "datum_zverejneni": "2026-11-26",
+  "kategorie": "",
+  "extra": {
+    "zdroj": "úřední deska",
+    "zmena": "",
+    "ma_oduvodneni": false
+  },
+  "zpracovano": "2026-11-27T18:32:49+01:00",
+  "delka_textu": 25720,
+  "rozbor": {
+    "shrnuti": "Bytové družstvo (neoprávněný disponent s nemovitostmi zahrnutými do konkursní podstaty) se po svém členovi domáhalo částky odpovídající bezdůvodnému obohacení, které zaplatilo do konkursní podstaty za užívání bytu na základě absolutně neplatné nájemní smlouvy z roku 2003. Soudy žalobu zamítly, odvolací soud aplikoval zákon č. 89/2012 Sb. a § 2999 odst. 2 o. z. Nejvyšší soud dovodil, že obohacení z plnění na základě neplatné smlouvy uzavřené do 31. 12. 2013 se řídí zákonem č. 40/1964 Sb. (§ 3028 odst. 3 o. z.), takže je vyloučena aplikace § 2999 i § 2994 o. z. Věcná legitimace je u takového obohacení dána jen na straně účastníků smlouvy a družstvo plněním do konkursní podstaty plnilo jen vlastní dluh, nikoli za člena. Rozsudek odvolacího soudu proto zrušil a věc mu vrátil k dalšímu řízení.",
+    "klicove_otazky": [
+      {
+        "otazka": "Řídí se vydání bezdůvodného obohacení z plnění na základě absolutně neplatné nájemní smlouvy uzavřené před 31. 12. 2013 i za užívání po 1. 1. 2014 dosavadním zákonem (obč. zák.), takže je vyloučena aplikace § 2994 a § 2999 o. z.?",
+        "odpoved": "Ano, podle § 3028 odst. 3 o. z. se nároky z bezdůvodného obohacení z plnění na základě neplatné smlouvy uzavřené do 31. 12. 2013 posuzují podle zákona č. 40/1964 Sb., a proto nelze použít § 2994 ani § 2999 o. z."
+      },
+      {
+        "otazka": "Je při plnění z neplatné nájemní smlouvy dána věcná legitimace k vydání bezdůvodného obohacení jen na straně účastníků smlouvy, i když se obohatil též někdo jiný, nebo když nájemce věděl o neplatnosti smlouvy?",
+        "odpoved": "Ano, vzájemný vztah z obohacení z neplatné smlouvy mají jen její účastníci a vědomost uživatele o neplatnosti ovlivňuje jen dobrou víru, nikoli charakter plnění jako smluvního (§ 451 obč. zák.)."
+      },
+      {
+        "otazka": "Plní neoprávněný disponent s nemovitostí z konkursní podstaty za svého člena-uživatele, když do podstaty zaplatí bezdůvodné obohacení za neoprávněné užívání, k jehož vydání mu byla pravomocně uložena povinnost?",
+        "odpoved": "Ne, disponent tím plní jen svůj vlastní dluh, a to bez ohledu na to, že nemovitosti fakticky užívali jeho členové."
+      }
+    ],
+    "pravni_vety": [
+      "Nároky z bezdůvodného obohacení z plnění na základě neplatné smlouvy uzavřené do 31. 12. 2013 se podle § 3028 odst. 3 o. z. posuzují podle zákona č. 40/1964 Sb.; ustanovení § 2994 a § 2999 o. z. se na ně neuplatní.",
+      "Spočívá-li bezdůvodné obohacení v plnění na základě neplatné smlouvy, jsou ve vzájemném vztahu pouze její účastníci, bez ohledu na to, zda se v souvislosti s tímto plněním obohatil i někdo jiný."
+    ],
+    "vysledek": "rozsudek odvolacího soudu zrušen a věc vrácena odvolacímu soudu k dalšímu řízení",
+    "pravni_oblast": "občanské právo hmotné",
+    "dotcene_predpisy": [
+      "§ 3028 odst. 3 o. z.",
+      "§ 2994 o. z.",
+      "§ 2999 o. z.",
+      "§ 451 obč. zák.",
+      "§ 454 obč. zák.",
+      "§ 18 odst. 3 ZKV",
+      "§ 237 o. s. ř.",
+      "§ 243e o. s. ř."
+    ],
+    "klicova_slova": [
+      "bezdůvodné obohacení",
+      "neplatná nájemní smlouva",
+      "přechodná ustanovení",
+      "konkursní podstata",
+      "bytové družstvo",
+      "věcná legitimace",
+      "intertemporalita"
+    ],
+    "vyznam": "střední",
+    "duvod_vyznamu": "Rozhodnutí navazuje na ustálenou judikaturu a upřesňuje její použití na vypořádání obohacení z neplatné nájemní smlouvy mezi neoprávněným disponentem a faktickým uživatelem v intertemporální situaci.",
+    "jen_procesni": false
+  },
+  "model": "claude-sonnet-5-5",
+  "davka": "msgbatch_01PXSF5C3D2E8TokFF8w1jSi"
+}
