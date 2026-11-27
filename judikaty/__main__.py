@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import logging
 import os
 import sys
@@ -22,6 +23,7 @@ STAV = vystupy.DATA / "stav.json"
 TZ = ZoneInfo("Europe/Prague")
 MAX_POKUSU = 3
 OPAKOVAT = {"chyba", "bez_kategorie", "bez_data"}
+PRESKOCENO: dict[str, dict] = {}
 
 
 def nacti_nastaveni() -> dict:
@@ -58,6 +60,10 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
     deska = soud == "NS" and cfg.get("zdroj", "uredni_deska") == "uredni_deska"
     klic_stavu = "NS-deska" if deska else soud
     prvni_beh = not stav["inicializovano"].get(klic_stavu)
+    if deska and not prvni_beh and not any(k.startswith("NS:UD-") and v.get("stav") == "ok"
+                                           for k, v in stav["zname"].items()):
+        # z desky se zatím nic nezpracovalo → období počítat dál od prvni_beh_od
+        prvni_beh = True
     obecne = nastaveni.get("obecne", {})
     od = str(obecne.get("prvni_beh_od") or "")[:10] if prvni_beh else ""
     podle = str(obecne.get("prvni_beh_podle", "zverejneni"))
@@ -69,23 +75,6 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         limit = min(limit, int(cfg.get("prvni_beh_max", 10)))
         log.info("%s: první běh – zpracuji max. %s nejnovějších, zbytek označím jako viděný", soud, limit)
 
-    # stavy „chyba“ a „bez_kategorie“ s méně než MAX_POKUSU pokusy zkusíme znovu příště
-    zname = {k for k, v in stav["zname"].items()
-             if not (v.get("stav") in OPAKOVAT and v.get("pokusy", 0) < MAX_POKUSU)}
-
-    if soud == "NS":
-        # chybu v nastavení oblastí ohlásit hned, ne až u prvního rozhodnutí
-        filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
-        kandidati = ud.seznam_novych(cfg, zname, limit) if deska else ns.seznam_novych(cfg, zname, limit)
-    else:
-        kandidati = us.seznam_novych(cfg, zname, limit)
-    log.info("%s: nalezeno %s nových kandidátů", soud, len(kandidati))
-
-    # úřední deska kategorie A–E nezná (přiděluje je NS až v databázi) → filtr kategorií se neuplatní
-    kategorie = set() if deska else {k.upper() for k in cfg.get("kategorie", [])}
-    # stejná spisová značka už zpracovaná (např. dřív z databáze) se neopakuje
-    hotove_spzn = {v.get("spzn") for v in stav["zname"].values() if v.get("stav") == "ok" and v.get("spzn")}
-    senaty = {int(s) for s in cfg.get("senaty", [])}
     # OBDOBÍ: zpracují se jen rozhodnutí zveřejněná od posledního běhu (běžně tedy za uplynulý týden).
     # Den posledního běhu se počítá včetně – co už bylo zpracováno, pozná bot podle paměti.
     posledni = stav.get("posledni_beh", {}).get(klic_stavu, "")
@@ -98,6 +87,25 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         # první běh: zveřejnění od zvoleného data; podle data rozhodnutí filtrujeme níže zvlášť
         hranice = od if podle == "zverejneni" else min(hranice, od)
     log.info("%s: zpracuji rozhodnutí zveřejněná od %s", soud, hranice)
+
+    # stavy „chyba“ a „bez_kategorie“ s méně než MAX_POKUSU pokusy zkusíme znovu příště
+    zname = {k for k, v in stav["zname"].items()
+             if not (v.get("stav") in OPAKOVAT and v.get("pokusy", 0) < MAX_POKUSU)}
+
+    if soud == "NS":
+        # chybu v nastavení oblastí ohlásit hned, ne až u prvního rozhodnutí
+        filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
+        kandidati = (ud.seznam_novych({**cfg, "od_data": hranice}, zname, limit) if deska
+                     else ns.seznam_novych(cfg, zname, limit))
+    else:
+        kandidati = us.seznam_novych(cfg, zname, limit)
+    log.info("%s: nalezeno %s nových kandidátů", soud, len(kandidati))
+
+    # úřední deska kategorie A–E nezná (přiděluje je NS až v databázi) → filtr kategorií se neuplatní
+    kategorie = set() if deska else {k.upper() for k in cfg.get("kategorie", [])}
+    # stejná spisová značka už zpracovaná (např. dřív z databáze) se neopakuje
+    hotove_spzn = {v.get("spzn") for v in stav["zname"].values() if v.get("stav") == "ok" and v.get("spzn")}
+    senaty = {int(s) for s in cfg.get("senaty", [])}
 
     hotovo = chyb = 0
     starsich_za_sebou = 0  # NS výsledky jsou řazené od nejnovějších → po řadě starších můžeme skončit
@@ -211,6 +219,18 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         hotovo += 1
         log.info("%s: ✓ %s", soud, r.spisova_znacka or klic)
 
+    # přehled, proč se co přeskočilo (aby bylo hned vidět, když filtr nebo období vyřadí vše)
+    from collections import Counter
+    dnes_iso = date.today().isoformat()
+    duvody = Counter(
+        re.sub(r"\d{4}-\d{2}-\d{2}", "(mimo období)", v.get("duvod", "")) if v.get("stav") == "preskoceno"
+        else f"oblast: {v.get('duvod', '')}"
+        for k, v in stav["zname"].items()
+        if k.startswith(soud + ":") and v.get("datum") == dnes_iso and v.get("stav") in ("preskoceno", "vyrazeno"))
+    if duvody:
+        log.info("%s: přeskočeno %s – %s", soud, sum(duvody.values()),
+                 ", ".join(f"{d}: {n}" for d, n in duvody.most_common()))
+        PRESKOCENO[soud] = dict(duvody)
     stav["inicializovano"][klic_stavu] = True
     stav.setdefault("posledni_beh", {})[klic_stavu] = ted.date().isoformat()
     uloz_stav(stav)
@@ -317,7 +337,7 @@ def main(argv: list[str] | None = None) -> int:
 
     # ukázky stažených stránek pro ladění (když se změní web soudu)
     for nazev, ukazka in (("ns_detail.txt", ns.UKAZKA), ("us_detail.txt", us.UKAZKA),
-                          ("ns_uredni_deska.txt", ud.UKAZKA)):
+                          ("ns_uredni_deska.txt", ud.UKAZKA), ("ns_uredni_deska_vypis.html", ud.VYPIS_HTML)):
         if ukazka:
             (vystupy.DATA / "ladeni").mkdir(parents=True, exist_ok=True)
             (vystupy.DATA / "ladeni" / nazev).write_text(ukazka, encoding="utf-8")
@@ -341,6 +361,8 @@ def main(argv: list[str] | None = None) -> int:
     souhrn = ["## Judikáty – běh " + ted.strftime("%d. %m. %Y %H:%M"), ""]
     for klic, v in vysledky.items():
         souhrn.append(f"- **{klic}**: " + (f"{v[0]}, chyb {v[1]}" if isinstance(v, tuple) else v))
+    for soud, d in PRESKOCENO.items():
+        souhrn.append(f"- {soud} přeskočeno: " + ", ".join(f"{k} {n}×" for k, n in d.items()))
     if analyzator:
         u = analyzator.spotreba
         cena = "poloviční (Batch API)" if davkove else "plná"

@@ -16,7 +16,7 @@ import io
 import logging
 import re
 from datetime import date
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 
 from bs4 import BeautifulSoup
 
@@ -31,6 +31,8 @@ DATUM_RE = re.compile(r"\d{1,2}\.\s*\d{1,2}\.\s*\d{4}")
 
 # strukturní údaje o posledním staženém PDF (bez textu) – ukládají se do data/ladeni/
 UKAZKA = ""
+# HTML výpisu desky (jen sp. zn., data a názvy PDF – bez osobních údajů) pro ladění
+VYPIS_HTML = ""
 
 
 def normalizuj_spzn(text: str) -> str:
@@ -77,7 +79,10 @@ def dalsi_stranky(html: str, zaklad: str = URL) -> list[str]:
         href = urljoin(zaklad, a["href"])
         if cesta not in href or "?" not in href:
             continue
-        if "vypsat všechna" in text or text.isdigit() or text in {"další", "›", "»", "následující", "next"} \
+        if "vypsat všechna" in text:
+            odkazy.append(urljoin(zaklad, a["href"]))
+            continue
+        if text.isdigit() or text in {"další", "›", "»", "následující", "next"} \
                 or re.search(r"(page|strana|currentpage)", href, re.I):
             odkazy.append(href)
     # „Vypsat všechna“ dopředu
@@ -85,20 +90,97 @@ def dalsi_stranky(html: str, zaklad: str = URL) -> list[str]:
     return list(dict.fromkeys(odkazy))
 
 
-def vsechny_radky(url: str = URL, max_stranek: int = 15) -> list[dict]:
-    """Projde výpis včetně stránkování a vrátí všechny řádky (bez duplicit)."""
-    navstivene, fronta, radky, videne = set(), [url], [], set()
+def _ceske_datum(iso: str) -> str:
+    y, m, d = iso.split("-")
+    return f"{d}.{m}.{y}"
+
+
+def formular_hledani(html: str, zaklad: str, od: str = "") -> tuple[str, str, dict] | None:
+    """Najde vyhledávací formulář desky a připraví dotaz s co nejvíce výsledky na stránku
+    (a případně „Vyhlášení od“). Vrátí (metoda, url, data) nebo None."""
+    soup = BeautifulSoup(html, "lxml")
+    for form in soup.find_all("form"):
+        selecty = form.find_all("select")
+        pocet = next((sel for sel in selecty
+                      if [o for o in sel.find_all("option") if (o.get("value") or o.get_text(strip=True)).strip().isdigit()]),
+                     None)
+        if pocet is None:
+            continue
+        data: dict[str, str] = {}
+        for inp in form.find_all("input"):
+            nazev, typ = inp.get("name"), (inp.get("type") or "text").lower()
+            if not nazev or typ in {"submit", "button", "reset", "image", "file"}:
+                continue
+            if typ in {"checkbox", "radio"} and not inp.has_attr("checked"):
+                continue
+            data[nazev] = inp.get("value", "")
+        for sel in selecty:
+            if not sel.get("name"):
+                continue
+            moznosti = [(o.get("value") if o.has_attr("value") else o.get_text(strip=True)) for o in sel.find_all("option")]
+            if sel is pocet:
+                data[sel["name"]] = max((m for m in moznosti if m.strip().isdigit()), key=int)
+            else:
+                vybrana = sel.find("option", selected=True)
+                data[sel["name"]] = (vybrana.get("value", vybrana.get_text(strip=True)) if vybrana
+                                     else (moznosti[0] if moznosti else ""))
+        # „Vyhlášení od“: pole označené popiskem (label for=…)
+        if od:
+            for label in form.find_all("label"):
+                if re.search(r"vyhlášení\s+od", label.get_text(" "), re.I) and label.get("for"):
+                    pole = form.find(id=label["for"])
+                    if pole is not None and pole.get("name"):
+                        data[pole["name"]] = _ceske_datum(od) if pole.get("type") != "date" else od
+        tlacitko = form.find(["button", "input"], attrs={"type": "submit"})
+        if tlacitko is not None and tlacitko.get("name"):
+            data[tlacitko["name"]] = tlacitko.get("value", "")
+        metoda = (form.get("method") or "get").lower()
+        return metoda, urljoin(zaklad, form.get("action") or zaklad), data
+    return None
+
+
+def vsechny_radky(url: str = URL, max_stranek: int = 15, od: str = "") -> list[dict]:
+    """Projde výpis: výchozí stránku, vyhledávání s maximem výsledků na stránku,
+    „Vypsat všechna vyhlášení“ i stránkování. Vrátí všechny řádky (bez duplicit)."""
+    global VYPIS_HTML
+    navstivene, radky, videne = set(), [], set()
+
+    def pridej(html: str, u: str) -> None:
+        for r in nacti_radky(html, u):
+            k = (r["spzn"], r["datum"], r["pdf"])
+            if k not in videne:
+                videne.add(k)
+                radky.append(r)
+
+    html = http.get(url).text
+    navstivene.add(url)
+    VYPIS_HTML = html
+    pridej(html, url)
+    fronta = dalsi_stranky(html, url)
+
+    formular = formular_hledani(html, url, od)
+    if formular:
+        metoda, akce, data = formular
+        try:
+            if metoda == "post":
+                html2 = http.post(akce, data).text
+                u2 = akce
+            else:
+                u2 = akce + ("&" if "?" in akce else "?") + urlencode(data)
+                html2 = http.get(u2).text
+            navstivene.add(u2)
+            pridej(html2, u2)
+            fronta += dalsi_stranky(html2, u2)
+        except Exception as e:  # noqa: BLE001
+            log.warning("Úřední deska: vyhledávací formulář selhal: %s", e)
+
     while fronta and len(navstivene) < max_stranek:
         u = fronta.pop(0)
         if u in navstivene:
             continue
         navstivene.add(u)
         html = http.get(u).text
-        for r in nacti_radky(html, u):
-            k = (r["spzn"], r["datum"], r["pdf"])
-            if k not in videne:
-                videne.add(k)
-                radky.append(r)
+        pridej(html, u)
         fronta += [o for o in dalsi_stranky(html, u) if o not in navstivene]
     if not radky:
         raise RuntimeError("Úřední deska NS: ve výpisu nejsou žádná rozhodnutí – možná se změnila "
@@ -111,7 +193,12 @@ def seznam_novych(nastaveni: dict, zname: set[str], limit: int) -> list[tuple[st
     """Vrátí [(klíč, řádek)] vyhlášených rozhodnutí s PDF, která bot ještě nemá."""
     dnes = date.today().isoformat()
     vysledek = []
-    for r in vsechny_radky(nastaveni.get("uredni_deska_url") or URL, int(nastaveni.get("max_stranek_desky", 15))):
+    radky = vsechny_radky(nastaveni.get("uredni_deska_url") or URL, int(nastaveni.get("max_stranek_desky", 15)),
+                          nastaveni.get("od_data", ""))
+    data = sorted(r["datum"] for r in radky if r["datum"])
+    if data:
+        log.info("Úřední deska: vyhlášení od %s do %s", data[0], data[-1])
+    for r in radky:
         if not r["pdf"] or (r["datum"] and r["datum"] > dnes):
             continue  # vyhlášení teprve oznámené – PDF zatím není
         k = klic(r["spzn"])

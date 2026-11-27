@@ -25,7 +25,12 @@ def nastav_prodlevu(sekundy: float) -> None:
     PRODLEVA_S = float(sekundy)
 
 
-def get(url: str, *, pokusy: int = 3, timeout: int = 60) -> requests.Response:
+def post(url: str, data: dict, *, pokusy: int = 3, timeout: int = 60) -> requests.Response:
+    """POST formuláře (např. vyhledávání na úřední desce)."""
+    return get(url, pokusy=pokusy, timeout=timeout, _data=data)
+
+
+def get(url: str, *, pokusy: int = 3, timeout: int = 60, _data: dict | None = None) -> requests.Response:
     """GET s prodlevou mezi dotazy (šetříme servery soudů) a opakováním při chybě."""
     global _posledni
     posledni_chyba: Exception | None = None
@@ -34,7 +39,8 @@ def get(url: str, *, pokusy: int = 3, timeout: int = 60) -> requests.Response:
         if cekat > 0:
             time.sleep(cekat)
         try:
-            r = _session.get(url, timeout=timeout)
+            r = (_session.post(url, data=_data, timeout=timeout) if _data is not None
+                 else _session.get(url, timeout=timeout))
             _posledni = time.monotonic()
             if r.status_code == 200:
                 _oprav_kodovani(r)
