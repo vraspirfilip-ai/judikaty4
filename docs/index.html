@@ -289,7 +289,7 @@ function karta(z) {
   const fav = !!moje.oblibene[z.id], read = !!moje.precteno[z.id];
   const titulek = otazky[0]?.otazka || "";
   const meta = [z.forma ? z.forma[0].toUpperCase() + z.forma.slice(1) : "Rozhodnutí",
-                z.datum ? "rozhodnuto " + cz(z.datum) : "", z.zverejneno ? "zveřejněno " + cz(z.zverejneno) : ""]
+                z.datum ? (z.zdroj === "úřední deska" ? "vyhlášeno " : "rozhodnuto ") + cz(z.datum) : "", z.zverejneno && z.zdroj !== "úřední deska" ? "zveřejněno " + cz(z.zverejneno) : ""]
                .filter(Boolean).join(" · ");
   return `<article class="karta v-${esc(z.vyznam)}${read ? " precteno" : ""}" data-id="${esc(z.id)}">
     <div class="hlava">
@@ -297,6 +297,8 @@ function karta(z) {
       <span class="tag ${z.soud}">${NAZEV[z.soud]}</span>
       ${z.kategorie ? `<span class="tag">kat. ${esc(z.kategorie)}</span>` : ""}
       ${z.oblast ? `<span class="tag">${esc(z.oblast)}</span>` : ""}
+      ${z.zdroj === "úřední deska" ? `<span class="tag">úřední deska</span>` : ""}
+      ${z.bez_oduvodneni ? `<span class="tag">bez odůvodnění</span>` : ""}
     </div>
     <div class="spzn"><a href="${esc(z.url)}" target="_blank" rel="noopener">${esc(z.spzn || z.id)}</a></div>
     <div class="meta">${esc(meta)}${z.vysledek ? " · " + esc(z.vysledek) : ""}</div>
@@ -311,7 +313,7 @@ function karta(z) {
       <div class="akce">
         <button class="btn fav${fav ? " on" : ""}" data-akce="oblibene">${fav ? "★ V oblíbených" : "☆ Do oblíbených"}</button>
         <button class="btn read${read ? " on" : ""}" data-akce="precteno">${read ? "✓ Přečteno" : "Označit přečtené"}</button>
-        <a class="btn" href="${esc(z.url)}" target="_blank" rel="noopener">Plný text ↗</a>
+        <a class="btn" href="${esc(z.url)}" target="_blank" rel="noopener" ${z.zdroj === "úřední deska" ? 'title="PDF visí na úřední desce NS jen 15 dní od vyhlášení"' : ""}>${z.zdroj === "úřední deska" ? "PDF z úřední desky ↗" : "Plný text ↗"}</a>
       </div>
     </div>
   </article>`;
