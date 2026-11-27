@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           # vždy aktuální stav větve (i s commity bota), ne jen stav v okamžiku nahrání
           ref: ${{ github.ref_name }}
@@ -90,7 +90,7 @@ jobs:
             echo "pokracovat=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         if: steps.fronta.outputs.pokracovat == 'true'
         with:
           python-version: "3.12"
