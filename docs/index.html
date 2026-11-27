@@ -3,125 +3,390 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#15171C">
 <title>Judikatura NS a ÚS – týdenní přehled</title>
 <link rel="alternate" type="application/rss+xml" title="Judikatura NS a ÚS" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root { --bg:#f7f5f0; --card:#fff; --ink:#1d1d1b; --muted:#6b6860; --line:#e4e0d6;
-          --accent:#7a1f2b; --us:#1f4e79; --ns:#7a1f2b; }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg:#16161a; --card:#202026; --ink:#ece9e2; --muted:#a19d94; --line:#33333b;
-            --accent:#e07a86; --us:#7fb0e0; --ns:#e07a86; }
+  /* světlá část (seznam rozhodnutí) */
+  :root {
+    --bg:#F5F4F0; --panel:#FFFFFF; --panel-2:#F3F2EE; --line:#E4E2DC; --line-2:#D6D3CB;
+    --ink:#16181D; --ink-2:#3B404A; --muted:#6E747F;
+    --us:#2D5BC7; --ns:#A3670E;
+    --hi:#C8372D; --hi-bg:rgba(200,55,45,.09);
+    --mid:#A86B0C; --mid-bg:rgba(200,140,30,.12);
+    --lo:#7A808B; --lo-bg:rgba(122,128,139,.11);
+    --ok:#2E8A57; --fav:#B88A00;
+    --sans:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  }
+  /* tmavá úvodní část (lišta, nadpis, hledání, čísla) */
+  .tmave {
+    --bg:#15171C; --panel:#1E2128; --panel-2:#262A33; --line:#2E333D; --line-2:#3A404B;
+    --ink:#E9EBEF; --ink-2:#BCC1CA; --muted:#8C929E;
+    background:var(--bg); color:var(--ink);
   }
   * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--ink);
-         font:16px/1.55 Georgia, "Iowan Old Style", "Times New Roman", serif; }
-  header { padding:2.2rem 1.2rem 1rem; max-width:980px; margin:0 auto; }
-  h1 { font-size:1.9rem; margin:0 0 .25rem; letter-spacing:-.01em; }
-  .sub { color:var(--muted); font-family:system-ui, sans-serif; font-size:.92rem; }
-  .filtry { position:sticky; top:0; z-index:5; background:var(--bg); border-bottom:1px solid var(--line);
-            padding:.7rem 1.2rem; font-family:system-ui, sans-serif; font-size:.9rem; }
-  .filtry .in { max-width:980px; margin:0 auto; display:flex; flex-wrap:wrap; gap:.5rem; align-items:center; }
-  input[type=search], select { font:inherit; padding:.45rem .6rem; border:1px solid var(--line);
-            border-radius:6px; background:var(--card); color:var(--ink); }
-  input[type=search] { flex:1 1 240px; }
-  label { display:flex; gap:.35rem; align-items:center; color:var(--muted); }
-  main { max-width:980px; margin:0 auto; padding:1rem 1.2rem 4rem; }
-  .den { font-family:system-ui, sans-serif; font-size:.8rem; text-transform:uppercase; letter-spacing:.08em;
-         color:var(--muted); margin:2rem 0 .6rem; }
-  article { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--ns);
-            border-radius:8px; padding:1rem 1.2rem; margin:.7rem 0; }
-  article.US { border-left-color:var(--us); }
-  .hlava { display:flex; flex-wrap:wrap; gap:.4rem .8rem; align-items:baseline; }
-  .spzn { font-weight:700; font-size:1.12rem; }
-  .spzn a { color:inherit; text-decoration:none; } .spzn a:hover { text-decoration:underline; }
-  .meta { font-family:system-ui, sans-serif; font-size:.82rem; color:var(--muted); }
-  .stitek { font-family:system-ui, sans-serif; font-size:.72rem; padding:.1rem .45rem; border-radius:99px;
-            border:1px solid var(--line); color:var(--muted); }
-  .v-vysoký { background:var(--accent); color:#fff; border-color:var(--accent); }
-  .otazky { margin:.6rem 0 .4rem; padding-left:1.3rem; }
-  .otazky li { margin:.25rem 0; }
-  .otazky .o { font-style:italic; }
-  .otazky .a { color:var(--muted); }
-  .nad { font-family:system-ui, sans-serif; font-size:.75rem; text-transform:uppercase; letter-spacing:.06em;
-         color:var(--muted); margin-top:.6rem; }
-  .vety { margin:.6rem 0 0; padding:.6rem .9rem; border-left:3px solid var(--line); }
-  .vety p { margin:.3rem 0; font-weight:600; }
-  .pata { font-family:system-ui, sans-serif; font-size:.8rem; color:var(--muted); margin-top:.6rem; }
-  .prazdne { color:var(--muted); text-align:center; padding:3rem 0; font-family:system-ui, sans-serif; }
-  .vic { display:block; margin:1.5rem auto; font:inherit; font-family:system-ui, sans-serif; padding:.5rem 1rem;
-         border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:6px; cursor:pointer; }
+  html, body { margin:0; background:var(--bg); color:var(--ink); }
+  body { font:15px/1.55 var(--sans); -webkit-font-smoothing:antialiased; }
+  a { color:inherit; }
+  button, input, select { font:inherit; color:inherit; }
+  .wrap { max-width:1240px; margin:0 auto; padding:0 20px; }
+
+  /* horní lišta */
+  .top { border-bottom:1px solid var(--line); background:var(--bg); }
+  .top .wrap { display:flex; align-items:center; gap:24px; height:56px; }
+  .logo { display:flex; align-items:center; gap:10px; font-weight:700; letter-spacing:-.01em; text-decoration:none; }
+  .logo i { width:22px; height:22px; border-radius:5px; background:linear-gradient(135deg,var(--us) 0 50%,var(--ns) 50% 100%); display:inline-block; }
+  .nav { display:flex; gap:4px; margin-left:auto; }
+  .nav a, .nav button { background:none; border:0; padding:7px 11px; border-radius:6px; color:var(--ink-2); font-size:14px; cursor:pointer; text-decoration:none; }
+  .nav a:hover, .nav button:hover { background:var(--panel-2); color:var(--ink); }
+
+  /* úvod + hledání */
+  .hero { padding-top:36px; padding-bottom:28px; }
+  .logo i { box-shadow:0 0 0 1px rgba(255,255,255,.08); }
+  .hero h1 { font-size:34px; line-height:1.15; letter-spacing:-.02em; margin:0 0 6px; font-weight:700; }
+  .hero p { margin:0 0 22px; color:var(--muted); }
+  .search { display:flex; gap:8px; }
+  .search input { flex:1; height:50px; padding:0 16px; background:var(--panel); border:1px solid var(--line-2); border-radius:8px; font-size:16px; outline:none; }
+  .search input:focus { border-color:var(--ink-2); }
+  .search input::placeholder { color:var(--muted); }
+
+  /* statistiky */
+  .souhrn { padding-top:20px; }
+  .stats { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; margin:0; background:var(--line); border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+  .stat { background:var(--panel); padding:14px 16px; text-align:left; border:0; cursor:pointer; }
+  .stat:hover { background:var(--panel-2); }
+  .stat b { display:block; font-size:26px; font-weight:600; font-variant-numeric:tabular-nums; letter-spacing:-.02em; }
+  .stat span { color:var(--muted); font-size:13px; }
+  .stat.aktivni { box-shadow:inset 0 -2px 0 var(--ink); }
+  .stat b { color:var(--ink); }
+
+  /* filtry */
+  .filtry { position:sticky; top:0; z-index:5; background:var(--bg); padding:14px 0 12px; border-bottom:1px solid var(--line); }
+  .row { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+  .row + .row { margin-top:10px; }
+  .chip { height:32px; padding:0 12px; border-radius:16px; border:1px solid var(--line-2); background:var(--panel); color:var(--ink-2); font-size:13.5px; cursor:pointer; white-space:nowrap; }
+  .chip:hover { border-color:var(--muted); color:var(--ink); }
+  .chip.on { background:var(--ink); color:var(--bg); border-color:var(--ink); font-weight:600; }
+  .chip .n { opacity:.65; margin-left:4px; font-variant-numeric:tabular-nums; }
+  .sep { width:1px; height:20px; background:var(--line-2); margin:0 6px; }
+  .pole { display:flex; align-items:center; gap:6px; color:var(--muted); font-size:13px; }
+  .pole select, .pole input { height:32px; background:var(--panel); border:1px solid var(--line-2); border-radius:6px; padding:0 8px; font-size:13.5px; color-scheme:light; }
+  .reset { background:none; border:0; color:var(--muted); font-size:13px; cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
+
+  /* seznam */
+  main { padding:18px 0 80px; }
+  .info { display:flex; justify-content:space-between; align-items:baseline; color:var(--muted); font-size:13px; margin:0 0 12px; }
+  #seznam { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:12px; align-items:start; }
+  #seznam > .prazdne, #seznam > .vic { grid-column:1 / -1; }
+  .karta { position:relative; background:var(--panel); border:1px solid var(--line); border-radius:10px; box-shadow:0 1px 2px rgba(20,22,28,.04); padding:16px 18px 14px 20px; margin:0; overflow:hidden; display:flex; flex-direction:column; }
+  .karta::before { content:""; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--lo); }
+  .karta.v-vysoký::before { background:var(--hi); }
+  .karta.v-střední::before { background:var(--mid); }
+  .karta.precteno { opacity:.55; }
+  .karta.precteno:hover { opacity:1; }
+  .hlava { display:flex; flex-wrap:wrap; align-items:center; gap:6px 8px; }
+  .badge { font-size:11.5px; font-weight:600; letter-spacing:.04em; text-transform:uppercase; padding:3px 8px; border-radius:4px; }
+  .b-vysoký { color:var(--hi); background:var(--hi-bg); }
+  .b-střední { color:var(--mid); background:var(--mid-bg); }
+  .b-nízký { color:var(--lo); background:var(--lo-bg); }
+  .tag { font-size:12px; padding:2px 8px; border-radius:4px; border:1px solid var(--line-2); color:var(--ink-2); }
+  .tag.US { color:var(--us); border-color:rgba(45,91,199,.3); background:rgba(45,91,199,.05); }
+  .tag.NS { color:var(--ns); border-color:rgba(163,103,14,.3); background:rgba(163,103,14,.05); }
+  .spzn { font-family:var(--mono); font-weight:500; font-size:15.5px; margin:10px 0 2px; }
+  .spzn a { text-decoration:none; }
+  .spzn a:hover { text-decoration:underline; text-underline-offset:3px; }
+  .meta { color:var(--muted); font-size:13px; }
+  .titulek { font-size:17px; font-weight:600; line-height:1.4; margin:8px 0 2px; letter-spacing:-.005em; }
+  .odpoved { color:var(--ink-2); font-size:14px; margin:0 0 8px; }
+  .odpoved::before { content:"→ "; color:var(--muted); }
+  .shrnuti { color:var(--ink-2); margin:0 0 10px; }
+  .blok { border-top:1px dashed var(--line-2); padding-top:10px; margin-top:10px; }
+  .blok h4 { margin:0 0 6px; font-size:11.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); font-weight:600; }
+  .otazky { margin:0; padding-left:20px; }
+  .otazky li { margin:0 0 6px; }
+  .otazky .o { color:var(--ink); }
+  .otazky .a { color:var(--muted); display:block; }
+  .vety p { margin:0 0 6px; padding:8px 12px; background:var(--panel-2); border-left:2px solid var(--ink-2); border-radius:0 6px 6px 0; font-weight:500; }
+  .pata { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-top:12px; }
+  .predpisy { display:flex; flex-wrap:wrap; gap:4px; flex:1; }
+  .predpisy span { font-family:var(--mono); font-size:12px; color:var(--muted); background:var(--panel-2); padding:2px 6px; border-radius:4px; }
+  .akce { display:flex; flex-wrap:wrap; gap:6px; }
+  .pata { margin-top:auto; padding-top:12px; flex-direction:column; align-items:stretch; gap:10px; }
+  .predpisy:empty { display:none; }
+  .btn { height:32px; padding:0 12px; border-radius:6px; border:1px solid var(--line-2); background:transparent; color:var(--ink-2); font-size:13px; cursor:pointer; display:inline-flex; align-items:center; gap:6px; text-decoration:none; }
+  .btn:hover { border-color:var(--muted); color:var(--ink); }
+  .btn.fav.on { color:var(--fav); border-color:rgba(184,138,0,.45); background:rgba(245,200,75,.12); }
+  .btn.read.on { color:var(--ok); border-color:rgba(46,138,87,.4); background:rgba(46,138,87,.07); }
+  details summary { cursor:pointer; color:var(--muted); font-size:13px; list-style:none; margin-top:10px; }
+  details summary::-webkit-details-marker { display:none; }
+  details summary::before { content:"▸ "; }
+  details[open] summary::before { content:"▾ "; }
+  .prazdne { text-align:center; color:var(--muted); padding:60px 0; }
+  .vic { display:block; margin:18px auto 0; }
+  .pozn { color:var(--muted); font-size:12.5px; border-top:1px solid var(--line); padding:18px 0 40px; }
+  .toast { position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:var(--ink); color:var(--bg); padding:9px 16px; border-radius:6px; font-size:14px; opacity:0; transition:opacity .2s; pointer-events:none; }
+  .toast.on { opacity:1; }
+  @media (max-width:900px) {
+    #seznam { grid-template-columns:1fr; }
+  }
+  @media (max-width:720px) {
+    .hero h1 { font-size:26px; }
+    .stats { grid-template-columns:repeat(2,1fr); }
+    .nav a.skryt { display:none; }
+    .akce { margin-left:0; width:100%; flex-wrap:wrap; }
+    .filtry { position:static; }
+    .sep { display:none; }
+    .pole { width:100%; }
+    .pole select { flex:1; }
+    .pole input[type=date] { flex:1; min-width:0; }
+  }
 </style>
 </head>
 <body>
-<header>
+<div class="tmave">
+<header class="top"><div class="wrap">
+  <a class="logo" href="./"><i></i>Judikatura</a>
+  <nav class="nav">
+    <a href="feed.xml" class="skryt">RSS</a>
+    <button id="export" title="Uložit přečtené a oblíbené do souboru">Export</button>
+    <button id="import" title="Načíst přečtené a oblíbené ze souboru">Import</button>
+    <input type="file" id="soubor" accept="application/json" hidden>
+  </nav>
+</div></header>
+
+<section class="wrap hero">
   <h1>Judikatura Nejvyššího a Ústavního soudu</h1>
-  <div class="sub">Nová rozhodnutí každý pátek · shrnutí a právní věty vytváří AI z plného textu – vždy ověřte v originálu · <a href="feed.xml">RSS</a></div>
-</header>
-<div class="filtry"><div class="in">
-  <input type="search" id="q" placeholder="Hledat (sp. zn., paragraf, heslo, text)…">
-  <select id="soud"><option value="">Oba soudy</option><option value="US">Ústavní soud</option><option value="NS">Nejvyšší soud</option></select>
-  <select id="vyznam"><option value="">Jakýkoli význam</option><option value="vysoký">Vysoký</option><option value="střední">Střední a vyšší</option></select>
-  <select id="oblast"><option value="">Všechny oblasti</option></select>
-  <label><input type="checkbox" id="procesni"> i procesní</label>
+  <p id="podtitul">Týdenní přehled rozhodnutí se shrnutím, klíčovými otázkami a právními větami.</p>
+  <div class="search"><input type="search" id="q" placeholder="Hledat spisovou značku, paragraf, heslo nebo text…" autocomplete="off"></div>
+</section>
+</div>
+<section class="wrap souhrn">
+  <div class="stats">
+    <button class="stat" data-stat="vse"><b id="s-celkem">–</b><span>rozhodnutí ve výběru</span></button>
+    <button class="stat" data-stat="neprectene"><b id="s-neprectene">–</b><span>nepřečtených</span></button>
+    <button class="stat" data-stat="oblibene"><b id="s-oblibene">–</b><span>v oblíbených</span></button>
+    <button class="stat" data-stat="vysoky"><b id="s-vysoky">–</b><span>s vysokým významem</span></button>
+  </div>
+</section>
+
+<div class="filtry"><div class="wrap">
+  <div class="row" id="obdobi"></div>
+  <div class="row">
+    <span id="soudy" class="row"></span>
+    <span class="sep"></span>
+    <button class="chip" data-prepinac="neprectene">Jen nepřečtené</button>
+    <button class="chip" data-prepinac="oblibene">★ Oblíbené</button>
+    <button class="chip" data-prepinac="procesni">I procesní</button>
+  </div>
+  <div class="row">
+    <label class="pole">Oblast <select id="oblast"><option value="">všechny</option></select></label>
+    <label class="pole">Význam <select id="vyznam"><option value="">jakýkoli</option><option value="vysoký">vysoký</option><option value="střední">střední a vyšší</option></select></label>
+    <label class="pole">Rozhodnuto <input type="date" id="r-od"> – <input type="date" id="r-do"></label>
+    <label class="pole">Zveřejněno <input type="date" id="z-od"> – <input type="date" id="z-do"></label>
+    <label class="pole">Řadit <select id="razeni">
+      <option value="zverejneno">od nejnověji zveřejněných</option>
+      <option value="datum">od nejnověji rozhodnutých</option>
+      <option value="vyznam">podle významu</option>
+    </select></label>
+    <button class="reset" id="reset">zrušit filtry</button>
+  </div>
 </div></div>
-<main id="seznam"><div class="prazdne">Načítám…</div></main>
+
+<main class="wrap">
+  <div class="info"><span id="info"></span><span id="aktualizace"></span></div>
+  <div id="seznam"><div class="prazdne">Načítám…</div></div>
+</main>
+
+<footer class="wrap pozn">
+  Shrnutí, klíčové otázky a právní věty vytváří AI z plného textu rozhodnutí – nejsou to oficiální právní věty soudů. Před použitím vždy ověřte v originále.
+  Přečtené a oblíbené se ukládají jen v tomto prohlížeči na tomto zařízení; zálohu nebo přenos na jiné zařízení umožní Export a Import.
+</footer>
+<div class="toast" id="toast"></div>
+
 <script>
 const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const cz = iso => { if(!iso) return ""; const [y,m,d] = iso.split("-"); return `${+d}. ${+m}. ${y}`; };
-const NAZEV = {US:"Ústavní soud", NS:"Nejvyšší soud"};
-let data = [], zobrazit = 60;
+const cz = iso => { if (!iso) return ""; const [y,m,d] = iso.slice(0,10).split("-"); return `${+d}. ${+m}. ${y}`; };
+const NAZEV = { US: "Ústavní soud", NS: "Nejvyšší soud" };
+const PORADI = { "vysoký": 0, "střední": 1, "nízký": 2 };
 
-function filtr() {
-  const q = $("#q").value.trim().toLowerCase(), soud = $("#soud").value, vyz = $("#vyznam").value,
-        obl = $("#oblast").value, proc = $("#procesni").checked;
-  return data.filter(z =>
-    (!soud || z.soud === soud) &&
-    (!obl || z.oblast === obl) &&
-    (proc || !z.procesni) &&
-    (!vyz || (vyz === "vysoký" ? z.vyznam === "vysoký" : z.vyznam !== "nízký")) &&
-    (!q || [z.spzn, z.ecli, ...(z.otazky||[]).map(o => o.otazka + " " + o.odpoved), z.shrnuti, z.vysledek, ...(z.vety||[]), ...(z.predpisy||[]), ...(z.hesla||[])]
-            .join(" ").toLowerCase().includes(q)));
+/* ---------- přečtené a oblíbené (localStorage, jen v tomto prohlížeči) ---------- */
+const KLIC = "judikaty:v1";
+let moje = { precteno: {}, oblibene: {} };
+function nactiMoje() {
+  try { const d = JSON.parse(localStorage.getItem(KLIC) || "{}"); moje = { precteno: d.precteno || {}, oblibene: d.oblibene || {} }; }
+  catch (e) { /* prohlížeč úložiště nepovoluje – funguje jen do zavření stránky */ }
+}
+function ulozMoje() {
+  try { localStorage.setItem(KLIC, JSON.stringify(moje)); }
+  catch (e) { toast("Prohlížeč nepovoluje ukládání – po zavření se stav ztratí. Použijte Export."); }
+}
+function prepni(druh, id) {
+  if (moje[druh][id]) delete moje[druh][id]; else moje[druh][id] = new Date().toISOString();
+  ulozMoje(); vykresli(false);
+}
+function toast(t) { const el = $("#toast"); el.textContent = t; el.classList.add("on"); clearTimeout(toast.t); toast.t = setTimeout(() => el.classList.remove("on"), 2600); }
+
+/* ---------- stav filtrů ---------- */
+let data = [], posledni = "", zobrazit = 40;
+const F = { q: "", obdobi: "posledni", soud: "", neprectene: false, oblibene: false, procesni: false,
+            oblast: "", vyznam: "", rOd: "", rDo: "", zOd: "", zDo: "", razeni: "zverejneno" };
+
+function vObdobi(z) {
+  if (F.obdobi === "posledni") return z.zpracovano === posledni;
+  if (F.obdobi === "30") { const h = new Date(Date.now() - 30*864e5).toISOString().slice(0,10); return (z.zverejneno || z.zpracovano) >= h; }
+  return true;
+}
+function projde(z, bez = "") {
+  if (bez !== "obdobi" && !vObdobi(z)) return false;
+  if (bez !== "soud" && F.soud && z.soud !== F.soud) return false;
+  if (!F.procesni && z.procesni) return false;
+  if (F.neprectene && moje.precteno[z.id]) return false;
+  if (F.oblibene && !moje.oblibene[z.id]) return false;
+  if (F.oblast && z.oblast !== F.oblast) return false;
+  if (F.vyznam === "vysoký" && z.vyznam !== "vysoký") return false;
+  if (F.vyznam === "střední" && z.vyznam === "nízký") return false;
+  if (F.rOd && (!z.datum || z.datum < F.rOd)) return false;
+  if (F.rDo && (!z.datum || z.datum > F.rDo)) return false;
+  if (F.zOd && (!z.zverejneno || z.zverejneno < F.zOd)) return false;
+  if (F.zDo && (!z.zverejneno || z.zverejneno > F.zDo)) return false;
+  if (F.q) {
+    const hay = [z.spzn, z.ecli, z.shrnuti, z.vysledek, z.oblast, ...(z.vety||[]), ...(z.predpisy||[]), ...(z.hesla||[]),
+                 ...(z.otazky||[]).map(o => o.otazka + " " + o.odpoved)].join(" ").toLowerCase();
+    if (!F.q.toLowerCase().split(/\s+/).every(t => hay.includes(t))) return false;
+  }
+  return true;
+}
+function serad(a, b) {
+  if (F.razeni === "vyznam") return (PORADI[a.vyznam] ?? 3) - (PORADI[b.vyznam] ?? 3) || (b.zverejneno||"").localeCompare(a.zverejneno||"");
+  if (F.razeni === "datum") return (b.datum||"").localeCompare(a.datum||"");
+  return (b.zverejneno || b.zpracovano || "").localeCompare(a.zverejneno || a.zpracovano || "") || (PORADI[a.vyznam] ?? 3) - (PORADI[b.vyznam] ?? 3);
+}
+
+/* ---------- vykreslení ---------- */
+function chip(text, n, on, attrs) { return `<button class="chip${on ? " on" : ""}" ${attrs}>${text}${n != null ? `<span class="n">${n}</span>` : ""}</button>`; }
+
+function vykresliFiltry() {
+  const pocet = fn => data.filter(fn).length;
+  $("#obdobi").innerHTML =
+    chip(`Poslední aktualizace${posledni ? " · " + cz(posledni) : ""}`, pocet(z => projde({...z}, "obdobi") && z.zpracovano === posledni), F.obdobi === "posledni", 'data-obdobi="posledni"') +
+    chip("Posledních 30 dní", null, F.obdobi === "30", 'data-obdobi="30"') +
+    chip("Vše", null, F.obdobi === "vse", 'data-obdobi="vse"');
+  $("#soudy").innerHTML =
+    chip("Oba soudy", pocet(z => projde(z, "soud")), !F.soud, 'data-soud=""') +
+    chip("Ústavní soud", pocet(z => projde(z, "soud") && z.soud === "US"), F.soud === "US", 'data-soud="US"') +
+    chip("Nejvyšší soud", pocet(z => projde(z, "soud") && z.soud === "NS"), F.soud === "NS", 'data-soud="NS"');
+  $$("[data-prepinac]").forEach(b => b.classList.toggle("on", F[b.dataset.prepinac]));
 }
 
 function karta(z) {
-  const vety = (z.vety || []).map(v => `<p>${esc(v)}</p>`).join("");
-  return `<article class="${z.soud}">
+  const otazky = z.otazky || [], vety = z.vety || [];
+  const fav = !!moje.oblibene[z.id], read = !!moje.precteno[z.id];
+  const titulek = otazky[0]?.otazka || "";
+  const meta = [z.forma ? z.forma[0].toUpperCase() + z.forma.slice(1) : "Rozhodnutí",
+                z.datum ? "rozhodnuto " + cz(z.datum) : "", z.zverejneno ? "zveřejněno " + cz(z.zverejneno) : ""]
+               .filter(Boolean).join(" · ");
+  return `<article class="karta v-${esc(z.vyznam)}${read ? " precteno" : ""}" data-id="${esc(z.id)}">
     <div class="hlava">
-      <span class="spzn"><a href="${esc(z.url)}" target="_blank" rel="noopener">${esc(z.spzn || z.id)}</a></span>
-      <span class="meta">${NAZEV[z.soud]} · ${esc(z.forma || "rozhodnutí")}${z.datum ? " ze dne " + cz(z.datum) : ""}${z.kategorie ? " · kat. " + esc(z.kategorie) : ""}</span>
-      ${z.vyznam ? `<span class="stitek v-${esc(z.vyznam)}">${esc(z.vyznam)} význam</span>` : ""}
-      ${z.oblast ? `<span class="stitek">${esc(z.oblast)}</span>` : ""}
+      ${z.vyznam ? `<span class="badge b-${esc(z.vyznam)}">${esc(z.vyznam)} význam</span>` : ""}
+      <span class="tag ${z.soud}">${NAZEV[z.soud]}</span>
+      ${z.kategorie ? `<span class="tag">kat. ${esc(z.kategorie)}</span>` : ""}
+      ${z.oblast ? `<span class="tag">${esc(z.oblast)}</span>` : ""}
     </div>
-    <div style="margin-top:.5rem">${esc(z.shrnuti)}</div>
-    ${(z.otazky||[]).length ? `<div class="nad">Klíčové řešené otázky</div><ol class="otazky">${z.otazky.map(o =>
-        `<li><span class="o">${esc(o.otazka)}</span>${o.odpoved ? `<br><span class="a">→ ${esc(o.odpoved)}</span>` : ""}</li>`).join("")}</ol>` : ""}
-    ${vety ? `<div class="nad">Právní věty</div>` : ""}
-    ${vety ? `<div class="vety">${vety}</div>` : ""}
-    <div class="pata">${z.vysledek ? "Výsledek: " + esc(z.vysledek) : ""}${(z.predpisy||[]).length ? " · " + esc(z.predpisy.join(", ")) : ""}</div>
+    <div class="spzn"><a href="${esc(z.url)}" target="_blank" rel="noopener">${esc(z.spzn || z.id)}</a></div>
+    <div class="meta">${esc(meta)}${z.vysledek ? " · " + esc(z.vysledek) : ""}</div>
+    ${titulek ? `<div class="titulek">${esc(titulek)}</div>` : ""}
+    ${otazky[0]?.odpoved ? `<div class="odpoved">${esc(otazky[0].odpoved)}</div>` : ""}
+    <p class="shrnuti">${esc(z.shrnuti)}</p>
+    ${vety.length ? `<div class="blok vety"><h4>Právní ${vety.length > 1 ? "věty" : "věta"}</h4>${vety.map(v => `<p>${esc(v)}</p>`).join("")}</div>` : ""}
+    ${otazky.length > 1 ? `<details class="blok" ${otazky.length <= 3 ? "open" : ""}><summary>Další řešené otázky (${otazky.length - 1})</summary>
+      <ol class="otazky" start="2">${otazky.slice(1).map(o => `<li><span class="o">${esc(o.otazka)}</span>${o.odpoved ? `<span class="a">→ ${esc(o.odpoved)}</span>` : ""}</li>`).join("")}</ol></details>` : ""}
+    <div class="pata">
+      <div class="predpisy">${(z.predpisy || []).slice(0, 8).map(p => `<span>${esc(p)}</span>`).join("")}</div>
+      <div class="akce">
+        <button class="btn fav${fav ? " on" : ""}" data-akce="oblibene">${fav ? "★ V oblíbených" : "☆ Do oblíbených"}</button>
+        <button class="btn read${read ? " on" : ""}" data-akce="precteno">${read ? "✓ Přečteno" : "Označit přečtené"}</button>
+        <a class="btn" href="${esc(z.url)}" target="_blank" rel="noopener">Plný text ↗</a>
+      </div>
+    </div>
   </article>`;
 }
 
-function vykresli() {
-  const f = filtr(), el = $("#seznam");
-  if (!f.length) { el.innerHTML = `<div class="prazdne">Nic nenalezeno.</div>`; return; }
-  let html = "", den = "";
-  for (const z of f.slice(0, zobrazit)) {
-    if (z.zpracovano !== den) { den = z.zpracovano; html += `<div class="den">Zpracováno ${cz(den)}</div>`; }
-    html += karta(z);
-  }
-  if (f.length > zobrazit) html += `<button class="vic" id="vic">Zobrazit další (${f.length - zobrazit})</button>`;
-  el.innerHTML = html;
-  const b = $("#vic"); if (b) b.onclick = () => { zobrazit += 60; vykresli(); };
+function vykresli(odZacatku = true) {
+  if (odZacatku) zobrazit = 40;
+  vykresliFiltry();
+  const vyber = data.filter(z => projde(z)).sort(serad);
+  $("#s-celkem").textContent = vyber.length;
+  $("#s-neprectene").textContent = vyber.filter(z => !moje.precteno[z.id]).length;
+  $("#s-oblibene").textContent = data.filter(z => moje.oblibene[z.id]).length;
+  $("#s-vysoky").textContent = vyber.filter(z => z.vyznam === "vysoký").length;
+  $("#info").textContent = vyber.length ? `Zobrazeno ${Math.min(zobrazit, vyber.length)} z ${vyber.length}` : "";
+  const el = $("#seznam");
+  if (!data.length) { el.innerHTML = `<div class="prazdne">Zatím žádná data – počkejte na první běh.</div>`; return; }
+  if (!vyber.length) { el.innerHTML = `<div class="prazdne">Výběru nic neodpovídá. <button class="reset" onclick="document.getElementById('reset').click()">Zrušit filtry</button></div>`; return; }
+  el.innerHTML = vyber.slice(0, zobrazit).map(karta).join("") +
+    (vyber.length > zobrazit ? `<button class="btn vic" id="vic">Zobrazit dalších ${Math.min(40, vyber.length - zobrazit)}</button>` : "");
 }
 
-fetch("data.json", {cache: "no-cache"}).then(r => r.json()).then(d => {
-  data = d;
-  const oblasti = [...new Set(d.map(z => z.oblast).filter(Boolean))].sort((a,b) => a.localeCompare(b, "cs"));
-  $("#oblast").innerHTML += oblasti.map(o => `<option>${esc(o)}</option>`).join("");
-  ["#q","#soud","#vyznam","#oblast","#procesni"].forEach(s => $(s).addEventListener("input", () => { zobrazit = 60; vykresli(); }));
+/* ---------- události ---------- */
+document.addEventListener("click", e => {
+  const t = e.target.closest("button"); if (!t) return;
+  if (t.dataset.obdobi) { F.obdobi = t.dataset.obdobi; vykresli(); }
+  else if ("soud" in t.dataset) { F.soud = t.dataset.soud; vykresli(); }
+  else if (t.dataset.prepinac) { F[t.dataset.prepinac] = !F[t.dataset.prepinac]; vykresli(); }
+  else if (t.dataset.akce) { prepni(t.dataset.akce, t.closest(".karta").dataset.id); }
+  else if (t.id === "vic") { zobrazit += 40; vykresli(false); }
+  else if (t.dataset.stat) {
+    F.neprectene = t.dataset.stat === "neprectene"; F.oblibene = t.dataset.stat === "oblibene";
+    F.vyznam = t.dataset.stat === "vysoky" ? "vysoký" : (t.dataset.stat === "vse" ? "" : F.vyznam);
+    if (F.oblibene) F.obdobi = "vse";
+    $("#vyznam").value = F.vyznam; vykresli();
+  }
+});
+$("#q").addEventListener("input", e => { F.q = e.target.value.trim(); vykresli(); });
+[["#oblast","oblast"],["#vyznam","vyznam"],["#r-od","rOd"],["#r-do","rDo"],["#z-od","zOd"],["#z-do","zDo"],["#razeni","razeni"]]
+  .forEach(([sel, k]) => $(sel).addEventListener("input", e => {
+    F[k] = e.target.value;
+    if (["rOd","rDo","zOd","zDo"].includes(k) && e.target.value) F.obdobi = "vse";  // vlastní rozsah dat přebije období
+    vykresli();
+  }));
+$("#reset").addEventListener("click", () => {
+  Object.assign(F, { q:"", obdobi:"posledni", soud:"", neprectene:false, oblibene:false, procesni:false, oblast:"", vyznam:"", rOd:"", rDo:"", zOd:"", zDo:"" });
+  ["#q","#oblast","#vyznam","#r-od","#r-do","#z-od","#z-do"].forEach(s => $(s).value = "");
   vykresli();
-}).catch(() => { $("#seznam").innerHTML = `<div class="prazdne">Zatím žádná data – počkejte na první běh.</div>`; });
+});
+$("#export").addEventListener("click", () => {
+  const blob = new Blob([JSON.stringify({ ...moje, exportovano: new Date().toISOString() }, null, 1)], { type: "application/json" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob);
+  a.download = `judikaty-moje-${new Date().toISOString().slice(0,10)}.json`; a.click(); URL.revokeObjectURL(a.href);
+});
+$("#import").addEventListener("click", () => $("#soubor").click());
+$("#soubor").addEventListener("change", async e => {
+  const f = e.target.files[0]; if (!f) return;
+  try {
+    const d = JSON.parse(await f.text());
+    Object.assign(moje.precteno, d.precteno || {}); Object.assign(moje.oblibene, d.oblibene || {});
+    ulozMoje(); vykresli(false);
+    toast(`Načteno: ${Object.keys(d.precteno||{}).length} přečtených, ${Object.keys(d.oblibene||{}).length} oblíbených`);
+  } catch (err) { toast("Soubor se nepodařilo načíst."); }
+  e.target.value = "";
+});
+
+/* ---------- start ---------- */
+nactiMoje();
+fetch("data.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
+  data = d;
+  posledni = d.reduce((m, z) => z.zpracovano > m ? z.zpracovano : m, "");
+  $("#aktualizace").textContent = posledni ? "Aktualizováno " + cz(posledni) : "";
+  const oblasti = [...new Set(d.map(z => z.oblast).filter(Boolean))].sort((a, b) => a.localeCompare(b, "cs"));
+  $("#oblast").innerHTML += oblasti.map(o => `<option>${esc(o)}</option>`).join("");
+  vykresli();
+}).catch(() => { $("#seznam").innerHTML = `<div class="prazdne">Data se nepodařilo načíst.</div>`; });
 </script>
 </body>
 </html>
