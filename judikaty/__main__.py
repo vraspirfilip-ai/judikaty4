@@ -13,6 +13,7 @@ from zoneinfo import ZoneInfo
 
 from . import davky, filtry, http, vystupy
 from .zdroje import nejvyssi_soud as ns
+from .zdroje import uredni_deska as ud
 from .zdroje import ustavni_soud as us
 
 log = logging.getLogger("judikaty")
@@ -53,7 +54,10 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         log.info("%s: vypnuto v nastavení", soud)
         return 0, 0
     limit = int(cfg.get("max_rozhodnuti_za_beh", cfg.get("max_rozhodnuti_za_den", 100 if soud == "NS" else 40)))
-    prvni_beh = not stav["inicializovano"].get(soud)
+    # NS: zdroj „uredni_deska“ (vyhlašované rozsudky) nebo „databaze“ (rozhodnuti.nsoud.cz)
+    deska = soud == "NS" and cfg.get("zdroj", "uredni_deska") == "uredni_deska"
+    klic_stavu = "NS-deska" if deska else soud
+    prvni_beh = not stav["inicializovano"].get(klic_stavu)
     obecne = nastaveni.get("obecne", {})
     od = str(obecne.get("prvni_beh_od") or "")[:10] if prvni_beh else ""
     podle = str(obecne.get("prvni_beh_podle", "zverejneni"))
@@ -72,16 +76,19 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
     if soud == "NS":
         # chybu v nastavení oblastí ohlásit hned, ne až u prvního rozhodnutí
         filtry.zkontroluj(cfg.get("vyloucit", {}).get("oblasti", []))
-        kandidati = ns.seznam_novych(cfg, zname, limit)
+        kandidati = ud.seznam_novych(cfg, zname, limit) if deska else ns.seznam_novych(cfg, zname, limit)
     else:
         kandidati = us.seznam_novych(cfg, zname, limit)
     log.info("%s: nalezeno %s nových kandidátů", soud, len(kandidati))
 
-    kategorie = {k.upper() for k in cfg.get("kategorie", [])}
+    # úřední deska kategorie A–E nezná (přiděluje je NS až v databázi) → filtr kategorií se neuplatní
+    kategorie = set() if deska else {k.upper() for k in cfg.get("kategorie", [])}
+    # stejná spisová značka už zpracovaná (např. dřív z databáze) se neopakuje
+    hotove_spzn = {v.get("spzn") for v in stav["zname"].values() if v.get("stav") == "ok" and v.get("spzn")}
     senaty = {int(s) for s in cfg.get("senaty", [])}
     # OBDOBÍ: zpracují se jen rozhodnutí zveřejněná od posledního běhu (běžně tedy za uplynulý týden).
     # Den posledního běhu se počítá včetně – co už bylo zpracováno, pozná bot podle paměti.
-    posledni = stav.get("posledni_beh", {}).get(soud, "")
+    posledni = stav.get("posledni_beh", {}).get(klic_stavu, "")
     vychozi_okno = int(cfg.get("okno_dni", 7))
     hranice = posledni or (ted.date() - timedelta(days=vychozi_okno)).isoformat()
     # pojistka: ani po delší pauze nesahat dál než max_stari_dni
@@ -103,12 +110,22 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
             continue
         # NS: nechtěný senát poznáme už z výpisu → detail vůbec nestahujeme
         if soud == "NS" and senaty:
-            s = ns.senat_ze_spzn(kontext or "")
+            s = ns.senat_ze_spzn(kontext["spzn"] if isinstance(kontext, dict) else (kontext or ""))
             if s is not None and s not in senaty:
                 oznac(stav, rid, "preskoceno", duvod=f"senát {s}")
                 continue
+        if deska and kontext["spzn"] in hotove_spzn:
+            oznac(stav, rid, "preskoceno", duvod="už zpracováno", spzn=kontext["spzn"])
+            continue
+        if deska and kontext["datum"] and kontext["datum"] < hranice:
+            # datum vyhlášení je ve výpisu → staré vůbec nestahovat
+            oznac(stav, rid, "preskoceno", duvod=f"vyhlášeno {kontext['datum']}", spzn=kontext["spzn"])
+            continue
         try:
-            r = ns.stahni(klic) if soud == "NS" else us.stahni(klic, kontext)
+            if deska:
+                r = ud.stahni(klic, kontext)
+            else:
+                r = ns.stahni(klic) if soud == "NS" else us.stahni(klic, kontext)
         except Exception as e:  # noqa: BLE001
             chyb += 1
             pokusy = stav["zname"].get(rid, {}).get("pokusy", 0) + 1
@@ -194,8 +211,8 @@ def zpracuj_soud(soud: str, nastaveni: dict, stav: dict, analyzator, ted: dateti
         hotovo += 1
         log.info("%s: ✓ %s", soud, r.spisova_znacka or klic)
 
-    stav["inicializovano"][soud] = True
-    stav.setdefault("posledni_beh", {})[soud] = ted.date().isoformat()
+    stav["inicializovano"][klic_stavu] = True
+    stav.setdefault("posledni_beh", {})[klic_stavu] = ted.date().isoformat()
     uloz_stav(stav)
     return hotovo, chyb
 
@@ -299,7 +316,8 @@ def main(argv: list[str] | None = None) -> int:
                 vysledky["čeká se"] = f"{len(stav['davky'])} dávka/y ještě běží, vyzvedne je kontrolní běh"
 
     # ukázky stažených stránek pro ladění (když se změní web soudu)
-    for nazev, ukazka in (("ns_detail.txt", ns.UKAZKA), ("us_detail.txt", us.UKAZKA)):
+    for nazev, ukazka in (("ns_detail.txt", ns.UKAZKA), ("us_detail.txt", us.UKAZKA),
+                          ("ns_uredni_deska.txt", ud.UKAZKA)):
         if ukazka:
             (vystupy.DATA / "ladeni").mkdir(parents=True, exist_ok=True)
             (vystupy.DATA / "ladeni" / nazev).write_text(ukazka, encoding="utf-8")

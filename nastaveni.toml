@@ -28,6 +28,14 @@ adresa_webu = "https://vraspirfilip-ai.github.io/judikaty4/"
 [nejvyssi_soud]
 zapnuto = true
 
+# ZDROJ rozhodnutí NS:
+#   "uredni_deska" – jen rozsudky vyhlašované na elektronické úřední desce (občanskoprávní a obchodní
+#                    kolegium). Visí tam 15 dní; PDF NEJSOU pseudonymizovaná – bot plný text neukládá
+#                    a Claude má pokyn neuvádět osobní údaje. Kategorie A–E se tu neuplatní (deska je nezná).
+#   "databaze"     – všechna zveřejněná rozhodnutí z rozhodnuti.nsoud.cz (pseudonymizovaná, s kategoriemi).
+zdroj = "uredni_deska"
+uredni_deska_url = "https://www.nsoud.cz/uredni-deska/obcanskopravni-a-obchodni-kolegium/vyhlasovana-rozhodnuti"
+
 # Senáty, které vás zajímají (číslo na začátku spisové značky, např. 21 Cdo 2128/2025 → 21).
 # Rozhodnutí ostatních senátů se vůbec nestahují. Prázdný seznam [] = všechny senáty.
 # Které senáty rozhodují jakou agendu, uvádí rozvrh práce NS (nsoud.cz → Rozvrh práce).
@@ -54,6 +62,7 @@ vyloucit.oblasti = ["pracovni", "dedicke", "restituce", "rodinne", "soudni_uscho
 vyloucit.vlastni_vzory = []
 
 # Kategorie NS: A = nejvýznamnější … E = ostatní. Zpracují se jen uvedené.
+# Platí jen pro zdroj = "databaze"; na úřední desce kategorie nejsou.
 kategorie = ["A", "B"]
 
 # Strop rozhodnutí zpracovaných AI za jeden (týdenní) běh. Zbytek se zpracuje příští týden.
